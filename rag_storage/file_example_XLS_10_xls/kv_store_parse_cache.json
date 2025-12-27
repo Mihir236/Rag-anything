@@ -1,0 +1,68 @@
+{
+  "796626304d3d7f66adc9f3fa91cd4dcf": {
+    "content_list": [
+      {
+        "type": "table",
+        "img_path": "/Users/mihirmodi/RAG-Anything/output_xls/file_example_XLS_10/auto/images/b510e57b58766c3c62436678a3aa1dd29af00c72e2332dd347a6e94c49313d2d.jpg",
+        "table_caption": [
+          "Sheet1 "
+        ],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>0 First Name</td><td>Last Name</td><td>Gender</td><td>Country Age</td><td>Date</td></tr><tr><td>1 Dulce</td><td>Abril</td><td>Female</td><td>United States</td><td>32 15/10/2017</td></tr><tr><td>2 Mara</td><td>Hashimoto</td><td>Female</td><td>Great Britain</td><td>25 16/08/2016</td></tr><tr><td>3 Philip</td><td>Gent</td><td>Male</td><td>France</td><td>36 21/05/2015</td></tr><tr><td>4 Kathleen</td><td>Hanner</td><td>Female</td><td>United States</td><td>25 15/10/2017</td></tr><tr><td>5 Nereida</td><td>Magwood</td><td>Female</td><td>United States</td><td>58 16/08/2016</td></tr><tr><td>6 Gaston</td><td>Brumm</td><td>Male</td><td>United States</td><td>24 21/05/2015</td></tr><tr><td>7 Etta</td><td>Hurn</td><td>Female</td><td>Great Britain</td><td>56 15/10/2017</td></tr><tr><td>8 Earlean</td><td>Melgar</td><td>Female</td><td>United States</td><td>27 16/08/2016</td></tr><tr><td>9 Vincenza</td><td>Weiland</td><td>Female</td><td>United States</td><td>40 21/05/2015</td></tr></table>",
+        "bbox": [
+          184,
+          90,
+          831,
+          243
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "Sheet1 ",
+        "text_level": 1,
+        "bbox": [
+          470,
+          67,
+          526,
+          83
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Id ",
+        "text_level": 1,
+        "bbox": [
+          94,
+          91,
+          115,
+          104
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "1562   \n1582   \n2587   \n3549   \n2468   \n2554   \n3598   \n2456   \n6548 ",
+        "bbox": [
+          156,
+          104,
+          206,
+          242
+        ],
+        "page_idx": 1
+      }
+    ],
+    "doc_id": "doc-f39542eb9698fc30bf100e837583498e",
+    "mtime": 1766820607.1543055,
+    "parse_config": {
+      "parser": "mineru",
+      "parse_method": "auto"
+    },
+    "cached_at": 1766823338.7758248,
+    "cache_version": "1.0",
+    "create_time": 1766823338,
+    "update_time": 1766823338,
+    "_id": "796626304d3d7f66adc9f3fa91cd4dcf"
+  }
+}

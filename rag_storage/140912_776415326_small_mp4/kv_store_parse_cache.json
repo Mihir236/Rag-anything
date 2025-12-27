@@ -1,0 +1,170 @@
+{
+  "182a12bce18c8f81a48dd7ea3a6de763": {
+    "content_list": [
+      {
+        "type": "image",
+        "img_path": "/Users/mihirmodi/RAG-Anything/rag_storage/140912_776415326_small_mp4/output/frame_0000/ocr/images/ac96e8c9860e538e59aec7ca8b27ba106ab9813dbb16a5764f7d2bb1d8aa4839.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          0,
+          0,
+          998,
+          1000
+        ],
+        "page_idx": 0
+      }
+    ],
+    "doc_id": "doc-a9a85410c155a75b4c516038ba2a2225",
+    "mtime": 1766797782.7591004,
+    "parse_config": {
+      "parser": "mineru",
+      "parse_method": "auto"
+    },
+    "cached_at": 1766797909.393334,
+    "cache_version": "1.0",
+    "create_time": 1766797909,
+    "update_time": 1766797909,
+    "_id": "182a12bce18c8f81a48dd7ea3a6de763"
+  },
+  "5809b6c6d27965e53b5bc6150d0c564f": {
+    "content_list": [
+      {
+        "type": "image",
+        "img_path": "/Users/mihirmodi/RAG-Anything/rag_storage/140912_776415326_small_mp4/output/frame_0002/ocr/images/b56793fbfae7bd2521b00a8afd574d602700721a6cf20a9ab862a6f99690e59b.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          2,
+          0,
+          996,
+          1000
+        ],
+        "page_idx": 0
+      }
+    ],
+    "doc_id": "doc-4d275c7deaf831db3b4f7943c2edb58f",
+    "mtime": 1766797782.828557,
+    "parse_config": {
+      "parser": "mineru",
+      "parse_method": "auto"
+    },
+    "cached_at": 1766797911.8733382,
+    "cache_version": "1.0",
+    "create_time": 1766797911,
+    "update_time": 1766797911,
+    "_id": "5809b6c6d27965e53b5bc6150d0c564f"
+  },
+  "012c4af63daa22de96d5c4908df9442f": {
+    "content_list": [
+      {
+        "type": "image",
+        "img_path": "/Users/mihirmodi/RAG-Anything/rag_storage/140912_776415326_small_mp4/output/frame_0003/ocr/images/97dc659cb9ebc22a4e0cd60fbec00438271219d72d16c9c4bf8ef0a85fbd49dd.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          1,
+          0,
+          994,
+          1000
+        ],
+        "page_idx": 0
+      }
+    ],
+    "doc_id": "doc-a34653fec121b29fde14c9383d199567",
+    "mtime": 1766797782.8614209,
+    "parse_config": {
+      "parser": "mineru",
+      "parse_method": "auto"
+    },
+    "cached_at": 1766797922.121739,
+    "cache_version": "1.0",
+    "create_time": 1766797922,
+    "update_time": 1766797922,
+    "_id": "012c4af63daa22de96d5c4908df9442f"
+  },
+  "c56f53228b9a21efc2015d85af275ad7": {
+    "content_list": [
+      {
+        "type": "image",
+        "img_path": "/Users/mihirmodi/RAG-Anything/rag_storage/140912_776415326_small_mp4/output/frame_0001/ocr/images/4e38e21d8fac4b6b99ca20f3ee170212ba8cc541a2ba99cb913366f0ed305ccb.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          3,
+          0,
+          998,
+          1000
+        ],
+        "page_idx": 0
+      }
+    ],
+    "doc_id": "doc-eb26719251ccb9198303535d30537a2d",
+    "mtime": 1766797782.7948506,
+    "parse_config": {
+      "parser": "mineru",
+      "parse_method": "auto"
+    },
+    "cached_at": 1766797928.138818,
+    "cache_version": "1.0",
+    "create_time": 1766797928,
+    "update_time": 1766797928,
+    "_id": "c56f53228b9a21efc2015d85af275ad7"
+  },
+  "9a2e066dae24d92543287128d08dce8c": {
+    "content_list": [
+      {
+        "type": "image",
+        "img_path": "/Users/mihirmodi/RAG-Anything/rag_storage/140912_776415326_small_mp4/output/frame_0005/ocr/images/3d88321995afbea5a21910fa6ea5f6e08dc0eaf182c6b67a5e8f131497b2607b.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          1,
+          0,
+          996,
+          1000
+        ],
+        "page_idx": 0
+      }
+    ],
+    "doc_id": "doc-1bde8ccbefda0e0e0a11bc2aee49eac9",
+    "mtime": 1766797782.9262967,
+    "parse_config": {
+      "parser": "mineru",
+      "parse_method": "auto"
+    },
+    "cached_at": 1766797950.535007,
+    "cache_version": "1.0",
+    "create_time": 1766797950,
+    "update_time": 1766797950,
+    "_id": "9a2e066dae24d92543287128d08dce8c"
+  },
+  "f46d4dabab50485426a386bd4a03ce20": {
+    "content_list": [
+      {
+        "type": "image",
+        "img_path": "/Users/mihirmodi/RAG-Anything/rag_storage/140912_776415326_small_mp4/output/frame_0004/ocr/images/5512c57343ae27131ab634c37a58107fdeff1258fac07b4fe85e9b12fea2289c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          1,
+          0,
+          998,
+          1000
+        ],
+        "page_idx": 0
+      }
+    ],
+    "doc_id": "doc-4fd076c8de12f5d538cf3ea49d8b836d",
+    "mtime": 1766797782.893353,
+    "parse_config": {
+      "parser": "mineru",
+      "parse_method": "auto"
+    },
+    "cached_at": 1766797955.6242502,
+    "cache_version": "1.0",
+    "create_time": 1766797955,
+    "update_time": 1766797955,
+    "_id": "f46d4dabab50485426a386bd4a03ce20"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "doc-75aecf522009bbf8331af56be724a70f": {
+    "entity_names": [
+      "Data",
+      "Indian Permanent Account Number (PAN) Card",
+      "Indian Government",
+      "Scanning Process",
+      "Indian National Emblem",
+      "Visual Analysis",
+      "Barcode",
+      "QR Code",
+      "Hindi Text",
+      "Permanent Account Number (PAN) Card",
+      "None",
+      "Light Blue Background",
+      "/Users/mihirmodi/RAG-Anything/output_result/pan card front/ocr/images/e657d9371ba00ddc4e27977580288a434e7ac9e2cb49086b55a9c89112d69ef4.jpg",
+      "Footnotes",
+      "Captions",
+      "Image Content Analysis",
+      "Mihir Modi",
+      "Image",
+      "Image Path",
+      "/Users/mihirmodi/RAG-Anything/output_result/pan card front/ocr/images/2538009e072fd87f46ae9b802829717d1bfa0423dcdcf8756610fab6d5a469f7.jpg",
+      "Content Analysis Report",
+      "/Users/mihirmodi/RAG-Anything/output_result/pan card front/ocr/images/d3124bc4e6f181293a8216d24a0d15d216732cf186011856c3fd3bd3dde94c50.jpg"
+    ],
+    "count": 22,
+    "update_time": 1766736705,
+    "_id": "doc-75aecf522009bbf8331af56be724a70f"
+  }
+}

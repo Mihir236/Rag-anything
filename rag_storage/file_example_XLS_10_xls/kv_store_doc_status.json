@@ -1,0 +1,21 @@
+{
+  "doc-f39542eb9698fc30bf100e837583498e": {
+    "status": "processed",
+    "chunks_count": 2,
+    "chunks_list": [
+      "chunk-f2b4071eef1a5613523745bba1afe153",
+      "chunk-9c1f3bc04c84d257f036ce4b8bc4e2fa"
+    ],
+    "content_summary": "Sheet1 \n\nId \n\n1562   \n1582   \n2587   \n3549   \n2468   \n2554   \n3598   \n2456   \n6548",
+    "content_length": 82,
+    "created_at": "2025-12-27T08:15:38.778621+00:00",
+    "updated_at": "2025-12-27T13:46:18+00:00",
+    "file_path": "file_example_XLS_10.xls",
+    "track_id": "insert_20251227_134538_585f6ef6",
+    "metadata": {
+      "processing_start_time": 1766823338,
+      "processing_end_time": 1766823346
+    },
+    "multimodal_processed": true
+  }
+}

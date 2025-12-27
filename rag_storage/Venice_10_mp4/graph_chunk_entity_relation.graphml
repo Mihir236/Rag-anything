@@ -1,0 +1,2410 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d13" for="edge" attr.name="truncate" attr.type="string"/>
+<key id="d12" for="edge" attr.name="created_at" attr.type="long"/>
+<key id="d11" for="edge" attr.name="file_path" attr.type="string"/>
+<key id="d10" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d9" for="edge" attr.name="keywords" attr.type="string"/>
+<key id="d8" for="edge" attr.name="description" attr.type="string"/>
+<key id="d7" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d6" for="node" attr.name="truncate" attr.type="string"/>
+<key id="d5" for="node" attr.name="created_at" attr.type="long"/>
+<key id="d4" for="node" attr.name="file_path" attr.type="string"/>
+<key id="d3" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d2" for="node" attr.name="description" attr.type="string"/>
+<key id="d1" for="node" attr.name="entity_type" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_id" attr.type="string"/>
+<graph edgedefault="undirected"><node id="image_3de5eb09a60a177af4900831787cef14">
+  <data key="d0">image_3de5eb09a60a177af4900831787cef14</data>
+  <data key="d1">image</data>
+  <data key="d2">The image presents a serene and picturesque view of Venice, Italy, showcasing its iconic canals, his...</data>
+  <data key="d3">chunk-d507eaa7fc237afe23a259b69ee238dd</data>
+  <data key="d4">frame_0000.jpg</data>
+  <data key="d5">1766724897</data>
+</node>
+<node id="unknown_entity (unknown)">
+  <data key="d0">unknown_entity (unknown)</data>
+  <data key="d1">unknown</data>
+  <data key="d2">This image depicts a serene and picturesque scene of a canal in Venice, Italy. The composition is ch</data>
+  <data key="d3">chunk-8ff89ac737523434b657c23df86f5d30</data>
+  <data key="d4">frame_0003.jpg</data>
+  <data key="d5">1766724900</data>
+</node>
+<node id="image_d341e3dc54060422207ddfd9c5173be8">
+  <data key="d0">image_d341e3dc54060422207ddfd9c5173be8</data>
+  <data key="d1">image</data>
+  <data key="d2">The image presents a serene and picturesque view of Venice, Italy, with a canal running through the ...</data>
+  <data key="d3">chunk-5168b01ce2f6eba95d4f3892a422c069</data>
+  <data key="d4">frame_0001.jpg</data>
+  <data key="d5">1766724902</data>
+</node>
+<node id="Venice">
+  <data key="d0">Venice</data>
+  <data key="d1">location</data>
+  <data key="d2">**Venice**
+
+Located in Italy, Venice is a city renowned for its unique blend of historic architecture, picturesque canals, and vibrant atmosphere. The city's rich cultural heritage is a significant aspect of its identity, with a long history of artistic and architectural innovations. The stunning architecture of Venice is characterized by ornate buildings, historic bridges, and majestic palaces, many of which date back to the Byzantine era.
+
+The city's iconic canals, including the Grand Canal, are a defining feature of Venice, and have played a crucial role in shaping the city's history and development. The peaceful atmosphere and serene waters of the canals have made Venice a popular destination for tourists and artists alike. The city's historic canals and ornate architecture have been the subject of numerous artistic and literary works, cementing its place in the cultural imagination.
+
+Throughout its history, Venice has been a center of trade, commerce, and cultural exchange, with a unique blend of Eastern and Western influences. The city's strategic location at the head of the Adriatic Sea made it an important hub for the exchange of goods, ideas, and cultures. Today, Venice continues to be a city of breathtaking beauty, rich history, and cultural significance, attracting visitors from around the world who come to experience its unique charm and beauty.</data>
+  <data key="d3">chunk-d507eaa7fc237afe23a259b69ee238dd&lt;SEP&gt;chunk-8ff89ac737523434b657c23df86f5d30&lt;SEP&gt;chunk-5168b01ce2f6eba95d4f3892a422c069&lt;SEP&gt;chunk-ac2c0ef4f414c240a40fbaa3e17e8a91&lt;SEP&gt;chunk-a64ceec6c3c95e7ad147b9a9ca1c79bc&lt;SEP&gt;chunk-60f3bf85e4b4c8f052c20a13900de76e&lt;SEP&gt;chunk-200bb38f50d6fee67185749f9c26a143&lt;SEP&gt;chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d4">frame_0000.jpg&lt;SEP&gt;frame_0003.jpg&lt;SEP&gt;frame_0001.jpg&lt;SEP&gt;frame_0002.jpg</data>
+  <data key="d5">1766734145</data>
+  <data key="d6"></data>
+</node>
+<node id="Image">
+  <data key="d0">Image</data>
+  <data key="d1">content</data>
+  <data key="d2">The image is a visual representation of a scene, capturing the essence of Venice and its surroundings.&lt;SEP&gt;The image is a photograph of a canal in Venice, showcasing its beauty and tranquility.&lt;SEP&gt;The image is a visual representation of Venice, Italy, showcasing its beauty and history.&lt;SEP&gt;The Image is a photograph capturing the scene of the Venice Grand Canal, showcasing the city's architecture and atmosphere.&lt;SEP&gt;This image captures a serene and picturesque scene of Venice, Italy, showcasing the city's historic architecture, calm waters, and peaceful atmosphere.&lt;SEP&gt;The image is a visual representation of a canal in Venice, Italy.&lt;SEP&gt;The image is a photograph of Venice, Italy, showcasing the city's iconic canals and historic architecture.</data>
+  <data key="d3">chunk-d507eaa7fc237afe23a259b69ee238dd&lt;SEP&gt;chunk-8ff89ac737523434b657c23df86f5d30&lt;SEP&gt;chunk-5168b01ce2f6eba95d4f3892a422c069&lt;SEP&gt;chunk-ac2c0ef4f414c240a40fbaa3e17e8a91&lt;SEP&gt;chunk-a64ceec6c3c95e7ad147b9a9ca1c79bc&lt;SEP&gt;chunk-60f3bf85e4b4c8f052c20a13900de76e&lt;SEP&gt;chunk-200bb38f50d6fee67185749f9c26a143</data>
+  <data key="d4">frame_0000.jpg&lt;SEP&gt;frame_0003.jpg&lt;SEP&gt;frame_0001.jpg&lt;SEP&gt;frame_0002.jpg</data>
+  <data key="d5">1766734142</data>
+  <data key="d6"></data>
+</node>
+<node id="Basilica di Santa Maria della Salute">
+  <data key="d0">Basilica di Santa Maria della Salute</data>
+  <data key="d1">location</data>
+  <data key="d2">The Basilica di Santa Maria della Salute is a prominent landmark in Venice, featuring a white dome.</data>
+  <data key="d3">chunk-d507eaa7fc237afe23a259b69ee238dd</data>
+  <data key="d4">frame_0000.jpg</data>
+  <data key="d5">1766724902</data>
+  <data key="d6"></data>
+</node>
+<node id="Canal">
+  <data key="d0">Canal</data>
+  <data key="d1">location</data>
+  <data key="d2">The canal is a tranquil waterway in Venice, lined with historic buildings and boats.&lt;SEP&gt;The canal is a central feature in the image, depicting a serene and picturesque scene in Venice.&lt;SEP&gt;The canal is a central element of the image, winding its way through the city and lined with boats and gondolas.&lt;SEP&gt;The canal is a central feature of the image, stretching from the foreground to the background.&lt;SEP&gt;The canal is a waterway in Venice that is a central focal point of the image.&lt;SEP&gt;The canal is a central element of the image, featuring boats and historic buildings.</data>
+  <data key="d3">chunk-d507eaa7fc237afe23a259b69ee238dd&lt;SEP&gt;chunk-8ff89ac737523434b657c23df86f5d30&lt;SEP&gt;chunk-5168b01ce2f6eba95d4f3892a422c069&lt;SEP&gt;chunk-60f3bf85e4b4c8f052c20a13900de76e&lt;SEP&gt;chunk-200bb38f50d6fee67185749f9c26a143&lt;SEP&gt;chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d4">frame_0000.jpg&lt;SEP&gt;frame_0003.jpg&lt;SEP&gt;frame_0001.jpg&lt;SEP&gt;frame_0002.jpg</data>
+  <data key="d5">1766734147</data>
+  <data key="d6"></data>
+</node>
+<node id="Gondolas">
+  <data key="d0">Gondolas</data>
+  <data key="d1">equipment</data>
+  <data key="d2">Gondolas are traditional boats in Venice, often used for transportation and tourism.&lt;SEP&gt;Gondolas are traditional boats used for transportation in Venice's canals.&lt;SEP&gt;Gondolas are present in the image, lined along the canal and adding to the city's charm.&lt;SEP&gt;Gondolas are traditional boats used for transportation in Venice.&lt;SEP&gt;Gondolas are traditional boats featured in the image.</data>
+  <data key="d3">chunk-d507eaa7fc237afe23a259b69ee238dd&lt;SEP&gt;chunk-8ff89ac737523434b657c23df86f5d30&lt;SEP&gt;chunk-5168b01ce2f6eba95d4f3892a422c069&lt;SEP&gt;chunk-60f3bf85e4b4c8f052c20a13900de76e&lt;SEP&gt;chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d4">frame_0000.jpg&lt;SEP&gt;frame_0003.jpg&lt;SEP&gt;frame_0001.jpg&lt;SEP&gt;frame_0002.jpg</data>
+  <data key="d5">1766734143</data>
+  <data key="d6"></data>
+</node>
+<node id="Motorboats">
+  <data key="d0">Motorboats</data>
+  <data key="d1">equipment</data>
+  <data key="d2">Motorboats are a type of boat used in Venice, offering a faster alternative to gondolas.&lt;SEP&gt;Motorboats are modern boats featured in the image.</data>
+  <data key="d3">chunk-d507eaa7fc237afe23a259b69ee238dd&lt;SEP&gt;chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d4">frame_0000.jpg&lt;SEP&gt;frame_0002.jpg</data>
+  <data key="d5">1766734143</data>
+  <data key="d6"></data>
+</node>
+<node id="Historic Buildings">
+  <data key="d0">Historic Buildings</data>
+  <data key="d1">building</data>
+  <data key="d2">Historic buildings are structures in Venice featuring ornate facades and terracotta roofs.&lt;SEP&gt;The historic buildings in the image display a mix of architectural styles, including Gothic and Baroque elements, with ornate facades and domes.&lt;SEP&gt;The buildings along the canal are predominantly white or light-colored, with intricate details and ornate facades.&lt;SEP&gt;The historic buildings along the canal contribute to the aesthetic appeal of the scene.</data>
+  <data key="d3">chunk-d507eaa7fc237afe23a259b69ee238dd&lt;SEP&gt;chunk-8ff89ac737523434b657c23df86f5d30&lt;SEP&gt;chunk-60f3bf85e4b4c8f052c20a13900de76e&lt;SEP&gt;chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d4">frame_0000.jpg&lt;SEP&gt;frame_0003.jpg&lt;SEP&gt;frame_0001.jpg&lt;SEP&gt;frame_0002.jpg</data>
+  <data key="d5">1766734143</data>
+  <data key="d6"></data>
+</node>
+<node id="Boats">
+  <data key="d0">Boats</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Boats are watercraft in Venice, including gondolas and motorboats.&lt;SEP&gt;Boats in the image range from small gondolas to larger vessels, adding a sense of movement and activity to the scene.&lt;SEP&gt;Boats are present in the image, lined along the canal and adding to the city's charm.&lt;SEP&gt;Several boats, including gondolas, are visible in the image, adding to the sense of activity and life.</data>
+  <data key="d3">chunk-d507eaa7fc237afe23a259b69ee238dd&lt;SEP&gt;chunk-8ff89ac737523434b657c23df86f5d30&lt;SEP&gt;chunk-5168b01ce2f6eba95d4f3892a422c069&lt;SEP&gt;chunk-60f3bf85e4b4c8f052c20a13900de76e&lt;SEP&gt;chunk-200bb38f50d6fee67185749f9c26a143</data>
+  <data key="d4">frame_0000.jpg&lt;SEP&gt;frame_0003.jpg&lt;SEP&gt;frame_0001.jpg</data>
+  <data key="d5">1766734130</data>
+  <data key="d6"></data>
+</node>
+<node id="Trees and Greenery">
+  <data key="d0">Trees and Greenery</data>
+  <data key="d1">naturalobject</data>
+  <data key="d2">Trees and greenery are present along the canal's edge in Venice, adding to the city's visual appeal.</data>
+  <data key="d3">chunk-d507eaa7fc237afe23a259b69ee238dd</data>
+  <data key="d4">frame_0000.jpg</data>
+  <data key="d5">1766724902</data>
+  <data key="d6"></data>
+</node>
+<node id="Soft Lighting">
+  <data key="d0">Soft Lighting</data>
+  <data key="d3">chunk-d507eaa7fc237afe23a259b69ee238dd</data>
+  <data key="d2">Soft lighting enhances the visual appeal of historic buildings in Venice, showcasing their ornate facades and terracotta roofs.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">frame_0000.jpg</data>
+  <data key="d5">1766724903</data>
+  <data key="d6"></data>
+</node>
+<node id="Clear Blue Sky">
+  <data key="d0">Clear Blue Sky</data>
+  <data key="d3">chunk-d507eaa7fc237afe23a259b69ee238dd</data>
+  <data key="d2">The clear blue sky complements the tranquil canal in Venice, creating a serene atmosphere.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">frame_0000.jpg</data>
+  <data key="d5">1766724904</data>
+  <data key="d6"></data>
+</node>
+<node id="Italy">
+  <data key="d0">Italy</data>
+  <data key="d1">location</data>
+  <data key="d2">Italy is a country in Southern Europe, home to various cities, including Venice.&lt;SEP&gt;Italy is a country in Southern Europe that is home to the city of Venice.&lt;SEP&gt;Italy is a country in Southern Europe, home to the city of Venice and its famous Grand Canal.&lt;SEP&gt;Italy is a country in Europe where Venice is located.&lt;SEP&gt;Italy is a country in Europe where Venice is located.&lt;SEP&gt;Italy is the country where Venice is situated.</data>
+  <data key="d3">chunk-8ff89ac737523434b657c23df86f5d30&lt;SEP&gt;chunk-5168b01ce2f6eba95d4f3892a422c069&lt;SEP&gt;chunk-ac2c0ef4f414c240a40fbaa3e17e8a91&lt;SEP&gt;chunk-a64ceec6c3c95e7ad147b9a9ca1c79bc&lt;SEP&gt;chunk-200bb38f50d6fee67185749f9c26a143&lt;SEP&gt;chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d4">frame_0003.jpg&lt;SEP&gt;frame_0001.jpg&lt;SEP&gt;frame_0002.jpg&lt;SEP&gt;frame_0000.jpg</data>
+  <data key="d5">1766734144</data>
+  <data key="d6"></data>
+</node>
+<node id="Bridges">
+  <data key="d0">Bridges</data>
+  <data key="d1">location</data>
+  <data key="d2">Bridges in Venice are adorned with lamps and other architectural features, providing depth and dimensionality to the image.</data>
+  <data key="d3">chunk-8ff89ac737523434b657c23df86f5d30</data>
+  <data key="d4">frame_0003.jpg</data>
+  <data key="d5">1766724905</data>
+  <data key="d6"></data>
+</node>
+<node id="Ornate Facades">
+  <data key="d0">Ornate Facades</data>
+  <data key="d1">artifact</data>
+  <data key="d2">The ornate facades of the buildings in the image showcase the city's rich history and cultural heritage.&lt;SEP&gt;The buildings along the canal feature intricate and ornate facades.</data>
+  <data key="d3">chunk-8ff89ac737523434b657c23df86f5d30&lt;SEP&gt;chunk-60f3bf85e4b4c8f052c20a13900de76e</data>
+  <data key="d4">frame_0003.jpg&lt;SEP&gt;frame_0001.jpg</data>
+  <data key="d5">1766734130</data>
+  <data key="d6"></data>
+</node>
+<node id="Domes">
+  <data key="d0">Domes</data>
+  <data key="d1">location</data>
+  <data key="d2">The domes of the buildings in the image add to the sense of grandeur and beauty in the scene.</data>
+  <data key="d3">chunk-8ff89ac737523434b657c23df86f5d30</data>
+  <data key="d4">frame_0003.jpg</data>
+  <data key="d5">1766724905</data>
+  <data key="d6"></data>
+</node>
+<node id="image_67388cef6dab39fd8af3908fc2264bec">
+  <data key="d0">image_67388cef6dab39fd8af3908fc2264bec</data>
+  <data key="d1">image</data>
+  <data key="d2">**Detailed Description**
+
+This image presents a serene and picturesque scene of Venice, Italy, showc...</data>
+  <data key="d3">chunk-ac2c0ef4f414c240a40fbaa3e17e8a91</data>
+  <data key="d4">frame_0002.jpg</data>
+  <data key="d5">1766724907</data>
+</node>
+<node id="Architecture">
+  <data key="d0">Architecture</data>
+  <data key="d1">concept</data>
+  <data key="d2">The image features a harmonious blend of architectural styles, with buildings featuring ornate facades and domes.</data>
+  <data key="d3">chunk-5168b01ce2f6eba95d4f3892a422c069</data>
+  <data key="d4">frame_0001.jpg</data>
+  <data key="d5">1766724907</data>
+  <data key="d6"></data>
+</node>
+<node id="Dome">
+  <data key="d0">Dome</data>
+  <data key="d1">artifact</data>
+  <data key="d2">A large white dome rises above the rooftops in the background, adding to the image's sense of grandeur and history.</data>
+  <data key="d3">chunk-5168b01ce2f6eba95d4f3892a422c069</data>
+  <data key="d4">frame_0001.jpg</data>
+  <data key="d5">1766724907</data>
+  <data key="d6"></data>
+</node>
+<node id="Sky">
+  <data key="d0">Sky</data>
+  <data key="d1">atmosphere</data>
+  <data key="d2">The sky above is a brilliant blue, with not a cloud in sight, adding to the overall sense of serenity and tranquility.&lt;SEP&gt;The sky above the canal is a clear blue, with no clouds visible.</data>
+  <data key="d3">chunk-5168b01ce2f6eba95d4f3892a422c069&lt;SEP&gt;chunk-60f3bf85e4b4c8f052c20a13900de76e</data>
+  <data key="d4">frame_0001.jpg</data>
+  <data key="d5">1766734130</data>
+  <data key="d6"></data>
+</node>
+<node id="Mihir Modi">
+  <data key="d0">Mihir Modi</data>
+  <data key="d1">person</data>
+  <data key="d2">Mihir Modi is a person mentioned in the context of the image analysis.&lt;SEP&gt;Mihir Modi is the author of the Image Content Analysis.</data>
+  <data key="d3">chunk-5168b01ce2f6eba95d4f3892a422c069&lt;SEP&gt;chunk-200bb38f50d6fee67185749f9c26a143</data>
+  <data key="d4">frame_0001.jpg&lt;SEP&gt;frame_0003.jpg</data>
+  <data key="d5">1766734142</data>
+  <data key="d6"></data>
+</node>
+<node id="RAG-Anything">
+  <data key="d0">RAG-Anything</data>
+  <data key="d1">organization</data>
+  <data key="d2">RAG-Anything is an organization mentioned in the context of the image analysis.</data>
+  <data key="d3">chunk-5168b01ce2f6eba95d4f3892a422c069</data>
+  <data key="d4">frame_0001.jpg</data>
+  <data key="d5">1766724907</data>
+  <data key="d6"></data>
+</node>
+<node id="Lamps">
+  <data key="d0">Lamps</data>
+  <data key="d3">chunk-8ff89ac737523434b657c23df86f5d30</data>
+  <data key="d2">The bridges in Venice are adorned with lamps, adding to their architectural beauty.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">frame_0003.jpg</data>
+  <data key="d5">1766724907</data>
+  <data key="d6"></data>
+</node>
+<node id="Footnotes">
+  <data key="d0">Footnotes</data>
+  <data key="d3">chunk-5168b01ce2f6eba95d4f3892a422c069&lt;SEP&gt;chunk-ac2c0ef4f414c240a40fbaa3e17e8a91&lt;SEP&gt;chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d2">There are no footnotes in the context of the image analysis.&lt;SEP&gt;Footnotes are additional notes or references provided at the bottom of a document or image, often used to clarify or expand on the content.&lt;SEP&gt;Footnotes are additional text notes that provide further information, but in this case, there are none.</data>
+  <data key="d1">content</data>
+  <data key="d4">frame_0001.jpg&lt;SEP&gt;frame_0002.jpg</data>
+  <data key="d5">1766734143</data>
+  <data key="d6"></data>
+</node>
+<node id="Image Path">
+  <data key="d0">Image Path</data>
+  <data key="d3">chunk-5168b01ce2f6eba95d4f3892a422c069&lt;SEP&gt;chunk-ac2c0ef4f414c240a40fbaa3e17e8a91&lt;SEP&gt;chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d2">The image path is related to Mihir Modi's context in the image analysis.&lt;SEP&gt;The Image Path is a URL pointing to the location of the image file, containing the output from the Anything-Extracted-Anything (A2A) model.&lt;SEP&gt;The image path is the location where the image is stored, in this case, /Users/mihirmodi/RAG-Anything/output_venice/frame_0002/ocr/images/add2895a655f2176b142a1a48f2836a640273e6dba958183faa7268de4ac244b.jpg.</data>
+  <data key="d1">data</data>
+  <data key="d4">frame_0001.jpg&lt;SEP&gt;frame_0002.jpg</data>
+  <data key="d5">1766734143</data>
+  <data key="d6"></data>
+</node>
+<node id="None">
+  <data key="d0">None</data>
+  <data key="d3">chunk-5168b01ce2f6eba95d4f3892a422c069</data>
+  <data key="d2">There are no footnotes in the context of the image analysis.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">frame_0001.jpg</data>
+  <data key="d5">1766724908</data>
+  <data key="d6"></data>
+</node>
+<node id="Technical Details">
+  <data key="d0">Technical Details</data>
+  <data key="d3">chunk-8ff89ac737523434b657c23df86f5d30&lt;SEP&gt;chunk-ac2c0ef4f414c240a40fbaa3e17e8a91</data>
+  <data key="d2">The image provides technical details, including its high level of resolution and clarity.&lt;SEP&gt;The Technical Details section of the image analysis discusses the technical aspects of the image, including its format, resolution, and other relevant details.</data>
+  <data key="d1">content</data>
+  <data key="d4">frame_0003.jpg&lt;SEP&gt;frame_0002.jpg</data>
+  <data key="d5">1766724916</data>
+  <data key="d6"></data>
+</node>
+<node id="Colors">
+  <data key="d0">Colors</data>
+  <data key="d3">chunk-8ff89ac737523434b657c23df86f5d30&lt;SEP&gt;chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d2">The image features a range of colors, including the deep green of the canal, the warm tones of the buildings, and the blue sky.&lt;SEP&gt;Colors are the hues and shades used in an image.</data>
+  <data key="d1">concept</data>
+  <data key="d4">frame_0003.jpg&lt;SEP&gt;frame_0002.jpg</data>
+  <data key="d5">1766734143</data>
+  <data key="d6"></data>
+</node>
+<node id="Venice Grand Canal">
+  <data key="d0">Venice Grand Canal</data>
+  <data key="d1">location</data>
+  <data key="d2">The Venice Grand Canal is a serene and picturesque waterway in Venice, Italy, featuring iconic architecture and a tranquil atmosphere.</data>
+  <data key="d3">chunk-ac2c0ef4f414c240a40fbaa3e17e8a91</data>
+  <data key="d4">frame_0002.jpg</data>
+  <data key="d5">1766724916</data>
+  <data key="d6"></data>
+</node>
+<node id="Grand Canal">
+  <data key="d0">Grand Canal</data>
+  <data key="d1">location</data>
+  <data key="d2">The Grand Canal is a major waterway in Venice, Italy, lined with historic buildings and featuring iconic architecture.</data>
+  <data key="d3">chunk-ac2c0ef4f414c240a40fbaa3e17e8a91</data>
+  <data key="d4">frame_0002.jpg</data>
+  <data key="d5">1766724916</data>
+  <data key="d6"></data>
+</node>
+<node id="St. Mark's Basilica">
+  <data key="d0">St. Mark's Basilica</data>
+  <data key="d1">location</data>
+  <data key="d2">St. Mark's Basilica is a famous church in Venice, Italy, featuring a large white dome and ornate architecture.</data>
+  <data key="d3">chunk-ac2c0ef4f414c240a40fbaa3e17e8a91</data>
+  <data key="d4">frame_0002.jpg</data>
+  <data key="d5">1766724916</data>
+  <data key="d6"></data>
+</node>
+<node id="Gondola">
+  <data key="d0">Gondola</data>
+  <data key="d1">equipment</data>
+  <data key="d2">A gondola is a traditional Venetian boat used for transportation and tourism in the city's canals.&lt;SEP&gt;A gondola is a type of boat that is traditionally used in Venice.</data>
+  <data key="d3">chunk-ac2c0ef4f414c240a40fbaa3e17e8a91&lt;SEP&gt;chunk-200bb38f50d6fee67185749f9c26a143</data>
+  <data key="d4">frame_0002.jpg&lt;SEP&gt;frame_0003.jpg</data>
+  <data key="d5">1766734142</data>
+  <data key="d6"></data>
+</node>
+<node id="Motorboat">
+  <data key="d0">Motorboat</data>
+  <data key="d1">object</data>
+  <data key="d2">A motorboat is a type of boat used for transportation and recreation in the Venice Grand Canal.</data>
+  <data key="d3">chunk-ac2c0ef4f414c240a40fbaa3e17e8a91</data>
+  <data key="d4">frame_0002.jpg</data>
+  <data key="d5">1766724916</data>
+  <data key="d6"></data>
+</node>
+<node id="Passenger Ferry">
+  <data key="d0">Passenger Ferry</data>
+  <data key="d1">object</data>
+  <data key="d2">A passenger ferry is a type of boat used for transportation in the Venice Grand Canal, carrying people between different parts of the city.</data>
+  <data key="d3">chunk-ac2c0ef4f414c240a40fbaa3e17e8a91</data>
+  <data key="d4">frame_0002.jpg</data>
+  <data key="d5">1766724916</data>
+  <data key="d6"></data>
+</node>
+<node id="Captions">
+  <data key="d0">Captions</data>
+  <data key="d1">content</data>
+  <data key="d2">Captions are text descriptions or titles provided for the image, often used to summarize its content or provide context.&lt;SEP&gt;Captions are text descriptions that accompany an image, but in this case, there are none.</data>
+  <data key="d3">chunk-ac2c0ef4f414c240a40fbaa3e17e8a91&lt;SEP&gt;chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d4">frame_0002.jpg</data>
+  <data key="d5">1766734143</data>
+  <data key="d6"></data>
+</node>
+<node id="Detailed Description">
+  <data key="d0">Detailed Description</data>
+  <data key="d1">content</data>
+  <data key="d2">The Detailed Description is a section of the image analysis providing a detailed description of the image's content, including its composition, layout, and visual elements.</data>
+  <data key="d3">chunk-ac2c0ef4f414c240a40fbaa3e17e8a91&lt;SEP&gt;chunk-a64ceec6c3c95e7ad147b9a9ca1c79bc</data>
+  <data key="d4">frame_0002.jpg</data>
+  <data key="d5">1766724916</data>
+  <data key="d6"></data>
+</node>
+<node id="Overall Composition and Layout">
+  <data key="d0">Overall Composition and Layout</data>
+  <data key="d1">content</data>
+  <data key="d2">The Overall Composition and Layout is a section of the image analysis discussing the image's overall structure and arrangement of visual elements.</data>
+  <data key="d3">chunk-ac2c0ef4f414c240a40fbaa3e17e8a91</data>
+  <data key="d4">frame_0002.jpg</data>
+  <data key="d5">1766724916</data>
+  <data key="d6"></data>
+</node>
+<node id="Objects, People, Text, and Visual Elements">
+  <data key="d0">Objects, People, Text, and Visual Elements</data>
+  <data key="d1">content</data>
+  <data key="d2">The Objects, People, Text, and Visual Elements section of the image analysis discusses the various components of the image, including objects, people, text, and visual elements.</data>
+  <data key="d3">chunk-ac2c0ef4f414c240a40fbaa3e17e8a91</data>
+  <data key="d4">frame_0002.jpg</data>
+  <data key="d5">1766724916</data>
+  <data key="d6"></data>
+</node>
+<node id="Relationships Between Elements">
+  <data key="d0">Relationships Between Elements</data>
+  <data key="d1">content</data>
+  <data key="d2">The Relationships Between Elements section of the image analysis discusses the connections and relationships between the various components of the image.</data>
+  <data key="d3">chunk-ac2c0ef4f414c240a40fbaa3e17e8a91</data>
+  <data key="d4">frame_0002.jpg</data>
+  <data key="d5">1766724916</data>
+  <data key="d6"></data>
+</node>
+<node id="Colors, Lighting, and Visual Style">
+  <data key="d0">Colors, Lighting, and Visual Style</data>
+  <data key="d1">content</data>
+  <data key="d2">The Colors, Lighting, and Visual Style section of the image analysis discusses the image's color palette, lighting, and overall visual style.</data>
+  <data key="d3">chunk-ac2c0ef4f414c240a40fbaa3e17e8a91</data>
+  <data key="d4">frame_0002.jpg</data>
+  <data key="d5">1766724916</data>
+  <data key="d6"></data>
+</node>
+<node id="Actions and Activities">
+  <data key="d0">Actions and Activities</data>
+  <data key="d1">content</data>
+  <data key="d2">The Actions and Activities section of the image analysis discusses the activities and actions depicted in the image.</data>
+  <data key="d3">chunk-ac2c0ef4f414c240a40fbaa3e17e8a91</data>
+  <data key="d4">frame_0002.jpg</data>
+  <data key="d5">1766724916</data>
+  <data key="d6"></data>
+</node>
+<node id="image_3a3946c89928b196ada72657b4c381db">
+  <data key="d0">image_3a3946c89928b196ada72657b4c381db</data>
+  <data key="d1">image</data>
+  <data key="d2">The image depicts a serene and picturesque scene of a canal in Venice, Italy, with several boats nav...</data>
+  <data key="d3">chunk-60f3bf85e4b4c8f052c20a13900de76e</data>
+  <data key="d4">frame_0001.jpg</data>
+  <data key="d5">1766734124</data>
+</node>
+<node id="image_89ca141f705e0c5ed19349091d838b70">
+  <data key="d0">image_89ca141f705e0c5ed19349091d838b70</data>
+  <data key="d1">image</data>
+  <data key="d2">The image depicts a serene and picturesque scene of Venice, Italy, with a canal running through the ...</data>
+  <data key="d3">chunk-a64ceec6c3c95e7ad147b9a9ca1c79bc</data>
+  <data key="d4">frame_0000.jpg</data>
+  <data key="d5">1766734124</data>
+</node>
+<node id="Venice Canal Scene">
+  <data key="d0">Venice Canal Scene</data>
+  <data key="d1">image</data>
+  <data key="d2">This image captures a serene and picturesque scene of Venice, Italy, showcasing the city's historic architecture, calm waters, and peaceful atmosphere.&lt;SEP&gt;The image captures a serene and picturesque scene of a canal in Venice, Italy, with a prominent church in the background.</data>
+  <data key="d3">chunk-a64ceec6c3c95e7ad147b9a9ca1c79bc&lt;SEP&gt;chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d4">frame_0000.jpg&lt;SEP&gt;frame_0002.jpg</data>
+  <data key="d5">1766734143</data>
+  <data key="d6"></data>
+</node>
+<node id="Cityscape">
+  <data key="d0">Cityscape</data>
+  <data key="d1">category</data>
+  <data key="d2">A cityscape is a visual representation of a city's architecture and layout, often featuring buildings, roads, and other urban features.</data>
+  <data key="d3">chunk-a64ceec6c3c95e7ad147b9a9ca1c79bc</data>
+  <data key="d4">frame_0000.jpg</data>
+  <data key="d5">1766734128</data>
+  <data key="d6"></data>
+</node>
+<node id="Venice Canal">
+  <data key="d0">Venice Canal</data>
+  <data key="d3">chunk-a64ceec6c3c95e7ad147b9a9ca1c79bc</data>
+  <data key="d2">The image captures a serene and picturesque scene of the Venice Canal.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">frame_0000.jpg</data>
+  <data key="d5">1766734130</data>
+  <data key="d6"></data>
+</node>
+<node id="Buildings">
+  <data key="d0">Buildings</data>
+  <data key="d1">artifact</data>
+  <data key="d2">The buildings along the canal are predominantly white or light-colored, with intricate details and ornate facades.</data>
+  <data key="d3">chunk-60f3bf85e4b4c8f052c20a13900de76e</data>
+  <data key="d4">frame_0001.jpg</data>
+  <data key="d5">1766734130</data>
+  <data key="d6"></data>
+</node>
+<node id="Sun">
+  <data key="d0">Sun</data>
+  <data key="d1">atmosphere</data>
+  <data key="d2">The sun appears to be shining down on the scene, casting a warm glow over the entire image.</data>
+  <data key="d3">chunk-60f3bf85e4b4c8f052c20a13900de76e</data>
+  <data key="d4">frame_0001.jpg</data>
+  <data key="d5">1766734130</data>
+  <data key="d6"></data>
+</node>
+<node id="Red-Tiled Roofs">
+  <data key="d0">Red-Tiled Roofs</data>
+  <data key="d1">artifact</data>
+  <data key="d2">The buildings along the canal have red-tiled roofs, adding a pop of color to the scene.</data>
+  <data key="d3">chunk-60f3bf85e4b4c8f052c20a13900de76e</data>
+  <data key="d4">frame_0001.jpg</data>
+  <data key="d5">1766734130</data>
+  <data key="d6"></data>
+</node>
+<node id="Activity">
+  <data key="d0">Activity</data>
+  <data key="d3">chunk-60f3bf85e4b4c8f052c20a13900de76e&lt;SEP&gt;chunk-200bb38f50d6fee67185749f9c26a143</data>
+  <data key="d2">Several boats, including gondolas, are visible in the image, adding to the sense of activity and life.&lt;SEP&gt;Activity is a theme present in the image, with the boats on the canal creating a sense of movement and energy.</data>
+  <data key="d1">concept</data>
+  <data key="d4">frame_0001.jpg&lt;SEP&gt;frame_0003.jpg</data>
+  <data key="d5">1766734142</data>
+  <data key="d6"></data>
+</node>
+<node id="Traditional Transportation">
+  <data key="d0">Traditional Transportation</data>
+  <data key="d3">chunk-60f3bf85e4b4c8f052c20a13900de76e</data>
+  <data key="d2">Gondolas are a traditional mode of transportation in Venice.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">frame_0001.jpg</data>
+  <data key="d5">1766734132</data>
+  <data key="d6"></data>
+</node>
+<node id="Entity Information">
+  <data key="d0">Entity Information</data>
+  <data key="d3">chunk-a64ceec6c3c95e7ad147b9a9ca1c79bc</data>
+  <data key="d2">The image is provided with entity information, including a name, type, and summary.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">frame_0000.jpg</data>
+  <data key="d5">1766734132</data>
+  <data key="d6"></data>
+</node>
+<node id="Warm Glow">
+  <data key="d0">Warm Glow</data>
+  <data key="d3">chunk-60f3bf85e4b4c8f052c20a13900de76e</data>
+  <data key="d2">The sun appears to be shining down on the scene, casting a warm glow over the entire image.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">frame_0001.jpg</data>
+  <data key="d5">1766734132</data>
+  <data key="d6"></data>
+</node>
+<node id="image_646df960917d3162ea53d7bf0d6159f1">
+  <data key="d0">image_646df960917d3162ea53d7bf0d6159f1</data>
+  <data key="d1">image</data>
+  <data key="d2">The image depicts a serene and picturesque scene of a canal in Venice, Italy, with a prominent churc...</data>
+  <data key="d3">chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d4">frame_0002.jpg</data>
+  <data key="d5">1766734133</data>
+</node>
+<node id="image_63c1257db55537b43d4be2eefe26f407">
+  <data key="d0">image_63c1257db55537b43d4be2eefe26f407</data>
+  <data key="d1">image</data>
+  <data key="d2">The image presents a serene and picturesque view of Venice, Italy, showcasing the city's iconic cana...</data>
+  <data key="d3">chunk-200bb38f50d6fee67185749f9c26a143</data>
+  <data key="d4">frame_0003.jpg</data>
+  <data key="d5">1766734134</data>
+</node>
+<node id="Peaceful Atmosphere">
+  <data key="d0">Peaceful Atmosphere</data>
+  <data key="d3">chunk-60f3bf85e4b4c8f052c20a13900de76e</data>
+  <data key="d2">The canal is a central feature of the image, stretching from the foreground to the background, and is surrounded by a peaceful atmosphere.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">frame_0001.jpg</data>
+  <data key="d5">1766734136</data>
+  <data key="d6"></data>
+</node>
+<node id="Image Content Analysis">
+  <data key="d0">Image Content Analysis</data>
+  <data key="d1">concept</data>
+  <data key="d2">Image Content Analysis is a method for analyzing the content of an image.&lt;SEP&gt;Image Content Analysis is the process of analyzing the content of an image.</data>
+  <data key="d3">chunk-200bb38f50d6fee67185749f9c26a143&lt;SEP&gt;chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d4">frame_0003.jpg&lt;SEP&gt;frame_0002.jpg</data>
+  <data key="d5">1766734145</data>
+  <data key="d6"></data>
+</node>
+<node id="Advertisement">
+  <data key="d0">Advertisement</data>
+  <data key="d1">content</data>
+  <data key="d2">An advertisement is a sign or message on the right side of the image.</data>
+  <data key="d3">chunk-200bb38f50d6fee67185749f9c26a143</data>
+  <data key="d4">frame_0003.jpg</data>
+  <data key="d5">1766734142</data>
+  <data key="d6"></data>
+</node>
+<node id="Composition">
+  <data key="d0">Composition</data>
+  <data key="d1">concept</data>
+  <data key="d2">Composition refers to the arrangement of visual elements in the image, including the balance between the waterway and surrounding buildings.&lt;SEP&gt;Composition refers to the arrangement of visual elements within an image.</data>
+  <data key="d3">chunk-200bb38f50d6fee67185749f9c26a143&lt;SEP&gt;chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d4">frame_0003.jpg&lt;SEP&gt;frame_0002.jpg</data>
+  <data key="d5">1766734149</data>
+  <data key="d6"></data>
+</node>
+<node id="Balance">
+  <data key="d0">Balance</data>
+  <data key="d1">concept</data>
+  <data key="d2">Balance is a key element of the composition, with the canal serving as the central focal point.</data>
+  <data key="d3">chunk-200bb38f50d6fee67185749f9c26a143</data>
+  <data key="d4">frame_0003.jpg</data>
+  <data key="d5">1766734142</data>
+  <data key="d6"></data>
+</node>
+<node id="Harmony">
+  <data key="d0">Harmony</data>
+  <data key="d1">concept</data>
+  <data key="d2">Harmony is achieved through the use of a soft and diffused lighting style, which evokes a sense of calmness and serenity.</data>
+  <data key="d3">chunk-200bb38f50d6fee67185749f9c26a143</data>
+  <data key="d4">frame_0003.jpg</data>
+  <data key="d5">1766734142</data>
+  <data key="d6"></data>
+</node>
+<node id="Tranquility">
+  <data key="d0">Tranquility</data>
+  <data key="d1">concept</data>
+  <data key="d2">Tranquility is a feeling evoked by the image, with the serene and picturesque view of Venice contributing to a sense of peace.</data>
+  <data key="d3">chunk-200bb38f50d6fee67185749f9c26a143</data>
+  <data key="d4">frame_0003.jpg</data>
+  <data key="d5">1766734142</data>
+  <data key="d6"></data>
+</node>
+<node id="Romance">
+  <data key="d0">Romance</data>
+  <data key="d1">concept</data>
+  <data key="d2">Romance is a theme present in the image, with the gondola and other visual elements contributing to a sense of elegance and charm.</data>
+  <data key="d3">chunk-200bb38f50d6fee67185749f9c26a143</data>
+  <data key="d4">frame_0003.jpg</data>
+  <data key="d5">1766734142</data>
+  <data key="d6"></data>
+</node>
+<node id="Beauty">
+  <data key="d0">Beauty</data>
+  <data key="d1">concept</data>
+  <data key="d2">Beauty is a theme present in the image, with the stunning view of Venice and its historic architecture contributing to a sense of wonder.</data>
+  <data key="d3">chunk-200bb38f50d6fee67185749f9c26a143</data>
+  <data key="d4">frame_0003.jpg</data>
+  <data key="d5">1766734142</data>
+  <data key="d6"></data>
+</node>
+<node id="Charm">
+  <data key="d0">Charm</data>
+  <data key="d1">concept</data>
+  <data key="d2">Charm is a theme present in the image, with the picturesque view of Venice and its iconic canals contributing to a sense of enchantment.</data>
+  <data key="d3">chunk-200bb38f50d6fee67185749f9c26a143</data>
+  <data key="d4">frame_0003.jpg</data>
+  <data key="d5">1766734142</data>
+  <data key="d6"></data>
+</node>
+<node id="Church">
+  <data key="d0">Church</data>
+  <data key="d1">building</data>
+  <data key="d2">The church in the background is a prominent feature of the image.</data>
+  <data key="d3">chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d4">frame_0002.jpg</data>
+  <data key="d5">1766734143</data>
+  <data key="d6"></data>
+</node>
+<node id="Sailboats">
+  <data key="d0">Sailboats</data>
+  <data key="d1">equipment</data>
+  <data key="d2">Sailboats are featured in the image, adding to the visual interest of the scene.</data>
+  <data key="d3">chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d4">frame_0002.jpg</data>
+  <data key="d5">1766734143</data>
+  <data key="d6"></data>
+</node>
+<node id="Visual Analysis">
+  <data key="d0">Visual Analysis</data>
+  <data key="d1">concept</data>
+  <data key="d2">Visual analysis is the process of examining an image to identify its visual elements and their relationships.</data>
+  <data key="d3">chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d4">frame_0002.jpg</data>
+  <data key="d5">1766734143</data>
+  <data key="d6"></data>
+</node>
+<node id="Layout">
+  <data key="d0">Layout</data>
+  <data key="d1">concept</data>
+  <data key="d2">Layout refers to the organization of visual elements within an image.</data>
+  <data key="d3">chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d4">frame_0002.jpg</data>
+  <data key="d5">1766734143</data>
+  <data key="d6"></data>
+</node>
+<node id="Objects">
+  <data key="d0">Objects</data>
+  <data key="d1">concept</data>
+  <data key="d2">Objects are the visual elements within an image, such as boats, buildings, and trees.</data>
+  <data key="d3">chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d4">frame_0002.jpg</data>
+  <data key="d5">1766734143</data>
+  <data key="d6"></data>
+</node>
+<node id="People">
+  <data key="d0">People</data>
+  <data key="d1">concept</data>
+  <data key="d2">People refers to the individuals depicted in an image, but in this case, there are none.</data>
+  <data key="d3">chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d4">frame_0002.jpg</data>
+  <data key="d5">1766734143</data>
+  <data key="d6"></data>
+</node>
+<node id="Text">
+  <data key="d0">Text</data>
+  <data key="d1">content</data>
+  <data key="d2">Text refers to written or printed information within an image, but in this case, there is none.</data>
+  <data key="d3">chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d4">frame_0002.jpg</data>
+  <data key="d5">1766734143</data>
+  <data key="d6"></data>
+</node>
+<node id="Visual Elements">
+  <data key="d0">Visual Elements</data>
+  <data key="d1">concept</data>
+  <data key="d2">Visual elements are the individual components of an image, such as colors, shapes, and textures.</data>
+  <data key="d3">chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d4">frame_0002.jpg</data>
+  <data key="d5">1766734143</data>
+  <data key="d6"></data>
+</node>
+<node id="Relationships">
+  <data key="d0">Relationships</data>
+  <data key="d1">concept</data>
+  <data key="d2">Relationships refer to the connections between visual elements within an image.</data>
+  <data key="d3">chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d4">frame_0002.jpg</data>
+  <data key="d5">1766734143</data>
+  <data key="d6"></data>
+</node>
+<node id="Lighting">
+  <data key="d0">Lighting</data>
+  <data key="d1">concept</data>
+  <data key="d2">Lighting refers to the way light is used in an image to create visual effects.</data>
+  <data key="d3">chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d4">frame_0002.jpg</data>
+  <data key="d5">1766734143</data>
+  <data key="d6"></data>
+</node>
+<node id="Visual Style">
+  <data key="d0">Visual Style</data>
+  <data key="d1">concept</data>
+  <data key="d2">Visual style refers to the overall aesthetic or artistic approach used in an image.</data>
+  <data key="d3">chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d4">frame_0002.jpg</data>
+  <data key="d5">1766734143</data>
+  <data key="d6"></data>
+</node>
+<edge source="image_3de5eb09a60a177af4900831787cef14" target="Trees and Greenery">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Trees and Greenery belongs to image_3de5eb09a60a177af4900831787cef14</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-d507eaa7fc237afe23a259b69ee238dd</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766724903</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_3de5eb09a60a177af4900831787cef14" target="Basilica di Santa Maria della Salute">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Basilica di Santa Maria della Salute belongs to image_3de5eb09a60a177af4900831787cef14</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-d507eaa7fc237afe23a259b69ee238dd</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766724903</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_3de5eb09a60a177af4900831787cef14" target="Motorboats">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Motorboats belongs to image_3de5eb09a60a177af4900831787cef14</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-d507eaa7fc237afe23a259b69ee238dd</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766724904</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_3de5eb09a60a177af4900831787cef14" target="Gondolas">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Gondolas belongs to image_3de5eb09a60a177af4900831787cef14</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-d507eaa7fc237afe23a259b69ee238dd</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766724904</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_3de5eb09a60a177af4900831787cef14" target="Boats">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Boats belongs to image_3de5eb09a60a177af4900831787cef14</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-d507eaa7fc237afe23a259b69ee238dd</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766724905</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_3de5eb09a60a177af4900831787cef14" target="Venice">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Venice belongs to image_3de5eb09a60a177af4900831787cef14</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-d507eaa7fc237afe23a259b69ee238dd</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766724905</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_3de5eb09a60a177af4900831787cef14" target="Image">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Image belongs to image_3de5eb09a60a177af4900831787cef14</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-d507eaa7fc237afe23a259b69ee238dd</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766724905</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_3de5eb09a60a177af4900831787cef14" target="Historic Buildings">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Historic Buildings belongs to image_3de5eb09a60a177af4900831787cef14</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-d507eaa7fc237afe23a259b69ee238dd</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766724906</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_3de5eb09a60a177af4900831787cef14" target="Canal">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Canal belongs to image_3de5eb09a60a177af4900831787cef14</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-d507eaa7fc237afe23a259b69ee238dd</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766724906</data>
+  <data key="d13"></data>
+</edge>
+<edge source="unknown_entity (unknown)" target="Domes">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Domes belongs to unknown_entity (unknown)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-8ff89ac737523434b657c23df86f5d30</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766724907</data>
+  <data key="d13"></data>
+</edge>
+<edge source="unknown_entity (unknown)" target="Venice">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Venice belongs to unknown_entity (unknown)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-8ff89ac737523434b657c23df86f5d30</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766724908</data>
+  <data key="d13"></data>
+</edge>
+<edge source="unknown_entity (unknown)" target="Italy">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Italy belongs to unknown_entity (unknown)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-8ff89ac737523434b657c23df86f5d30</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766724908</data>
+  <data key="d13"></data>
+</edge>
+<edge source="unknown_entity (unknown)" target="Gondolas">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Gondolas belongs to unknown_entity (unknown)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-8ff89ac737523434b657c23df86f5d30</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766724908</data>
+  <data key="d13"></data>
+</edge>
+<edge source="unknown_entity (unknown)" target="Ornate Facades">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Ornate Facades belongs to unknown_entity (unknown)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-8ff89ac737523434b657c23df86f5d30</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766724909</data>
+  <data key="d13"></data>
+</edge>
+<edge source="unknown_entity (unknown)" target="Historic Buildings">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Historic Buildings belongs to unknown_entity (unknown)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-8ff89ac737523434b657c23df86f5d30</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766724909</data>
+  <data key="d13"></data>
+</edge>
+<edge source="unknown_entity (unknown)" target="Bridges">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Bridges belongs to unknown_entity (unknown)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-8ff89ac737523434b657c23df86f5d30</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766724909</data>
+  <data key="d13"></data>
+</edge>
+<edge source="unknown_entity (unknown)" target="Boats">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Boats belongs to unknown_entity (unknown)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-8ff89ac737523434b657c23df86f5d30</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766724910</data>
+  <data key="d13"></data>
+</edge>
+<edge source="unknown_entity (unknown)" target="Image">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Image belongs to unknown_entity (unknown)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-8ff89ac737523434b657c23df86f5d30</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766724910</data>
+  <data key="d13"></data>
+</edge>
+<edge source="unknown_entity (unknown)" target="Canal">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Canal belongs to unknown_entity (unknown)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-8ff89ac737523434b657c23df86f5d30</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766724912</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_d341e3dc54060422207ddfd9c5173be8" target="Sky">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Sky belongs to image_d341e3dc54060422207ddfd9c5173be8</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-5168b01ce2f6eba95d4f3892a422c069</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766724908</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_d341e3dc54060422207ddfd9c5173be8" target="RAG-Anything">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity RAG-Anything belongs to image_d341e3dc54060422207ddfd9c5173be8</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-5168b01ce2f6eba95d4f3892a422c069</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766724908</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_d341e3dc54060422207ddfd9c5173be8" target="Dome">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Dome belongs to image_d341e3dc54060422207ddfd9c5173be8</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-5168b01ce2f6eba95d4f3892a422c069</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766724908</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_d341e3dc54060422207ddfd9c5173be8" target="Architecture">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Architecture belongs to image_d341e3dc54060422207ddfd9c5173be8</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-5168b01ce2f6eba95d4f3892a422c069</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766724909</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_d341e3dc54060422207ddfd9c5173be8" target="Italy">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Italy belongs to image_d341e3dc54060422207ddfd9c5173be8</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-5168b01ce2f6eba95d4f3892a422c069</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766724909</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_d341e3dc54060422207ddfd9c5173be8" target="Venice">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Venice belongs to image_d341e3dc54060422207ddfd9c5173be8</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-5168b01ce2f6eba95d4f3892a422c069</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766724909</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_d341e3dc54060422207ddfd9c5173be8" target="Mihir Modi">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Mihir Modi belongs to image_d341e3dc54060422207ddfd9c5173be8</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-5168b01ce2f6eba95d4f3892a422c069</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766724910</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_d341e3dc54060422207ddfd9c5173be8" target="Gondolas">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Gondolas belongs to image_d341e3dc54060422207ddfd9c5173be8</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-5168b01ce2f6eba95d4f3892a422c069</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766724910</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_d341e3dc54060422207ddfd9c5173be8" target="Boats">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Boats belongs to image_d341e3dc54060422207ddfd9c5173be8</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-5168b01ce2f6eba95d4f3892a422c069</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766724911</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_d341e3dc54060422207ddfd9c5173be8" target="Image">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Image belongs to image_d341e3dc54060422207ddfd9c5173be8</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-5168b01ce2f6eba95d4f3892a422c069</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766724911</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_d341e3dc54060422207ddfd9c5173be8" target="Canal">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Canal belongs to image_d341e3dc54060422207ddfd9c5173be8</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-5168b01ce2f6eba95d4f3892a422c069</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766724913</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Venice" target="Basilica di Santa Maria della Salute">
+  <data key="d7">1.0</data>
+  <data key="d8">The Basilica di Santa Maria della Salute is a notable landmark in Venice, showcasing the city's historic architecture.</data>
+  <data key="d9">architectural feature,city landmark</data>
+  <data key="d10">chunk-d507eaa7fc237afe23a259b69ee238dd</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766724903</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Venice" target="Canal">
+  <data key="d7">4.0</data>
+  <data key="d8">The canal is an integral part of Venice's infrastructure, providing a picturesque waterway through the city.&lt;SEP&gt;The canal is a primary feature in Venice, contributing to the city's unique charm and allure.&lt;SEP&gt;The canal is a central element of the image, winding its way through the city and lined with boats and gondolas.&lt;SEP&gt;The canal is a waterway in Venice.</data>
+  <data key="d9">city feature,location,scenery,waterway</data>
+  <data key="d10">chunk-d507eaa7fc237afe23a259b69ee238dd&lt;SEP&gt;chunk-8ff89ac737523434b657c23df86f5d30&lt;SEP&gt;chunk-5168b01ce2f6eba95d4f3892a422c069&lt;SEP&gt;chunk-200bb38f50d6fee67185749f9c26a143</data>
+  <data key="d11">frame_0000.jpg&lt;SEP&gt;frame_0003.jpg&lt;SEP&gt;frame_0001.jpg</data>
+  <data key="d12">1766734142</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Venice" target="Image">
+  <data key="d7">6.0</data>
+  <data key="d8">The image captures the essence of Venice, showcasing its historic architecture, picturesque canals, and vibrant atmosphere.&lt;SEP&gt;The image is a representation of Venice, showcasing its picturesque canals and historic buildings.&lt;SEP&gt;The image captures the essence of Venice, Italy, showcasing its stunning architecture, serene canals, and rich cultural heritage.&lt;SEP&gt;The image is a photograph of the Venice Grand Canal, capturing the city's architecture and atmosphere.&lt;SEP&gt;The image presents a stunning view of a canal in Venice, Italy.&lt;SEP&gt;The image is a photograph of Venice, Italy.</data>
+  <data key="d9">city,city representation,cityscape,content,content location,cultural heritage,image location,location,scenic view,visual representation</data>
+  <data key="d10">chunk-d507eaa7fc237afe23a259b69ee238dd&lt;SEP&gt;chunk-8ff89ac737523434b657c23df86f5d30&lt;SEP&gt;chunk-5168b01ce2f6eba95d4f3892a422c069&lt;SEP&gt;chunk-ac2c0ef4f414c240a40fbaa3e17e8a91&lt;SEP&gt;chunk-60f3bf85e4b4c8f052c20a13900de76e&lt;SEP&gt;chunk-200bb38f50d6fee67185749f9c26a143</data>
+  <data key="d11">frame_0000.jpg&lt;SEP&gt;frame_0003.jpg&lt;SEP&gt;frame_0001.jpg&lt;SEP&gt;frame_0002.jpg</data>
+  <data key="d12">1766734146</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Venice" target="Gondolas">
+  <data key="d7">1.0</data>
+  <data key="d8">Gondolas are present in the image, lined along the canal and adding to the city's charm.</data>
+  <data key="d9">city feature,transportation</data>
+  <data key="d10">chunk-5168b01ce2f6eba95d4f3892a422c069</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766724910</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Venice" target="Boats">
+  <data key="d7">1.0</data>
+  <data key="d8">Boats are present in the image, lined along the canal and adding to the city's charm.</data>
+  <data key="d9">city feature,transportation</data>
+  <data key="d10">chunk-5168b01ce2f6eba95d4f3892a422c069</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766724910</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Venice" target="image_67388cef6dab39fd8af3908fc2264bec">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Venice belongs to image_67388cef6dab39fd8af3908fc2264bec</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-ac2c0ef4f414c240a40fbaa3e17e8a91</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766724918</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Venice" target="Venice Canal Scene">
+  <data key="d7">2.0</data>
+  <data key="d8">The image depicts a serene and picturesque scene of Venice, Italy.&lt;SEP&gt;The image captures a scene of a canal in Venice.</data>
+  <data key="d9">cityscape,image location,location,scene</data>
+  <data key="d10">chunk-a64ceec6c3c95e7ad147b9a9ca1c79bc&lt;SEP&gt;chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d11">frame_0000.jpg&lt;SEP&gt;frame_0002.jpg</data>
+  <data key="d12">1766734149</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Venice" target="image_89ca141f705e0c5ed19349091d838b70">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Venice belongs to image_89ca141f705e0c5ed19349091d838b70</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-a64ceec6c3c95e7ad147b9a9ca1c79bc</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766734129</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Venice" target="Italy">
+  <data key="d7">1.0</data>
+  <data key="d8">Venice is located in Italy.</data>
+  <data key="d9">country,location relationship</data>
+  <data key="d10">chunk-a64ceec6c3c95e7ad147b9a9ca1c79bc</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766734130</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Venice" target="image_3a3946c89928b196ada72657b4c381db">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Venice belongs to image_3a3946c89928b196ada72657b4c381db</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-60f3bf85e4b4c8f052c20a13900de76e</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766734134</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Venice" target="image_63c1257db55537b43d4be2eefe26f407">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Venice belongs to image_63c1257db55537b43d4be2eefe26f407</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-200bb38f50d6fee67185749f9c26a143</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766734144</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Venice" target="Mihir Modi">
+  <data key="d7">1.0</data>
+  <data key="d8">Mihir Modi wrote about Venice in the Image Content Analysis.</data>
+  <data key="d9">author,location</data>
+  <data key="d10">chunk-200bb38f50d6fee67185749f9c26a143</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766734146</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Venice" target="image_646df960917d3162ea53d7bf0d6159f1">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Venice belongs to image_646df960917d3162ea53d7bf0d6159f1</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766734150</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image" target="Technical Details">
+  <data key="d7">2.0</data>
+  <data key="d8">The image provides technical details, including its high level of resolution and clarity.&lt;SEP&gt;The Technical Details section of the image analysis discusses the technical aspects of the image.</data>
+  <data key="d9">content,image analysis,information,technical</data>
+  <data key="d10">chunk-8ff89ac737523434b657c23df86f5d30&lt;SEP&gt;chunk-ac2c0ef4f414c240a40fbaa3e17e8a91</data>
+  <data key="d11">frame_0003.jpg&lt;SEP&gt;frame_0002.jpg</data>
+  <data key="d12">1766724924</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image" target="Colors">
+  <data key="d7">1.0</data>
+  <data key="d8">The image features a range of colors, including the deep green of the canal, the warm tones of the buildings, and the blue sky.</data>
+  <data key="d9">aesthetics,content</data>
+  <data key="d10">chunk-8ff89ac737523434b657c23df86f5d30</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766724909</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image" target="Sky">
+  <data key="d7">1.0</data>
+  <data key="d8">The sky above is a brilliant blue, with not a cloud in sight, adding to the overall sense of serenity and tranquility.</data>
+  <data key="d9">atmosphere,visual element</data>
+  <data key="d10">chunk-5168b01ce2f6eba95d4f3892a422c069</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766724911</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image" target="Canal">
+  <data key="d7">2.0</data>
+  <data key="d8">The image depicts a canal in Venice, highlighting its beauty and tranquility.&lt;SEP&gt;The canal is the central focus of the image, stretching from the foreground to the background.</data>
+  <data key="d9">central focus,content,location,location content</data>
+  <data key="d10">chunk-8ff89ac737523434b657c23df86f5d30&lt;SEP&gt;chunk-60f3bf85e4b4c8f052c20a13900de76e</data>
+  <data key="d11">frame_0003.jpg&lt;SEP&gt;frame_0001.jpg</data>
+  <data key="d12">1766734132</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image" target="Venice Grand Canal">
+  <data key="d7">1.0</data>
+  <data key="d8">The Venice Grand Canal is the main subject of the image, showcasing the city's iconic architecture and atmosphere.</data>
+  <data key="d9">image subject,location</data>
+  <data key="d10">chunk-ac2c0ef4f414c240a40fbaa3e17e8a91</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766724918</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image" target="Italy">
+  <data key="d7">1.0</data>
+  <data key="d8">The image is a photograph of the Venice Grand Canal, located in Italy.</data>
+  <data key="d9">country,image location</data>
+  <data key="d10">chunk-ac2c0ef4f414c240a40fbaa3e17e8a91</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766724919</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image" target="Grand Canal">
+  <data key="d7">1.0</data>
+  <data key="d8">The image features the Grand Canal as its main subject, showcasing the waterway's iconic architecture and atmosphere.</data>
+  <data key="d9">image subject,waterway</data>
+  <data key="d10">chunk-ac2c0ef4f414c240a40fbaa3e17e8a91</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766724920</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image" target="Image Path">
+  <data key="d7">1.0</data>
+  <data key="d8">The image is a photograph located at the specified Image Path.</data>
+  <data key="d9">image content,location</data>
+  <data key="d10">chunk-ac2c0ef4f414c240a40fbaa3e17e8a91</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766724920</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image" target="Captions">
+  <data key="d7">1.0</data>
+  <data key="d8">The image has no captions provided, but it can be described as a photograph of the Venice Grand Canal.</data>
+  <data key="d9">description,image content</data>
+  <data key="d10">chunk-ac2c0ef4f414c240a40fbaa3e17e8a91</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766724920</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image" target="Footnotes">
+  <data key="d7">1.0</data>
+  <data key="d8">The image has no footnotes provided, but it can be referenced as a photograph of the Venice Grand Canal.</data>
+  <data key="d9">image content,reference</data>
+  <data key="d10">chunk-ac2c0ef4f414c240a40fbaa3e17e8a91</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766724921</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image" target="Detailed Description">
+  <data key="d7">1.0</data>
+  <data key="d8">The Detailed Description is a section of the image analysis providing a detailed description of the image's content.</data>
+  <data key="d9">content,image analysis</data>
+  <data key="d10">chunk-ac2c0ef4f414c240a40fbaa3e17e8a91</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766724921</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image" target="Overall Composition and Layout">
+  <data key="d7">1.0</data>
+  <data key="d8">The Overall Composition and Layout is a section of the image analysis discussing the image's overall structure and arrangement of visual elements.</data>
+  <data key="d9">image analysis,structure</data>
+  <data key="d10">chunk-ac2c0ef4f414c240a40fbaa3e17e8a91</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766724922</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image" target="Objects, People, Text, and Visual Elements">
+  <data key="d7">1.0</data>
+  <data key="d8">The Objects, People, Text, and Visual Elements section of the image analysis discusses the various components of the image.</data>
+  <data key="d9">content,image analysis</data>
+  <data key="d10">chunk-ac2c0ef4f414c240a40fbaa3e17e8a91</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766724922</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image" target="Relationships Between Elements">
+  <data key="d7">1.0</data>
+  <data key="d8">The Relationships Between Elements section of the image analysis discusses the connections and relationships between the various components of the image.</data>
+  <data key="d9">connections,image analysis</data>
+  <data key="d10">chunk-ac2c0ef4f414c240a40fbaa3e17e8a91</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766724923</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image" target="Colors, Lighting, and Visual Style">
+  <data key="d7">1.0</data>
+  <data key="d8">The Colors, Lighting, and Visual Style section of the image analysis discusses the image's color palette, lighting, and overall visual style.</data>
+  <data key="d9">image analysis,style</data>
+  <data key="d10">chunk-ac2c0ef4f414c240a40fbaa3e17e8a91</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766724923</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image" target="Actions and Activities">
+  <data key="d7">1.0</data>
+  <data key="d8">The Actions and Activities section of the image analysis discusses the activities and actions depicted in the image.</data>
+  <data key="d9">activities,image analysis</data>
+  <data key="d10">chunk-ac2c0ef4f414c240a40fbaa3e17e8a91</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766724924</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image" target="image_67388cef6dab39fd8af3908fc2264bec">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Image belongs to image_67388cef6dab39fd8af3908fc2264bec</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-ac2c0ef4f414c240a40fbaa3e17e8a91</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766724926</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image" target="Venice Canal Scene">
+  <data key="d7">1.0</data>
+  <data key="d8">The image is a visual representation of Venice, Italy.</data>
+  <data key="d9">image category,visual representation</data>
+  <data key="d10">chunk-a64ceec6c3c95e7ad147b9a9ca1c79bc</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766734131</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image" target="image_89ca141f705e0c5ed19349091d838b70">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Image belongs to image_89ca141f705e0c5ed19349091d838b70</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-a64ceec6c3c95e7ad147b9a9ca1c79bc</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766734131</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image" target="Sun">
+  <data key="d7">1.0</data>
+  <data key="d8">The sun appears to be shining down on the scene, casting a warm glow over the entire image.</data>
+  <data key="d9">atmosphere content,warm glow</data>
+  <data key="d10">chunk-60f3bf85e4b4c8f052c20a13900de76e</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766734135</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image" target="image_3a3946c89928b196ada72657b4c381db">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Image belongs to image_3a3946c89928b196ada72657b4c381db</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-60f3bf85e4b4c8f052c20a13900de76e</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766734136</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image" target="Advertisement">
+  <data key="d7">1.0</data>
+  <data key="d8">An advertisement is a sign or message on the image.</data>
+  <data key="d9">content,image element</data>
+  <data key="d10">chunk-200bb38f50d6fee67185749f9c26a143</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766734142</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image" target="Composition">
+  <data key="d7">1.0</data>
+  <data key="d8">The composition of the image is a key element of its content.</data>
+  <data key="d9">concept,content</data>
+  <data key="d10">chunk-200bb38f50d6fee67185749f9c26a143</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766734146</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image" target="Beauty">
+  <data key="d7">1.0</data>
+  <data key="d8">Beauty is a theme present in the image, with the stunning view of Venice and its historic architecture contributing to a sense of wonder.</data>
+  <data key="d9">concept,content</data>
+  <data key="d10">chunk-200bb38f50d6fee67185749f9c26a143</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766734147</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image" target="Charm">
+  <data key="d7">1.0</data>
+  <data key="d8">Charm is a theme present in the image, with the picturesque view of Venice and its iconic canals contributing to a sense of enchantment.</data>
+  <data key="d9">concept,content</data>
+  <data key="d10">chunk-200bb38f50d6fee67185749f9c26a143</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766734147</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image" target="image_63c1257db55537b43d4be2eefe26f407">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Image belongs to image_63c1257db55537b43d4be2eefe26f407</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-200bb38f50d6fee67185749f9c26a143</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766734149</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Canal" target="Clear Blue Sky">
+  <data key="d7">1.0</data>
+  <data key="d8">The clear blue sky complements the tranquil canal in Venice, creating a serene atmosphere.</data>
+  <data key="d9">atmospheric condition,waterway</data>
+  <data key="d10">chunk-d507eaa7fc237afe23a259b69ee238dd</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766724904</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Canal" target="Gondolas">
+  <data key="d7">1.0</data>
+  <data key="d8">Gondolas are traditional boats used for transportation in Venice, visible in the image.</data>
+  <data key="d9">artifact location,traditional transportation</data>
+  <data key="d10">chunk-60f3bf85e4b4c8f052c20a13900de76e</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766734135</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Canal" target="Buildings">
+  <data key="d7">1.0</data>
+  <data key="d8">The buildings along the canal are predominantly white or light-colored, with intricate details and ornate facades.</data>
+  <data key="d9">artifact location,ornate architecture</data>
+  <data key="d10">chunk-60f3bf85e4b4c8f052c20a13900de76e</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766734135</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Canal" target="Peaceful Atmosphere">
+  <data key="d7">1.0</data>
+  <data key="d8">The canal is a central feature of the image, stretching from the foreground to the background, and is surrounded by a peaceful atmosphere.</data>
+  <data key="d9">location atmosphere,serene and tranquil</data>
+  <data key="d10">chunk-60f3bf85e4b4c8f052c20a13900de76e</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766734136</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Canal" target="image_3a3946c89928b196ada72657b4c381db">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Canal belongs to image_3a3946c89928b196ada72657b4c381db</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-60f3bf85e4b4c8f052c20a13900de76e</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766734137</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Canal" target="Gondola">
+  <data key="d7">1.0</data>
+  <data key="d8">A gondola is a type of boat that can be found on the canal.</data>
+  <data key="d9">equipment,waterway</data>
+  <data key="d10">chunk-200bb38f50d6fee67185749f9c26a143</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766734146</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Canal" target="image_63c1257db55537b43d4be2eefe26f407">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Canal belongs to image_63c1257db55537b43d4be2eefe26f407</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-200bb38f50d6fee67185749f9c26a143</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766734147</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Canal" target="Venice Canal Scene">
+  <data key="d7">1.0</data>
+  <data key="d8">The image captures a scene of a canal, featuring boats and historic buildings.</data>
+  <data key="d9">location,scene</data>
+  <data key="d10">chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766734150</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Canal" target="image_646df960917d3162ea53d7bf0d6159f1">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Canal belongs to image_646df960917d3162ea53d7bf0d6159f1</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766734154</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Gondolas" target="Motorboats">
+  <data key="d7">1.0</data>
+  <data key="d8">Gondolas and motorboats are two types of boats used in Venice, offering different modes of transportation.</data>
+  <data key="d9">boat types,transportation</data>
+  <data key="d10">chunk-d507eaa7fc237afe23a259b69ee238dd</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766724903</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Gondolas" target="Boats">
+  <data key="d7">1.0</data>
+  <data key="d8">The boats in the image include gondolas, which are traditional boats used for transportation in Venice's canals.</data>
+  <data key="d9">artifact,transportation</data>
+  <data key="d10">chunk-8ff89ac737523434b657c23df86f5d30</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766724909</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Gondolas" target="Traditional Transportation">
+  <data key="d7">1.0</data>
+  <data key="d8">Gondolas are a traditional mode of transportation in Venice.</data>
+  <data key="d9">artifact concept,traditional mode of transportation</data>
+  <data key="d10">chunk-60f3bf85e4b4c8f052c20a13900de76e</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766734132</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Gondolas" target="image_3a3946c89928b196ada72657b4c381db">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Gondolas belongs to image_3a3946c89928b196ada72657b4c381db</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-60f3bf85e4b4c8f052c20a13900de76e</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766734135</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Gondolas" target="Venice Canal Scene">
+  <data key="d7">1.0</data>
+  <data key="d8">Gondolas are traditional boats featured in the image.</data>
+  <data key="d9">equipment,scene</data>
+  <data key="d10">chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766734151</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Gondolas" target="image_646df960917d3162ea53d7bf0d6159f1">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Gondolas belongs to image_646df960917d3162ea53d7bf0d6159f1</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766734155</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Motorboats" target="Venice Canal Scene">
+  <data key="d7">1.0</data>
+  <data key="d8">Motorboats are modern boats featured in the image.</data>
+  <data key="d9">equipment,scene</data>
+  <data key="d10">chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766734151</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Motorboats" target="image_646df960917d3162ea53d7bf0d6159f1">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Motorboats belongs to image_646df960917d3162ea53d7bf0d6159f1</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766734156</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Historic Buildings" target="Boats">
+  <data key="d7">1.0</data>
+  <data key="d8">Historic buildings and boats coexist in Venice, showcasing the city's blend of architecture and transportation.</data>
+  <data key="d9">architectural feature,transportation</data>
+  <data key="d10">chunk-d507eaa7fc237afe23a259b69ee238dd</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766724903</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Historic Buildings" target="Soft Lighting">
+  <data key="d7">1.0</data>
+  <data key="d8">Soft lighting enhances the visual appeal of historic buildings in Venice, showcasing their ornate facades and terracotta roofs.</data>
+  <data key="d9">architectural feature,atmospheric condition</data>
+  <data key="d10">chunk-d507eaa7fc237afe23a259b69ee238dd</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766724904</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Historic Buildings" target="Ornate Facades">
+  <data key="d7">1.0</data>
+  <data key="d8">The historic buildings in the image display ornate facades, showcasing the city's rich history and cultural heritage.</data>
+  <data key="d9">architecture,location</data>
+  <data key="d10">chunk-8ff89ac737523434b657c23df86f5d30</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766724907</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Historic Buildings" target="image_3a3946c89928b196ada72657b4c381db">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Historic Buildings belongs to image_3a3946c89928b196ada72657b4c381db</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-60f3bf85e4b4c8f052c20a13900de76e</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766734132</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Historic Buildings" target="Venice Canal Scene">
+  <data key="d7">1.0</data>
+  <data key="d8">The historic buildings along the canal contribute to the aesthetic appeal of the scene.</data>
+  <data key="d9">building,scene</data>
+  <data key="d10">chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766734152</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Historic Buildings" target="image_646df960917d3162ea53d7bf0d6159f1">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Historic Buildings belongs to image_646df960917d3162ea53d7bf0d6159f1</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766734158</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Boats" target="Trees and Greenery">
+  <data key="d7">1.0</data>
+  <data key="d8">Boats and trees and greenery are intertwined in Venice's scenic landscape.</data>
+  <data key="d9">landscape feature,watercraft</data>
+  <data key="d10">chunk-d507eaa7fc237afe23a259b69ee238dd</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766724903</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Boats" target="Activity">
+  <data key="d7">2.0</data>
+  <data key="d8">Several boats, including gondolas, are visible in the image, adding to the sense of activity and life.&lt;SEP&gt;Activity is a theme present in the image, with the boats on the canal creating a sense of movement and energy.</data>
+  <data key="d9">artifact atmosphere,concept,equipment,sense of activity and life</data>
+  <data key="d10">chunk-60f3bf85e4b4c8f052c20a13900de76e&lt;SEP&gt;chunk-200bb38f50d6fee67185749f9c26a143</data>
+  <data key="d11">frame_0001.jpg&lt;SEP&gt;frame_0003.jpg</data>
+  <data key="d12">1766734143</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Boats" target="image_3a3946c89928b196ada72657b4c381db">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Boats belongs to image_3a3946c89928b196ada72657b4c381db</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-60f3bf85e4b4c8f052c20a13900de76e</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766734134</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Italy" target="image_67388cef6dab39fd8af3908fc2264bec">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Italy belongs to image_67388cef6dab39fd8af3908fc2264bec</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-ac2c0ef4f414c240a40fbaa3e17e8a91</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766724919</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Italy" target="Venice Canal Scene">
+  <data key="d7">2.0</data>
+  <data key="d8">The image is taken in Italy, showcasing the country's unique architecture and peaceful atmosphere.&lt;SEP&gt;The image captures a scene of a canal in Italy.</data>
+  <data key="d9">country,image location,location,scene</data>
+  <data key="d10">chunk-a64ceec6c3c95e7ad147b9a9ca1c79bc&lt;SEP&gt;chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d11">frame_0000.jpg&lt;SEP&gt;frame_0002.jpg</data>
+  <data key="d12">1766734149</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Italy" target="image_89ca141f705e0c5ed19349091d838b70">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Italy belongs to image_89ca141f705e0c5ed19349091d838b70</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-a64ceec6c3c95e7ad147b9a9ca1c79bc</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766734130</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Italy" target="image_63c1257db55537b43d4be2eefe26f407">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Italy belongs to image_63c1257db55537b43d4be2eefe26f407</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-200bb38f50d6fee67185749f9c26a143</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766734142</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Italy" target="image_646df960917d3162ea53d7bf0d6159f1">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Italy belongs to image_646df960917d3162ea53d7bf0d6159f1</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766734152</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Bridges" target="Lamps">
+  <data key="d7">1.0</data>
+  <data key="d8">The bridges in Venice are adorned with lamps, adding to their architectural beauty.</data>
+  <data key="d9">decoration,location</data>
+  <data key="d10">chunk-8ff89ac737523434b657c23df86f5d30</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766724908</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Ornate Facades" target="image_3a3946c89928b196ada72657b4c381db">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Ornate Facades belongs to image_3a3946c89928b196ada72657b4c381db</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-60f3bf85e4b4c8f052c20a13900de76e</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766734132</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_67388cef6dab39fd8af3908fc2264bec" target="St. Mark's Basilica">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity St. Mark's Basilica belongs to image_67388cef6dab39fd8af3908fc2264bec</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-ac2c0ef4f414c240a40fbaa3e17e8a91</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766724919</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_67388cef6dab39fd8af3908fc2264bec" target="Image Path">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Image Path belongs to image_67388cef6dab39fd8af3908fc2264bec</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-ac2c0ef4f414c240a40fbaa3e17e8a91</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766724919</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_67388cef6dab39fd8af3908fc2264bec" target="Overall Composition and Layout">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Overall Composition and Layout belongs to image_67388cef6dab39fd8af3908fc2264bec</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-ac2c0ef4f414c240a40fbaa3e17e8a91</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766724920</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_67388cef6dab39fd8af3908fc2264bec" target="Objects, People, Text, and Visual Elements">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Objects, People, Text, and Visual Elements belongs to image_67388cef6dab39fd8af3908fc2264bec</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-ac2c0ef4f414c240a40fbaa3e17e8a91</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766724920</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_67388cef6dab39fd8af3908fc2264bec" target="Relationships Between Elements">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Relationships Between Elements belongs to image_67388cef6dab39fd8af3908fc2264bec</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-ac2c0ef4f414c240a40fbaa3e17e8a91</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766724921</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_67388cef6dab39fd8af3908fc2264bec" target="Technical Details">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Technical Details belongs to image_67388cef6dab39fd8af3908fc2264bec</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-ac2c0ef4f414c240a40fbaa3e17e8a91</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766724921</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_67388cef6dab39fd8af3908fc2264bec" target="Gondola">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Gondola belongs to image_67388cef6dab39fd8af3908fc2264bec</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-ac2c0ef4f414c240a40fbaa3e17e8a91</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766724922</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_67388cef6dab39fd8af3908fc2264bec" target="Motorboat">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Motorboat belongs to image_67388cef6dab39fd8af3908fc2264bec</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-ac2c0ef4f414c240a40fbaa3e17e8a91</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766724922</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_67388cef6dab39fd8af3908fc2264bec" target="Venice Grand Canal">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Venice Grand Canal belongs to image_67388cef6dab39fd8af3908fc2264bec</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-ac2c0ef4f414c240a40fbaa3e17e8a91</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766724922</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_67388cef6dab39fd8af3908fc2264bec" target="Passenger Ferry">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Passenger Ferry belongs to image_67388cef6dab39fd8af3908fc2264bec</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-ac2c0ef4f414c240a40fbaa3e17e8a91</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766724923</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_67388cef6dab39fd8af3908fc2264bec" target="Grand Canal">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Grand Canal belongs to image_67388cef6dab39fd8af3908fc2264bec</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-ac2c0ef4f414c240a40fbaa3e17e8a91</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766724924</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_67388cef6dab39fd8af3908fc2264bec" target="Captions">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Captions belongs to image_67388cef6dab39fd8af3908fc2264bec</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-ac2c0ef4f414c240a40fbaa3e17e8a91</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766724924</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_67388cef6dab39fd8af3908fc2264bec" target="Footnotes">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Footnotes belongs to image_67388cef6dab39fd8af3908fc2264bec</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-ac2c0ef4f414c240a40fbaa3e17e8a91</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766724924</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_67388cef6dab39fd8af3908fc2264bec" target="Detailed Description">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Detailed Description belongs to image_67388cef6dab39fd8af3908fc2264bec</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-ac2c0ef4f414c240a40fbaa3e17e8a91</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766724925</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_67388cef6dab39fd8af3908fc2264bec" target="Colors, Lighting, and Visual Style">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Colors, Lighting, and Visual Style belongs to image_67388cef6dab39fd8af3908fc2264bec</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-ac2c0ef4f414c240a40fbaa3e17e8a91</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766724925</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_67388cef6dab39fd8af3908fc2264bec" target="Actions and Activities">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Actions and Activities belongs to image_67388cef6dab39fd8af3908fc2264bec</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-ac2c0ef4f414c240a40fbaa3e17e8a91</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766724926</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Architecture" target="Dome">
+  <data key="d7">1.0</data>
+  <data key="d8">A large white dome rises above the rooftops in the background, adding to the image's sense of grandeur and history.</data>
+  <data key="d9">building feature,grandeur</data>
+  <data key="d10">chunk-5168b01ce2f6eba95d4f3892a422c069</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766724908</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Sky" target="Sun">
+  <data key="d7">1.0</data>
+  <data key="d8">The sky above the canal is a clear blue, with no clouds visible.</data>
+  <data key="d9">atmosphere content,clear blue</data>
+  <data key="d10">chunk-60f3bf85e4b4c8f052c20a13900de76e</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766734132</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Sky" target="image_3a3946c89928b196ada72657b4c381db">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Sky belongs to image_3a3946c89928b196ada72657b4c381db</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-60f3bf85e4b4c8f052c20a13900de76e</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766734133</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Mihir Modi" target="RAG-Anything">
+  <data key="d7">1.0</data>
+  <data key="d8">Mihir Modi is associated with RAG-Anything in the context of the image analysis.</data>
+  <data key="d9">association,context</data>
+  <data key="d10">chunk-5168b01ce2f6eba95d4f3892a422c069</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766724908</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Mihir Modi" target="Image Path">
+  <data key="d7">1.0</data>
+  <data key="d8">The image path is related to Mihir Modi's context in the image analysis.</data>
+  <data key="d9">context,file path</data>
+  <data key="d10">chunk-5168b01ce2f6eba95d4f3892a422c069</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766724908</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Mihir Modi" target="Image Content Analysis">
+  <data key="d7">1.0</data>
+  <data key="d8">Mihir Modi performed Image Content Analysis on the image.</data>
+  <data key="d9">analysis,authorship</data>
+  <data key="d10">chunk-200bb38f50d6fee67185749f9c26a143</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766734142</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Mihir Modi" target="image_63c1257db55537b43d4be2eefe26f407">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Mihir Modi belongs to image_63c1257db55537b43d4be2eefe26f407</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-200bb38f50d6fee67185749f9c26a143</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766734147</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Footnotes" target="None">
+  <data key="d7">1.0</data>
+  <data key="d8">There are no footnotes in the context of the image analysis.</data>
+  <data key="d9">context,footnote absence</data>
+  <data key="d10">chunk-5168b01ce2f6eba95d4f3892a422c069</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766724908</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Footnotes" target="Image Content Analysis">
+  <data key="d7">1.0</data>
+  <data key="d8">Image Content Analysis involves examining footnotes to analyze the image content.</data>
+  <data key="d9">content,process</data>
+  <data key="d10">chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766734150</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Footnotes" target="image_646df960917d3162ea53d7bf0d6159f1">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Footnotes belongs to image_646df960917d3162ea53d7bf0d6159f1</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766734153</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image Path" target="Image Content Analysis">
+  <data key="d7">1.0</data>
+  <data key="d8">Image Content Analysis involves examining the image path to analyze the image content.</data>
+  <data key="d9">data,process</data>
+  <data key="d10">chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766734149</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image Path" target="image_646df960917d3162ea53d7bf0d6159f1">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Image Path belongs to image_646df960917d3162ea53d7bf0d6159f1</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766734150</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Colors" target="Visual Analysis">
+  <data key="d7">1.0</data>
+  <data key="d8">Visual analysis involves examining colors to analyze the image visual elements.</data>
+  <data key="d9">concept,process</data>
+  <data key="d10">chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766734152</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Colors" target="image_646df960917d3162ea53d7bf0d6159f1">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Colors belongs to image_646df960917d3162ea53d7bf0d6159f1</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766734158</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Venice Grand Canal" target="Gondola">
+  <data key="d7">1.0</data>
+  <data key="d8">A gondola is a type of boat used in the Venice Grand Canal, a picturesque waterway in Venice, Italy.</data>
+  <data key="d9">object location,waterway</data>
+  <data key="d10">chunk-ac2c0ef4f414c240a40fbaa3e17e8a91</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766724919</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Venice Grand Canal" target="Motorboat">
+  <data key="d7">1.0</data>
+  <data key="d8">A motorboat is a type of boat used in the Venice Grand Canal, a picturesque waterway in Venice, Italy.</data>
+  <data key="d9">object location,waterway</data>
+  <data key="d10">chunk-ac2c0ef4f414c240a40fbaa3e17e8a91</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766724919</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Venice Grand Canal" target="Passenger Ferry">
+  <data key="d7">1.0</data>
+  <data key="d8">A passenger ferry is a type of boat used in the Venice Grand Canal, a picturesque waterway in Venice, Italy.</data>
+  <data key="d9">object location,waterway</data>
+  <data key="d10">chunk-ac2c0ef4f414c240a40fbaa3e17e8a91</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766724920</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Grand Canal" target="St. Mark's Basilica">
+  <data key="d7">1.0</data>
+  <data key="d8">The Grand Canal is located near St. Mark's Basilica, a famous church in Venice, Italy.</data>
+  <data key="d9">landmark,location relationship</data>
+  <data key="d10">chunk-ac2c0ef4f414c240a40fbaa3e17e8a91</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766724920</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Gondola" target="Romance">
+  <data key="d7">1.0</data>
+  <data key="d8">Romance is a theme present in the image, with the gondola contributing to a sense of elegance and charm.</data>
+  <data key="d9">concept,equipment</data>
+  <data key="d10">chunk-200bb38f50d6fee67185749f9c26a143</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766734142</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Gondola" target="image_63c1257db55537b43d4be2eefe26f407">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Gondola belongs to image_63c1257db55537b43d4be2eefe26f407</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-200bb38f50d6fee67185749f9c26a143</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766734146</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Captions" target="Image Content Analysis">
+  <data key="d7">1.0</data>
+  <data key="d8">Image Content Analysis involves examining captions to analyze the image content.</data>
+  <data key="d9">content,process</data>
+  <data key="d10">chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766734149</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Captions" target="image_646df960917d3162ea53d7bf0d6159f1">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Captions belongs to image_646df960917d3162ea53d7bf0d6159f1</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766734151</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Detailed Description" target="Venice Canal Scene">
+  <data key="d7">1.0</data>
+  <data key="d8">The image is accompanied by a detailed and accurate written description of Venice, Italy.</data>
+  <data key="d9">image content,written description</data>
+  <data key="d10">chunk-a64ceec6c3c95e7ad147b9a9ca1c79bc</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766734132</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_3a3946c89928b196ada72657b4c381db" target="Red-Tiled Roofs">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Red-Tiled Roofs belongs to image_3a3946c89928b196ada72657b4c381db</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-60f3bf85e4b4c8f052c20a13900de76e</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766734133</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_3a3946c89928b196ada72657b4c381db" target="Sun">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Sun belongs to image_3a3946c89928b196ada72657b4c381db</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-60f3bf85e4b4c8f052c20a13900de76e</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766734135</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_3a3946c89928b196ada72657b4c381db" target="Buildings">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Buildings belongs to image_3a3946c89928b196ada72657b4c381db</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-60f3bf85e4b4c8f052c20a13900de76e</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766734136</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_89ca141f705e0c5ed19349091d838b70" target="Cityscape">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Cityscape belongs to image_89ca141f705e0c5ed19349091d838b70</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-a64ceec6c3c95e7ad147b9a9ca1c79bc</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766734131</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_89ca141f705e0c5ed19349091d838b70" target="Venice Canal Scene">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Venice Canal Scene belongs to image_89ca141f705e0c5ed19349091d838b70</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-a64ceec6c3c95e7ad147b9a9ca1c79bc</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766734133</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Venice Canal Scene" target="Venice Canal">
+  <data key="d7">1.0</data>
+  <data key="d8">The image captures a serene and picturesque scene of the Venice Canal.</data>
+  <data key="d9">image subject,waterway</data>
+  <data key="d10">chunk-a64ceec6c3c95e7ad147b9a9ca1c79bc</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766734130</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Venice Canal Scene" target="Cityscape">
+  <data key="d7">1.0</data>
+  <data key="d8">The image captures a serene and picturesque scene of Venice, Italy, showcasing the city's historic architecture and urban features.</data>
+  <data key="d9">image subject,urban feature</data>
+  <data key="d10">chunk-a64ceec6c3c95e7ad147b9a9ca1c79bc</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766734131</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Venice Canal Scene" target="Entity Information">
+  <data key="d7">1.0</data>
+  <data key="d8">The image is provided with entity information, including a name, type, and summary.</data>
+  <data key="d9">descriptive text,image metadata</data>
+  <data key="d10">chunk-a64ceec6c3c95e7ad147b9a9ca1c79bc</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766734133</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Venice Canal Scene" target="Church">
+  <data key="d7">1.0</data>
+  <data key="d8">The church in the background is a prominent feature of the image scene.</data>
+  <data key="d9">building,scene</data>
+  <data key="d10">chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766734150</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Venice Canal Scene" target="Sailboats">
+  <data key="d7">1.0</data>
+  <data key="d8">Sailboats are featured in the image.</data>
+  <data key="d9">equipment,scene</data>
+  <data key="d10">chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766734151</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Venice Canal Scene" target="image_646df960917d3162ea53d7bf0d6159f1">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Venice Canal Scene belongs to image_646df960917d3162ea53d7bf0d6159f1</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766734157</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Sun" target="Warm Glow">
+  <data key="d7">1.0</data>
+  <data key="d8">The sun appears to be shining down on the scene, casting a warm glow over the entire image.</data>
+  <data key="d9">atmosphere content,casting a warm glow</data>
+  <data key="d10">chunk-60f3bf85e4b4c8f052c20a13900de76e</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766734133</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Activity" target="image_63c1257db55537b43d4be2eefe26f407">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Activity belongs to image_63c1257db55537b43d4be2eefe26f407</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-200bb38f50d6fee67185749f9c26a143</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766734146</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_646df960917d3162ea53d7bf0d6159f1" target="Visual Elements">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Visual Elements belongs to image_646df960917d3162ea53d7bf0d6159f1</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766734149</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_646df960917d3162ea53d7bf0d6159f1" target="Visual Style">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Visual Style belongs to image_646df960917d3162ea53d7bf0d6159f1</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766734149</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_646df960917d3162ea53d7bf0d6159f1" target="Composition">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Composition belongs to image_646df960917d3162ea53d7bf0d6159f1</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766734151</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_646df960917d3162ea53d7bf0d6159f1" target="Layout">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Layout belongs to image_646df960917d3162ea53d7bf0d6159f1</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766734152</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_646df960917d3162ea53d7bf0d6159f1" target="Image Content Analysis">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Image Content Analysis belongs to image_646df960917d3162ea53d7bf0d6159f1</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766734152</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_646df960917d3162ea53d7bf0d6159f1" target="Church">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Church belongs to image_646df960917d3162ea53d7bf0d6159f1</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766734153</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_646df960917d3162ea53d7bf0d6159f1" target="Objects">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Objects belongs to image_646df960917d3162ea53d7bf0d6159f1</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766734154</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_646df960917d3162ea53d7bf0d6159f1" target="People">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity People belongs to image_646df960917d3162ea53d7bf0d6159f1</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766734155</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_646df960917d3162ea53d7bf0d6159f1" target="Text">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Text belongs to image_646df960917d3162ea53d7bf0d6159f1</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766734156</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_646df960917d3162ea53d7bf0d6159f1" target="Sailboats">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Sailboats belongs to image_646df960917d3162ea53d7bf0d6159f1</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766734156</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_646df960917d3162ea53d7bf0d6159f1" target="Relationships">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Relationships belongs to image_646df960917d3162ea53d7bf0d6159f1</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766734157</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_646df960917d3162ea53d7bf0d6159f1" target="Lighting">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Lighting belongs to image_646df960917d3162ea53d7bf0d6159f1</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766734159</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_646df960917d3162ea53d7bf0d6159f1" target="Visual Analysis">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Visual Analysis belongs to image_646df960917d3162ea53d7bf0d6159f1</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766734159</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_63c1257db55537b43d4be2eefe26f407" target="Tranquility">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Tranquility belongs to image_63c1257db55537b43d4be2eefe26f407</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-200bb38f50d6fee67185749f9c26a143</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766734144</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_63c1257db55537b43d4be2eefe26f407" target="Harmony">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Harmony belongs to image_63c1257db55537b43d4be2eefe26f407</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-200bb38f50d6fee67185749f9c26a143</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766734144</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_63c1257db55537b43d4be2eefe26f407" target="Advertisement">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Advertisement belongs to image_63c1257db55537b43d4be2eefe26f407</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-200bb38f50d6fee67185749f9c26a143</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766734145</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_63c1257db55537b43d4be2eefe26f407" target="Image Content Analysis">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Image Content Analysis belongs to image_63c1257db55537b43d4be2eefe26f407</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-200bb38f50d6fee67185749f9c26a143</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766734145</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_63c1257db55537b43d4be2eefe26f407" target="Romance">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Romance belongs to image_63c1257db55537b43d4be2eefe26f407</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-200bb38f50d6fee67185749f9c26a143</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766734145</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_63c1257db55537b43d4be2eefe26f407" target="Beauty">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Beauty belongs to image_63c1257db55537b43d4be2eefe26f407</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-200bb38f50d6fee67185749f9c26a143</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766734148</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_63c1257db55537b43d4be2eefe26f407" target="Composition">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Composition belongs to image_63c1257db55537b43d4be2eefe26f407</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-200bb38f50d6fee67185749f9c26a143</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766734148</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_63c1257db55537b43d4be2eefe26f407" target="Balance">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Balance belongs to image_63c1257db55537b43d4be2eefe26f407</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-200bb38f50d6fee67185749f9c26a143</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766734149</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_63c1257db55537b43d4be2eefe26f407" target="Charm">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Charm belongs to image_63c1257db55537b43d4be2eefe26f407</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-200bb38f50d6fee67185749f9c26a143</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766734149</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Composition" target="Balance">
+  <data key="d7">1.0</data>
+  <data key="d8">Balance is a key element of the composition.</data>
+  <data key="d9">composition element,concept</data>
+  <data key="d10">chunk-200bb38f50d6fee67185749f9c26a143</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766734147</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Composition" target="Visual Analysis">
+  <data key="d7">1.0</data>
+  <data key="d8">Visual analysis involves examining composition to analyze the image visual elements.</data>
+  <data key="d9">concept,process</data>
+  <data key="d10">chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766734149</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Balance" target="Harmony">
+  <data key="d7">1.0</data>
+  <data key="d8">Harmony is achieved through the use of a soft and diffused lighting style, which contributes to the balance of the composition.</data>
+  <data key="d9">composition element,concept</data>
+  <data key="d10">chunk-200bb38f50d6fee67185749f9c26a143</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766734147</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Harmony" target="Tranquility">
+  <data key="d7">1.0</data>
+  <data key="d8">Tranquility is a feeling evoked by the harmony present in the image.</data>
+  <data key="d9">concept,harmony element</data>
+  <data key="d10">chunk-200bb38f50d6fee67185749f9c26a143</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766734142</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Visual Analysis" target="Layout">
+  <data key="d7">1.0</data>
+  <data key="d8">Visual analysis involves examining layout to analyze the image visual elements.</data>
+  <data key="d9">concept,process</data>
+  <data key="d10">chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766734149</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Visual Analysis" target="Objects">
+  <data key="d7">1.0</data>
+  <data key="d8">Visual analysis involves examining objects to analyze the image visual elements.</data>
+  <data key="d9">concept,process</data>
+  <data key="d10">chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766734150</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Visual Analysis" target="People">
+  <data key="d7">1.0</data>
+  <data key="d8">Visual analysis involves examining people to analyze the image visual elements.</data>
+  <data key="d9">concept,process</data>
+  <data key="d10">chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766734150</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Visual Analysis" target="Text">
+  <data key="d7">1.0</data>
+  <data key="d8">Visual analysis involves examining text to analyze the image visual elements.</data>
+  <data key="d9">content,process</data>
+  <data key="d10">chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766734151</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Visual Analysis" target="Visual Elements">
+  <data key="d7">1.0</data>
+  <data key="d8">Visual analysis involves examining visual elements to analyze the image visual elements.</data>
+  <data key="d9">concept,process</data>
+  <data key="d10">chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766734151</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Visual Analysis" target="Relationships">
+  <data key="d7">1.0</data>
+  <data key="d8">Visual analysis involves examining relationships to analyze the image visual elements.</data>
+  <data key="d9">concept,process</data>
+  <data key="d10">chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766734152</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Visual Analysis" target="Lighting">
+  <data key="d7">1.0</data>
+  <data key="d8">Visual analysis involves examining lighting to analyze the image visual elements.</data>
+  <data key="d9">concept,process</data>
+  <data key="d10">chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766734152</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Visual Analysis" target="Visual Style">
+  <data key="d7">1.0</data>
+  <data key="d8">Visual analysis involves examining visual style to analyze the image visual elements.</data>
+  <data key="d9">concept,process</data>
+  <data key="d10">chunk-20ffe7950b5d5304c2e36210740884eb</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766734153</data>
+  <data key="d13"></data>
+</edge>
+</graph></graphml>

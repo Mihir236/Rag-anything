@@ -1,0 +1,34 @@
+{
+  "chunk-f2b4071eef1a5613523745bba1afe153": {
+    "tokens": 31,
+    "content": "Sheet1 \n\nId \n\n1562   \n1582   \n2587   \n3549   \n2468   \n2554   \n3598   \n2456   \n6548",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-f39542eb9698fc30bf100e837583498e",
+    "file_path": "file_example_XLS_10.xls",
+    "llm_cache_list": [
+      "default:extract:3b68820e4b3ac9953e3bd9d047ee7298",
+      "default:extract:98450a9fdaf04389599d910167f991da"
+    ],
+    "create_time": 1766823338,
+    "update_time": 1766823344,
+    "_id": "chunk-f2b4071eef1a5613523745bba1afe153"
+  },
+  "chunk-9c1f3bc04c84d257f036ce4b8bc4e2fa": {
+    "content": "Table Analysis:\nImage Path: /Users/mihirmodi/RAG-Anything/output_xls/file_example_XLS_10/auto/images/b510e57b58766c3c62436678a3aa1dd29af00c72e2332dd347a6e94c49313d2d.jpg\nCaption: Sheet1 \nStructure: <table><tr><td>0 First Name</td><td>Last Name</td><td>Gender</td><td>Country Age</td><td>Date</td></tr><tr><td>1 Dulce</td><td>Abril</td><td>Female</td><td>United States</td><td>32 15/10/2017</td></tr><tr><td>2 Mara</td><td>Hashimoto</td><td>Female</td><td>Great Britain</td><td>25 16/08/2016</td></tr><tr><td>3 Philip</td><td>Gent</td><td>Male</td><td>France</td><td>36 21/05/2015</td></tr><tr><td>4 Kathleen</td><td>Hanner</td><td>Female</td><td>United States</td><td>25 15/10/2017</td></tr><tr><td>5 Nereida</td><td>Magwood</td><td>Female</td><td>United States</td><td>58 16/08/2016</td></tr><tr><td>6 Gaston</td><td>Brumm</td><td>Male</td><td>United States</td><td>24 21/05/2015</td></tr><tr><td>7 Etta</td><td>Hurn</td><td>Female</td><td>Great Britain</td><td>56 15/10/2017</td></tr><tr><td>8 Earlean</td><td>Melgar</td><td>Female</td><td>United States</td><td>27 16/08/2016</td></tr><tr><td>9 Vincenza</td><td>Weiland</td><td>Female</td><td>United States</td><td>40 21/05/2015</td></tr></table>\nFootnotes: None\n\nAnalysis: This table contains demographic information about individuals, including their first name, last name, gender, country of origin, age, and date of birth. The table structure is organized in a clear and concise manner, with each column representing a specific piece of information. The data points and patterns in this table reveal interesting insights about the population, such as the prevalence of females (7 out of 9 individuals), the dominant country of origin (United States), and the age range of the individuals (between 24 and 58 years old). The statistical insights and trends in this table suggest that the population is relatively young, with a median age of 32 years old. The relationships between data elements in this table reveal that there is a strong correlation between country of origin and age, with individuals from the United States being older on average. The significance of this data is that it provides a snapshot of the demographic characteristics of a population, which can be useful for various purposes such as market research, social science research, or even demographic analysis. The table supports the concept of demographic analysis by providing a clear and concise representation of the population's characteristics.",
+    "tokens": 751,
+    "full_doc_id": "doc-f39542eb9698fc30bf100e837583498e",
+    "chunk_order_index": 1,
+    "file_path": "file_example_XLS_10.xls",
+    "llm_cache_list": [
+      "default:extract:a78cda35597157ebf963aab773194920",
+      "default:extract:cb5f5781ce5ec1f7ea3002d26b1e527f"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Demographic Information Table (table)",
+    "original_type": "table",
+    "page_idx": 0,
+    "create_time": 1766823349,
+    "update_time": 1766823363,
+    "_id": "chunk-9c1f3bc04c84d257f036ce4b8bc4e2fa"
+  }
+}

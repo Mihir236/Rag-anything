@@ -1,0 +1,40 @@
+[
+    {
+        "layout_dets": [
+            {
+                "category_id": 2,
+                "poly": [
+                    215,
+                    218,
+                    807,
+                    218,
+                    807,
+                    250,
+                    215,
+                    250
+                ],
+                "score": 0.525
+            },
+            {
+                "category_id": 15,
+                "poly": [
+                    212.0,
+                    214.0,
+                    810.0,
+                    214.0,
+                    810.0,
+                    257.0,
+                    212.0,
+                    257.0
+                ],
+                "score": 0.989,
+                "text": "Audio TranscriptofVenice_10.mp4 with Timestamps:"
+            }
+        ],
+        "page_info": {
+            "page_no": 0,
+            "width": 1654,
+            "height": 2339
+        }
+    }
+]

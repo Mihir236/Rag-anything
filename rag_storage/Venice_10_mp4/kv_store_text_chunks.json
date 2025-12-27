@@ -1,0 +1,146 @@
+{
+  "chunk-d507eaa7fc237afe23a259b69ee238dd": {
+    "content": "\nImage Content Analysis:\nImage Path: /Users/mihirmodi/RAG-Anything/output_venice/frame_0000/ocr/images/0135a103fab9bc221e1e2c67ff9984e53cd283f99c7abd8782c5bd5942812141.jpg\nCaptions: None\nFootnotes: None\n\nVisual Analysis: The image presents a serene and picturesque view of Venice, Italy, showcasing its iconic canals, historic architecture, and vibrant atmosphere.\n\n**Detailed Description:**\n\n* **Overall Composition and Layout:** The image features a tranquil canal, flanked by historic buildings on both sides, with a clear blue sky above. The canal is lined with boats, including gondolas, motorboats, and larger vessels, adding to the visual interest.\n* **Identified Objects, People, Text, and Visual Elements:**\n\t+ Historic buildings with ornate facades and terracotta roofs\n\t+ Boats of various sizes and types, including gondolas and motorboats\n\t+ A prominent white dome in the distance, likely the Basilica di Santa Maria della Salute\n\t+ A few trees and greenery along the canal's edge\n\t+ A clear blue sky with no visible clouds\n* **Relationships Between Elements:** The historic buildings and boats create a sense of harmony and balance, while the clear blue sky adds a touch of serenity to the scene.\n* **Colors, Lighting, and Visual Style:** The dominant colors are shades of blue (sky, water), white (buildings, boats), and brown (roofs, trees). The lighting is soft and natural, with no harsh shadows or highlights.\n* **Actions or Activities Shown:** There are no apparent actions or activities taking place in the image, suggesting a moment of stillness and tranquility.\n* **Technical Details:** The image appears to be a photograph, likely taken from a bridge or a vantage point overlooking the canal. The resolution is high enough to reveal intricate details, such as the ornate facades of the buildings and the textures of the boats.\n\n**Entity Information:**\n\n* **Entity Name:** \"Venetian Serenity\"\n* **Entity Type:** Image\n* **Summary:** This image captures the essence of Venice, showcasing its historic architecture, picturesque canals, and vibrant atmosphere. The clear blue sky and soft lighting add to the sense of serenity, making this image a perfect representation of the city's beauty and charm.",
+    "tokens": 492,
+    "full_doc_id": "doc-48b588f8b87c65b154952a3c0f6dae48",
+    "chunk_order_index": 0,
+    "file_path": "frame_0000.jpg",
+    "llm_cache_list": [
+      "default:extract:e9e74470db0bfdba552e87f6e214dbe7",
+      "default:extract:5767317a28d626eeb59ead17d183f218"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "image_3de5eb09a60a177af4900831787cef14",
+    "original_type": "image",
+    "page_idx": 0,
+    "create_time": 1766724896,
+    "update_time": 1766724902,
+    "_id": "chunk-d507eaa7fc237afe23a259b69ee238dd"
+  },
+  "chunk-8ff89ac737523434b657c23df86f5d30": {
+    "content": "\nImage Content Analysis:\nImage Path: /Users/mihirmodi/RAG-Anything/output_venice/frame_0003/ocr/images/7f2b9acf6e76d668dfd4e74bc2d3fb4eec84e4bef8b83f362f9c67d64fdd80c8.jpg\nCaptions: None\nFootnotes: None\n\nVisual Analysis: This image depicts a serene and picturesque scene of a canal in Venice, Italy. The composition is characterized by a central canal with several boats navigating through it, flanked by historic buildings on either side. The buildings, ranging from two to five stories in height, display a mix of architectural styles, including Gothic and Baroque elements, with ornate facades and domes. The canal's water is a deep green hue, reflecting the surrounding architecture. A few individuals are visible on the boats, while others are walking along the canal's edges or standing on the bridges that span it. The sky above is a brilliant blue, devoid of clouds.\n\nThe visual elements in this image are rich and varied, with the canal serving as the primary focal point. The boats, ranging from small gondolas to larger vessels, add a sense of movement and activity to the scene. The buildings, with their intricate details and ornate decorations, showcase the city's rich history and cultural heritage. The bridges, adorned with lamps and other architectural features, provide a sense of depth and dimensionality to the image.\n\nIn terms of colors, the dominant hues are the deep green of the canal and the warm tones of the buildings, which range from beige to terracotta. The blue sky adds a sense of brightness and clarity to the image, while the red and white striped poles lining the canal's edges introduce a pop of color.\n\nThe overall mood of the image is one of tranquility and beauty, capturing the essence of Venice's unique charm and allure. The image invites the viewer to step into the serene and picturesque world of the canal, surrounded by the city's rich history and cultural heritage.\n\nThe technical details of the image are impressive, with a high level of resolution and clarity that allows for a detailed examination of the visual elements. The image appears to be a photograph, likely taken with a high-quality camera, and has been edited to enhance the colors and contrast. The file format is JPEG, indicating that it has been compressed to reduce its size while maintaining its quality.\n\nIn terms of entity information, the image can be described as follows:\n\n* Entity Name: ",
+    "tokens": 513,
+    "full_doc_id": "doc-7b98cd9ab8145c6a55ae930130f876c7",
+    "chunk_order_index": 0,
+    "file_path": "frame_0003.jpg",
+    "llm_cache_list": [
+      "default:extract:8aab1438295a0a81798459bb7ea37a2a",
+      "default:extract:874a6e7287bdc0eae2ae97882a289703"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "unknown_entity (unknown)",
+    "original_type": "image",
+    "page_idx": 0,
+    "create_time": 1766724900,
+    "update_time": 1766724905,
+    "_id": "chunk-8ff89ac737523434b657c23df86f5d30"
+  },
+  "chunk-5168b01ce2f6eba95d4f3892a422c069": {
+    "content": "\nImage Content Analysis:\nImage Path: /Users/mihirmodi/RAG-Anything/output_venice/frame_0001/ocr/images/86d3358f013bd272734d8c0e2acd0e6cb34f1795a68e7888336a437c3eda70ae.jpg\nCaptions: None\nFootnotes: None\n\nVisual Analysis: The image presents a serene and picturesque view of Venice, Italy, with a canal running through the city's historic center. The composition of the image is characterized by a harmonious blend of architectural styles, with buildings featuring ornate facades and domes that reflect the city's rich cultural heritage.\n\n**Detailed Description:**\n\n*   The canal is the central element of the image, winding its way through the city and lined with boats and gondolas.\n*   The buildings along the canal are predominantly white or light-colored, with intricate details such as arches, balconies, and ornate windows.\n*   In the background, a large white dome rises above the rooftops, adding to the image's sense of grandeur and history.\n*   The sky above is a brilliant blue, with not a cloud in sight, which adds to the overall sense of serenity and tranquility.\n*   The water in the canal is calm and peaceful, reflecting the beauty of the surrounding architecture.\n\n**Entity Information:**\n\n*   **Entity Name:** Venice, Italy\n*   **Entity Type:** Image\n*   **Summary:** This image captures the essence of Venice, Italy, showcasing its stunning architecture, serene canals, and rich cultural heritage. The image provides a glimpse into the city's beauty and history, making it a compelling visual representation of this iconic destination.\n\n**Additional Context:**\n\n*   **Image Path:** /Users/mihirmodi/RAG-Anything/output_venice/frame_0001/ocr/images/86d3358f013bd272734d8c0e2acd0e6cb34f1795a68e7888336a437c3eda70ae.jpg\n*   **Captions:** None\n*   **Footnotes:** None\n\nOverall, this image is a testament to the beauty and charm of Venice, Italy, and serves as a reminder of the importance of preserving our cultural heritage for future generations.",
+    "tokens": 466,
+    "full_doc_id": "doc-5326e089025f95ebfc052d4bf9bfc763",
+    "chunk_order_index": 0,
+    "file_path": "frame_0001.jpg",
+    "llm_cache_list": [
+      "default:extract:3eb4b92bfebaa4539b67d56b0da5802c",
+      "default:extract:8479df8033dda04ac5ca506aa05b5ad0"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "image_d341e3dc54060422207ddfd9c5173be8",
+    "original_type": "image",
+    "page_idx": 0,
+    "create_time": 1766724901,
+    "update_time": 1766724907,
+    "_id": "chunk-5168b01ce2f6eba95d4f3892a422c069"
+  },
+  "chunk-ac2c0ef4f414c240a40fbaa3e17e8a91": {
+    "content": "\nImage Content Analysis:\nImage Path: /Users/mihirmodi/RAG-Anything/output_venice/frame_0002/ocr/images/add2895a655f2176b142a1a48f2836a640273e6dba958183faa7268de4ac244b.jpg\nCaptions: None\nFootnotes: None\n\nVisual Analysis: **Detailed Description**\n\nThis image presents a serene and picturesque scene of Venice, Italy, showcasing the city's iconic Grand Canal and its surrounding architecture. The photograph captures the tranquil atmosphere of the canal, with several boats navigating through the waterway, while the buildings along the canal's edge exude a sense of history and elegance.\n\n**Overall Composition and Layout**\n\nThe image is composed of a series of buildings lining the Grand Canal, with the canal itself serving as the central focus. The buildings are predominantly white or light-colored, with terracotta roofs, and feature ornate details such as arches, balconies, and domes. The canal is wide enough to accommodate multiple boats, which are scattered throughout the image, adding to the sense of movement and activity.\n\n**Objects, People, Text, and Visual Elements**\n\nThe image features several boats, including a gondola, a motorboat, and a passenger ferry, all of which are navigating through the canal. The buildings along the canal's edge are also prominent, with some featuring signs or advertisements. In the background, a large white dome is visible, which is likely the iconic St. Mark's Basilica.\n\n**Relationships Between Elements**\n\nThe boats and buildings in the image are interconnected, with the boats moving through the canal and the buildings lining the canal's edge. The relationship between the elements is one of harmony and balance, with each component contributing to the overall sense of tranquility and beauty.\n\n**Colors, Lighting, and Visual Style**\n\nThe image features a predominantly blue and green color scheme, with the sky above being a clear blue and the water in the canal being a deep green. The lighting is natural, with the sun casting a warm glow over the scene. The visual style is classic and elegant, with the use of traditional Venetian architecture and the tranquil atmosphere of the canal creating a sense of timelessness.\n\n**Actions and Activities**\n\nThe image captures a moment of calm and serenity, with the boats moving slowly through the canal and the people on the boats and in the buildings going about their daily activities. There is no sense of urgency or chaos, and the overall atmosphere is one of relaxation and enjoyment.\n\n**Technical Details**\n\nThe image is a photograph, taken from a bridge or a high vantage point, which allows the viewer to see the entire length of the Grand Canal. The image is well-composed, with the boats and buildings arranged in a way that creates a sense of balance and harmony. The use of natural lighting and the classic visual style adds to the overall sense of timelessness and elegance.\n\n**Entity Information**\n\n* **Entity Name:** Venice Grand Canal\n* **Entity Type:** Image\n* **Summary:** This image captures the serene and picturesque scene of Venice's Grand Canal, showcasing the city's iconic architecture and tranquil atmosphere. The photograph features several boats navigating through the canal, while the buildings along the canal's edge exude a sense of history and elegance. The image is well-composed, with the use of natural lighting and classic visual style adding to the overall sense of timelessness and beauty.",
+    "tokens": 687,
+    "full_doc_id": "doc-abe2d3443bbe69a42e93e1cd23334265",
+    "chunk_order_index": 0,
+    "file_path": "frame_0002.jpg",
+    "llm_cache_list": [
+      "default:extract:d792731ff2936edc308c2ab4e87cb142",
+      "default:extract:eec61ff58244210881cedbc9551c0523"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "image_67388cef6dab39fd8af3908fc2264bec",
+    "original_type": "image",
+    "page_idx": 0,
+    "create_time": 1766724906,
+    "update_time": 1766724916,
+    "_id": "chunk-ac2c0ef4f414c240a40fbaa3e17e8a91"
+  },
+  "chunk-a64ceec6c3c95e7ad147b9a9ca1c79bc": {
+    "content": "\nImage Content Analysis:\nImage Path: /Users/mihirmodi/RAG-Anything/output_venice/frame_0000/ocr/images/0135a103fab9bc221e1e2c67ff9984e53cd283f99c7abd8782c5bd5942812141.jpg\nCaptions: None\nFootnotes: None\n\nVisual Analysis: The image depicts a serene and picturesque scene of Venice, Italy, with a canal running through the center of the city. The canal is lined with historic buildings, boats, and gondolas, creating a sense of tranquility and charm.\n\n**Detailed Description:**\n\n*   The image is taken from a bridge or a high vantage point, offering a bird's-eye view of the canal and its surroundings.\n*   The canal is wide and deep, with a gentle curve that adds to the sense of serenity.\n*   The water is calm and peaceful, reflecting the sky above and creating a sense of symmetry.\n*   The buildings along the canal are a mix of old and new, with some dating back to the 16th century and others appearing more modern.\n*   The architecture is characterized by ornate facades, balconies, and domes, which add to the city's unique charm.\n*   The boats and gondolas on the canal are a common sight in Venice, and they add to the sense of activity and life in the city.\n*   The sky above is clear and blue, with only a few wispy clouds scattered across it.\n*   The overall atmosphere of the image is one of peace and tranquility, inviting the viewer to step into the scene and experience the beauty of Venice.\n\n**Entity Information:**\n\n*   **Entity Name:** \"Venice Canal Scene\"\n*   **Entity Type:** \"Image\"\n*   **Summary:** \"This image captures a serene and picturesque scene of Venice, Italy, showcasing the city's historic architecture, calm waters, and peaceful atmosphere.\"\n\n**Technical Details:**\n\n*   **Image Path:** /Users/mihirmodi/RAG-Anything/output_venice/frame_0000/ocr/images/0135a103fab9bc221e1e2c67ff9984e53cd283f99c7abd8782c5bd5942812141.jpg\n*   **Captions:** None\n*   **Footnotes:** None\n\nOverall, the image provides a detailed and accurate visual representation of Venice, highlighting its unique architecture, peaceful atmosphere, and serene waters. The detailed description and entity information provide a comprehensive understanding of the image, making it useful for knowledge retrieval and analysis.",
+    "tokens": 531,
+    "full_doc_id": "doc-48b588f8b87c65b154952a3c0f6dae48",
+    "chunk_order_index": 0,
+    "file_path": "frame_0000.jpg",
+    "llm_cache_list": [
+      "default:extract:3e22a887cbf5e6db0cf577fe3309bb34",
+      "default:extract:46eaa2445fd48baa707776c35a9d1ae8"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "image_89ca141f705e0c5ed19349091d838b70",
+    "original_type": "image",
+    "page_idx": 0,
+    "create_time": 1766734124,
+    "update_time": 1766734128,
+    "_id": "chunk-a64ceec6c3c95e7ad147b9a9ca1c79bc"
+  },
+  "chunk-60f3bf85e4b4c8f052c20a13900de76e": {
+    "content": "\nImage Content Analysis:\nImage Path: /Users/mihirmodi/RAG-Anything/output_venice/frame_0001/ocr/images/86d3358f013bd272734d8c0e2acd0e6cb34f1795a68e7888336a437c3eda70ae.jpg\nCaptions: None\nFootnotes: None\n\nVisual Analysis: The image depicts a serene and picturesque scene of a canal in Venice, Italy, with several boats navigating through it. The canal is flanked by historic buildings on either side, featuring ornate architecture and red-tiled roofs.\n\n*   **Canal:**\n    *   The canal is the central focus of the image, stretching from the foreground to the background.\n    *   It is lined with boats, including a few gondolas, which are a traditional mode of transportation in Venice.\n    *   The water is calm and peaceful, reflecting the surrounding buildings and sky.\n*   **Buildings:**\n    *   The buildings along the canal are predominantly white or light-colored, with intricate details and ornate facades.\n    *   Some buildings have balconies or terraces, adding to the sense of grandeur and elegance.\n    *   The red-tiled roofs of the buildings add a pop of color to the scene.\n*   **Boats:**\n    *   Several boats are visible in the image, including a few gondolas, which are a traditional mode of transportation in Venice.\n    *   The boats are all white or light-colored, with some having red or blue accents.\n    *   Some boats appear to be moving, while others are stationary, adding to the sense of activity and life in the scene.\n*   **Sky:**\n    *   The sky above the canal is a clear blue, with no clouds visible.\n    *   The sun appears to be shining down on the scene, casting a warm glow over the entire image.\n*   **Overall Composition:**\n    *   The composition of the image is symmetrical, with the canal running down the center of the frame.\n    *   The buildings and boats are arranged in a harmonious balance, creating a sense of order and beauty.\n    *   The overall effect is one of serenity and tranquility, inviting the viewer to step into the peaceful world of Venice.\n\nIn summary, the image presents a stunning view of a canal in Venice, Italy, with its historic buildings, ornate architecture, and serene atmosphere. The composition is symmetrical, with the canal running down the center of the frame, and the buildings and boats are arranged in a harmonious balance. The overall effect is one of serenity and tranquility, making the image a beautiful representation of this iconic city.",
+    "tokens": 546,
+    "full_doc_id": "doc-5326e089025f95ebfc052d4bf9bfc763",
+    "chunk_order_index": 0,
+    "file_path": "frame_0001.jpg",
+    "llm_cache_list": [
+      "default:extract:547435f130122b8cd506c6b4ab220add",
+      "default:extract:a184f2c52327e433b47d91ba67902ddc"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "image_3a3946c89928b196ada72657b4c381db",
+    "original_type": "image",
+    "page_idx": 0,
+    "create_time": 1766734124,
+    "update_time": 1766734130,
+    "_id": "chunk-60f3bf85e4b4c8f052c20a13900de76e"
+  },
+  "chunk-20ffe7950b5d5304c2e36210740884eb": {
+    "content": "\nImage Content Analysis:\nImage Path: /Users/mihirmodi/RAG-Anything/output_venice/frame_0002/ocr/images/add2895a655f2176b142a1a48f2836a640273e6dba958183faa7268de4ac244b.jpg\nCaptions: None\nFootnotes: None\n\nVisual Analysis: The image depicts a serene and picturesque scene of a canal in Venice, Italy, with a prominent church in the background. The overall composition of the image is characterized by a harmonious balance of colors, shapes, and textures, creating a sense of tranquility and beauty.\n\n**Detailed Description:**\n\n* **Composition:** The image features a long, narrow canal with a gentle curve, flanked by historic buildings on both sides. The canal is lined with boats, including gondolas, motorboats, and sailboats, adding to the visual interest of the scene.\n* **Layout:** The composition is divided into three main sections: the foreground, middle ground, and background. The foreground features the canal and its boats, while the middle ground showcases the historic buildings, and the background highlights the majestic church.\n* **Objects:** The image includes various objects, such as boats, buildings, trees, and streetlights, which contribute to the overall aesthetic appeal of the scene.\n* **People:** Although there are no people visible in the image, the presence of boats and buildings suggests that the area is inhabited by people.\n* **Text:** There are no visible text elements in the image.\n* **Visual Elements:** The image features a range of visual elements, including colors, shapes, and textures. The dominant colors are shades of blue, green, and brown, which evoke a sense of calmness and serenity. The shapes and textures of the buildings, boats, and trees add depth and visual interest to the scene.\n* **Relationships:** The relationships between the elements in the image are harmonious and balanced, creating a sense of unity and coherence. The boats and buildings seem to coexist peacefully, while the church in the background adds a sense of grandeur and importance to the scene.\n* **Colors:** The colors in the image are muted and earthy, with shades of blue, green, and brown dominating the palette. These colors contribute to the overall sense of calmness and serenity in the scene.\n* **Lighting:** The lighting in the image is soft and diffused, with a warm glow emanating from the sun. This creates a sense of warmth and comfort in the scene.\n* **Visual Style:** The visual style of the image is realistic and detailed, with a focus on capturing the beauty and charm of the canal and its surroundings. The image appears to be a photograph, rather than a painting or illustration.\n\n**Entity Information:**\n\n* **Entity Name:** \"Venice Canal Scene\"\n* **Entity Type:** Image\n* **Summary:** This image captures a serene and picturesque scene of a canal in Venice, Italy, with a prominent church in the background. The composition is harmonious and balanced, featuring a range of visual elements that contribute to the overall aesthetic appeal of the scene. The image appears to be a photograph, taken from a vantage point that showcases the beauty and charm of the canal and its surroundings.",
+    "tokens": 657,
+    "full_doc_id": "doc-abe2d3443bbe69a42e93e1cd23334265",
+    "chunk_order_index": 0,
+    "file_path": "frame_0002.jpg",
+    "llm_cache_list": [
+      "default:extract:c68d6b2fae2667d8e52525b8957505d3",
+      "default:extract:d865c3354c89ea6650db0279d44d4a58"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "image_646df960917d3162ea53d7bf0d6159f1",
+    "original_type": "image",
+    "page_idx": 0,
+    "create_time": 1766734133,
+    "update_time": 1766734143,
+    "_id": "chunk-20ffe7950b5d5304c2e36210740884eb"
+  },
+  "chunk-200bb38f50d6fee67185749f9c26a143": {
+    "content": "\nImage Content Analysis:\nImage Path: /Users/mihirmodi/RAG-Anything/output_venice/frame_0003/ocr/images/7f2b9acf6e76d668dfd4e74bc2d3fb4eec84e4bef8b83f362f9c67d64fdd80c8.jpg\nCaptions: None\nFootnotes: None\n\nVisual Analysis: The image presents a serene and picturesque view of Venice, Italy, showcasing the city's iconic canals and historic architecture. The composition of the image is characterized by a harmonious balance between the waterway and the surrounding buildings, with the canal serving as the central focal point.\n\n*   **Overall Composition and Layout**\n    *   The image features a wide-angle perspective, capturing the entire length of the canal from left to right.\n    *   The canal is flanked by buildings on both sides, with the waterway taking center stage.\n    *   The sky above is a brilliant blue, adding to the overall sense of tranquility and beauty.\n*   **Identifying Objects, People, Text, and Visual Elements**\n    *   The image depicts several boats navigating the canal, including a large white vessel in the foreground and smaller boats further down the waterway.\n    *   A gondola is visible in the distance, adding to the romantic ambiance of the scene.\n    *   The buildings along the canal are predominantly white or light-colored, with ornate details such as arches and balconies.\n    *   A few trees and greenery can be seen along the canal, providing a pop of color against the otherwise monochromatic backdrop.\n    *   A sign or advertisement is visible on the right side of the image, although the text is illegible.\n*   **Relationships Between Elements**\n    *   The boats on the canal create a sense of movement and activity, while the buildings provide a sense of stability and permanence.\n    *   The gondola adds a touch of elegance and romance to the scene, while the trees and greenery bring a sense of natural beauty.\n    *   The sign or advertisement on the right side of the image serves as a reminder of the commercial aspects of the city.\n*   **Colors, Lighting, and Visual Style**\n    *   The dominant colors of the image are shades of blue, white, and tan, evoking a sense of calmness and serenity.\n    *   The lighting is soft and diffused, with no harsh shadows or bright highlights.\n    *   The visual style is characterized by a mix of traditional and modern elements, reflecting the city's rich history and cultural heritage.\n*   **Actions and Activities**\n    *   The boats on the canal are in motion, suggesting that the image was taken during a busy period.\n    *   The presence of a gondola implies that the image may have been taken during a romantic or leisurely activity.\n    *   The sign or advertisement on the right side of the image suggests that the image may have been taken during a commercial or promotional event.\n*   **Technical Details**\n    *   The image appears to be a photograph, likely taken with a high-quality camera or smartphone.\n    *   The resolution and file size of the image are not specified, but it appears to be a high-resolution image suitable for printing or display.\n\nIn summary, the image presents a stunning view of Venice, Italy, showcasing the city's iconic canals and historic architecture. The composition is characterized by a harmonious balance between the waterway and the surrounding buildings, with the canal serving as the central focal point. The image features a range of visual elements, including boats, buildings, trees, and a sign or advertisement, which create a sense of movement, activity, and natural beauty. The colors, lighting, and visual style are all consistent with the city's rich history and cultural heritage, while the technical details suggest that the image was taken with a high-quality camera or smartphone. Overall, the image provides a captivating glimpse into the beauty and charm of Venice, making it a valuable resource for knowledge retrieval and appreciation.",
+    "tokens": 819,
+    "full_doc_id": "doc-7b98cd9ab8145c6a55ae930130f876c7",
+    "chunk_order_index": 0,
+    "file_path": "frame_0003.jpg",
+    "llm_cache_list": [
+      "default:extract:672ec28b504821b53eff1c12e93070ca",
+      "default:extract:d8ace92c302be7c78cfbcc174dcb49d7"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "image_63c1257db55537b43d4be2eefe26f407",
+    "original_type": "image",
+    "page_idx": 0,
+    "create_time": 1766734134,
+    "update_time": 1766734142,
+    "_id": "chunk-200bb38f50d6fee67185749f9c26a143"
+  }
+}

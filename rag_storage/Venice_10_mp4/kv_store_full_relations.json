@@ -1,0 +1,466 @@
+{
+  "doc-48b588f8b87c65b154952a3c0f6dae48": {
+    "relation_pairs": [
+      [
+        "Venice",
+        "Venice Canal Scene"
+      ],
+      [
+        "Detailed Description",
+        "Venice Canal Scene"
+      ],
+      [
+        "Cityscape",
+        "Venice Canal Scene"
+      ],
+      [
+        "Image",
+        "Venice Canal Scene"
+      ],
+      [
+        "Italy",
+        "Venice"
+      ],
+      [
+        "Venice",
+        "image_89ca141f705e0c5ed19349091d838b70"
+      ],
+      [
+        "Venice Canal",
+        "Venice Canal Scene"
+      ],
+      [
+        "Italy",
+        "Venice Canal Scene"
+      ],
+      [
+        "Entity Information",
+        "Venice Canal Scene"
+      ],
+      [
+        "Cityscape",
+        "image_89ca141f705e0c5ed19349091d838b70"
+      ],
+      [
+        "Venice Canal Scene",
+        "image_89ca141f705e0c5ed19349091d838b70"
+      ],
+      [
+        "Image",
+        "image_89ca141f705e0c5ed19349091d838b70"
+      ],
+      [
+        "Italy",
+        "image_89ca141f705e0c5ed19349091d838b70"
+      ]
+    ],
+    "count": 13,
+    "update_time": 1766734134,
+    "_id": "doc-48b588f8b87c65b154952a3c0f6dae48"
+  },
+  "doc-7b98cd9ab8145c6a55ae930130f876c7": {
+    "relation_pairs": [
+      [
+        "Image Content Analysis",
+        "image_63c1257db55537b43d4be2eefe26f407"
+      ],
+      [
+        "Balance",
+        "image_63c1257db55537b43d4be2eefe26f407"
+      ],
+      [
+        "Harmony",
+        "Tranquility"
+      ],
+      [
+        "Beauty",
+        "image_63c1257db55537b43d4be2eefe26f407"
+      ],
+      [
+        "Italy",
+        "image_63c1257db55537b43d4be2eefe26f407"
+      ],
+      [
+        "Gondola",
+        "image_63c1257db55537b43d4be2eefe26f407"
+      ],
+      [
+        "Image",
+        "Venice"
+      ],
+      [
+        "Charm",
+        "image_63c1257db55537b43d4be2eefe26f407"
+      ],
+      [
+        "Gondola",
+        "Romance"
+      ],
+      [
+        "Tranquility",
+        "image_63c1257db55537b43d4be2eefe26f407"
+      ],
+      [
+        "Activity",
+        "Boats"
+      ],
+      [
+        "Image",
+        "image_63c1257db55537b43d4be2eefe26f407"
+      ],
+      [
+        "Composition",
+        "Image"
+      ],
+      [
+        "Image Content Analysis",
+        "Mihir Modi"
+      ],
+      [
+        "Balance",
+        "Harmony"
+      ],
+      [
+        "Canal",
+        "Venice"
+      ],
+      [
+        "Canal",
+        "Gondola"
+      ],
+      [
+        "Venice",
+        "image_63c1257db55537b43d4be2eefe26f407"
+      ],
+      [
+        "Romance",
+        "image_63c1257db55537b43d4be2eefe26f407"
+      ],
+      [
+        "Charm",
+        "Image"
+      ],
+      [
+        "Advertisement",
+        "Image"
+      ],
+      [
+        "Canal",
+        "image_63c1257db55537b43d4be2eefe26f407"
+      ],
+      [
+        "Balance",
+        "Composition"
+      ],
+      [
+        "Mihir Modi",
+        "Venice"
+      ],
+      [
+        "Beauty",
+        "Image"
+      ],
+      [
+        "Composition",
+        "image_63c1257db55537b43d4be2eefe26f407"
+      ],
+      [
+        "Harmony",
+        "image_63c1257db55537b43d4be2eefe26f407"
+      ],
+      [
+        "Mihir Modi",
+        "image_63c1257db55537b43d4be2eefe26f407"
+      ],
+      [
+        "Activity",
+        "image_63c1257db55537b43d4be2eefe26f407"
+      ],
+      [
+        "Advertisement",
+        "image_63c1257db55537b43d4be2eefe26f407"
+      ]
+    ],
+    "count": 30,
+    "update_time": 1766734150,
+    "_id": "doc-7b98cd9ab8145c6a55ae930130f876c7"
+  },
+  "doc-5326e089025f95ebfc052d4bf9bfc763": {
+    "relation_pairs": [
+      [
+        "Sky",
+        "Sun"
+      ],
+      [
+        "Gondolas",
+        "Traditional Transportation"
+      ],
+      [
+        "Image",
+        "image_3a3946c89928b196ada72657b4c381db"
+      ],
+      [
+        "Venice",
+        "image_3a3946c89928b196ada72657b4c381db"
+      ],
+      [
+        "Historic Buildings",
+        "image_3a3946c89928b196ada72657b4c381db"
+      ],
+      [
+        "Buildings",
+        "Canal"
+      ],
+      [
+        "Boats",
+        "image_3a3946c89928b196ada72657b4c381db"
+      ],
+      [
+        "Image",
+        "Venice"
+      ],
+      [
+        "Ornate Facades",
+        "image_3a3946c89928b196ada72657b4c381db"
+      ],
+      [
+        "Canal",
+        "Gondolas"
+      ],
+      [
+        "Canal",
+        "Image"
+      ],
+      [
+        "Canal",
+        "image_3a3946c89928b196ada72657b4c381db"
+      ],
+      [
+        "Activity",
+        "Boats"
+      ],
+      [
+        "Sun",
+        "Warm Glow"
+      ],
+      [
+        "Buildings",
+        "image_3a3946c89928b196ada72657b4c381db"
+      ],
+      [
+        "Gondolas",
+        "image_3a3946c89928b196ada72657b4c381db"
+      ],
+      [
+        "Sky",
+        "image_3a3946c89928b196ada72657b4c381db"
+      ],
+      [
+        "Image",
+        "Sun"
+      ],
+      [
+        "Sun",
+        "image_3a3946c89928b196ada72657b4c381db"
+      ],
+      [
+        "Red-Tiled Roofs",
+        "image_3a3946c89928b196ada72657b4c381db"
+      ],
+      [
+        "Canal",
+        "Peaceful Atmosphere"
+      ]
+    ],
+    "count": 21,
+    "update_time": 1766734137,
+    "_id": "doc-5326e089025f95ebfc052d4bf9bfc763"
+  },
+  "doc-abe2d3443bbe69a42e93e1cd23334265": {
+    "relation_pairs": [
+      [
+        "Visual Analysis",
+        "image_646df960917d3162ea53d7bf0d6159f1"
+      ],
+      [
+        "People",
+        "Visual Analysis"
+      ],
+      [
+        "Lighting",
+        "Visual Analysis"
+      ],
+      [
+        "Text",
+        "Visual Analysis"
+      ],
+      [
+        "Historic Buildings",
+        "Venice Canal Scene"
+      ],
+      [
+        "Venice",
+        "Venice Canal Scene"
+      ],
+      [
+        "Venice",
+        "image_646df960917d3162ea53d7bf0d6159f1"
+      ],
+      [
+        "Historic Buildings",
+        "image_646df960917d3162ea53d7bf0d6159f1"
+      ],
+      [
+        "Church",
+        "Venice Canal Scene"
+      ],
+      [
+        "Church",
+        "image_646df960917d3162ea53d7bf0d6159f1"
+      ],
+      [
+        "Image Content Analysis",
+        "Image Path"
+      ],
+      [
+        "Canal",
+        "Venice Canal Scene"
+      ],
+      [
+        "Relationships",
+        "image_646df960917d3162ea53d7bf0d6159f1"
+      ],
+      [
+        "Visual Style",
+        "image_646df960917d3162ea53d7bf0d6159f1"
+      ],
+      [
+        "Visual Analysis",
+        "Visual Style"
+      ],
+      [
+        "Image Path",
+        "image_646df960917d3162ea53d7bf0d6159f1"
+      ],
+      [
+        "Objects",
+        "Visual Analysis"
+      ],
+      [
+        "Canal",
+        "image_646df960917d3162ea53d7bf0d6159f1"
+      ],
+      [
+        "Footnotes",
+        "image_646df960917d3162ea53d7bf0d6159f1"
+      ],
+      [
+        "Composition",
+        "image_646df960917d3162ea53d7bf0d6159f1"
+      ],
+      [
+        "Footnotes",
+        "Image Content Analysis"
+      ],
+      [
+        "Layout",
+        "Visual Analysis"
+      ],
+      [
+        "Gondolas",
+        "Venice Canal Scene"
+      ],
+      [
+        "Colors",
+        "image_646df960917d3162ea53d7bf0d6159f1"
+      ],
+      [
+        "Visual Elements",
+        "image_646df960917d3162ea53d7bf0d6159f1"
+      ],
+      [
+        "People",
+        "image_646df960917d3162ea53d7bf0d6159f1"
+      ],
+      [
+        "Gondolas",
+        "image_646df960917d3162ea53d7bf0d6159f1"
+      ],
+      [
+        "Lighting",
+        "image_646df960917d3162ea53d7bf0d6159f1"
+      ],
+      [
+        "Text",
+        "image_646df960917d3162ea53d7bf0d6159f1"
+      ],
+      [
+        "Image Content Analysis",
+        "image_646df960917d3162ea53d7bf0d6159f1"
+      ],
+      [
+        "Sailboats",
+        "Venice Canal Scene"
+      ],
+      [
+        "Relationships",
+        "Visual Analysis"
+      ],
+      [
+        "Sailboats",
+        "image_646df960917d3162ea53d7bf0d6159f1"
+      ],
+      [
+        "Captions",
+        "image_646df960917d3162ea53d7bf0d6159f1"
+      ],
+      [
+        "Captions",
+        "Image Content Analysis"
+      ],
+      [
+        "Motorboats",
+        "Venice Canal Scene"
+      ],
+      [
+        "Italy",
+        "Venice Canal Scene"
+      ],
+      [
+        "Motorboats",
+        "image_646df960917d3162ea53d7bf0d6159f1"
+      ],
+      [
+        "Italy",
+        "image_646df960917d3162ea53d7bf0d6159f1"
+      ],
+      [
+        "Objects",
+        "image_646df960917d3162ea53d7bf0d6159f1"
+      ],
+      [
+        "Venice Canal Scene",
+        "image_646df960917d3162ea53d7bf0d6159f1"
+      ],
+      [
+        "Composition",
+        "Visual Analysis"
+      ],
+      [
+        "Visual Analysis",
+        "Visual Elements"
+      ],
+      [
+        "Colors",
+        "Visual Analysis"
+      ],
+      [
+        "Layout",
+        "image_646df960917d3162ea53d7bf0d6159f1"
+      ]
+    ],
+    "count": 45,
+    "update_time": 1766734160,
+    "_id": "doc-abe2d3443bbe69a42e93e1cd23334265"
+  }
+}

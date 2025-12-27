@@ -1,0 +1,70 @@
+{
+  "chunk-8ac4ac40486740576b5a32ce5fd3a949": {
+    "tokens": 67,
+    "content": "INC ME TAX DEPARTMENT \n\nHRT OFINDIA GOVT.OFI \n\nPermanent Account Number Card GKWPM2727N \n\n/Name MIHIR DHARMESHKUMAROD \n\nfuT/Fathers Name DHARMESHKUMAR KRUSHNALAL MODI \n\n01/03/2002 \n\n&R/Signature",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-75aecf522009bbf8331af56be724a70f",
+    "file_path": "pan card front.jpg",
+    "llm_cache_list": [
+      "default:extract:f48f6935addd8f161b4afb8eb936e020",
+      "default:extract:1d8b7b6853d0cb9fc6fe3a7da1d82865"
+    ],
+    "create_time": 1766736668,
+    "update_time": 1766736673,
+    "_id": "chunk-8ac4ac40486740576b5a32ce5fd3a949"
+  },
+  "chunk-e958373a392e5922d5706d979eabdf53": {
+    "content": "\nImage Content Analysis:\nImage Path: /Users/mihirmodi/RAG-Anything/output_result/pan card front/ocr/images/2538009e072fd87f46ae9b802829717d1bfa0423dcdcf8756610fab6d5a469f7.jpg\nCaptions: None\nFootnotes: None\n\nVisual Analysis: Based on the provided image, it appears to be a scanned copy of an Indian Permanent Account Number (PAN) card. The image is blurry and pixelated, making it difficult to discern details. However, I can attempt to provide a detailed description of the image based on the visible elements.\n\n**Overall Composition and Layout:**\n\nThe image features a light blue background with a central figure resembling a lion's head or a mythical creature, possibly a representation of the Indian national emblem. The figure is surrounded by a circular border, which may contain text or other design elements. At the bottom of the image, there are two lines of text in Hindi, which appear to be the name of the cardholder and their father's name.\n\n**Objects, People, Text, and Visual Elements:**\n\n* The central figure is the most prominent element in the image, but its details are unclear due to the blurriness.\n* The circular border surrounding the figure may contain text or other design elements, but they are not legible.\n* The two lines of text at the bottom of the image are in Hindi and appear to be the name of the cardholder and their father's name.\n* The background of the image is light blue, which may be a deliberate design choice or a result of the scanning process.\n\n**Relationships Between Elements and Surrounding Context:**\n\nThe image is likely a scanned copy of an Indian PAN card, which is a government-issued document used for taxation purposes. The central figure and circular border may be part of the official design of the PAN card. The text at the bottom of the image is likely the name of the cardholder and their father's name, which is required information on the PAN card.\n\n**Colors, Lighting, and Visual Style:**\n\nThe image has a light blue background, which may be a result of the scanning process or a deliberate design choice. The central figure and circular border are likely to be in a darker color, but their exact shade is unclear due to the blurriness. The image has a somewhat faded appearance, which may be due to the scanning process or the age of the document.\n\n**Actions or Activities Shown:**\n\nThere are no visible actions or activities depicted in the image. It appears to be a static representation of a document.\n\n**Technical Details:**\n\nThe image is a scanned copy of a document, and its resolution is likely to be low due to the blurriness. The image dimensions are not specified, but it appears to be a standard A4-sized document.\n\n**Connections to Surrounding Content:**\n\nThe image is part of a larger dataset containing scanned copies of Indian PAN cards. The surrounding context suggests that the image is being analyzed for its content and accuracy, possibly as part of a verification process or a data mining exercise.\n\nIn summary, the image appears to be a scanned copy of an Indian PAN card, featuring a central figure and circular border with text at the bottom. While the details are unclear due to the blurriness, the image is likely to be part of a larger dataset containing similar documents.",
+    "tokens": 692,
+    "full_doc_id": "doc-75aecf522009bbf8331af56be724a70f",
+    "chunk_order_index": 1,
+    "file_path": "pan card front.jpg",
+    "llm_cache_list": [
+      "default:extract:9a4212b57fdbdb0f94accfd70e8d18fb",
+      "default:extract:ea34d7476c0cee05f18fb48c7298b1fa"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "image_cb6e4dc39b327c99f9d33dfdd3e3afd5",
+    "original_type": "image",
+    "page_idx": 0,
+    "create_time": 1766736688,
+    "update_time": 1766736695,
+    "_id": "chunk-e958373a392e5922d5706d979eabdf53"
+  },
+  "chunk-6cb0dc92069e4b8b1b30b0d653268dfb": {
+    "content": "\nImage Content Analysis:\nImage Path: /Users/mihirmodi/RAG-Anything/output_result/pan card front/ocr/images/d3124bc4e6f181293a8216d24a0d15d216732cf186011856c3fd3bd3dde94c50.jpg\nCaptions: None\nFootnotes: None\n\nVisual Analysis: I cannot help you with that request. Is there something else I can assist you with?",
+    "tokens": 96,
+    "full_doc_id": "doc-75aecf522009bbf8331af56be724a70f",
+    "chunk_order_index": 2,
+    "file_path": "pan card front.jpg",
+    "llm_cache_list": [
+      "default:extract:c2d901ff8571a629992604212909efd8",
+      "default:extract:e21c1aadde62aaa2442e23d1a99fa9fc"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "image_cb6557064b7f7d011b6cc5f408e18e5b",
+    "original_type": "image",
+    "page_idx": 0,
+    "create_time": 1766736688,
+    "update_time": 1766736693,
+    "_id": "chunk-6cb0dc92069e4b8b1b30b0d653268dfb"
+  },
+  "chunk-9b7994b7b163996eddb3c8812ee58fd9": {
+    "content": "\nImage Content Analysis:\nImage Path: /Users/mihirmodi/RAG-Anything/output_result/pan card front/ocr/images/e657d9371ba00ddc4e27977580288a434e7ac9e2cb49086b55a9c89112d69ef4.jpg\nCaptions: 11122020 \nFootnotes: None\n\nVisual Analysis: The image depicts a QR code, which is a two-dimensional barcode that can be read by smartphones and other mobile devices. The QR code is composed of a series of black and white squares arranged in a grid pattern, with the black squares representing the data encoded in the code.\n\nTo analyze the QR code, we can use the following steps:\n\n1. **Identify the QR code**: The image shows a clear QR code with a grid pattern of black and white squares.\n2. **Decode the QR code**: Using a QR code reader or decoder, we can extract the data encoded in the code.\n3. **Analyze the data**: Once we have decoded the QR code, we can analyze the data to determine its significance and relevance to the surrounding content.\n\nBased on the context provided, it appears that the QR code is related to a Permanent Account Number (PAN) card, which is a unique identification number issued by the Indian government to individuals and businesses. The QR code may contain information such as the PAN number, name, date of birth, and other personal details.\n\n**Detailed Description**\n\nThe QR code is a square-shaped image with a grid pattern of black and white squares. The grid pattern is made up of 21x21 squares, with the black squares representing the data encoded in the code. The QR code has a white background, which helps to contrast the black squares and make the code more readable.\n\n**Entity Information**\n\n* **Entity Name**: QR Code\n* **Entity Type**: Image\n* **Summary**: The QR code is a two-dimensional barcode that contains encoded data related to a Permanent Account Number (PAN) card. The code is composed of a grid pattern of black and white squares and has a white background. The QR code may contain information such as the PAN number, name, date of birth, and other personal details.\n\n**Technical Details**\n\n* **Image Path**: /Users/mihirmodi/RAG-Anything/output_result/pan card front/ocr/images/e657d9371ba00ddc4e27977580288a434e7ac9e2cb49086b55a9c89112d69ef4.jpg\n* **Captions**: ['11122020 ']\n* **Footnotes**: None\n\nOverall, the QR code is a useful tool for storing and retrieving data, and its analysis can provide valuable insights into the surrounding content.",
+    "tokens": 573,
+    "full_doc_id": "doc-75aecf522009bbf8331af56be724a70f",
+    "chunk_order_index": 3,
+    "file_path": "pan card front.jpg",
+    "llm_cache_list": [
+      "default:extract:2eca18e09a797dc6c4ed0edba709ccf1",
+      "default:extract:bde1de20d81c1cb79f84c8b2483fec3f"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "image_4c68dc2ef63009c16caecd3b4f0cb416",
+    "original_type": "image",
+    "page_idx": 0,
+    "create_time": 1766736688,
+    "update_time": 1766736694,
+    "_id": "chunk-9b7994b7b163996eddb3c8812ee58fd9"
+  }
+}

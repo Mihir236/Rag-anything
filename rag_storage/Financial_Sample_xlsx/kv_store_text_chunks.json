@@ -1,0 +1,34 @@
+{
+  "chunk-9a4c2db8a601b65fa13c38c3010140c8": {
+    "tokens": 41,
+    "content": "Segment Country Product Discount Band Units Sold Government Canada Carretera None $\\$ 1$ 1,618.50 Government Germany Carretera None $\\$ 1$ 1,321.00",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-e30efba1eafa9a913d1c0eb8635a7c72",
+    "file_path": "Financial Sample.xlsx",
+    "llm_cache_list": [
+      "default:extract:7b9b23da29ac863e9626e00f170148eb",
+      "default:extract:097a66b864415a8f2c56c805524dde96"
+    ],
+    "create_time": 1766835142,
+    "update_time": 1766835148,
+    "_id": "chunk-9a4c2db8a601b65fa13c38c3010140c8"
+  },
+  "chunk-ae22bc11da88a6893c5c587671b33a06": {
+    "content": "Table Analysis:\nImage Path: /Users/mihirmodi/RAG-Anything/rag_storage/Financial_Sample_xlsx/output/Financial Sample/auto/images/19c1901edb9c5b6e35fae09051f3346d1db32149287ae81a25cbd28057792b51.jpg\nCaption: None\nStructure: <table><tr><td>Manufacturing PI Sale Price</td><td></td><td>Column1</td><td>Column2</td><td>Column3</td><td>Column4</td></tr><tr><td>$ 3.00$</td><td>20.00</td><td></td><td></td><td></td><td></td></tr><tr><td>$ 3.00</td><td>$ 20.00</td><td></td><td></td><td></td><td></td></tr></table>\nFootnotes: None\n\nAnalysis: A comprehensive analysis of the table reveals key insights and relationships between manufacturing PI sale price, discount band, and units sold. The table structure and organization suggest a focus on product pricing and sales performance. Column headers and their meanings indicate that the data represents a snapshot of sales data for different products. Key data points and patterns show a strong relationship between the manufacturing PI sale price and units sold, with a discount band of None resulting in higher sales. Statistical insights and trends suggest that the sales data is influenced by the product pricing strategy. Relationships between data elements reveal a direct correlation between the manufacturing PI sale price and units sold, indicating that higher prices may lead to lower sales. The significance of the data presented in relation to surrounding content highlights the importance of product pricing in driving sales performance. The table supports the concept that government policies, such as the Carretera discount, can have a significant impact on sales performance. Overall, the table provides valuable insights into the relationship between product pricing, sales performance, and government policies.",
+    "tokens": 414,
+    "full_doc_id": "doc-e30efba1eafa9a913d1c0eb8635a7c72",
+    "chunk_order_index": 1,
+    "file_path": "Financial Sample.xlsx",
+    "llm_cache_list": [
+      "default:extract:48735752268d33ea7d37a29ce8a748f1",
+      "default:extract:bd9e2e9ecff6067e82b407fa208e0954"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "Manufacturing PI Sale Price and Sales Data (table)",
+    "original_type": "table",
+    "page_idx": 1,
+    "create_time": 1766835157,
+    "update_time": 1766835168,
+    "_id": "chunk-ae22bc11da88a6893c5c587671b33a06"
+  }
+}

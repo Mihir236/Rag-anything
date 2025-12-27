@@ -1,0 +1,339 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d13" for="edge" attr.name="truncate" attr.type="string"/>
+<key id="d12" for="edge" attr.name="created_at" attr.type="long"/>
+<key id="d11" for="edge" attr.name="file_path" attr.type="string"/>
+<key id="d10" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d9" for="edge" attr.name="keywords" attr.type="string"/>
+<key id="d8" for="edge" attr.name="description" attr.type="string"/>
+<key id="d7" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d6" for="node" attr.name="truncate" attr.type="string"/>
+<key id="d5" for="node" attr.name="created_at" attr.type="long"/>
+<key id="d4" for="node" attr.name="file_path" attr.type="string"/>
+<key id="d3" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d2" for="node" attr.name="description" attr.type="string"/>
+<key id="d1" for="node" attr.name="entity_type" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_id" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Canada">
+  <data key="d0">Canada</data>
+  <data key="d1">location</data>
+  <data key="d2">Canada is a country involved in a government transaction.</data>
+  <data key="d3">chunk-9a4c2db8a601b65fa13c38c3010140c8</data>
+  <data key="d4">Financial Sample.xlsx</data>
+  <data key="d5">1766835148</data>
+  <data key="d6"></data>
+</node>
+<node id="Germany">
+  <data key="d0">Germany</data>
+  <data key="d1">location</data>
+  <data key="d2">Germany is a country involved in a government transaction.</data>
+  <data key="d3">chunk-9a4c2db8a601b65fa13c38c3010140c8</data>
+  <data key="d4">Financial Sample.xlsx</data>
+  <data key="d5">1766835148</data>
+  <data key="d6"></data>
+</node>
+<node id="Government">
+  <data key="d0">Government</data>
+  <data key="d1">organization</data>
+  <data key="d2">Government refers to a public authority or administration.</data>
+  <data key="d3">chunk-9a4c2db8a601b65fa13c38c3010140c8</data>
+  <data key="d4">Financial Sample.xlsx</data>
+  <data key="d5">1766835148</data>
+  <data key="d6"></data>
+</node>
+<node id="Carretera">
+  <data key="d0">Carretera</data>
+  <data key="d1">organization</data>
+  <data key="d2">Carretera is an organization involved in a government transaction.</data>
+  <data key="d3">chunk-9a4c2db8a601b65fa13c38c3010140c8</data>
+  <data key="d4">Financial Sample.xlsx</data>
+  <data key="d5">1766835148</data>
+  <data key="d6"></data>
+</node>
+<node id="Product">
+  <data key="d0">Product</data>
+  <data key="d1">concept</data>
+  <data key="d2">Product refers to a tangible or intangible item being sold.</data>
+  <data key="d3">chunk-9a4c2db8a601b65fa13c38c3010140c8</data>
+  <data key="d4">Financial Sample.xlsx</data>
+  <data key="d5">1766835148</data>
+  <data key="d6"></data>
+</node>
+<node id="Discount Band">
+  <data key="d0">Discount Band</data>
+  <data key="d1">concept</data>
+  <data key="d2">Discount Band is a pricing strategy or tiered system used for promotions.&lt;SEP&gt;Discount Band refers to the range of prices at which a product is sold, which is a key aspect of the table analysis.</data>
+  <data key="d3">chunk-9a4c2db8a601b65fa13c38c3010140c8&lt;SEP&gt;chunk-ae22bc11da88a6893c5c587671b33a06</data>
+  <data key="d4">Financial Sample.xlsx</data>
+  <data key="d5">1766835168</data>
+  <data key="d6"></data>
+</node>
+<node id="Manufacturing PI Sale Price and Sales Data (table)">
+  <data key="d0">Manufacturing PI Sale Price and Sales Data (table)</data>
+  <data key="d1">table</data>
+  <data key="d2">This table presents a snapshot of sales data for different products, highlighting the relationship between manufacturing PI sale price, discount band, and units sold. The data suggests that higher prices may lead to lower sales and that government policies can have a significant impact on sales performance.</data>
+  <data key="d3">chunk-ae22bc11da88a6893c5c587671b33a06</data>
+  <data key="d4">Financial Sample.xlsx</data>
+  <data key="d5">1766835158</data>
+</node>
+<node id="Mihir Modi">
+  <data key="d0">Mihir Modi</data>
+  <data key="d1">person</data>
+  <data key="d2">Mihir Modi is the individual who performed table analysis and is associated with the image path.</data>
+  <data key="d3">chunk-ae22bc11da88a6893c5c587671b33a06</data>
+  <data key="d4">Financial Sample.xlsx</data>
+  <data key="d5">1766835168</data>
+  <data key="d6"></data>
+</node>
+<node id="Financial Sample">
+  <data key="d0">Financial Sample</data>
+  <data key="d1">data</data>
+  <data key="d2">Financial Sample is a dataset used in the table analysis and is associated with the image path.</data>
+  <data key="d3">chunk-ae22bc11da88a6893c5c587671b33a06</data>
+  <data key="d4">Financial Sample.xlsx</data>
+  <data key="d5">1766835168</data>
+  <data key="d6"></data>
+</node>
+<node id="Manufacturing PI Sale Price">
+  <data key="d0">Manufacturing PI Sale Price</data>
+  <data key="d1">concept</data>
+  <data key="d2">Manufacturing PI Sale Price refers to the price of products manufactured by a company, which is a key aspect of the table analysis.</data>
+  <data key="d3">chunk-ae22bc11da88a6893c5c587671b33a06</data>
+  <data key="d4">Financial Sample.xlsx</data>
+  <data key="d5">1766835168</data>
+  <data key="d6"></data>
+</node>
+<node id="Units Sold">
+  <data key="d0">Units Sold</data>
+  <data key="d1">concept</data>
+  <data key="d2">Units Sold refers to the quantity of products sold, which is a key aspect of the table analysis.</data>
+  <data key="d3">chunk-ae22bc11da88a6893c5c587671b33a06</data>
+  <data key="d4">Financial Sample.xlsx</data>
+  <data key="d5">1766835168</data>
+  <data key="d6"></data>
+</node>
+<node id="Carretera Discount">
+  <data key="d0">Carretera Discount</data>
+  <data key="d1">concept</data>
+  <data key="d2">Carretera Discount refers to a government policy that affects sales performance, which is a key aspect of the table analysis.</data>
+  <data key="d3">chunk-ae22bc11da88a6893c5c587671b33a06</data>
+  <data key="d4">Financial Sample.xlsx</data>
+  <data key="d5">1766835168</data>
+  <data key="d6"></data>
+</node>
+<node id="Table Analysis">
+  <data key="d0">Table Analysis</data>
+  <data key="d1">concept</data>
+  <data key="d2">Table Analysis refers to the process of examining and interpreting the data presented in the table.</data>
+  <data key="d3">chunk-ae22bc11da88a6893c5c587671b33a06</data>
+  <data key="d4">Financial Sample.xlsx</data>
+  <data key="d5">1766835168</data>
+  <data key="d6"></data>
+</node>
+<node id="Table">
+  <data key="d0">Table</data>
+  <data key="d1">artifact</data>
+  <data key="d2">Table refers to the structured data presented in the input text, which contains key insights and relationships between manufacturing PI sale price, discount band, and units sold.</data>
+  <data key="d3">chunk-ae22bc11da88a6893c5c587671b33a06</data>
+  <data key="d4">Financial Sample.xlsx</data>
+  <data key="d5">1766835168</data>
+  <data key="d6"></data>
+</node>
+<node id="Column Headers">
+  <data key="d0">Column Headers</data>
+  <data key="d1">concept</data>
+  <data key="d2">Column Headers refer to the labels at the top of each column in the table, which indicate the meaning and significance of the data presented.</data>
+  <data key="d3">chunk-ae22bc11da88a6893c5c587671b33a06</data>
+  <data key="d4">Financial Sample.xlsx</data>
+  <data key="d5">1766835168</data>
+  <data key="d6"></data>
+</node>
+<edge source="Canada" target="Government">
+  <data key="d7">1.0</data>
+  <data key="d8">Government is associated with the country of Canada.</data>
+  <data key="d9">country,government entity</data>
+  <data key="d10">chunk-9a4c2db8a601b65fa13c38c3010140c8</data>
+  <data key="d11">Financial Sample.xlsx</data>
+  <data key="d12">1766835149</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Germany" target="Government">
+  <data key="d7">1.0</data>
+  <data key="d8">Government is associated with the country of Germany.</data>
+  <data key="d9">country,government entity</data>
+  <data key="d10">chunk-9a4c2db8a601b65fa13c38c3010140c8</data>
+  <data key="d11">Financial Sample.xlsx</data>
+  <data key="d12">1766835149</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Government" target="Carretera">
+  <data key="d7">3.0</data>
+  <data key="d8">Government is involved in a transaction with Carretera, specifically regarding the Product and Discount Band.&lt;SEP&gt;Government is associated with the currency used in transactions with Carretera, specifically $1.&lt;SEP&gt;Government is associated with the units sold by Carretera, specifically 1,618.50 and 1,321.00.</data>
+  <data key="d9">currency,government entity,government organization,transaction,units sold</data>
+  <data key="d10">chunk-9a4c2db8a601b65fa13c38c3010140c8</data>
+  <data key="d11">Financial Sample.xlsx</data>
+  <data key="d12">1766835150</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Discount Band" target="Manufacturing PI Sale Price">
+  <data key="d7">1.0</data>
+  <data key="d8">The manufacturing PI sale price and discount band are related in terms of product pricing and sales performance.</data>
+  <data key="d9">product pricing,sales performance</data>
+  <data key="d10">chunk-ae22bc11da88a6893c5c587671b33a06</data>
+  <data key="d11">Financial Sample.xlsx</data>
+  <data key="d12">1766835169</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Discount Band" target="Manufacturing PI Sale Price and Sales Data (table)">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Discount Band belongs to Manufacturing PI Sale Price and Sales Data (table)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-ae22bc11da88a6893c5c587671b33a06</data>
+  <data key="d11">Financial Sample.xlsx</data>
+  <data key="d12">1766835172</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Discount Band" target="Column Headers">
+  <data key="d7">1.0</data>
+  <data key="d8">The discount band is represented in the table through column headers that indicate its significance and relationship to other data elements.</data>
+  <data key="d9">data representation,product pricing</data>
+  <data key="d10">chunk-ae22bc11da88a6893c5c587671b33a06</data>
+  <data key="d11">Financial Sample.xlsx</data>
+  <data key="d12">1766835173</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Manufacturing PI Sale Price and Sales Data (table)" target="Mihir Modi">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Mihir Modi belongs to Manufacturing PI Sale Price and Sales Data (table)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-ae22bc11da88a6893c5c587671b33a06</data>
+  <data key="d11">Financial Sample.xlsx</data>
+  <data key="d12">1766835169</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Manufacturing PI Sale Price and Sales Data (table)" target="Units Sold">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Units Sold belongs to Manufacturing PI Sale Price and Sales Data (table)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-ae22bc11da88a6893c5c587671b33a06</data>
+  <data key="d11">Financial Sample.xlsx</data>
+  <data key="d12">1766835170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Manufacturing PI Sale Price and Sales Data (table)" target="Table Analysis">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Table Analysis belongs to Manufacturing PI Sale Price and Sales Data (table)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-ae22bc11da88a6893c5c587671b33a06</data>
+  <data key="d11">Financial Sample.xlsx</data>
+  <data key="d12">1766835171</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Manufacturing PI Sale Price and Sales Data (table)" target="Table">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Table belongs to Manufacturing PI Sale Price and Sales Data (table)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-ae22bc11da88a6893c5c587671b33a06</data>
+  <data key="d11">Financial Sample.xlsx</data>
+  <data key="d12">1766835172</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Manufacturing PI Sale Price and Sales Data (table)" target="Financial Sample">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Financial Sample belongs to Manufacturing PI Sale Price and Sales Data (table)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-ae22bc11da88a6893c5c587671b33a06</data>
+  <data key="d11">Financial Sample.xlsx</data>
+  <data key="d12">1766835173</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Manufacturing PI Sale Price and Sales Data (table)" target="Carretera Discount">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Carretera Discount belongs to Manufacturing PI Sale Price and Sales Data (table)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-ae22bc11da88a6893c5c587671b33a06</data>
+  <data key="d11">Financial Sample.xlsx</data>
+  <data key="d12">1766835174</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Manufacturing PI Sale Price and Sales Data (table)" target="Manufacturing PI Sale Price">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Manufacturing PI Sale Price belongs to Manufacturing PI Sale Price and Sales Data (table)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-ae22bc11da88a6893c5c587671b33a06</data>
+  <data key="d11">Financial Sample.xlsx</data>
+  <data key="d12">1766835174</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Manufacturing PI Sale Price and Sales Data (table)" target="Column Headers">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Column Headers belongs to Manufacturing PI Sale Price and Sales Data (table)</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-ae22bc11da88a6893c5c587671b33a06</data>
+  <data key="d11">Financial Sample.xlsx</data>
+  <data key="d12">1766835175</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Mihir Modi" target="Financial Sample">
+  <data key="d7">1.0</data>
+  <data key="d8">Mihir Modi performed table analysis on Financial Sample and is associated with the image path.</data>
+  <data key="d9">data analysis,image path</data>
+  <data key="d10">chunk-ae22bc11da88a6893c5c587671b33a06</data>
+  <data key="d11">Financial Sample.xlsx</data>
+  <data key="d12">1766835169</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Manufacturing PI Sale Price" target="Units Sold">
+  <data key="d7">1.0</data>
+  <data key="d8">The manufacturing PI sale price and units sold are directly correlated, indicating that higher prices may lead to lower sales.</data>
+  <data key="d9">product pricing,sales performance</data>
+  <data key="d10">chunk-ae22bc11da88a6893c5c587671b33a06</data>
+  <data key="d11">Financial Sample.xlsx</data>
+  <data key="d12">1766835169</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Manufacturing PI Sale Price" target="Carretera Discount">
+  <data key="d7">1.0</data>
+  <data key="d8">The Carretera discount is a government policy that affects sales performance and is related to the manufacturing PI sale price.</data>
+  <data key="d9">government policy,product pricing</data>
+  <data key="d10">chunk-ae22bc11da88a6893c5c587671b33a06</data>
+  <data key="d11">Financial Sample.xlsx</data>
+  <data key="d12">1766835170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Manufacturing PI Sale Price" target="Table Analysis">
+  <data key="d7">1.0</data>
+  <data key="d8">The table analysis provides insights into the relationship between the manufacturing PI sale price and product pricing.</data>
+  <data key="d9">data interpretation,product pricing</data>
+  <data key="d10">chunk-ae22bc11da88a6893c5c587671b33a06</data>
+  <data key="d11">Financial Sample.xlsx</data>
+  <data key="d12">1766835170</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Manufacturing PI Sale Price" target="Column Headers">
+  <data key="d7">1.0</data>
+  <data key="d8">The manufacturing PI sale price is represented in the table through column headers that indicate its significance and relationship to other data elements.</data>
+  <data key="d9">data representation,product pricing</data>
+  <data key="d10">chunk-ae22bc11da88a6893c5c587671b33a06</data>
+  <data key="d11">Financial Sample.xlsx</data>
+  <data key="d12">1766835171</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Units Sold" target="Column Headers">
+  <data key="d7">1.0</data>
+  <data key="d8">The units sold are represented in the table through column headers that indicate its significance and relationship to other data elements.</data>
+  <data key="d9">data representation,sales performance</data>
+  <data key="d10">chunk-ae22bc11da88a6893c5c587671b33a06</data>
+  <data key="d11">Financial Sample.xlsx</data>
+  <data key="d12">1766835174</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Carretera Discount" target="Table Analysis">
+  <data key="d7">1.0</data>
+  <data key="d8">The Carretera discount is a government policy that affects sales performance and is related to the table analysis.</data>
+  <data key="d9">data interpretation,government policy</data>
+  <data key="d10">chunk-ae22bc11da88a6893c5c587671b33a06</data>
+  <data key="d11">Financial Sample.xlsx</data>
+  <data key="d12">1766835171</data>
+  <data key="d13"></data>
+</edge>
+</graph></graphml>

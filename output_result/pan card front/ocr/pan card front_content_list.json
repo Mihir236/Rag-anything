@@ -1,0 +1,120 @@
+[
+    {
+        "type": "text",
+        "text": "INC ME TAX DEPARTMENT ",
+        "bbox": [
+            154,
+            280,
+            415,
+            378
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/2538009e072fd87f46ae9b802829717d1bfa0423dcdcf8756610fab6d5a469f7.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            457,
+            283,
+            504,
+            385
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "HRT OFINDIA GOVT.OFI ",
+        "bbox": [
+            542,
+            290,
+            742,
+            375
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Permanent Account Number Card GKWPM2727N ",
+        "bbox": [
+            303,
+            397,
+            553,
+            515
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/d3124bc4e6f181293a8216d24a0d15d216732cf186011856c3fd3bd3dde94c50.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            162,
+            390,
+            283,
+            546
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "/Name MIHIR DHARMESHKUMAROD ",
+        "bbox": [
+            162,
+            552,
+            414,
+            602
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/e657d9371ba00ddc4e27977580288a434e7ac9e2cb49086b55a9c89112d69ef4.jpg",
+        "image_caption": [
+            "11122020 "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            577,
+            395,
+            749,
+            639
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "fuT/Fathers Name DHARMESHKUMAR KRUSHNALAL MODI ",
+        "bbox": [
+            164,
+            622,
+            480,
+            675
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "01/03/2002 ",
+        "bbox": [
+            164,
+            696,
+            280,
+            777
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "&R/Signature",
+        "bbox": [
+            406,
+            676,
+            551,
+            768
+        ],
+        "page_idx": 0
+    }
+]

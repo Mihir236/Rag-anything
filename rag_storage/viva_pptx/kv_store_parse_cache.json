@@ -1,0 +1,1322 @@
+{
+  "ef5326d95a2964c0e4157f83e280e38b": {
+    "content_list": [
+      {
+        "type": "text",
+        "text": "CS791- Comprehensive viva ",
+        "text_level": 1,
+        "bbox": [
+          328,
+          170,
+          671,
+          227
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "Multi-Agent System for Intelligent Query Processing ",
+        "bbox": [
+          234,
+          259,
+          765,
+          307
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "Presented by, ",
+        "bbox": [
+          431,
+          338,
+          567,
+          387
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "Mihir Modi- 202462001, ",
+        "bbox": [
+          381,
+          414,
+          614,
+          457
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "MTech (3rd Semester) in DS ",
+        "bbox": [
+          371,
+          485,
+          627,
+          529
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "Internal Guide, Guided by, Dr. Ravi Nahta Mukesh Siroya ",
+        "bbox": [
+          337,
+          562,
+          676,
+          655
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "text",
+        "text": "Overview ",
+        "text_level": 1,
+        "bbox": [
+          2,
+          22,
+          123,
+          72
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "image",
+        "img_path": "/Users/mihirmodi/RAG-Anything/output_viva/viva/auto/images/2da94972aa3cf65bf9ec7f9167d66b99c6f4b098e7101c7576c6b787d16d655b.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          870,
+          1,
+          997,
+          229
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Introduction   \nProblem Definition   \nMotivation   \nWorkflow Diagram   \nImplementation Details   \nPDF Chatboard Extension   \nMulti-Modal Extension   \nAgentic RAG Extension   \nAPIs List   \nInitial Results   \nConclusion   \nFuture Work   \nReference ",
+        "bbox": [
+          43,
+          118,
+          216,
+          898
+        ],
+        "page_idx": 1
+      },
+      {
+        "type": "text",
+        "text": "Overview: A Python-based multi-agent system integrating weather, GitHub, Q&A, PDF querying, image analysis, and agentic RAG for intelligent, multi-domain query processing. ",
+        "bbox": [
+          76,
+          216,
+          901,
+          303
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "text",
+        "text": "Key Features: ",
+        "text_level": 1,
+        "bbox": [
+          80,
+          353,
+          197,
+          388
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "text",
+        "text": "• Typo correction (e.g., \"Ahmmedabad\" \"Ahmedabad\") using NVIDIA LLaMA-3 Asynchronous processing with asyncio for speed Modular agents: WeatherAgent, GitHubAgent, QAAgent Extensions: PDF Chatboard, Multi-Modal Image Analysis, Agentic RAG with evaluati ",
+        "bbox": [
+          88,
+          396,
+          819,
+          570
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "text",
+        "text": "Objective: Deliver scalable, accurate, user-friendly query resolution. ",
+        "bbox": [
+          84,
+          616,
+          655,
+          659
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "text",
+        "text": "Scope: Leverages NVIDIA, Gemini, WeatherAPI, and GitHub API in Google Colab ",
+        "bbox": [
+          84,
+          705,
+          755,
+          746
+        ],
+        "page_idx": 2
+      },
+      {
+        "type": "text",
+        "text": "Given: Diverse user queries across domains (weather, repositories, general knowledge, documents, images) ",
+        "bbox": [
+          47,
+          229,
+          897,
+          312
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "text",
+        "text": "Objective: Provide structured, efficient responses with minimal user effort ",
+        "bbox": [
+          53,
+          362,
+          681,
+          405
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "text",
+        "text": "Challenges: ",
+        "bbox": [
+          48,
+          453,
+          152,
+          492
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "text",
+        "text": "Varied Query Styles: Inconsistent inputs (e.g., \"Patan temp\" vs. \"weather in Patan\")   \nAPI Restrictions: Rate limits and potential failures   \nScalability: Handle multiple simultaneous queries quickly   \nAccuracy: Correct typos and resolve ambiguous inputs ",
+        "bbox": [
+          56,
+          500,
+          797,
+          672
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "text",
+        "text": "Goal: Build an AI-driven, typo-correcting, scalable query processing system ",
+        "bbox": [
+          54,
+          718,
+          684,
+          761
+        ],
+        "page_idx": 3
+      },
+      {
+        "type": "image",
+        "img_path": "/Users/mihirmodi/RAG-Anything/output_viva/viva/auto/images/8f9a79bf702482f05cd292dfcedb65f1a74db6bd6328c8a74fe54f707d7fd4da.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          870,
+          1,
+          996,
+          225
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "Why It Matters: Fast, accurate information access is critical for decision-making in education, software development, and daily planning ",
+        "bbox": [
+          65,
+          214,
+          864,
+          301
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "Real-World Impact: ",
+        "bbox": [
+          69,
+          350,
+          241,
+          387
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "Software Development: Quick GitHub repo insights for collaboration Education: Reliable answers for students and researchers Daily Use: Real-time weather for planning (e.g., city storm response) ",
+        "bbox": [
+          81,
+          394,
+          693,
+          524
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "Benefits: ",
+        "text_level": 1,
+        "bbox": [
+          70,
+          572,
+          150,
+          609
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "Modularity: Easy to add new agents Efficiency: Async processing and caching User-Friendly: Typo correction and suggestions Extensibility: Supports new APIs and tasks ",
+        "bbox": [
+          80,
+          616,
+          481,
+          790
+        ],
+        "page_idx": 4
+      },
+      {
+        "type": "text",
+        "text": "WorkFlow Diagram ",
+        "text_level": 1,
+        "bbox": [
+          1,
+          75,
+          291,
+          137
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "image",
+        "img_path": "/Users/mihirmodi/RAG-Anything/output_viva/viva/auto/images/4c564fc58f9f9b0cf6178d217cf604b1263872e6676bbee5688b932009548e8d.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          93,
+          244,
+          908,
+          766
+        ],
+        "page_idx": 5
+      },
+      {
+        "type": "text",
+        "text": "Implementation Details ",
+        "text_level": 1,
+        "bbox": [
+          2,
+          72,
+          281,
+          125
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "Environment: Google Colab, Python $3 . 1 0 +$ , asyncio for asynchronous processing. ",
+        "bbox": [
+          54,
+          151,
+          745,
+          194
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "image",
+        "img_path": "/Users/mihirmodi/RAG-Anything/output_viva/viva/auto/images/598327bf5141204ee1759ac6c1ee4ea74bb173869efec1c3bd53d31060ca81a6.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          870,
+          1,
+          996,
+          227
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "Key Libraries: ",
+        "bbox": [
+          53,
+          242,
+          187,
+          279
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "Core: langchain, langgraph, faiss-cpu, ragas, PyPDF2, google-generativeai.   \nSupport: requests, beautifulsoup4, pillow, pydantic, nest_asyncio, backoff. ",
+        "bbox": [
+          56,
+          281,
+          703,
+          372
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "Techniques: ",
+        "text_level": 1,
+        "bbox": [
+          56,
+          420,
+          162,
+          459
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "Async I/O for parallel query handling.   \nFAISS vector store for efficient retrieval.   \nPickle-based caching for API call reduction.   \nBackoff retries for robust API interactions. ",
+        "bbox": [
+          67,
+          464,
+          440,
+          637
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "Key Functions: ",
+        "text_level": 1,
+        "bbox": [
+          54,
+          687,
+          191,
+          725
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "correct_spelling(): Typo correction via NVIDIA LLaMA-3.   \nprocess_query(): Agent-specific logic.   \nmain(): Async console interface. ",
+        "bbox": [
+          68,
+          729,
+          567,
+          861
+        ],
+        "page_idx": 6
+      },
+      {
+        "type": "text",
+        "text": "PDF Chatboard Extension ",
+        "text_level": 1,
+        "bbox": [
+          1,
+          70,
+          311,
+          122
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "text",
+        "text": "What: Console-based tool for uploading and querying PDFs. ",
+        "bbox": [
+          59,
+          192,
+          579,
+          235
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "text",
+        "text": "Why: Enables document-specific Q&A for research and education ",
+        "bbox": [
+          63,
+          281,
+          626,
+          324
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "text",
+        "text": "How: ",
+        "text_level": 1,
+        "bbox": [
+          65,
+          372,
+          116,
+          409
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "text",
+        "text": "Uploads PDFs via google.colab.files   \nExtracts text with PyPDF2 and cleans using regex   \nAnswers queries with NVIDIA LLaMA-3.1-8B-Instruct via OpenAI SDK. ",
+        "bbox": [
+          75,
+          416,
+          731,
+          546
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "image",
+        "img_path": "/Users/mihirmodi/RAG-Anything/output_viva/viva/auto/images/b7873e1fd120f1dbd6bf77b5ff031b8480f2cafc7100526fe4a19c3cbf767ad2.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          870,
+          1,
+          997,
+          227
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "text",
+        "text": "Key Functions: ",
+        "text_level": 1,
+        "bbox": [
+          65,
+          594,
+          203,
+          635
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "text",
+        "text": "save_pdf_to_local(): Saves uploaded PDFs   \nextract_text_from_pdf(): Processes text   \ngenerate_answer(): Delivers concise responses (1-2 sentences) ",
+        "bbox": [
+          75,
+          638,
+          630,
+          770
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "text",
+        "text": "Example: Query “What is NLP?” on a PDF yields concise answer ",
+        "bbox": [
+          64,
+          814,
+          623,
+          859
+        ],
+        "page_idx": 7
+      },
+      {
+        "type": "text",
+        "text": "PDF Chatboard Output ",
+        "text_level": 1,
+        "bbox": [
+          1,
+          70,
+          277,
+          125
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "text",
+        "text": "Your query: what is svm，give me ans from svm.pdf I believe you meant:'What is SVM? Give me an answer from SVM.pdf' ",
+        "bbox": [
+          13,
+          177,
+          358,
+          224
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "text",
+        "text": "□ Answer (Source:PDF Chatboard (RAG on SVM.pdf)): ",
+        "bbox": [
+          16,
+          259,
+          277,
+          283
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "text",
+        "text": "Here is a concise answer: ",
+        "bbox": [
+          14,
+          301,
+          145,
+          325
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "text",
+        "text": "SVstandsforisaaiiaoaetetn === ",
+        "bbox": [
+          12,
+          340,
+          876,
+          385
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "text",
+        "text": "",
+        "bbox": [
+          14,
+          401,
+          193,
+          422
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "text",
+        "text": "Your query: what is svm , give me ans from svm.pdf I believe you meant: 'What is SVM? Give me an answer from SVM.pdf' ",
+        "bbox": [
+          7,
+          468,
+          969,
+          544
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "text",
+        "text": "Answer (Source: PDF Chatboard (RAG on SVM.pdf)): ",
+        "text_level": 1,
+        "bbox": [
+          7,
+          585,
+          544,
+          625
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "text",
+        "text": "is a concise answer: SVM stands for Support Vector Machines, which is a binary classification technique that aims to maximize the margin between two classes by finding the optimal hyperplane that separates them. The SVM decision function can als be represented as a linear programming problem, allowing for the generalization of th optimization problem to multi-class classification. ",
+        "bbox": [
+          5,
+          666,
+          957,
+          866
+        ],
+        "page_idx": 8
+      },
+      {
+        "type": "image",
+        "img_path": "/Users/mihirmodi/RAG-Anything/output_viva/viva/auto/images/daa5b8fbca9581a931e879d843c7ce7cc8331bbed9114e24d91db1429b5116f7.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          870,
+          1,
+          997,
+          227
+        ],
+        "page_idx": 9
+      },
+      {
+        "type": "text",
+        "text": "What: Analyzes .jpg/.png images using Gemini 2.5 Flash or local fallback ",
+        "bbox": [
+          62,
+          190,
+          691,
+          235
+        ],
+        "page_idx": 9
+      },
+      {
+        "type": "text",
+        "text": "Why: Provides structured visual analysis for diverse applications ",
+        "bbox": [
+          62,
+          279,
+          615,
+          322
+        ],
+        "page_idx": 9
+      },
+      {
+        "type": "text",
+        "text": "How: ",
+        "text_level": 1,
+        "bbox": [
+          66,
+          370,
+          115,
+          407
+        ],
+        "page_idx": 9
+      },
+      {
+        "type": "text",
+        "text": "Uploads images via google.colab.files Gemini API for detailed analysis (scene, objects, colors, environment) Local PIL-based fallback for API failures (metadata analysis) ",
+        "bbox": [
+          75,
+          414,
+          666,
+          544
+        ],
+        "page_idx": 9
+      },
+      {
+        "type": "text",
+        "text": "Key Functions: ",
+        "text_level": 1,
+        "bbox": [
+          65,
+          592,
+          203,
+          633
+        ],
+        "page_idx": 9
+      },
+      {
+        "type": "text",
+        "text": "VisionAnalyzer.setup_gemini(): Initializes Gemini model gemini_vision_analysis(): Structured image analysis advanced_local_vision(): Fallback for offline processing ",
+        "bbox": [
+          75,
+          637,
+          558,
+          768
+        ],
+        "page_idx": 9
+      },
+      {
+        "type": "text",
+        "text": "Multi-Modal Output ",
+        "text_level": 1,
+        "bbox": [
+          2,
+          70,
+          246,
+          125
+        ],
+        "page_idx": 10
+      },
+      {
+        "type": "image",
+        "img_path": "/Users/mihirmodi/RAG-Anything/output_viva/viva/auto/images/f06e30c31afc60d3c149f495a2739945256356a0e0b3a42cf97794760bc8a32b.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          11,
+          266,
+          433,
+          850
+        ],
+        "page_idx": 10
+      },
+      {
+        "type": "text",
+        "text": "Your query: how may boats inimage_trial.png? $\\mathfrak { Q }$ Analyzingimage_trial.png.. ",
+        "bbox": [
+          450,
+          272,
+          727,
+          359
+        ],
+        "page_idx": 10
+      },
+      {
+        "type": "text",
+        "text": "Answer (SOurce: GEMINI 2.5 VISION ANALYSIS): ",
+        "bbox": [
+          464,
+          437,
+          735,
+          479
+        ],
+        "page_idx": 10
+      },
+      {
+        "type": "text",
+        "text": "There are \\*\\*2\\*\\* boats visible in the image. ",
+        "bbox": [
+          452,
+          524,
+          713,
+          564
+        ],
+        "page_idx": 10
+      },
+      {
+        "type": "text",
+        "text": "Agentic RAG ",
+        "text_level": 1,
+        "bbox": [
+          2,
+          55,
+          166,
+          109
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "text",
+        "text": "What: Retrieval-Augmented Generation with evaluation ",
+        "bbox": [
+          57,
+          131,
+          537,
+          172
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "image",
+        "img_path": "/Users/mihirmodi/RAG-Anything/output_viva/viva/auto/images/9c0c6ecf94bcc0bfe81f478d6ceb48a85b7f97fa0da64bbb97729702be7413a6.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          870,
+          1,
+          996,
+          225
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "text",
+        "text": "Why: Enhances Q&A with context-aware, evaluated responses ",
+        "bbox": [
+          55,
+          220,
+          589,
+          261
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "text",
+        "text": "How RAG Works ",
+        "bbox": [
+          54,
+          309,
+          215,
+          348
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "text",
+        "text": "Retrieval Step: ",
+        "bbox": [
+          33,
+          398,
+          169,
+          433
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "text",
+        "text": "When a user queries a PDF (e.g., “Explain backpropagation in SVM.pdf”), the system: ",
+        "bbox": [
+          44,
+          437,
+          718,
+          474
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "text",
+        "text": "Extracts text using PyPDF2.   \nSplits it into manageable overlapping chunks using RecursiveCharacterTextSplitter.   \nEncodes each chunk into numerical embeddings using NVIDIA nv-embedqa-e5-v5 embeddings.   \nStores and searches these embeddings in a FAISS vector database to find top relevant content. ",
+        "bbox": [
+          101,
+          477,
+          857,
+          633
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "text",
+        "text": "• Augmentation Step: ",
+        "text_level": 1,
+        "bbox": [
+          33,
+          638,
+          213,
+          672
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "text",
+        "text": "• The top-k retrieved chunks (typically 3) act as factual context.   \n• The summarize_context() function trims or summarizes this context to fit token limits using LLaMA-3.1-8B. ",
+        "bbox": [
+          64,
+          677,
+          900,
+          753
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "text",
+        "text": "Generation Step: ",
+        "text_level": 1,
+        "bbox": [
+          33,
+          759,
+          188,
+          792
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "text",
+        "text": "• The model (Mixtral-8x22B) is prompted with both the user query and retrieved context. • It produces an informed, concise answer consistent with the underlying document ",
+        "bbox": [
+          68,
+          796,
+          747,
+          875
+        ],
+        "page_idx": 11
+      },
+      {
+        "type": "image",
+        "img_path": "/Users/mihirmodi/RAG-Anything/output_viva/viva/auto/images/f8a50710cca5d9886aea7c34793c26baa302d63482312981448261473ba8b788.jpg",
+        "image_caption": [
+          ""
+        ],
+        "image_footnote": [],
+        "bbox": [
+          31,
+          194,
+          873,
+          840
+        ],
+        "page_idx": 12
+      },
+      {
+        "type": "image",
+        "img_path": "/Users/mihirmodi/RAG-Anything/output_viva/viva/auto/images/e62ec214f6ba82807262cb22bfeffde22ee1ff526f9a66e0c2fa7882a95aecf2.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          870,
+          1,
+          996,
+          227
+        ],
+        "page_idx": 13
+      },
+      {
+        "type": "image",
+        "img_path": "/Users/mihirmodi/RAG-Anything/output_viva/viva/auto/images/cd93fdabcc0dac3bfa00478f4397b91483f5d079300375384e30a5a498faae87.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          360,
+          196,
+          583,
+          277
+        ],
+        "page_idx": 13
+      },
+      {
+        "type": "table",
+        "img_path": "/Users/mihirmodi/RAG-Anything/output_viva/viva/auto/images/db4d60759dc1339b3c0ec7dade72b96898ca2b23331d1f5bceb1fd36da356020.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td rowspan=1 colspan=1>API</td><td rowspan=1 colspan=1>Source</td><td rowspan=1 colspan=1>Data Provided</td></tr><tr><td rowspan=1 colspan=1>WeatherAPI</td><td rowspan=1 colspan=1> weatherapi.com</td><td rowspan=1 colspan=1> Temperature, humidity,wind (JSON)</td></tr><tr><td rowspan=1 colspan=1>GitHub API</td><td rowspan=1 colspan=1> github.com</td><td rowspan=1 colspan=1> Repository metadata (stars, language)</td></tr><tr><td rowspan=1 colspan=1>NVIDIA API</td><td rowspan=1 colspan=1> integrate.api.nvidia.com</td><td rowspan=1 colspan=1>Query processing and response generation</td></tr><tr><td rowspan=1 colspan=1>Google Gemini API</td><td rowspan=1 colspan=1> genai.googleapis.com</td><td rowspan=1 colspan=1> Multi-modal image Analysis</td></tr><tr><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td><td rowspan=1 colspan=1></td></tr></table>",
+        "bbox": [
+          105,
+          275,
+          775,
+          761
+        ],
+        "page_idx": 13
+      },
+      {
+        "type": "image",
+        "img_path": "/Users/mihirmodi/RAG-Anything/output_viva/viva/auto/images/3c7ef3e183c2193d8f38d04c6fba8b7b56a583f10bccca7bf4868558c4ad630e.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          870,
+          1,
+          996,
+          227
+        ],
+        "page_idx": 14
+      },
+      {
+        "type": "text",
+        "text": "Challenges: ",
+        "bbox": [
+          91,
+          237,
+          197,
+          275
+        ],
+        "page_idx": 14
+      },
+      {
+        "type": "text",
+        "text": "API Rate Limits: Frequent API calls lead to throttling Typo Handling: Misspelled queries (e.g., \"Mehasana\" vs. \"Mehsana\") Async Complexity: Managing concurrent tasks in Colab Data Scalability: Processing large PDFs or image datasets ",
+        "bbox": [
+          104,
+          279,
+          723,
+          455
+        ],
+        "page_idx": 14
+      },
+      {
+        "type": "text",
+        "text": "Solutions: ",
+        "text_level": 1,
+        "bbox": [
+          90,
+          503,
+          182,
+          538
+        ],
+        "page_idx": 14
+      },
+      {
+        "type": "text",
+        "text": "Caching: Pickle-based response caching to reduce API calls Typo Correction: NVIDIA LLaMA-3 for spelling fixes Asyncio: Parallel query processing with nest_asyncio Modular Design: FAISS and LangGraph for scalable retrieval ",
+        "bbox": [
+          105,
+          546,
+          655,
+          722
+        ],
+        "page_idx": 14
+      },
+      {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "bbox": [
+          3,
+          18,
+          96,
+          66
+        ],
+        "page_idx": 15
+      },
+      {
+        "type": "text",
+        "text": "Efficiency: Python’s asyncio saving time and resources for all queries. ",
+        "bbox": [
+          47,
+          87,
+          586,
+          125
+        ],
+        "page_idx": 15
+      },
+      {
+        "type": "text",
+        "text": "Speed: Delivers fast responses using asynchronous processing, ensuring quick results for any task. ",
+        "bbox": [
+          54,
+          166,
+          796,
+          205
+        ],
+        "page_idx": 15
+      },
+      {
+        "type": "text",
+        "text": "Accuracy: Achieves high reliability, with the Weather Agent being more accurate for cities worldwide. ",
+        "bbox": [
+          56,
+          246,
+          820,
+          287
+        ],
+        "page_idx": 15
+      },
+      {
+        "type": "text",
+        "text": "Smart Correction: Using Pre_train(LLaMA-3) model’s API calls to fixes typos (e.g., \"temp\" to \"temperature\") to improve results for any query. ",
+        "bbox": [
+          46,
+          325,
+          919,
+          403
+        ],
+        "page_idx": 15
+      },
+      {
+        "type": "text",
+        "text": "Evaluation Results: {'faithfulness': 0.8333, 'answer_relevancy': 0.4270, 'context_precision': 0.6667, 'context_recall': 0.4444, 'answer_correctness': 0.7224} ",
+        "bbox": [
+          45,
+          446,
+          925,
+          525
+        ],
+        "page_idx": 15
+      },
+      {
+        "type": "image",
+        "img_path": "/Users/mihirmodi/RAG-Anything/output_viva/viva/auto/images/245731d4d2fedea83f805d2f4e8e551837a327aa025c5d3207839f96dfc353cc.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          870,
+          1,
+          996,
+          227
+        ],
+        "page_idx": 16
+      },
+      {
+        "type": "text",
+        "text": "Key Achievements: ",
+        "text_level": 1,
+        "bbox": [
+          63,
+          227,
+          237,
+          266
+        ],
+        "page_idx": 16
+      },
+      {
+        "type": "text",
+        "text": "Integrated WeatherAPI, GitHub API, NVIDIA API, and Gemini API Scalable multi-agent system with typo correction and async processing Extended with PDF querying, image analysis, and evaluated RAG ",
+        "bbox": [
+          75,
+          270,
+          700,
+          403
+        ],
+        "page_idx": 16
+      },
+      {
+        "type": "text",
+        "text": "Impact: ",
+        "text_level": 1,
+        "bbox": [
+          64,
+          451,
+          137,
+          490
+        ],
+        "page_idx": 16
+      },
+      {
+        "type": "text",
+        "text": "Enhances real-time access for education, development, and planning Demonstrates robust, modular AI system design ",
+        "bbox": [
+          75,
+          494,
+          682,
+          579
+        ],
+        "page_idx": 16
+      },
+      {
+        "type": "text",
+        "text": "Takeaway: Unified platform for intelligent, multi-domain query processing ",
+        "bbox": [
+          66,
+          625,
+          700,
+          670
+        ],
+        "page_idx": 16
+      },
+      {
+        "type": "image",
+        "img_path": "/Users/mihirmodi/RAG-Anything/output_viva/viva/auto/images/eebf18975083f24d569bb17227961667b94e626f433a4fdf009116f9b3184d90.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          870,
+          1,
+          997,
+          229
+        ],
+        "page_idx": 17
+      },
+      {
+        "type": "text",
+        "text": "Additional Agents: ",
+        "text_level": 1,
+        "bbox": [
+          33,
+          300,
+          202,
+          338
+        ],
+        "page_idx": 17
+      },
+      {
+        "type": "text",
+        "text": "Stock market data retrieval (real-time stock prices) News summary agent for current events ",
+        "bbox": [
+          40,
+          344,
+          498,
+          429
+        ],
+        "page_idx": 17
+      },
+      {
+        "type": "text",
+        "text": "Actionable Agents: ",
+        "text_level": 1,
+        "bbox": [
+          34,
+          477,
+          204,
+          516
+        ],
+        "page_idx": 17
+      },
+      {
+        "type": "text",
+        "text": "Tasks like sending emails or updating databases Example: Weather-based appointment booking. ",
+        "bbox": [
+          43,
+          522,
+          476,
+          609
+        ],
+        "page_idx": 17
+      },
+      {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+          11,
+          18,
+          148,
+          68
+        ],
+        "page_idx": 18
+      },
+      {
+        "type": "text",
+        "text": " LangChain Academy. (n.d.). Intro to LangGraph. https://academy.langchain.com/courses/intro-to-langgraph ",
+        "bbox": [
+          37,
+          248,
+          873,
+          287
+        ],
+        "page_idx": 18
+      },
+      {
+        "type": "text",
+        "text": "ByteByteGo. (n.d.). GenAI System Design Interview: Introduction and Overview. https://bytebytego.com/courses/genai-sy stem-design-interview/introduction-and-overview ",
+        "bbox": [
+          44,
+          325,
+          986,
+          398
+        ],
+        "page_idx": 18
+      },
+      {
+        "type": "text",
+        "text": "Karpathy, A. (n.d.). YouTube Playlists. https://www.youtube.com/ $@$ AndrejKarpathy/playlists ",
+        "bbox": [
+          63,
+          440,
+          754,
+          479
+        ],
+        "page_idx": 18
+      },
+      {
+        "type": "text",
+        "text": "YouTube Video. (n.d.). LangChain Tutorial. https://youtu.be/wMVzCctmtLI ",
+        "bbox": [
+          56,
+          520,
+          629,
+          559
+        ],
+        "page_idx": 18
+      },
+      {
+        "type": "text",
+        "text": " Fan, Y., Ma, X., Wu, R., Du, Y., Li, J., Gao, Z., & Li, Q. (2025). VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding. https://arxiv.org/abs/2410.00000 ",
+        "bbox": [
+          43,
+          598,
+          989,
+          679
+        ],
+        "page_idx": 18
+      },
+      {
+        "type": "text",
+        "text": "Llama Team. (2024, July 23). The Llama 3 Herd of Models (Version 3). arXiv preprint arXiv:2407.21783. https://arxiv.org/abs/2407.21783 ",
+        "bbox": [
+          46,
+          720,
+          834,
+          800
+        ],
+        "page_idx": 18
+      },
+      {
+        "type": "image",
+        "img_path": "/Users/mihirmodi/RAG-Anything/output_viva/viva/auto/images/d82657a7f95ebac089a1b9a343ff5296df8745c29a0b19fcdf526abe590b76e2.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+          870,
+          1,
+          997,
+          227
+        ],
+        "page_idx": 19
+      },
+      {
+        "type": "text",
+        "text": "Thank You! ",
+        "text_level": 1,
+        "bbox": [
+          291,
+          418,
+          647,
+          527
+        ],
+        "page_idx": 19
+      }
+    ],
+    "doc_id": "doc-4bc246de7250bdedc12647a6b8803374",
+    "mtime": 1761019847.6534235,
+    "parse_config": {
+      "parser": "mineru",
+      "parse_method": "auto"
+    },
+    "cached_at": 1766750837.538839,
+    "cache_version": "1.0",
+    "create_time": 1766750837,
+    "update_time": 1766750837,
+    "_id": "ef5326d95a2964c0e4157f83e280e38b"
+  }
+}

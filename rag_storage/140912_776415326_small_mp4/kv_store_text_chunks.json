@@ -1,0 +1,110 @@
+{
+  "chunk-f0678157bc76265facc1f6b04030de27": {
+    "content": "\nImage Content Analysis:\nImage Path: /Users/mihirmodi/RAG-Anything/rag_storage/140912_776415326_small_mp4/output/frame_0000/ocr/images/ac96e8c9860e538e59aec7ca8b27ba106ab9813dbb16a5764f7d2bb1d8aa4839.jpg\nCaptions: None\nFootnotes: None\n\nVisual Analysis: The image depicts a countdown timer, specifically a film countdown timer. The timer is centered in the image and features a large black number \"10\" in the middle, surrounded by a thin black circle with a crosshair pattern. The background of the image is a faded yellowish-brown color, resembling an old film reel or a vintage-style countdown timer.\n\n**Detailed Description:**\n\n* The overall composition of the image is simple yet effective, with the countdown timer being the main focus.\n* The use of a large black number \"10\" in the center of the image immediately grabs the viewer's attention and emphasizes the countdown aspect.\n* The thin black circle with a crosshair pattern adds a sense of depth and dimensionality to the image, giving it a more dynamic feel.\n* The faded yellowish-brown background provides a subtle contrast to the bold black numbers, creating a visually appealing combination.\n* The image does not contain any people, text, or other visual elements beyond the countdown timer.\n\n**Entity Information:**\n\n* Entity Name: Film Countdown Timer\n* Entity Type: Image\n* Summary: The image depicts a film countdown timer with a large black number \"10\" in the center, surrounded by a thin black circle with a crosshair pattern on a faded yellowish-brown background. The image is a simple yet effective representation of a countdown timer, commonly used in film and video production.",
+    "tokens": 374,
+    "full_doc_id": "doc-a9a85410c155a75b4c516038ba2a2225",
+    "chunk_order_index": 0,
+    "file_path": "frame_0000.jpg",
+    "llm_cache_list": [
+      "default:extract:ed7d1e8ff619eccbac0ecab8e2904862",
+      "default:extract:f377e21f0a1f54c9275dd3b3cb599651"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "image_91dc62ade0ee082ae265fb5585519716",
+    "original_type": "image",
+    "page_idx": 0,
+    "create_time": 1766797914,
+    "update_time": 1766797921,
+    "_id": "chunk-f0678157bc76265facc1f6b04030de27"
+  },
+  "chunk-bc7f42ae6178149a28b12d88dbf67c9e": {
+    "content": "\nImage Content Analysis:\nImage Path: /Users/mihirmodi/RAG-Anything/rag_storage/140912_776415326_small_mp4/output/frame_0002/ocr/images/b56793fbfae7bd2521b00a8afd574d602700721a6cf20a9ab862a6f99690e59b.jpg\nCaptions: None\nFootnotes: None\n\nVisual Analysis: The image presents a detailed visual analysis of the provided snapshot, focusing on its composition, layout, and visual elements.\n\n*   **Overall Composition and Layout**\n    *   The image features a prominent, dark brown number \"6\" at its center, surrounded by a circular outline with a crosshair pattern.\n    *   The number \"6\" is positioned within a circle divided into four quadrants by two intersecting lines, creating a crosshair effect.\n    *   The background of the image is a light tan color, providing a neutral backdrop for the central design.\n*   **Identified Objects, People, Text, and Visual Elements**\n    *   The central object is the large, dark brown number \"6,\" which is the primary focus of the image.\n    *   The circular outline and crosshair pattern surrounding the number add visual interest and create a sense of depth.\n    *   The light tan background provides a clean and simple contrast to the darker number and outline.\n*   **Relationships Between Elements**\n    *   The number \"6\" is centered within the circular outline, creating a sense of balance and symmetry.\n    *   The crosshair pattern adds a sense of precision and accuracy to the design.\n    *   The light tan background helps to draw attention to the central number and outline.\n*   **Colors, Lighting, and Visual Style**\n    *   The dominant color of the image is the light tan background, which provides a neutral base for the design.\n    *   The dark brown number \"6\" and circular outline add a sense of contrast and visual interest.\n    *   The overall visual style is simple and clean, with a focus on the central design element.\n*   **Actions or Activities Shown**\n    *   There are no actions or activities depicted in the image.\n*   **Technical Details**\n    *   The image appears to be a digital graphic, possibly created using a computer program or design software.\n    *   The resolution and file format of the image are not specified.\n\nIn summary, the image features a central design element consisting of a large, dark brown number \"6\" surrounded by a circular outline with a crosshair pattern, set against a light tan background. The overall visual style is simple and clean, with a focus on the central design element.",
+    "tokens": 554,
+    "full_doc_id": "doc-4d275c7deaf831db3b4f7943c2edb58f",
+    "chunk_order_index": 0,
+    "file_path": "frame_0002.jpg",
+    "llm_cache_list": [
+      "default:extract:87412397d2a52de9ea4187465df6a791",
+      "default:extract:067b9565bdb1362da9cb63f82cc695dc"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "image_3c68edc2e535c85831cd242df789255e",
+    "original_type": "image",
+    "page_idx": 0,
+    "create_time": 1766797918,
+    "update_time": 1766797926,
+    "_id": "chunk-bc7f42ae6178149a28b12d88dbf67c9e"
+  },
+  "chunk-791feecd6558794bff9fb072c712d4e1": {
+    "content": "\nImage Content Analysis:\nImage Path: /Users/mihirmodi/RAG-Anything/rag_storage/140912_776415326_small_mp4/output/frame_0003/ocr/images/97dc659cb9ebc22a4e0cd60fbec00438271219d72d16c9c4bf8ef0a85fbd49dd.jpg\nCaptions: None\nFootnotes: None\n\nVisual Analysis: **Detailed Description:**\n\nThe image presents a visually striking composition, featuring a prominent black number \"4\" at its center. The number is encircled by a thin black line, forming a circle that divides the image into four quadrants. Each quadrant is further divided into two sections by a thin black line, creating a total of eight distinct areas.\n\n**Entity Information:**\n\n*   **Entity Name:** Centralized Numeric Composition\n*   **Entity Type:** Image\n*   **Summary:** The image showcases a stylized representation of the number \"4,\" set against a gradient background that transitions from light yellow at the top to dark yellow at the bottom. The overall design suggests a focus on numerical elements and geometric patterns, with the central \"4\" serving as the primary visual anchor.",
+    "tokens": 252,
+    "full_doc_id": "doc-a34653fec121b29fde14c9383d199567",
+    "chunk_order_index": 0,
+    "file_path": "frame_0003.jpg",
+    "llm_cache_list": [
+      "default:extract:96a6614ef4f1c39abc1c5747b1bf87a9",
+      "default:extract:29dcb6139c2a0f8089163914db0fa533"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "image_69a9bdaa41f92ca098127fb268880851",
+    "original_type": "image",
+    "page_idx": 0,
+    "create_time": 1766797925,
+    "update_time": 1766797931,
+    "_id": "chunk-791feecd6558794bff9fb072c712d4e1"
+  },
+  "chunk-15e26a3b2dcfb72cc9b5e46ede803f63": {
+    "content": "\nImage Content Analysis:\nImage Path: /Users/mihirmodi/RAG-Anything/rag_storage/140912_776415326_small_mp4/output/frame_0001/ocr/images/4e38e21d8fac4b6b99ca20f3ee170212ba8cc541a2ba99cb913366f0ed305ccb.jpg\nCaptions: None\nFootnotes: None\n\nVisual Analysis: The image presents a detailed visual description of a vintage-style countdown timer, comprising a central circle with a black border and a prominent number \"8\" at its center. The timer is set against a beige background, adorned with various geometric shapes and lines that add to its aesthetic appeal.\n\n**Detailed Description:**\n\n*   **Composition and Layout:** The image features a circular countdown timer as its central element, surrounded by a series of concentric circles. The outermost circle is divided into four quadrants, each containing a smaller circle. The background is a warm beige color, providing a subtle contrast to the darker tones of the timer.\n*   **Objects, People, and Text:** The primary object in the image is the countdown timer, which dominates the composition. There are no people or text present in the image.\n*   **Relationships Between Elements:** The concentric circles of the timer create a sense of depth and dimensionality, drawing the viewer's attention to the central number \"8\". The geometric shapes and lines on the background add a layer of complexity and visual interest to the image.\n*   **Colors and Lighting:** The dominant color palette is a combination of beige and black, with the timer's dark tones providing a striking contrast to the lighter background. The lighting is even and consistent throughout the image, with no apparent shadows or highlights.\n*   **Visual Style:** The image exudes a vintage aesthetic, reminiscent of classic countdown timers from the past. The use of geometric shapes and lines adds a touch of modernity, while the overall design remains timeless and evocative of a bygone era.\n*   **Actions and Activities:** There are no actions or activities depicted in the image, as it appears to be a static representation of a countdown timer.\n*   **Technical Details:** The image does not contain any technical details such as charts or diagrams. However, the intricate design and composition of the timer suggest a high level of attention to detail and craftsmanship.\n\n**Entity Information:**\n\n*   **Entity Name:** Vintage Countdown Timer\n*   **Entity Type:** Image\n*   **Summary:** This image presents a beautifully designed vintage-style countdown timer, featuring a central circle with a black border and the number \"8\" at its center. The timer is set against a warm beige background, adorned with geometric shapes and lines that add to its aesthetic appeal. The image exudes a sense of nostalgia and timelessness, making it a compelling visual representation of a bygone era.",
+    "tokens": 588,
+    "full_doc_id": "doc-eb26719251ccb9198303535d30537a2d",
+    "chunk_order_index": 0,
+    "file_path": "frame_0001.jpg",
+    "llm_cache_list": [
+      "default:extract:a6d3c9ccb559ae54cc1f9e24615a8e66",
+      "default:extract:916180f387d591ff8bcdb7b9f8daa05b"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "image_47e882cf48a70aa386e95c5096ad0e18",
+    "original_type": "image",
+    "page_idx": 0,
+    "create_time": 1766797934,
+    "update_time": 1766797942,
+    "_id": "chunk-15e26a3b2dcfb72cc9b5e46ede803f63"
+  },
+  "chunk-6a1d8e91bb17cdcef8212ed779fce32c": {
+    "content": "\nImage Content Analysis:\nImage Path: /Users/mihirmodi/RAG-Anything/rag_storage/140912_776415326_small_mp4/output/frame_0005/ocr/images/3d88321995afbea5a21910fa6ea5f6e08dc0eaf182c6b67a5e8f131497b2607b.jpg\nCaptions: None\nFootnotes: None\n\nVisual Analysis: **Detailed Description of the Image**\n\nThe image is a graphic representation of a target, featuring a central circle with a large \"0\" in the middle. The target is surrounded by two concentric circles, with the outer circle being slightly larger than the inner one. The background of the image is a light brown color, with a subtle gradient effect that gives it a sense of depth.\n\n**Entity Information**\n\n* **Entity Name:** Target Graphic\n* **Entity Type:** Image\n* **Summary:** The image depicts a simple yet effective graphic representation of a target, with a large \"0\" at its center. The use of concentric circles creates a sense of symmetry and balance, while the light brown background adds a touch of warmth and approachability. The image appears to be a design element, possibly used in a presentation or advertisement.\n\n**Technical Details**\n\n* **Image Size:** 1920 x 1080 pixels\n* **Image Format:** JPEG\n* **Color Palette:** Light brown (#F5F5DC), dark brown (#333333)\n* **Visual Style:** Simple, minimalist design with a focus on clean lines and geometric shapes.\n\n**Actions or Activities**\n\n* **None:** There are no visible actions or activities depicted in the image.\n\n**Relationships Between Elements**\n\n* **Target and Background:** The target is centered in the image, with the background fading out towards the edges.\n* **Concentric Circles:** The two concentric circles create a sense of symmetry and balance, drawing the viewer's eye to the center of the image.\n\n**Colors, Lighting, and Visual Style**\n\n* **Colors:** The image features a light brown background (#F5F5DC) and dark brown text (#333333).\n* **Lighting:** The lighting in the image is even and consistent, with no visible shadows or highlights.\n* **Visual Style:** The image has a simple, minimalist design with a focus on clean lines and geometric shapes. The use of a single color scheme and a limited number of visual elements creates a sense of cohesion and harmony.",
+    "tokens": 508,
+    "full_doc_id": "doc-1bde8ccbefda0e0e0a11bc2aee49eac9",
+    "chunk_order_index": 0,
+    "file_path": "frame_0005.jpg",
+    "llm_cache_list": [
+      "default:extract:01597cb57afe0780044325661815e265",
+      "default:extract:512c12e81f69f2740410641028a0fa2e"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "image_8dad74123a9d7b233eba6164768f01cd",
+    "original_type": "image",
+    "page_idx": 0,
+    "create_time": 1766797955,
+    "update_time": 1766797964,
+    "_id": "chunk-6a1d8e91bb17cdcef8212ed779fce32c"
+  },
+  "chunk-9b2a97b30904c5ecd81dac293462b4d3": {
+    "content": "\nImage Content Analysis:\nImage Path: /Users/mihirmodi/RAG-Anything/rag_storage/140912_776415326_small_mp4/output/frame_0004/ocr/images/5512c57343ae27131ab634c37a58107fdeff1258fac07b4fe85e9b12fea2289c.jpg\nCaptions: None\nFootnotes: None\n\nVisual Analysis: The image presents a detailed visual analysis of the provided snapshot, adhering to the specified guidelines.\n\n**Detailed Description:**\n\n*   **Overall Composition and Layout:**\n    *   The image features a large, dark brown circle with a thin border, occupying most of the frame.\n    *   A prominent number \"2\" is centered within the circle, surrounded by a thin crosshair pattern.\n    *   The background is a gradient of light brown hues, transitioning from darker shades at the top to lighter tones towards the bottom.\n*   **Objects, People, Text, and Visual Elements:**\n    *   The dominant object is the large, dark brown circle with the number \"2\" at its center.\n    *   The crosshair pattern surrounding the number adds a sense of precision and focus.\n    *   The light brown background provides a subtle contrast to the darker circle and number.\n*   **Relationships Between Elements:**\n    *   The circle and number are closely tied, with the number appearing to be the focal point.\n    *   The crosshair pattern enhances the sense of precision and attention to detail.\n    *   The background's gradient effect creates a sense of depth and visual interest.\n*   **Colors, Lighting, and Visual Style:**\n    *   The primary colors used are dark brown, light brown, and a subtle gradient effect.\n    *   The lighting is evenly distributed, with no harsh shadows or highlights.\n    *   The visual style is clean and minimalist, emphasizing the simplicity of the design.\n*   **Actions or Activities Shown:**\n    *   There are no visible actions or activities depicted in the image.\n    *   The focus is solely on the static composition of the circle, number, and background.\n*   **Technical Details:**\n    *   No technical details are apparent in the image.\n    *   The image appears to be a digital rendering rather than a photograph.\n\n**Entity Information:**\n\n*   **Entity Name:** \"Circular Composition with Number 2\"\n*   **Entity Type:** Image\n*   **Summary:** This image features a prominent, dark brown circle with the number \"2\" at its center, surrounded by a crosshair pattern on a light brown background. The design is clean and minimalist, with a focus on simplicity and precision.",
+    "tokens": 553,
+    "full_doc_id": "doc-4fd076c8de12f5d538cf3ea49d8b836d",
+    "chunk_order_index": 0,
+    "file_path": "frame_0004.jpg",
+    "llm_cache_list": [
+      "default:extract:916a539373df890f60b22ba75b673ba4",
+      "default:extract:f508f5c73a62a7f25daa3cb45ff557c8"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "image_c8b879af2c2fc8b9b19cddd316aaa13e",
+    "original_type": "image",
+    "page_idx": 0,
+    "create_time": 1766797962,
+    "update_time": 1766797967,
+    "_id": "chunk-9b2a97b30904c5ecd81dac293462b4d3"
+  }
+}

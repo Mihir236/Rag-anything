@@ -1,0 +1,508 @@
+{
+  "Gemini 2.5 Flash": {
+    "chunk_ids": [
+      "chunk-e71208a45a410602fc7b303bcf0cabb7"
+    ],
+    "count": 1,
+    "create_time": 1766750852,
+    "update_time": 1766750852,
+    "_id": "Gemini 2.5 Flash"
+  },
+  "Gemini API": {
+    "chunk_ids": [
+      "chunk-e71208a45a410602fc7b303bcf0cabb7"
+    ],
+    "count": 1,
+    "create_time": 1766750852,
+    "update_time": 1766750852,
+    "_id": "Gemini API"
+  },
+  "PIL": {
+    "chunk_ids": [
+      "chunk-e71208a45a410602fc7b303bcf0cabb7"
+    ],
+    "count": 1,
+    "create_time": 1766750852,
+    "update_time": 1766750852,
+    "_id": "PIL"
+  },
+  "Gemini Vision Analyzer": {
+    "chunk_ids": [
+      "chunk-e71208a45a410602fc7b303bcf0cabb7"
+    ],
+    "count": 1,
+    "create_time": 1766750852,
+    "update_time": 1766750852,
+    "_id": "Gemini Vision Analyzer"
+  },
+  "image_trial.png": {
+    "chunk_ids": [
+      "chunk-e71208a45a410602fc7b303bcf0cabb7"
+    ],
+    "count": 1,
+    "create_time": 1766750852,
+    "update_time": 1766750852,
+    "_id": "image_trial.png"
+  },
+  "RAG": {
+    "chunk_ids": [
+      "chunk-e71208a45a410602fc7b303bcf0cabb7"
+    ],
+    "count": 1,
+    "create_time": 1766750852,
+    "update_time": 1766750852,
+    "_id": "RAG"
+  },
+  "PyPDF2": {
+    "chunk_ids": [
+      "chunk-e71208a45a410602fc7b303bcf0cabb7",
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 2,
+    "create_time": 1766750852,
+    "update_time": 1766750852,
+    "_id": "PyPDF2"
+  },
+  "RecursiveCharacterTextSplitter": {
+    "chunk_ids": [
+      "chunk-e71208a45a410602fc7b303bcf0cabb7"
+    ],
+    "count": 1,
+    "create_time": 1766750852,
+    "update_time": 1766750852,
+    "_id": "RecursiveCharacterTextSplitter"
+  },
+  "NVIDIA nv-embedqa-e5-v5": {
+    "chunk_ids": [
+      "chunk-e71208a45a410602fc7b303bcf0cabb7"
+    ],
+    "count": 1,
+    "create_time": 1766750852,
+    "update_time": 1766750852,
+    "_id": "NVIDIA nv-embedqa-e5-v5"
+  },
+  "FAISS": {
+    "chunk_ids": [
+      "chunk-e71208a45a410602fc7b303bcf0cabb7"
+    ],
+    "count": 1,
+    "create_time": 1766750852,
+    "update_time": 1766750852,
+    "_id": "FAISS"
+  },
+  "LLaMA-3.1-8B": {
+    "chunk_ids": [
+      "chunk-e71208a45a410602fc7b303bcf0cabb7"
+    ],
+    "count": 1,
+    "create_time": 1766750852,
+    "update_time": 1766750852,
+    "_id": "LLaMA-3.1-8B"
+  },
+  "Mixtral-8x22B": {
+    "chunk_ids": [
+      "chunk-e71208a45a410602fc7b303bcf0cabb7"
+    ],
+    "count": 1,
+    "create_time": 1766750852,
+    "update_time": 1766750852,
+    "_id": "Mixtral-8x22B"
+  },
+  "LangGraph": {
+    "chunk_ids": [
+      "chunk-e71208a45a410602fc7b303bcf0cabb7"
+    ],
+    "count": 1,
+    "create_time": 1766750852,
+    "update_time": 1766750852,
+    "_id": "LangGraph"
+  },
+  "Weather Agent": {
+    "chunk_ids": [
+      "chunk-e71208a45a410602fc7b303bcf0cabb7"
+    ],
+    "count": 1,
+    "create_time": 1766750852,
+    "update_time": 1766750852,
+    "_id": "Weather Agent"
+  },
+  "Stock market data retrieval": {
+    "chunk_ids": [
+      "chunk-e71208a45a410602fc7b303bcf0cabb7"
+    ],
+    "count": 1,
+    "create_time": 1766750852,
+    "update_time": 1766750852,
+    "_id": "Stock market data retrieval"
+  },
+  "News summary agent": {
+    "chunk_ids": [
+      "chunk-e71208a45a410602fc7b303bcf0cabb7"
+    ],
+    "count": 1,
+    "create_time": 1766750852,
+    "update_time": 1766750852,
+    "_id": "News summary agent"
+  },
+  "Weather-based appointment booking": {
+    "chunk_ids": [
+      "chunk-e71208a45a410602fc7b303bcf0cabb7"
+    ],
+    "count": 1,
+    "create_time": 1766750852,
+    "update_time": 1766750852,
+    "_id": "Weather-based appointment booking"
+  },
+  "LangChain Academy": {
+    "chunk_ids": [
+      "chunk-e71208a45a410602fc7b303bcf0cabb7"
+    ],
+    "count": 1,
+    "create_time": 1766750852,
+    "update_time": 1766750852,
+    "_id": "LangChain Academy"
+  },
+  "ByteByteGo": {
+    "chunk_ids": [
+      "chunk-e71208a45a410602fc7b303bcf0cabb7"
+    ],
+    "count": 1,
+    "create_time": 1766750852,
+    "update_time": 1766750852,
+    "_id": "ByteByteGo"
+  },
+  "Andrej Karpathy": {
+    "chunk_ids": [
+      "chunk-e71208a45a410602fc7b303bcf0cabb7"
+    ],
+    "count": 1,
+    "create_time": 1766750852,
+    "update_time": 1766750852,
+    "_id": "Andrej Karpathy"
+  },
+  "YouTube Video": {
+    "chunk_ids": [
+      "chunk-e71208a45a410602fc7b303bcf0cabb7"
+    ],
+    "count": 1,
+    "create_time": 1766750852,
+    "update_time": 1766750852,
+    "_id": "YouTube Video"
+  },
+  "Fan, Y., Ma, X., Wu, R., Du, Y., Li, J., Gao, Z., & Li, Q.": {
+    "chunk_ids": [
+      "chunk-e71208a45a410602fc7b303bcf0cabb7"
+    ],
+    "count": 1,
+    "create_time": 1766750852,
+    "update_time": 1766750852,
+    "_id": "Fan, Y., Ma, X., Wu, R., Du, Y., Li, J., Gao, Z., & Li, Q."
+  },
+  "Llama Team": {
+    "chunk_ids": [
+      "chunk-e71208a45a410602fc7b303bcf0cabb7",
+      "chunk-46aa8564addc5cc8a0213d1d6d0375d6"
+    ],
+    "count": 2,
+    "create_time": 1766750852,
+    "update_time": 1766750852,
+    "_id": "Llama Team"
+  },
+  "Agent for Video Understanding": {
+    "chunk_ids": [
+      "chunk-46aa8564addc5cc8a0213d1d6d0375d6"
+    ],
+    "count": 1,
+    "create_time": 1766750852,
+    "update_time": 1766750852,
+    "_id": "Agent for Video Understanding"
+  },
+  "Llama 3 Herd of Models (Version 3)": {
+    "chunk_ids": [
+      "chunk-46aa8564addc5cc8a0213d1d6d0375d6"
+    ],
+    "count": 1,
+    "create_time": 1766750852,
+    "update_time": 1766750852,
+    "_id": "Llama 3 Herd of Models (Version 3)"
+  },
+  "arXiv": {
+    "chunk_ids": [
+      "chunk-46aa8564addc5cc8a0213d1d6d0375d6"
+    ],
+    "count": 1,
+    "create_time": 1766750852,
+    "update_time": 1766750852,
+    "_id": "arXiv"
+  },
+  "2407.21783": {
+    "chunk_ids": [
+      "chunk-46aa8564addc5cc8a0213d1d6d0375d6"
+    ],
+    "count": 1,
+    "create_time": 1766750852,
+    "update_time": 1766750852,
+    "_id": "2407.21783"
+  },
+  "2400.00000": {
+    "chunk_ids": [
+      "chunk-46aa8564addc5cc8a0213d1d6d0375d6"
+    ],
+    "count": 1,
+    "create_time": 1766750852,
+    "update_time": 1766750852,
+    "_id": "2400.00000"
+  },
+  "CS791- Comprehensive viva": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750852,
+    "update_time": 1766750852,
+    "_id": "CS791- Comprehensive viva"
+  },
+  "Mihir Modi": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750852,
+    "update_time": 1766750852,
+    "_id": "Mihir Modi"
+  },
+  "M.Tech (3rd Semester) in DS": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750852,
+    "update_time": 1766750852,
+    "_id": "M.Tech (3rd Semester) in DS"
+  },
+  "Dr. Ravi Nahta": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750852,
+    "update_time": 1766750852,
+    "_id": "Dr. Ravi Nahta"
+  },
+  "Mukesh Siroya": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750852,
+    "update_time": 1766750852,
+    "_id": "Mukesh Siroya"
+  },
+  "Multi-Agent System": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750852,
+    "update_time": 1766750852,
+    "_id": "Multi-Agent System"
+  },
+  "Intelligent Query Processing": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750852,
+    "update_time": 1766750852,
+    "_id": "Intelligent Query Processing"
+  },
+  "NVIDIA": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750852,
+    "update_time": 1766750852,
+    "_id": "NVIDIA"
+  },
+  "Gemini": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750852,
+    "update_time": 1766750852,
+    "_id": "Gemini"
+  },
+  "WeatherAPI": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750852,
+    "update_time": 1766750852,
+    "_id": "WeatherAPI"
+  },
+  "GitHub API": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750852,
+    "update_time": 1766750852,
+    "_id": "GitHub API"
+  },
+  "Google Colab": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750852,
+    "update_time": 1766750852,
+    "_id": "Google Colab"
+  },
+  "langchain": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750852,
+    "update_time": 1766750852,
+    "_id": "langchain"
+  },
+  "langgraph": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750852,
+    "update_time": 1766750852,
+    "_id": "langgraph"
+  },
+  "faiss-cpu": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750852,
+    "update_time": 1766750852,
+    "_id": "faiss-cpu"
+  },
+  "ragas": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750852,
+    "update_time": 1766750852,
+    "_id": "ragas"
+  },
+  "google-generativeai": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750852,
+    "update_time": 1766750852,
+    "_id": "google-generativeai"
+  },
+  "requests": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750852,
+    "update_time": 1766750852,
+    "_id": "requests"
+  },
+  "beautifulsoup4": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750852,
+    "update_time": 1766750852,
+    "_id": "beautifulsoup4"
+  },
+  "pillow": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750852,
+    "update_time": 1766750852,
+    "_id": "pillow"
+  },
+  "pydantic": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750852,
+    "update_time": 1766750852,
+    "_id": "pydantic"
+  },
+  "nest_asyncio": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750852,
+    "update_time": 1766750852,
+    "_id": "nest_asyncio"
+  },
+  "backoff": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750852,
+    "update_time": 1766750852,
+    "_id": "backoff"
+  },
+  "LLaMA-3": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750852,
+    "update_time": 1766750852,
+    "_id": "LLaMA-3"
+  },
+  "asyncio": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750852,
+    "update_time": 1766750852,
+    "_id": "asyncio"
+  },
+  "OpenAI SDK": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750852,
+    "update_time": 1766750852,
+    "_id": "OpenAI SDK"
+  },
+  "OpenAI": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750858,
+    "update_time": 1766750858,
+    "_id": "OpenAI"
+  },
+  "Llama 3": {
+    "chunk_ids": [
+      "chunk-e71208a45a410602fc7b303bcf0cabb7"
+    ],
+    "count": 1,
+    "create_time": 1766750859,
+    "update_time": 1766750859,
+    "_id": "Llama 3"
+  }
+}

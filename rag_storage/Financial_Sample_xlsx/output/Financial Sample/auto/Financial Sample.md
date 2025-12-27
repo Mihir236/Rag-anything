@@ -1,0 +1,3 @@
+Segment Country Product Discount Band Units Sold Government Canada Carretera None $\$ 1$ 1,618.50 Government Germany Carretera None $\$ 1$ 1,321.00
+
+<table><tr><td>Manufacturing PI Sale Price</td><td></td><td>Column1</td><td>Column2</td><td>Column3</td><td>Column4</td></tr><tr><td>$ 3.00$</td><td>20.00</td><td></td><td></td><td></td><td></td></tr><tr><td>$ 3.00</td><td>$ 20.00</td><td></td><td></td><td></td><td></td></tr></table>

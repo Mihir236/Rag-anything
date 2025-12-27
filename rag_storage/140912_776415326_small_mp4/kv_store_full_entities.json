@@ -1,0 +1,99 @@
+{
+  "doc-a9a85410c155a75b4c516038ba2a2225": {
+    "entity_names": [
+      "Image Content Analysis",
+      "Film Countdown Timer",
+      "RAG-Anything",
+      "/Users/mihirmodi/RAG-Anything/rag_storage/140912_776415326_small_mp4/output/frame_0000/ocr/images/ac96e8c9860e538e59aec7ca8b27ba106ab9813dbb16a5764f7d2bb1d8aa4839.jpg",
+      "Image",
+      "Countdown Timer",
+      "Mihir Modi"
+    ],
+    "count": 7,
+    "update_time": 1766797927,
+    "_id": "doc-a9a85410c155a75b4c516038ba2a2225"
+  },
+  "doc-4d275c7deaf831db3b4f7943c2edb58f": {
+    "entity_names": [
+      "Image Content Analysis",
+      "Composition and Layout",
+      "Design Elements",
+      "Technical Details",
+      "Visual Elements",
+      "Snapshot",
+      "Number 6",
+      "Crosshair Pattern",
+      "Footnotes",
+      "Light Tan Background",
+      "Image",
+      "Captions",
+      "Image Path",
+      "Visual Style",
+      "Visual Analysis",
+      "Circular Outline",
+      "Dark Brown Number"
+    ],
+    "count": 17,
+    "update_time": 1766797935,
+    "_id": "doc-4d275c7deaf831db3b4f7943c2edb58f"
+  },
+  "doc-a34653fec121b29fde14c9383d199567": {
+    "entity_names": [
+      "Number 4",
+      "Centralized Numeric Composition",
+      "Footnotes",
+      "Image",
+      "Captions",
+      "Image Path",
+      "Gradient Background"
+    ],
+    "count": 7,
+    "update_time": 1766797940,
+    "_id": "doc-a34653fec121b29fde14c9383d199567"
+  },
+  "doc-eb26719251ccb9198303535d30537a2d": {
+    "entity_names": [
+      "Objects, People, and Text",
+      "Technical Details",
+      "Actions and Activities",
+      "Image",
+      "/Users/mihirmodi/RAG-Anything/rag_storage/140912_776415326_small_mp4/output/frame_0001/ocr/images/4e38e21d8fac4b6b99ca20f3ee170212ba8cc541a2ba99cb913366f0ed305ccb.jpg",
+      "Visual Style",
+      "Vintage Countdown Timer",
+      "Relationships Between Elements",
+      "Colors and Lighting",
+      "Composition and Layout"
+    ],
+    "count": 10,
+    "update_time": 1766797949,
+    "_id": "doc-eb26719251ccb9198303535d30537a2d"
+  },
+  "doc-1bde8ccbefda0e0e0a11bc2aee49eac9": {
+    "entity_names": [
+      "Light Brown",
+      "/Users/mihirmodi/RAG-Anything/rag_storage/140912_776415326_small_mp4/output/frame_0005/ocr/images/3d88321995afbea5a21910fa6ea5f6e08dc0eaf182c6b67a5e8f131497b2607b.jpg",
+      "Colors, Lighting, and Visual Style",
+      "Technical Details",
+      "Image",
+      "Target Graphic",
+      "Actions or Activities",
+      "Dark Brown",
+      "Entity Information"
+    ],
+    "count": 9,
+    "update_time": 1766797971,
+    "_id": "doc-1bde8ccbefda0e0e0a11bc2aee49eac9"
+  },
+  "doc-4fd076c8de12f5d538cf3ea49d8b836d": {
+    "entity_names": [
+      "Snapshot",
+      "Crosshair Pattern",
+      "Circular Composition with Number 2",
+      "Image",
+      "Number 2"
+    ],
+    "count": 5,
+    "update_time": 1766797972,
+    "_id": "doc-4fd076c8de12f5d538cf3ea49d8b836d"
+  }
+}

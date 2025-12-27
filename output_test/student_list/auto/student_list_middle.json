@@ -1,0 +1,336 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        77,
+                        79,
+                        179,
+                        95
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                77,
+                                181,
+                                97
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        77,
+                                        181,
+                                        97
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Student List Data",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        77,
+                        119,
+                        184,
+                        203
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                77,
+                                119,
+                                164,
+                                135
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        77,
+                                        119,
+                                        164,
+                                        135
+                                    ],
+                                    "score": 1.0,
+                                    "content": "| ID | Name | Grade |",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                77,
+                                138,
+                                126,
+                                151
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        77,
+                                        138,
+                                        126,
+                                        151
+                                    ],
+                                    "score": 1.0,
+                                    "content": "| -- | -- | -- |",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                77,
+                                156,
+                                169,
+                                168
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        77,
+                                        156,
+                                        169,
+                                        168
+                                    ],
+                                    "score": 1.0,
+                                    "content": "| 001 | Alice Smith | A |",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                77,
+                                174,
+                                168,
+                                187
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        77,
+                                        174,
+                                        168,
+                                        187
+                                    ],
+                                    "score": 1.0,
+                                    "content": "| 002 | Bob Jones | B+ |",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                77,
+                                191,
+                                185,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        77,
+                                        191,
+                                        185,
+                                        205
+                                    ],
+                                    "score": 1.0,
+                                    "content": "| 003 | Charlie Brown | A- |",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        }
+                    ],
+                    "index": 3
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                595,
+                841
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        77,
+                        79,
+                        179,
+                        95
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                75,
+                                77,
+                                181,
+                                97
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        75,
+                                        77,
+                                        181,
+                                        97
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Student List Data",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        77,
+                        119,
+                        184,
+                        203
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                77,
+                                119,
+                                164,
+                                135
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        77,
+                                        119,
+                                        164,
+                                        135
+                                    ],
+                                    "score": 1.0,
+                                    "content": "| ID | Name | Grade |",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                77,
+                                138,
+                                126,
+                                151
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        77,
+                                        138,
+                                        126,
+                                        151
+                                    ],
+                                    "score": 1.0,
+                                    "content": "| -- | -- | -- |",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                77,
+                                156,
+                                169,
+                                168
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        77,
+                                        156,
+                                        169,
+                                        168
+                                    ],
+                                    "score": 1.0,
+                                    "content": "| 001 | Alice Smith | A |",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                77,
+                                174,
+                                168,
+                                187
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        77,
+                                        174,
+                                        168,
+                                        187
+                                    ],
+                                    "score": 1.0,
+                                    "content": "| 002 | Bob Jones | B+ |",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                77,
+                                191,
+                                185,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        77,
+                                        191,
+                                        185,
+                                        205
+                                    ],
+                                    "score": 1.0,
+                                    "content": "| 003 | Charlie Brown | A- |",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        }
+                    ],
+                    "index": 3,
+                    "bbox_fs": [
+                        77,
+                        119,
+                        185,
+                        205
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.2.2"
+}

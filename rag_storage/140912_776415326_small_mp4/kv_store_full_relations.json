@@ -1,0 +1,426 @@
+{
+  "doc-a9a85410c155a75b4c516038ba2a2225": {
+    "relation_pairs": [
+      [
+        "Film Countdown Timer",
+        "image_91dc62ade0ee082ae265fb5585519716"
+      ],
+      [
+        "Mihir Modi",
+        "RAG-Anything"
+      ],
+      [
+        "Image Content Analysis",
+        "image_91dc62ade0ee082ae265fb5585519716"
+      ],
+      [
+        "Mihir Modi",
+        "image_91dc62ade0ee082ae265fb5585519716"
+      ],
+      [
+        "Countdown Timer",
+        "Image"
+      ],
+      [
+        "/Users/mihirmodi/RAG-Anything/rag_storage/140912_776415326_small_mp4/output/frame_0000/ocr/images/ac96e8c9860e538e59aec7ca8b27ba106ab9813dbb16a5764f7d2bb1d8aa4839.jpg",
+        "image_91dc62ade0ee082ae265fb5585519716"
+      ],
+      [
+        "RAG-Anything",
+        "image_91dc62ade0ee082ae265fb5585519716"
+      ],
+      [
+        "Countdown Timer",
+        "Film Countdown Timer"
+      ],
+      [
+        "Image Content Analysis",
+        "Mihir Modi"
+      ],
+      [
+        "Countdown Timer",
+        "image_91dc62ade0ee082ae265fb5585519716"
+      ],
+      [
+        "Image",
+        "image_91dc62ade0ee082ae265fb5585519716"
+      ]
+    ],
+    "count": 11,
+    "create_time": 1766797927,
+    "update_time": 1766797927,
+    "_id": "doc-a9a85410c155a75b4c516038ba2a2225"
+  },
+  "doc-4d275c7deaf831db3b4f7943c2edb58f": {
+    "relation_pairs": [
+      [
+        "Image Path",
+        "image_3c68edc2e535c85831cd242df789255e"
+      ],
+      [
+        "Number 6",
+        "image_3c68edc2e535c85831cd242df789255e"
+      ],
+      [
+        "Light Tan Background",
+        "Number 6"
+      ],
+      [
+        "Design Elements",
+        "Image"
+      ],
+      [
+        "Circular Outline",
+        "Dark Brown Number"
+      ],
+      [
+        "Circular Outline",
+        "Crosshair Pattern"
+      ],
+      [
+        "Circular Outline",
+        "image_3c68edc2e535c85831cd242df789255e"
+      ],
+      [
+        "Image Content Analysis",
+        "image_3c68edc2e535c85831cd242df789255e"
+      ],
+      [
+        "Image",
+        "Technical Details"
+      ],
+      [
+        "Dark Brown Number",
+        "image_3c68edc2e535c85831cd242df789255e"
+      ],
+      [
+        "Visual Style",
+        "image_3c68edc2e535c85831cd242df789255e"
+      ],
+      [
+        "Captions",
+        "Image"
+      ],
+      [
+        "Image",
+        "Image Path"
+      ],
+      [
+        "Circular Outline",
+        "Number 6"
+      ],
+      [
+        "Footnotes",
+        "Image"
+      ],
+      [
+        "Snapshot",
+        "image_3c68edc2e535c85831cd242df789255e"
+      ],
+      [
+        "Dark Brown Number",
+        "Number 6"
+      ],
+      [
+        "Image",
+        "Visual Elements"
+      ],
+      [
+        "Light Tan Background",
+        "image_3c68edc2e535c85831cd242df789255e"
+      ],
+      [
+        "Captions",
+        "image_3c68edc2e535c85831cd242df789255e"
+      ],
+      [
+        "Image",
+        "image_3c68edc2e535c85831cd242df789255e"
+      ],
+      [
+        "Composition and Layout",
+        "Image"
+      ],
+      [
+        "Footnotes",
+        "image_3c68edc2e535c85831cd242df789255e"
+      ],
+      [
+        "Crosshair Pattern",
+        "image_3c68edc2e535c85831cd242df789255e"
+      ],
+      [
+        "Image",
+        "Visual Analysis"
+      ],
+      [
+        "Circular Outline",
+        "Light Tan Background"
+      ]
+    ],
+    "count": 26,
+    "create_time": 1766797935,
+    "update_time": 1766797935,
+    "_id": "doc-4d275c7deaf831db3b4f7943c2edb58f"
+  },
+  "doc-a34653fec121b29fde14c9383d199567": {
+    "relation_pairs": [
+      [
+        "Centralized Numeric Composition",
+        "image_69a9bdaa41f92ca098127fb268880851"
+      ],
+      [
+        "Number 4",
+        "image_69a9bdaa41f92ca098127fb268880851"
+      ],
+      [
+        "Image Path",
+        "image_69a9bdaa41f92ca098127fb268880851"
+      ],
+      [
+        "Image",
+        "image_69a9bdaa41f92ca098127fb268880851"
+      ],
+      [
+        "Centralized Numeric Composition",
+        "Image"
+      ],
+      [
+        "Centralized Numeric Composition",
+        "Footnotes"
+      ],
+      [
+        "Captions",
+        "image_69a9bdaa41f92ca098127fb268880851"
+      ],
+      [
+        "Centralized Numeric Composition",
+        "Image Path"
+      ],
+      [
+        "Gradient Background",
+        "image_69a9bdaa41f92ca098127fb268880851"
+      ],
+      [
+        "Footnotes",
+        "image_69a9bdaa41f92ca098127fb268880851"
+      ],
+      [
+        "Centralized Numeric Composition",
+        "Number 4"
+      ],
+      [
+        "Centralized Numeric Composition",
+        "Gradient Background"
+      ],
+      [
+        "Captions",
+        "Centralized Numeric Composition"
+      ]
+    ],
+    "count": 13,
+    "create_time": 1766797940,
+    "update_time": 1766797940,
+    "_id": "doc-a34653fec121b29fde14c9383d199567"
+  },
+  "doc-eb26719251ccb9198303535d30537a2d": {
+    "relation_pairs": [
+      [
+        "Actions and Activities",
+        "Technical Details"
+      ],
+      [
+        "/Users/mihirmodi/RAG-Anything/rag_storage/140912_776415326_small_mp4/output/frame_0001/ocr/images/4e38e21d8fac4b6b99ca20f3ee170212ba8cc541a2ba99cb913366f0ed305ccb.jpg",
+        "Image"
+      ],
+      [
+        "Visual Style",
+        "image_47e882cf48a70aa386e95c5096ad0e18"
+      ],
+      [
+        "Objects, People, and Text",
+        "Relationships Between Elements"
+      ],
+      [
+        "Colors and Lighting",
+        "Visual Style"
+      ],
+      [
+        "Actions and Activities",
+        "Visual Style"
+      ],
+      [
+        "Colors and Lighting",
+        "image_47e882cf48a70aa386e95c5096ad0e18"
+      ],
+      [
+        "Relationships Between Elements",
+        "image_47e882cf48a70aa386e95c5096ad0e18"
+      ],
+      [
+        "Vintage Countdown Timer",
+        "image_47e882cf48a70aa386e95c5096ad0e18"
+      ],
+      [
+        "Technical Details",
+        "image_47e882cf48a70aa386e95c5096ad0e18"
+      ],
+      [
+        "Colors and Lighting",
+        "Relationships Between Elements"
+      ],
+      [
+        "Composition and Layout",
+        "image_47e882cf48a70aa386e95c5096ad0e18"
+      ],
+      [
+        "Image",
+        "Vintage Countdown Timer"
+      ],
+      [
+        "/Users/mihirmodi/RAG-Anything/rag_storage/140912_776415326_small_mp4/output/frame_0001/ocr/images/4e38e21d8fac4b6b99ca20f3ee170212ba8cc541a2ba99cb913366f0ed305ccb.jpg",
+        "image_47e882cf48a70aa386e95c5096ad0e18"
+      ],
+      [
+        "Objects, People, and Text",
+        "image_47e882cf48a70aa386e95c5096ad0e18"
+      ],
+      [
+        "Composition and Layout",
+        "Objects, People, and Text"
+      ],
+      [
+        "Image",
+        "image_47e882cf48a70aa386e95c5096ad0e18"
+      ],
+      [
+        "Actions and Activities",
+        "image_47e882cf48a70aa386e95c5096ad0e18"
+      ]
+    ],
+    "count": 18,
+    "create_time": 1766797949,
+    "update_time": 1766797949,
+    "_id": "doc-eb26719251ccb9198303535d30537a2d"
+  },
+  "doc-1bde8ccbefda0e0e0a11bc2aee49eac9": {
+    "relation_pairs": [
+      [
+        "Image",
+        "Target Graphic"
+      ],
+      [
+        "Actions or Activities",
+        "Target Graphic"
+      ],
+      [
+        "Actions or Activities",
+        "image_8dad74123a9d7b233eba6164768f01cd"
+      ],
+      [
+        "Target Graphic",
+        "Technical Details"
+      ],
+      [
+        "Target Graphic",
+        "image_8dad74123a9d7b233eba6164768f01cd"
+      ],
+      [
+        "Image",
+        "image_8dad74123a9d7b233eba6164768f01cd"
+      ],
+      [
+        "/Users/mihirmodi/RAG-Anything/rag_storage/140912_776415326_small_mp4/output/frame_0005/ocr/images/3d88321995afbea5a21910fa6ea5f6e08dc0eaf182c6b67a5e8f131497b2607b.jpg",
+        "Target Graphic"
+      ],
+      [
+        "/Users/mihirmodi/RAG-Anything/rag_storage/140912_776415326_small_mp4/output/frame_0005/ocr/images/3d88321995afbea5a21910fa6ea5f6e08dc0eaf182c6b67a5e8f131497b2607b.jpg",
+        "image_8dad74123a9d7b233eba6164768f01cd"
+      ],
+      [
+        "Dark Brown",
+        "Target Graphic"
+      ],
+      [
+        "Dark Brown",
+        "image_8dad74123a9d7b233eba6164768f01cd"
+      ],
+      [
+        "Technical Details",
+        "image_8dad74123a9d7b233eba6164768f01cd"
+      ],
+      [
+        "Colors, Lighting, and Visual Style",
+        "Target Graphic"
+      ],
+      [
+        "Colors, Lighting, and Visual Style",
+        "image_8dad74123a9d7b233eba6164768f01cd"
+      ],
+      [
+        "Entity Information",
+        "Target Graphic"
+      ],
+      [
+        "Entity Information",
+        "image_8dad74123a9d7b233eba6164768f01cd"
+      ],
+      [
+        "Light Brown",
+        "Target Graphic"
+      ],
+      [
+        "Light Brown",
+        "image_8dad74123a9d7b233eba6164768f01cd"
+      ]
+    ],
+    "count": 17,
+    "create_time": 1766797971,
+    "update_time": 1766797971,
+    "_id": "doc-1bde8ccbefda0e0e0a11bc2aee49eac9"
+  },
+  "doc-4fd076c8de12f5d538cf3ea49d8b836d": {
+    "relation_pairs": [
+      [
+        "Circular Composition with Number 2",
+        "Image"
+      ],
+      [
+        "Snapshot",
+        "image_c8b879af2c2fc8b9b19cddd316aaa13e"
+      ],
+      [
+        "Image",
+        "image_c8b879af2c2fc8b9b19cddd316aaa13e"
+      ],
+      [
+        "Circular Composition with Number 2",
+        "Snapshot"
+      ],
+      [
+        "Circular Composition with Number 2",
+        "Number 2"
+      ],
+      [
+        "Number 2",
+        "image_c8b879af2c2fc8b9b19cddd316aaa13e"
+      ],
+      [
+        "Circular Composition with Number 2",
+        "Crosshair Pattern"
+      ],
+      [
+        "Crosshair Pattern",
+        "image_c8b879af2c2fc8b9b19cddd316aaa13e"
+      ],
+      [
+        "Circular Composition with Number 2",
+        "image_c8b879af2c2fc8b9b19cddd316aaa13e"
+      ]
+    ],
+    "count": 9,
+    "create_time": 1766797972,
+    "update_time": 1766797972,
+    "_id": "doc-4fd076c8de12f5d538cf3ea49d8b836d"
+  }
+}

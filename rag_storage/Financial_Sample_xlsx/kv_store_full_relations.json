@@ -1,0 +1,81 @@
+{
+  "doc-e30efba1eafa9a913d1c0eb8635a7c72": {
+    "relation_pairs": [
+      [
+        "Manufacturing PI Sale Price",
+        "Manufacturing PI Sale Price and Sales Data (table)"
+      ],
+      [
+        "Manufacturing PI Sale Price and Sales Data (table)",
+        "Mihir Modi"
+      ],
+      [
+        "Carretera Discount",
+        "Table Analysis"
+      ],
+      [
+        "Discount Band",
+        "Manufacturing PI Sale Price and Sales Data (table)"
+      ],
+      [
+        "Manufacturing PI Sale Price",
+        "Units Sold"
+      ],
+      [
+        "Carretera Discount",
+        "Manufacturing PI Sale Price and Sales Data (table)"
+      ],
+      [
+        "Column Headers",
+        "Units Sold"
+      ],
+      [
+        "Manufacturing PI Sale Price and Sales Data (table)",
+        "Table"
+      ],
+      [
+        "Column Headers",
+        "Manufacturing PI Sale Price and Sales Data (table)"
+      ],
+      [
+        "Manufacturing PI Sale Price and Sales Data (table)",
+        "Table Analysis"
+      ],
+      [
+        "Financial Sample",
+        "Manufacturing PI Sale Price and Sales Data (table)"
+      ],
+      [
+        "Column Headers",
+        "Manufacturing PI Sale Price"
+      ],
+      [
+        "Discount Band",
+        "Manufacturing PI Sale Price"
+      ],
+      [
+        "Column Headers",
+        "Discount Band"
+      ],
+      [
+        "Carretera Discount",
+        "Manufacturing PI Sale Price"
+      ],
+      [
+        "Manufacturing PI Sale Price",
+        "Table Analysis"
+      ],
+      [
+        "Manufacturing PI Sale Price and Sales Data (table)",
+        "Units Sold"
+      ],
+      [
+        "Financial Sample",
+        "Mihir Modi"
+      ]
+    ],
+    "count": 18,
+    "update_time": 1766835175,
+    "_id": "doc-e30efba1eafa9a913d1c0eb8635a7c72"
+  }
+}

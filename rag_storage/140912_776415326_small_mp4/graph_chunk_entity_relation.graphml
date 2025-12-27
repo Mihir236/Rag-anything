@@ -1,0 +1,1274 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d13" for="edge" attr.name="truncate" attr.type="string"/>
+<key id="d12" for="edge" attr.name="created_at" attr.type="long"/>
+<key id="d11" for="edge" attr.name="file_path" attr.type="string"/>
+<key id="d10" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d9" for="edge" attr.name="keywords" attr.type="string"/>
+<key id="d8" for="edge" attr.name="description" attr.type="string"/>
+<key id="d7" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d6" for="node" attr.name="truncate" attr.type="string"/>
+<key id="d5" for="node" attr.name="created_at" attr.type="long"/>
+<key id="d4" for="node" attr.name="file_path" attr.type="string"/>
+<key id="d3" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d2" for="node" attr.name="description" attr.type="string"/>
+<key id="d1" for="node" attr.name="entity_type" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_id" attr.type="string"/>
+<graph edgedefault="undirected"><node id="image_91dc62ade0ee082ae265fb5585519716">
+  <data key="d0">image_91dc62ade0ee082ae265fb5585519716</data>
+  <data key="d1">image</data>
+  <data key="d2">The image depicts a countdown timer, specifically a film countdown timer. The timer is centered in t...</data>
+  <data key="d3">chunk-f0678157bc76265facc1f6b04030de27</data>
+  <data key="d4">frame_0000.jpg</data>
+  <data key="d5">1766797915</data>
+</node>
+<node id="image_3c68edc2e535c85831cd242df789255e">
+  <data key="d0">image_3c68edc2e535c85831cd242df789255e</data>
+  <data key="d1">image</data>
+  <data key="d2">The image presents a detailed visual analysis of the provided snapshot, focusing on its composition,...</data>
+  <data key="d3">chunk-bc7f42ae6178149a28b12d88dbf67c9e</data>
+  <data key="d4">frame_0002.jpg</data>
+  <data key="d5">1766797919</data>
+</node>
+<node id="Image Content Analysis">
+  <data key="d0">Image Content Analysis</data>
+  <data key="d1">content</data>
+  <data key="d2">Image Content Analysis is a process of examining and interpreting visual data from images.&lt;SEP&gt;Image Content Analysis is a detailed visual analysis of the provided snapshot, focusing on its composition, layout, and visual elements.</data>
+  <data key="d3">chunk-f0678157bc76265facc1f6b04030de27&lt;SEP&gt;chunk-bc7f42ae6178149a28b12d88dbf67c9e</data>
+  <data key="d4">frame_0000.jpg&lt;SEP&gt;frame_0002.jpg</data>
+  <data key="d5">1766797926</data>
+  <data key="d6"></data>
+</node>
+<node id="Mihir Modi">
+  <data key="d0">Mihir Modi</data>
+  <data key="d1">person</data>
+  <data key="d2">Mihir Modi is the author of the document describing the image content analysis process.</data>
+  <data key="d3">chunk-f0678157bc76265facc1f6b04030de27</data>
+  <data key="d4">frame_0000.jpg</data>
+  <data key="d5">1766797921</data>
+  <data key="d6"></data>
+</node>
+<node id="Film Countdown Timer">
+  <data key="d0">Film Countdown Timer</data>
+  <data key="d1">equipment</data>
+  <data key="d2">The film countdown timer is a device used in film and video production to count down to a specific time, typically the start of a scene or a dramatic effect.</data>
+  <data key="d3">chunk-f0678157bc76265facc1f6b04030de27</data>
+  <data key="d4">frame_0000.jpg</data>
+  <data key="d5">1766797921</data>
+  <data key="d6"></data>
+</node>
+<node id="Countdown Timer">
+  <data key="d0">Countdown Timer</data>
+  <data key="d1">equipment</data>
+  <data key="d2">The countdown timer is a device that displays a countdown sequence, often used in film, video, and other applications to create a sense of anticipation or tension.</data>
+  <data key="d3">chunk-f0678157bc76265facc1f6b04030de27</data>
+  <data key="d4">frame_0000.jpg</data>
+  <data key="d5">1766797921</data>
+  <data key="d6"></data>
+</node>
+<node id="RAG-Anything">
+  <data key="d0">RAG-Anything</data>
+  <data key="d1">organization</data>
+  <data key="d2">RAG-Anything is the organization that Mihir Modi is affiliated with, as indicated by the directory path in the image content analysis document.</data>
+  <data key="d3">chunk-f0678157bc76265facc1f6b04030de27</data>
+  <data key="d4">frame_0000.jpg</data>
+  <data key="d5">1766797921</data>
+  <data key="d6"></data>
+</node>
+<node id="/Users/mihirmodi/RAG-Anything/rag_storage/140912_776415326_small_mp4/output/frame_0000/ocr/images/ac96e8c9860e538e59aec7ca8b27ba106ab9813dbb16a5764f7d2bb1d8aa4839.jpg">
+  <data key="d0">/Users/mihirmodi/RAG-Anything/rag_storage/140912_776415326_small_mp4/output/frame_0000/ocr/images/ac96e8c9860e538e59aec7ca8b27ba106ab9813dbb16a5764f7d2bb1d8aa4839.jpg</data>
+  <data key="d1">artifact</data>
+  <data key="d2">/Users/mihirmodi/RAG-Anything/rag_storage/140912_776415326_small_mp4/output/frame_0000/ocr/images/ac96e8c9860e538e59aec7ca8b27ba106ab9813dbb16a5764f7d2bb1d8aa4839.jpg is the file path of the image being analyzed.</data>
+  <data key="d3">chunk-f0678157bc76265facc1f6b04030de27</data>
+  <data key="d4">frame_0000.jpg</data>
+  <data key="d5">1766797921</data>
+  <data key="d6"></data>
+</node>
+<node id="Image">
+  <data key="d0">Image</data>
+  <data key="d1">category</data>
+  <data key="d2">The image depicts a countdown timer and is the subject of the image content analysis process.&lt;SEP&gt;The image is the central subject of the visual analysis.&lt;SEP&gt;The Image is a visual representation of a numeric composition, showcasing geometric patterns and numerical elements.&lt;SEP&gt;The Image is a visual representation of the Vintage Countdown Timer, presenting a detailed visual description of the design and composition.&lt;SEP&gt;Image is the visual content being analyzed, which depicts a simple target graphic with a central circle and concentric circles.&lt;SEP&gt;An image is a visual representation of data or information, in this case, a detailed visual analysis of a provided snapshot.</data>
+  <data key="d3">chunk-f0678157bc76265facc1f6b04030de27&lt;SEP&gt;chunk-bc7f42ae6178149a28b12d88dbf67c9e&lt;SEP&gt;chunk-791feecd6558794bff9fb072c712d4e1&lt;SEP&gt;chunk-15e26a3b2dcfb72cc9b5e46ede803f63&lt;SEP&gt;chunk-6a1d8e91bb17cdcef8212ed779fce32c&lt;SEP&gt;chunk-9b2a97b30904c5ecd81dac293462b4d3</data>
+  <data key="d4">frame_0000.jpg&lt;SEP&gt;frame_0002.jpg&lt;SEP&gt;frame_0003.jpg&lt;SEP&gt;frame_0001.jpg&lt;SEP&gt;frame_0005.jpg&lt;SEP&gt;frame_0004.jpg</data>
+  <data key="d5">1766797967</data>
+  <data key="d6"></data>
+</node>
+<node id="Image Path">
+  <data key="d0">Image Path</data>
+  <data key="d1">data</data>
+  <data key="d2">The Image Path is a directory containing the image file /Users/mihirmodi/RAG-Anything/rag_storage/140912_776415326_small_mp4/output/frame_0002/ocr/images/b56793fbfae7bd2521b00a8afd574d602700721a6cf20a9ab862a6f99690e59b.jpg.&lt;SEP&gt;The Image Path is a directory path containing the image file "/Users/mihirmodi/RAG-Anything/rag_storage/140912_776415326_small_mp4/output/frame_0003/ocr/images/97dc659cb9ebc22a4e0cd60fbec00438271219d72d16c9c4bf8ef0a85fbd49dd.jpg".</data>
+  <data key="d3">chunk-bc7f42ae6178149a28b12d88dbf67c9e&lt;SEP&gt;chunk-791feecd6558794bff9fb072c712d4e1</data>
+  <data key="d4">frame_0002.jpg&lt;SEP&gt;frame_0003.jpg</data>
+  <data key="d5">1766797931</data>
+  <data key="d6"></data>
+</node>
+<node id="Captions">
+  <data key="d0">Captions</data>
+  <data key="d1">data</data>
+  <data key="d2">Captions are absent in the image.&lt;SEP&gt;Captions are a set of text descriptions associated with the image, but in this case, there are none.</data>
+  <data key="d3">chunk-bc7f42ae6178149a28b12d88dbf67c9e&lt;SEP&gt;chunk-791feecd6558794bff9fb072c712d4e1</data>
+  <data key="d4">frame_0002.jpg&lt;SEP&gt;frame_0003.jpg</data>
+  <data key="d5">1766797931</data>
+  <data key="d6"></data>
+</node>
+<node id="Footnotes">
+  <data key="d0">Footnotes</data>
+  <data key="d1">data</data>
+  <data key="d2">Footnotes are absent in the image.&lt;SEP&gt;Footnotes are additional notes or references associated with the image, but in this case, there are none.</data>
+  <data key="d3">chunk-bc7f42ae6178149a28b12d88dbf67c9e&lt;SEP&gt;chunk-791feecd6558794bff9fb072c712d4e1</data>
+  <data key="d4">frame_0002.jpg&lt;SEP&gt;frame_0003.jpg</data>
+  <data key="d5">1766797932</data>
+  <data key="d6"></data>
+</node>
+<node id="Number 6">
+  <data key="d0">Number 6</data>
+  <data key="d1">object</data>
+  <data key="d2">Number 6 is the central object of the image, a large, dark brown number.</data>
+  <data key="d3">chunk-bc7f42ae6178149a28b12d88dbf67c9e</data>
+  <data key="d4">frame_0002.jpg</data>
+  <data key="d5">1766797926</data>
+  <data key="d6"></data>
+</node>
+<node id="Circular Outline">
+  <data key="d0">Circular Outline</data>
+  <data key="d1">object</data>
+  <data key="d2">The circular outline is a design element surrounding the number 6, featuring a crosshair pattern.</data>
+  <data key="d3">chunk-bc7f42ae6178149a28b12d88dbf67c9e</data>
+  <data key="d4">frame_0002.jpg</data>
+  <data key="d5">1766797926</data>
+  <data key="d6"></data>
+</node>
+<node id="Crosshair Pattern">
+  <data key="d0">Crosshair Pattern</data>
+  <data key="d1">designelement</data>
+  <data key="d2">The crosshair pattern is a visual element within the circular outline, adding precision and accuracy to the design.&lt;SEP&gt;A crosshair pattern is a visual element consisting of two intersecting lines, often used to add precision and focus to a design.</data>
+  <data key="d3">chunk-bc7f42ae6178149a28b12d88dbf67c9e&lt;SEP&gt;chunk-9b2a97b30904c5ecd81dac293462b4d3</data>
+  <data key="d4">frame_0002.jpg&lt;SEP&gt;frame_0004.jpg</data>
+  <data key="d5">1766797967</data>
+  <data key="d6"></data>
+</node>
+<node id="Light Tan Background">
+  <data key="d0">Light Tan Background</data>
+  <data key="d1">object</data>
+  <data key="d2">The light tan background is a neutral color providing contrast to the darker number and outline.</data>
+  <data key="d3">chunk-bc7f42ae6178149a28b12d88dbf67c9e</data>
+  <data key="d4">frame_0002.jpg</data>
+  <data key="d5">1766797926</data>
+  <data key="d6"></data>
+</node>
+<node id="Dark Brown Number">
+  <data key="d0">Dark Brown Number</data>
+  <data key="d1">object</data>
+  <data key="d2">The dark brown number is the central design element, a large number 6.</data>
+  <data key="d3">chunk-bc7f42ae6178149a28b12d88dbf67c9e</data>
+  <data key="d4">frame_0002.jpg</data>
+  <data key="d5">1766797926</data>
+  <data key="d6"></data>
+</node>
+<node id="Visual Style">
+  <data key="d0">Visual Style</data>
+  <data key="d1">category</data>
+  <data key="d2">The visual style is simple and clean, with a focus on the central design element.&lt;SEP&gt;Visual Style refers to the aesthetic and design elements that contribute to the overall visual appeal of the image, including the vintage-style countdown timer and geometric shapes.</data>
+  <data key="d3">chunk-bc7f42ae6178149a28b12d88dbf67c9e&lt;SEP&gt;chunk-15e26a3b2dcfb72cc9b5e46ede803f63</data>
+  <data key="d4">frame_0002.jpg&lt;SEP&gt;frame_0001.jpg</data>
+  <data key="d5">1766797942</data>
+  <data key="d6"></data>
+</node>
+<node id="Snapshot">
+  <data key="d0">Snapshot</data>
+  <data key="d1">image</data>
+  <data key="d2">The snapshot is the original image being analyzed.&lt;SEP&gt;A snapshot is a digital image of a scene or object, often used to capture a moment in time.</data>
+  <data key="d3">chunk-bc7f42ae6178149a28b12d88dbf67c9e&lt;SEP&gt;chunk-9b2a97b30904c5ecd81dac293462b4d3</data>
+  <data key="d4">frame_0002.jpg&lt;SEP&gt;frame_0004.jpg</data>
+  <data key="d5">1766797967</data>
+  <data key="d6"></data>
+</node>
+<node id="image_69a9bdaa41f92ca098127fb268880851">
+  <data key="d0">image_69a9bdaa41f92ca098127fb268880851</data>
+  <data key="d1">image</data>
+  <data key="d2">**Detailed Description:**
+
+The image presents a visually striking composition, featuring a prominent...</data>
+  <data key="d3">chunk-791feecd6558794bff9fb072c712d4e1</data>
+  <data key="d4">frame_0003.jpg</data>
+  <data key="d5">1766797926</data>
+</node>
+<node id="Visual Analysis">
+  <data key="d0">Visual Analysis</data>
+  <data key="d3">chunk-bc7f42ae6178149a28b12d88dbf67c9e</data>
+  <data key="d2">The visual analysis is about the image.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">frame_0002.jpg</data>
+  <data key="d5">1766797929</data>
+  <data key="d6"></data>
+</node>
+<node id="Composition and Layout">
+  <data key="d0">Composition and Layout</data>
+  <data key="d3">chunk-bc7f42ae6178149a28b12d88dbf67c9e&lt;SEP&gt;chunk-15e26a3b2dcfb72cc9b5e46ede803f63</data>
+  <data key="d2">The composition and layout are aspects of the image being analyzed.&lt;SEP&gt;Composition and Layout refers to the arrangement of visual elements in the image, including the central circle and concentric circles.</data>
+  <data key="d1">concept</data>
+  <data key="d4">frame_0002.jpg&lt;SEP&gt;frame_0001.jpg</data>
+  <data key="d5">1766797942</data>
+  <data key="d6"></data>
+</node>
+<node id="Centralized Numeric Composition">
+  <data key="d0">Centralized Numeric Composition</data>
+  <data key="d1">concept</data>
+  <data key="d2">The Centralized Numeric Composition is a stylized image featuring a prominent black number "4" against a gradient background.</data>
+  <data key="d3">chunk-791feecd6558794bff9fb072c712d4e1</data>
+  <data key="d4">frame_0003.jpg</data>
+  <data key="d5">1766797931</data>
+  <data key="d6"></data>
+</node>
+<node id="Number 4">
+  <data key="d0">Number 4</data>
+  <data key="d1">concept</data>
+  <data key="d2">Number 4 is a central element of the composition, encircled by a thin black line and dividing the image into quadrants.</data>
+  <data key="d3">chunk-791feecd6558794bff9fb072c712d4e1</data>
+  <data key="d4">frame_0003.jpg</data>
+  <data key="d5">1766797931</data>
+  <data key="d6"></data>
+</node>
+<node id="Gradient Background">
+  <data key="d0">Gradient Background</data>
+  <data key="d1">designelement</data>
+  <data key="d2">The Gradient Background transitions from light yellow at the top to dark yellow at the bottom, creating a visually striking effect.</data>
+  <data key="d3">chunk-791feecd6558794bff9fb072c712d4e1</data>
+  <data key="d4">frame_0003.jpg</data>
+  <data key="d5">1766797931</data>
+  <data key="d6"></data>
+</node>
+<node id="Visual Elements">
+  <data key="d0">Visual Elements</data>
+  <data key="d3">chunk-bc7f42ae6178149a28b12d88dbf67c9e</data>
+  <data key="d2">The visual elements are aspects of the image being analyzed.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">frame_0002.jpg</data>
+  <data key="d5">1766797931</data>
+  <data key="d6"></data>
+</node>
+<node id="Design Elements">
+  <data key="d0">Design Elements</data>
+  <data key="d3">chunk-bc7f42ae6178149a28b12d88dbf67c9e</data>
+  <data key="d2">The design elements are aspects of the image being analyzed.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">frame_0002.jpg</data>
+  <data key="d5">1766797932</data>
+  <data key="d6"></data>
+</node>
+<node id="Technical Details">
+  <data key="d0">Technical Details</data>
+  <data key="d3">chunk-bc7f42ae6178149a28b12d88dbf67c9e&lt;SEP&gt;chunk-15e26a3b2dcfb72cc9b5e46ede803f63&lt;SEP&gt;chunk-6a1d8e91bb17cdcef8212ed779fce32c</data>
+  <data key="d2">The technical details are aspects of the image being analyzed.&lt;SEP&gt;Technical Details refers to the presence or absence of technical information, such as charts or diagrams, in the image, with the image not containing any technical details.&lt;SEP&gt;Technical Details is a section in the input text that contains technical information about the image.</data>
+  <data key="d1">category</data>
+  <data key="d4">frame_0002.jpg&lt;SEP&gt;frame_0001.jpg&lt;SEP&gt;frame_0005.jpg</data>
+  <data key="d5">1766797964</data>
+  <data key="d6"></data>
+</node>
+<node id="image_47e882cf48a70aa386e95c5096ad0e18">
+  <data key="d0">image_47e882cf48a70aa386e95c5096ad0e18</data>
+  <data key="d1">image</data>
+  <data key="d2">The image presents a detailed visual description of a vintage-style countdown timer, comprising a ce...</data>
+  <data key="d3">chunk-15e26a3b2dcfb72cc9b5e46ede803f63</data>
+  <data key="d4">frame_0001.jpg</data>
+  <data key="d5">1766797935</data>
+</node>
+<node id="Vintage Countdown Timer">
+  <data key="d0">Vintage Countdown Timer</data>
+  <data key="d1">concept</data>
+  <data key="d2">The Vintage Countdown Timer is a beautifully designed image featuring a central circle with a black border and the number "8" at its center.</data>
+  <data key="d3">chunk-15e26a3b2dcfb72cc9b5e46ede803f63</data>
+  <data key="d4">frame_0001.jpg</data>
+  <data key="d5">1766797942</data>
+  <data key="d6"></data>
+</node>
+<node id="/Users/mihirmodi/RAG-Anything/rag_storage/140912_776415326_small_mp4/output/frame_0001/ocr/images/4e38e21d8fac4b6b99ca20f3ee170212ba8cc541a2ba99cb913366f0ed305ccb.jpg">
+  <data key="d0">/Users/mihirmodi/RAG-Anything/rag_storage/140912_776415326_small_mp4/output/frame_0001/ocr/images/4e38e21d8fac4b6b99ca20f3ee170212ba8cc541a2ba99cb913366f0ed305ccb.jpg</data>
+  <data key="d1">location</data>
+  <data key="d2">/Users/mihirmodi/RAG-Anything/rag_storage/140912_776415326_small_mp4/output/frame_0001/ocr/images/4e38e21d8fac4b6b99ca20f3ee170212ba8cc541a2ba99cb913366f0ed305ccb.jpg is the path to the image file.</data>
+  <data key="d3">chunk-15e26a3b2dcfb72cc9b5e46ede803f63</data>
+  <data key="d4">frame_0001.jpg</data>
+  <data key="d5">1766797942</data>
+  <data key="d6"></data>
+</node>
+<node id="Objects, People, and Text">
+  <data key="d0">Objects, People, and Text</data>
+  <data key="d1">category</data>
+  <data key="d2">Objects, People, and Text refers to the presence or absence of people, text, and other objects in the image.</data>
+  <data key="d3">chunk-15e26a3b2dcfb72cc9b5e46ede803f63</data>
+  <data key="d4">frame_0001.jpg</data>
+  <data key="d5">1766797942</data>
+  <data key="d6"></data>
+</node>
+<node id="Relationships Between Elements">
+  <data key="d0">Relationships Between Elements</data>
+  <data key="d1">concept</data>
+  <data key="d2">Relationships Between Elements refers to the connections and interactions between different visual elements in the image, such as the concentric circles and geometric shapes.</data>
+  <data key="d3">chunk-15e26a3b2dcfb72cc9b5e46ede803f63</data>
+  <data key="d4">frame_0001.jpg</data>
+  <data key="d5">1766797942</data>
+  <data key="d6"></data>
+</node>
+<node id="Colors and Lighting">
+  <data key="d0">Colors and Lighting</data>
+  <data key="d1">category</data>
+  <data key="d2">Colors and Lighting refers to the color palette and lighting effects used in the image, including the dominant beige and black colors and even lighting.</data>
+  <data key="d3">chunk-15e26a3b2dcfb72cc9b5e46ede803f63</data>
+  <data key="d4">frame_0001.jpg</data>
+  <data key="d5">1766797942</data>
+  <data key="d6"></data>
+</node>
+<node id="Actions and Activities">
+  <data key="d0">Actions and Activities</data>
+  <data key="d1">category</data>
+  <data key="d2">Actions and Activities refers to the presence or absence of actions or activities depicted in the image, with the image appearing to be a static representation of a countdown timer.</data>
+  <data key="d3">chunk-15e26a3b2dcfb72cc9b5e46ede803f63</data>
+  <data key="d4">frame_0001.jpg</data>
+  <data key="d5">1766797942</data>
+  <data key="d6"></data>
+</node>
+<node id="image_8dad74123a9d7b233eba6164768f01cd">
+  <data key="d0">image_8dad74123a9d7b233eba6164768f01cd</data>
+  <data key="d1">image</data>
+  <data key="d2">**Detailed Description of the Image**
+
+The image is a graphic representation of a target, featuring ...</data>
+  <data key="d3">chunk-6a1d8e91bb17cdcef8212ed779fce32c</data>
+  <data key="d4">frame_0005.jpg</data>
+  <data key="d5">1766797956</data>
+</node>
+<node id="image_c8b879af2c2fc8b9b19cddd316aaa13e">
+  <data key="d0">image_c8b879af2c2fc8b9b19cddd316aaa13e</data>
+  <data key="d1">image</data>
+  <data key="d2">The image presents a detailed visual analysis of the provided snapshot, adhering to the specified gu...</data>
+  <data key="d3">chunk-9b2a97b30904c5ecd81dac293462b4d3</data>
+  <data key="d4">frame_0004.jpg</data>
+  <data key="d5">1766797962</data>
+</node>
+<node id="Target Graphic">
+  <data key="d0">Target Graphic</data>
+  <data key="d1">image</data>
+  <data key="d2">The Target Graphic is a graphic representation of a target featuring a central circle with a large "0" in the middle, surrounded by two concentric circles on a light brown background.</data>
+  <data key="d3">chunk-6a1d8e91bb17cdcef8212ed779fce32c</data>
+  <data key="d4">frame_0005.jpg</data>
+  <data key="d5">1766797964</data>
+  <data key="d6"></data>
+</node>
+<node id="Light Brown">
+  <data key="d0">Light Brown</data>
+  <data key="d1">color</data>
+  <data key="d2">Light Brown is a color used in the background of the image, adding a sense of warmth and approachability.</data>
+  <data key="d3">chunk-6a1d8e91bb17cdcef8212ed779fce32c</data>
+  <data key="d4">frame_0005.jpg</data>
+  <data key="d5">1766797964</data>
+  <data key="d6"></data>
+</node>
+<node id="Dark Brown">
+  <data key="d0">Dark Brown</data>
+  <data key="d1">color</data>
+  <data key="d2">Dark Brown is a color used for text in the image, creating contrast with the light brown background.</data>
+  <data key="d3">chunk-6a1d8e91bb17cdcef8212ed779fce32c</data>
+  <data key="d4">frame_0005.jpg</data>
+  <data key="d5">1766797964</data>
+  <data key="d6"></data>
+</node>
+<node id="/Users/mihirmodi/RAG-Anything/rag_storage/140912_776415326_small_mp4/output/frame_0005/ocr/images/3d88321995afbea5a21910fa6ea5f6e08dc0eaf182c6b67a5e8f131497b2607b.jpg">
+  <data key="d0">/Users/mihirmodi/RAG-Anything/rag_storage/140912_776415326_small_mp4/output/frame_0005/ocr/images/3d88321995afbea5a21910fa6ea5f6e08dc0eaf182c6b67a5e8f131497b2607b.jpg</data>
+  <data key="d1">file</data>
+  <data key="d2">/Users/mihirmodi/RAG-Anything/rag_storage/140912_776415326_small_mp4/output/frame_0005/ocr/images/3d88321995afbea5a21910fa6ea5f6e08dc0eaf182c6b67a5e8f131497b2607b.jpg is the file path of the analyzed image.</data>
+  <data key="d3">chunk-6a1d8e91bb17cdcef8212ed779fce32c</data>
+  <data key="d4">frame_0005.jpg</data>
+  <data key="d5">1766797964</data>
+  <data key="d6"></data>
+</node>
+<node id="Entity Information">
+  <data key="d0">Entity Information</data>
+  <data key="d1">category</data>
+  <data key="d2">Entity Information is a section in the input text that contains detailed information about the image.</data>
+  <data key="d3">chunk-6a1d8e91bb17cdcef8212ed779fce32c</data>
+  <data key="d4">frame_0005.jpg</data>
+  <data key="d5">1766797964</data>
+  <data key="d6"></data>
+</node>
+<node id="Actions or Activities">
+  <data key="d0">Actions or Activities</data>
+  <data key="d1">category</data>
+  <data key="d2">Actions or Activities is a section in the input text that contains information about the actions or activities depicted in the image.</data>
+  <data key="d3">chunk-6a1d8e91bb17cdcef8212ed779fce32c</data>
+  <data key="d4">frame_0005.jpg</data>
+  <data key="d5">1766797964</data>
+  <data key="d6"></data>
+</node>
+<node id="Colors, Lighting, and Visual Style">
+  <data key="d0">Colors, Lighting, and Visual Style</data>
+  <data key="d1">category</data>
+  <data key="d2">Colors, Lighting, and Visual Style is a section in the input text that contains information about the colors, lighting, and visual style of the image.</data>
+  <data key="d3">chunk-6a1d8e91bb17cdcef8212ed779fce32c</data>
+  <data key="d4">frame_0005.jpg</data>
+  <data key="d5">1766797964</data>
+  <data key="d6"></data>
+</node>
+<node id="Circular Composition with Number 2">
+  <data key="d0">Circular Composition with Number 2</data>
+  <data key="d1">image</data>
+  <data key="d2">This image features a prominent, dark brown circle with the number "2" at its center, surrounded by a crosshair pattern on a light brown background. The design is clean and minimalist, with a focus on simplicity and precision.</data>
+  <data key="d3">chunk-9b2a97b30904c5ecd81dac293462b4d3</data>
+  <data key="d4">frame_0004.jpg</data>
+  <data key="d5">1766797967</data>
+  <data key="d6"></data>
+</node>
+<node id="Number 2">
+  <data key="d0">Number 2</data>
+  <data key="d1">number</data>
+  <data key="d2">The number 2 is a numerical value used to represent a quantity or count.</data>
+  <data key="d3">chunk-9b2a97b30904c5ecd81dac293462b4d3</data>
+  <data key="d4">frame_0004.jpg</data>
+  <data key="d5">1766797967</data>
+  <data key="d6"></data>
+</node>
+<edge source="image_91dc62ade0ee082ae265fb5585519716" target="RAG-Anything">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity RAG-Anything belongs to image_91dc62ade0ee082ae265fb5585519716</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-f0678157bc76265facc1f6b04030de27</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766797922</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_91dc62ade0ee082ae265fb5585519716" target="/Users/mihirmodi/RAG-Anything/rag_storage/140912_776415326_small_mp4/output/frame_0000/ocr/images/ac96e8c9860e538e59aec7ca8b27ba106ab9813dbb16a5764f7d2bb1d8aa4839.jpg">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity /Users/mihirmodi/RAG-Anything/rag_storage/140912_776415326_small_mp4/output/frame_0000/ocr/images/ac96e8c9860e538e59aec7ca8b27ba106ab9813dbb16a5764f7d2bb1d8aa4839.jpg belongs to image_91dc62ade0ee082ae265fb5585519716</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-f0678157bc76265facc1f6b04030de27</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766797923</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_91dc62ade0ee082ae265fb5585519716" target="Image">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Image belongs to image_91dc62ade0ee082ae265fb5585519716</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-f0678157bc76265facc1f6b04030de27</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766797924</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_91dc62ade0ee082ae265fb5585519716" target="Image Content Analysis">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Image Content Analysis belongs to image_91dc62ade0ee082ae265fb5585519716</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-f0678157bc76265facc1f6b04030de27</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766797924</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_91dc62ade0ee082ae265fb5585519716" target="Film Countdown Timer">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Film Countdown Timer belongs to image_91dc62ade0ee082ae265fb5585519716</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-f0678157bc76265facc1f6b04030de27</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766797925</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_91dc62ade0ee082ae265fb5585519716" target="Mihir Modi">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Mihir Modi belongs to image_91dc62ade0ee082ae265fb5585519716</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-f0678157bc76265facc1f6b04030de27</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766797926</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_91dc62ade0ee082ae265fb5585519716" target="Countdown Timer">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Countdown Timer belongs to image_91dc62ade0ee082ae265fb5585519716</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-f0678157bc76265facc1f6b04030de27</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766797926</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_3c68edc2e535c85831cd242df789255e" target="Image Content Analysis">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Image Content Analysis belongs to image_3c68edc2e535c85831cd242df789255e</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-bc7f42ae6178149a28b12d88dbf67c9e</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766797927</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_3c68edc2e535c85831cd242df789255e" target="Crosshair Pattern">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Crosshair Pattern belongs to image_3c68edc2e535c85831cd242df789255e</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-bc7f42ae6178149a28b12d88dbf67c9e</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766797927</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_3c68edc2e535c85831cd242df789255e" target="Visual Style">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Visual Style belongs to image_3c68edc2e535c85831cd242df789255e</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-bc7f42ae6178149a28b12d88dbf67c9e</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766797928</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_3c68edc2e535c85831cd242df789255e" target="Snapshot">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Snapshot belongs to image_3c68edc2e535c85831cd242df789255e</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-bc7f42ae6178149a28b12d88dbf67c9e</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766797929</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_3c68edc2e535c85831cd242df789255e" target="Image Path">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Image Path belongs to image_3c68edc2e535c85831cd242df789255e</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-bc7f42ae6178149a28b12d88dbf67c9e</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766797929</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_3c68edc2e535c85831cd242df789255e" target="Light Tan Background">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Light Tan Background belongs to image_3c68edc2e535c85831cd242df789255e</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-bc7f42ae6178149a28b12d88dbf67c9e</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766797930</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_3c68edc2e535c85831cd242df789255e" target="Captions">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Captions belongs to image_3c68edc2e535c85831cd242df789255e</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-bc7f42ae6178149a28b12d88dbf67c9e</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766797930</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_3c68edc2e535c85831cd242df789255e" target="Footnotes">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Footnotes belongs to image_3c68edc2e535c85831cd242df789255e</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-bc7f42ae6178149a28b12d88dbf67c9e</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766797931</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_3c68edc2e535c85831cd242df789255e" target="Number 6">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Number 6 belongs to image_3c68edc2e535c85831cd242df789255e</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-bc7f42ae6178149a28b12d88dbf67c9e</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766797932</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_3c68edc2e535c85831cd242df789255e" target="Dark Brown Number">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Dark Brown Number belongs to image_3c68edc2e535c85831cd242df789255e</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-bc7f42ae6178149a28b12d88dbf67c9e</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766797932</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_3c68edc2e535c85831cd242df789255e" target="Circular Outline">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Circular Outline belongs to image_3c68edc2e535c85831cd242df789255e</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-bc7f42ae6178149a28b12d88dbf67c9e</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766797933</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_3c68edc2e535c85831cd242df789255e" target="Image">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Image belongs to image_3c68edc2e535c85831cd242df789255e</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-bc7f42ae6178149a28b12d88dbf67c9e</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766797935</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image Content Analysis" target="Mihir Modi">
+  <data key="d7">1.0</data>
+  <data key="d8">Mihir Modi created the document describing the image content analysis process.</data>
+  <data key="d9">authorship,document creation</data>
+  <data key="d10">chunk-f0678157bc76265facc1f6b04030de27</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766797922</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Mihir Modi" target="RAG-Anything">
+  <data key="d7">1.0</data>
+  <data key="d8">Mihir Modi is employed or affiliated with RAG-Anything, as indicated by the directory path in the image content analysis document.</data>
+  <data key="d9">affiliation,employment</data>
+  <data key="d10">chunk-f0678157bc76265facc1f6b04030de27</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766797923</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Film Countdown Timer" target="Countdown Timer">
+  <data key="d7">1.0</data>
+  <data key="d8">The film countdown timer is a type of countdown timer, and both devices serve the same purpose of counting down to a specific time.</data>
+  <data key="d9">equipment comparison,functionality</data>
+  <data key="d10">chunk-f0678157bc76265facc1f6b04030de27</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766797922</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Countdown Timer" target="Image">
+  <data key="d7">1.0</data>
+  <data key="d8">The image depicts a countdown timer, which is a type of equipment used in film and video production.</data>
+  <data key="d9">equipment,visual representation</data>
+  <data key="d10">chunk-f0678157bc76265facc1f6b04030de27</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766797924</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image" target="Image Path">
+  <data key="d7">1.0</data>
+  <data key="d8">The image is located at the specified Image Path.</data>
+  <data key="d9">content relationship,file location</data>
+  <data key="d10">chunk-bc7f42ae6178149a28b12d88dbf67c9e</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766797927</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image" target="Captions">
+  <data key="d7">1.0</data>
+  <data key="d8">The image does not have any captions.</data>
+  <data key="d9">content relationship,description</data>
+  <data key="d10">chunk-bc7f42ae6178149a28b12d88dbf67c9e</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766797927</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image" target="Footnotes">
+  <data key="d7">1.0</data>
+  <data key="d8">The image does not have any footnotes.</data>
+  <data key="d9">content relationship,description</data>
+  <data key="d10">chunk-bc7f42ae6178149a28b12d88dbf67c9e</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766797928</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image" target="Visual Analysis">
+  <data key="d7">1.0</data>
+  <data key="d8">The visual analysis is about the image.</data>
+  <data key="d9">content relationship,subject</data>
+  <data key="d10">chunk-bc7f42ae6178149a28b12d88dbf67c9e</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766797929</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image" target="Composition and Layout">
+  <data key="d7">1.0</data>
+  <data key="d8">The composition and layout are aspects of the image being analyzed.</data>
+  <data key="d9">content relationship,subject</data>
+  <data key="d10">chunk-bc7f42ae6178149a28b12d88dbf67c9e</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766797930</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image" target="Visual Elements">
+  <data key="d7">1.0</data>
+  <data key="d8">The visual elements are aspects of the image being analyzed.</data>
+  <data key="d9">content relationship,subject</data>
+  <data key="d10">chunk-bc7f42ae6178149a28b12d88dbf67c9e</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766797931</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image" target="Design Elements">
+  <data key="d7">1.0</data>
+  <data key="d8">The design elements are aspects of the image being analyzed.</data>
+  <data key="d9">content relationship,subject</data>
+  <data key="d10">chunk-bc7f42ae6178149a28b12d88dbf67c9e</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766797933</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image" target="Technical Details">
+  <data key="d7">1.0</data>
+  <data key="d8">The technical details are aspects of the image being analyzed.</data>
+  <data key="d9">content relationship,subject</data>
+  <data key="d10">chunk-bc7f42ae6178149a28b12d88dbf67c9e</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766797934</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image" target="Centralized Numeric Composition">
+  <data key="d7">1.0</data>
+  <data key="d8">The Centralized Numeric Composition is a visual representation of a numeric composition.</data>
+  <data key="d9">composition,visual representation</data>
+  <data key="d10">chunk-791feecd6558794bff9fb072c712d4e1</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766797936</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image" target="image_69a9bdaa41f92ca098127fb268880851">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Image belongs to image_69a9bdaa41f92ca098127fb268880851</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-791feecd6558794bff9fb072c712d4e1</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766797938</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image" target="Vintage Countdown Timer">
+  <data key="d7">1.0</data>
+  <data key="d8">The Vintage Countdown Timer is represented as an image, featuring a detailed visual description of the design and composition.</data>
+  <data key="d9">image representation,visual style</data>
+  <data key="d10">chunk-15e26a3b2dcfb72cc9b5e46ede803f63</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766797943</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image" target="/Users/mihirmodi/RAG-Anything/rag_storage/140912_776415326_small_mp4/output/frame_0001/ocr/images/4e38e21d8fac4b6b99ca20f3ee170212ba8cc541a2ba99cb913366f0ed305ccb.jpg">
+  <data key="d7">1.0</data>
+  <data key="d8">The image file is located at /Users/mihirmodi/RAG-Anything/rag_storage/140912_776415326_small_mp4/output/frame_0001/ocr/images/4e38e21d8fac4b6b99ca20f3ee170212ba8cc541a2ba99cb913366f0ed305ccb.jpg.</data>
+  <data key="d9">file path,image location</data>
+  <data key="d10">chunk-15e26a3b2dcfb72cc9b5e46ede803f63</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766797943</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image" target="image_47e882cf48a70aa386e95c5096ad0e18">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Image belongs to image_47e882cf48a70aa386e95c5096ad0e18</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-15e26a3b2dcfb72cc9b5e46ede803f63</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766797946</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image" target="Target Graphic">
+  <data key="d7">1.0</data>
+  <data key="d8">The Target Graphic is an image content that represents a graphic design of a target with a central circle and concentric circles.</data>
+  <data key="d9">graphic design,image content</data>
+  <data key="d10">chunk-6a1d8e91bb17cdcef8212ed779fce32c</data>
+  <data key="d11">frame_0005.jpg</data>
+  <data key="d12">1766797965</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image" target="image_8dad74123a9d7b233eba6164768f01cd">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Image belongs to image_8dad74123a9d7b233eba6164768f01cd</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-6a1d8e91bb17cdcef8212ed779fce32c</data>
+  <data key="d11">frame_0005.jpg</data>
+  <data key="d12">1766797965</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image" target="image_c8b879af2c2fc8b9b19cddd316aaa13e">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Image belongs to image_c8b879af2c2fc8b9b19cddd316aaa13e</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-9b2a97b30904c5ecd81dac293462b4d3</data>
+  <data key="d11">frame_0004.jpg</data>
+  <data key="d12">1766797967</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image" target="Circular Composition with Number 2">
+  <data key="d7">1.0</data>
+  <data key="d8">The image features a prominent, dark brown circle with the number "2" at its center, surrounded by a crosshair pattern on a light brown background.</data>
+  <data key="d9">image,visual representation</data>
+  <data key="d10">chunk-9b2a97b30904c5ecd81dac293462b4d3</data>
+  <data key="d11">frame_0004.jpg</data>
+  <data key="d12">1766797970</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image Path" target="image_69a9bdaa41f92ca098127fb268880851">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Image Path belongs to image_69a9bdaa41f92ca098127fb268880851</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-791feecd6558794bff9fb072c712d4e1</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766797937</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image Path" target="Centralized Numeric Composition">
+  <data key="d7">1.0</data>
+  <data key="d8">The Image Path is associated with the Centralized Numeric Composition image.</data>
+  <data key="d9">composition,image association</data>
+  <data key="d10">chunk-791feecd6558794bff9fb072c712d4e1</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766797937</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Captions" target="Centralized Numeric Composition">
+  <data key="d7">1.0</data>
+  <data key="d8">Captions are a text description of the Centralized Numeric Composition, but in this case, there are none.</data>
+  <data key="d9">composition,text description</data>
+  <data key="d10">chunk-791feecd6558794bff9fb072c712d4e1</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766797938</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Captions" target="image_69a9bdaa41f92ca098127fb268880851">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Captions belongs to image_69a9bdaa41f92ca098127fb268880851</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-791feecd6558794bff9fb072c712d4e1</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766797939</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Footnotes" target="image_69a9bdaa41f92ca098127fb268880851">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Footnotes belongs to image_69a9bdaa41f92ca098127fb268880851</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-791feecd6558794bff9fb072c712d4e1</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766797937</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Footnotes" target="Centralized Numeric Composition">
+  <data key="d7">1.0</data>
+  <data key="d8">Footnotes are additional notes or references associated with the Centralized Numeric Composition, but in this case, there are none.</data>
+  <data key="d9">additional notes,composition</data>
+  <data key="d10">chunk-791feecd6558794bff9fb072c712d4e1</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766797939</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Number 6" target="Circular Outline">
+  <data key="d7">1.0</data>
+  <data key="d8">Number 6 is centered within the circular outline.</data>
+  <data key="d9">design element,object relationship</data>
+  <data key="d10">chunk-bc7f42ae6178149a28b12d88dbf67c9e</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766797927</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Number 6" target="Light Tan Background">
+  <data key="d7">1.0</data>
+  <data key="d8">The number 6 is set against the light tan background, creating contrast.</data>
+  <data key="d9">contrast,object relationship</data>
+  <data key="d10">chunk-bc7f42ae6178149a28b12d88dbf67c9e</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766797927</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Number 6" target="Dark Brown Number">
+  <data key="d7">1.0</data>
+  <data key="d8">Number 6 is the dark brown number.</data>
+  <data key="d9">design element,object relationship</data>
+  <data key="d10">chunk-bc7f42ae6178149a28b12d88dbf67c9e</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766797928</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Circular Outline" target="Crosshair Pattern">
+  <data key="d7">1.0</data>
+  <data key="d8">The circular outline features a crosshair pattern.</data>
+  <data key="d9">design element,object relationship</data>
+  <data key="d10">chunk-bc7f42ae6178149a28b12d88dbf67c9e</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766797928</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Circular Outline" target="Light Tan Background">
+  <data key="d7">1.0</data>
+  <data key="d8">The circular outline is set against the light tan background.</data>
+  <data key="d9">background,object relationship</data>
+  <data key="d10">chunk-bc7f42ae6178149a28b12d88dbf67c9e</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766797930</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Circular Outline" target="Dark Brown Number">
+  <data key="d7">1.0</data>
+  <data key="d8">The dark brown number is surrounded by the circular outline.</data>
+  <data key="d9">design element,object relationship</data>
+  <data key="d10">chunk-bc7f42ae6178149a28b12d88dbf67c9e</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766797933</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Crosshair Pattern" target="Circular Composition with Number 2">
+  <data key="d7">1.0</data>
+  <data key="d8">The crosshair pattern surrounding the number adds a sense of precision and focus to the design.</data>
+  <data key="d9">design element,precision</data>
+  <data key="d10">chunk-9b2a97b30904c5ecd81dac293462b4d3</data>
+  <data key="d11">frame_0004.jpg</data>
+  <data key="d12">1766797967</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Crosshair Pattern" target="image_c8b879af2c2fc8b9b19cddd316aaa13e">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Crosshair Pattern belongs to image_c8b879af2c2fc8b9b19cddd316aaa13e</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-9b2a97b30904c5ecd81dac293462b4d3</data>
+  <data key="d11">frame_0004.jpg</data>
+  <data key="d12">1766797969</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Visual Style" target="Actions and Activities">
+  <data key="d7">1.0</data>
+  <data key="d8">The Visual Style of the image affects its representation of actions and activities, with the image appearing to be a static representation of a countdown timer.</data>
+  <data key="d9">image representation,static image</data>
+  <data key="d10">chunk-15e26a3b2dcfb72cc9b5e46ede803f63</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766797943</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Visual Style" target="image_47e882cf48a70aa386e95c5096ad0e18">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Visual Style belongs to image_47e882cf48a70aa386e95c5096ad0e18</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-15e26a3b2dcfb72cc9b5e46ede803f63</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766797944</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Visual Style" target="Colors and Lighting">
+  <data key="d7">1.0</data>
+  <data key="d8">The Colors and Lighting used in the image contribute to its Visual Style, which includes the vintage-style countdown timer and geometric shapes.</data>
+  <data key="d9">image design,visual elements</data>
+  <data key="d10">chunk-15e26a3b2dcfb72cc9b5e46ede803f63</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766797945</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Snapshot" target="image_c8b879af2c2fc8b9b19cddd316aaa13e">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Snapshot belongs to image_c8b879af2c2fc8b9b19cddd316aaa13e</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-9b2a97b30904c5ecd81dac293462b4d3</data>
+  <data key="d11">frame_0004.jpg</data>
+  <data key="d12">1766797968</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Snapshot" target="Circular Composition with Number 2">
+  <data key="d7">1.0</data>
+  <data key="d8">The image captures a moment in time, represented by the snapshot.</data>
+  <data key="d9">captured moment,image</data>
+  <data key="d10">chunk-9b2a97b30904c5ecd81dac293462b4d3</data>
+  <data key="d11">frame_0004.jpg</data>
+  <data key="d12">1766797971</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_69a9bdaa41f92ca098127fb268880851" target="Number 4">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Number 4 belongs to image_69a9bdaa41f92ca098127fb268880851</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-791feecd6558794bff9fb072c712d4e1</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766797936</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_69a9bdaa41f92ca098127fb268880851" target="Gradient Background">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Gradient Background belongs to image_69a9bdaa41f92ca098127fb268880851</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-791feecd6558794bff9fb072c712d4e1</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766797936</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_69a9bdaa41f92ca098127fb268880851" target="Centralized Numeric Composition">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Centralized Numeric Composition belongs to image_69a9bdaa41f92ca098127fb268880851</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-791feecd6558794bff9fb072c712d4e1</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766797939</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Composition and Layout" target="Objects, People, and Text">
+  <data key="d7">1.0</data>
+  <data key="d8">The Composition and Layout of the image includes the arrangement of visual elements, which does not include people or text.</data>
+  <data key="d9">image composition,visual elements</data>
+  <data key="d10">chunk-15e26a3b2dcfb72cc9b5e46ede803f63</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766797943</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Composition and Layout" target="image_47e882cf48a70aa386e95c5096ad0e18">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Composition and Layout belongs to image_47e882cf48a70aa386e95c5096ad0e18</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-15e26a3b2dcfb72cc9b5e46ede803f63</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766797943</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Centralized Numeric Composition" target="Number 4">
+  <data key="d7">1.0</data>
+  <data key="d8">Number 4 is the central element of the composition.</data>
+  <data key="d9">central element,composition</data>
+  <data key="d10">chunk-791feecd6558794bff9fb072c712d4e1</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766797936</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Centralized Numeric Composition" target="Gradient Background">
+  <data key="d7">1.0</data>
+  <data key="d8">The Gradient Background is a design element of the Centralized Numeric Composition.</data>
+  <data key="d9">composition,design element</data>
+  <data key="d10">chunk-791feecd6558794bff9fb072c712d4e1</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766797937</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Technical Details" target="image_47e882cf48a70aa386e95c5096ad0e18">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Technical Details belongs to image_47e882cf48a70aa386e95c5096ad0e18</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-15e26a3b2dcfb72cc9b5e46ede803f63</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766797943</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Technical Details" target="Actions and Activities">
+  <data key="d7">1.0</data>
+  <data key="d8">The absence of actions or activities in the image affects the presence or absence of technical details, with the image not containing any technical information.</data>
+  <data key="d9">image content,technical information</data>
+  <data key="d10">chunk-15e26a3b2dcfb72cc9b5e46ede803f63</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766797943</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Technical Details" target="image_8dad74123a9d7b233eba6164768f01cd">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Technical Details belongs to image_8dad74123a9d7b233eba6164768f01cd</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-6a1d8e91bb17cdcef8212ed779fce32c</data>
+  <data key="d11">frame_0005.jpg</data>
+  <data key="d12">1766797965</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Technical Details" target="Target Graphic">
+  <data key="d7">1.0</data>
+  <data key="d8">The Technical Details section is related to the Target Graphic, which has a size of 1920 x 1080 pixels and is in JPEG format.</data>
+  <data key="d9">format,image size</data>
+  <data key="d10">chunk-6a1d8e91bb17cdcef8212ed779fce32c</data>
+  <data key="d11">frame_0005.jpg</data>
+  <data key="d12">1766797968</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_47e882cf48a70aa386e95c5096ad0e18" target="Vintage Countdown Timer">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Vintage Countdown Timer belongs to image_47e882cf48a70aa386e95c5096ad0e18</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-15e26a3b2dcfb72cc9b5e46ede803f63</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766797945</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_47e882cf48a70aa386e95c5096ad0e18" target="Relationships Between Elements">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Relationships Between Elements belongs to image_47e882cf48a70aa386e95c5096ad0e18</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-15e26a3b2dcfb72cc9b5e46ede803f63</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766797945</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_47e882cf48a70aa386e95c5096ad0e18" target="/Users/mihirmodi/RAG-Anything/rag_storage/140912_776415326_small_mp4/output/frame_0001/ocr/images/4e38e21d8fac4b6b99ca20f3ee170212ba8cc541a2ba99cb913366f0ed305ccb.jpg">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity /Users/mihirmodi/RAG-Anything/rag_storage/140912_776415326_small_mp4/output/frame_0001/ocr/images/4e38e21d8fac4b6b99ca20f3ee170212ba8cc541a2ba99cb913366f0ed305ccb.jpg belongs to image_47e882cf48a70aa386e95c5096ad0e18</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-15e26a3b2dcfb72cc9b5e46ede803f63</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766797946</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_47e882cf48a70aa386e95c5096ad0e18" target="Actions and Activities">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Actions and Activities belongs to image_47e882cf48a70aa386e95c5096ad0e18</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-15e26a3b2dcfb72cc9b5e46ede803f63</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766797947</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_47e882cf48a70aa386e95c5096ad0e18" target="Colors and Lighting">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Colors and Lighting belongs to image_47e882cf48a70aa386e95c5096ad0e18</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-15e26a3b2dcfb72cc9b5e46ede803f63</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766797948</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_47e882cf48a70aa386e95c5096ad0e18" target="Objects, People, and Text">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Objects, People, and Text belongs to image_47e882cf48a70aa386e95c5096ad0e18</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-15e26a3b2dcfb72cc9b5e46ede803f63</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766797949</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Objects, People, and Text" target="Relationships Between Elements">
+  <data key="d7">1.0</data>
+  <data key="d8">The presence or absence of objects, people, and text affects the Relationships Between Elements in the image, contributing to its visual style.</data>
+  <data key="d9">image content,visual style</data>
+  <data key="d10">chunk-15e26a3b2dcfb72cc9b5e46ede803f63</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766797946</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Relationships Between Elements" target="Colors and Lighting">
+  <data key="d7">1.0</data>
+  <data key="d8">The Relationships Between Elements in the image are influenced by the Colors and Lighting used, contributing to its overall aesthetic appeal.</data>
+  <data key="d9">aesthetic appeal,image design</data>
+  <data key="d10">chunk-15e26a3b2dcfb72cc9b5e46ede803f63</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766797943</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_8dad74123a9d7b233eba6164768f01cd" target="Light Brown">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Light Brown belongs to image_8dad74123a9d7b233eba6164768f01cd</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-6a1d8e91bb17cdcef8212ed779fce32c</data>
+  <data key="d11">frame_0005.jpg</data>
+  <data key="d12">1766797966</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_8dad74123a9d7b233eba6164768f01cd" target="Dark Brown">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Dark Brown belongs to image_8dad74123a9d7b233eba6164768f01cd</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-6a1d8e91bb17cdcef8212ed779fce32c</data>
+  <data key="d11">frame_0005.jpg</data>
+  <data key="d12">1766797967</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_8dad74123a9d7b233eba6164768f01cd" target="/Users/mihirmodi/RAG-Anything/rag_storage/140912_776415326_small_mp4/output/frame_0005/ocr/images/3d88321995afbea5a21910fa6ea5f6e08dc0eaf182c6b67a5e8f131497b2607b.jpg">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity /Users/mihirmodi/RAG-Anything/rag_storage/140912_776415326_small_mp4/output/frame_0005/ocr/images/3d88321995afbea5a21910fa6ea5f6e08dc0eaf182c6b67a5e8f131497b2607b.jpg belongs to image_8dad74123a9d7b233eba6164768f01cd</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-6a1d8e91bb17cdcef8212ed779fce32c</data>
+  <data key="d11">frame_0005.jpg</data>
+  <data key="d12">1766797967</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_8dad74123a9d7b233eba6164768f01cd" target="Entity Information">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Entity Information belongs to image_8dad74123a9d7b233eba6164768f01cd</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-6a1d8e91bb17cdcef8212ed779fce32c</data>
+  <data key="d11">frame_0005.jpg</data>
+  <data key="d12">1766797968</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_8dad74123a9d7b233eba6164768f01cd" target="Actions or Activities">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Actions or Activities belongs to image_8dad74123a9d7b233eba6164768f01cd</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-6a1d8e91bb17cdcef8212ed779fce32c</data>
+  <data key="d11">frame_0005.jpg</data>
+  <data key="d12">1766797969</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_8dad74123a9d7b233eba6164768f01cd" target="Target Graphic">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Target Graphic belongs to image_8dad74123a9d7b233eba6164768f01cd</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-6a1d8e91bb17cdcef8212ed779fce32c</data>
+  <data key="d11">frame_0005.jpg</data>
+  <data key="d12">1766797970</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_8dad74123a9d7b233eba6164768f01cd" target="Colors, Lighting, and Visual Style">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Colors, Lighting, and Visual Style belongs to image_8dad74123a9d7b233eba6164768f01cd</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-6a1d8e91bb17cdcef8212ed779fce32c</data>
+  <data key="d11">frame_0005.jpg</data>
+  <data key="d12">1766797970</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_c8b879af2c2fc8b9b19cddd316aaa13e" target="Number 2">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Number 2 belongs to image_c8b879af2c2fc8b9b19cddd316aaa13e</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-9b2a97b30904c5ecd81dac293462b4d3</data>
+  <data key="d11">frame_0004.jpg</data>
+  <data key="d12">1766797969</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_c8b879af2c2fc8b9b19cddd316aaa13e" target="Circular Composition with Number 2">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Circular Composition with Number 2 belongs to image_c8b879af2c2fc8b9b19cddd316aaa13e</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-9b2a97b30904c5ecd81dac293462b4d3</data>
+  <data key="d11">frame_0004.jpg</data>
+  <data key="d12">1766797972</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Target Graphic" target="Light Brown">
+  <data key="d7">1.0</data>
+  <data key="d8">The Target Graphic features a light brown background, which is part of the color palette used in the image.</data>
+  <data key="d9">background,color palette</data>
+  <data key="d10">chunk-6a1d8e91bb17cdcef8212ed779fce32c</data>
+  <data key="d11">frame_0005.jpg</data>
+  <data key="d12">1766797965</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Target Graphic" target="Dark Brown">
+  <data key="d7">1.0</data>
+  <data key="d8">The Target Graphic uses dark brown text, which is part of the color palette used in the image.</data>
+  <data key="d9">color palette,text</data>
+  <data key="d10">chunk-6a1d8e91bb17cdcef8212ed779fce32c</data>
+  <data key="d11">frame_0005.jpg</data>
+  <data key="d12">1766797966</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Target Graphic" target="/Users/mihirmodi/RAG-Anything/rag_storage/140912_776415326_small_mp4/output/frame_0005/ocr/images/3d88321995afbea5a21910fa6ea5f6e08dc0eaf182c6b67a5e8f131497b2607b.jpg">
+  <data key="d7">1.0</data>
+  <data key="d8">/Users/mihirmodi/RAG-Anything/rag_storage/140912_776415326_small_mp4/output/frame_0005/ocr/images/3d88321995afbea5a21910fa6ea5f6e08dc0eaf182c6b67a5e8f131497b2607b.jpg is the file path of the image content that is the Target Graphic.</data>
+  <data key="d9">file path,image content</data>
+  <data key="d10">chunk-6a1d8e91bb17cdcef8212ed779fce32c</data>
+  <data key="d11">frame_0005.jpg</data>
+  <data key="d12">1766797967</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Target Graphic" target="Entity Information">
+  <data key="d7">1.0</data>
+  <data key="d8">The Entity Information section is related to the Target Graphic, which is an image content representing a graphic design.</data>
+  <data key="d9">graphic design,image content</data>
+  <data key="d10">chunk-6a1d8e91bb17cdcef8212ed779fce32c</data>
+  <data key="d11">frame_0005.jpg</data>
+  <data key="d12">1766797967</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Target Graphic" target="Actions or Activities">
+  <data key="d7">1.0</data>
+  <data key="d8">The Actions or Activities section is related to the Target Graphic, which does not depict any visible actions.</data>
+  <data key="d9">graphic design,no visible actions</data>
+  <data key="d10">chunk-6a1d8e91bb17cdcef8212ed779fce32c</data>
+  <data key="d11">frame_0005.jpg</data>
+  <data key="d12">1766797968</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Target Graphic" target="Colors, Lighting, and Visual Style">
+  <data key="d7">1.0</data>
+  <data key="d8">The Colors, Lighting, and Visual Style section is related to the Target Graphic, which has a color palette of light brown and dark brown, and even and consistent lighting.</data>
+  <data key="d9">color palette,lighting</data>
+  <data key="d10">chunk-6a1d8e91bb17cdcef8212ed779fce32c</data>
+  <data key="d11">frame_0005.jpg</data>
+  <data key="d12">1766797969</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Circular Composition with Number 2" target="Number 2">
+  <data key="d7">1.0</data>
+  <data key="d8">The number "2" appears to be the focal point of the composition.</data>
+  <data key="d9">focal point,number</data>
+  <data key="d10">chunk-9b2a97b30904c5ecd81dac293462b4d3</data>
+  <data key="d11">frame_0004.jpg</data>
+  <data key="d12">1766797969</data>
+  <data key="d13"></data>
+</edge>
+</graph></graphml>

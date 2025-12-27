@@ -1,0 +1,15 @@
+[
+    {
+        "type": "image",
+        "img_path": "images/3c0cb402a562848048d7d510530c4ba80bd1dd1b69941f21568d56bb8b7915a5.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            2,
+            0,
+            997,
+            1000
+        ],
+        "page_idx": 0
+    }
+]

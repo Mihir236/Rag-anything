@@ -1,0 +1,38 @@
+{
+  "doc-4bc246de7250bdedc12647a6b8803374": {
+    "status": "processed",
+    "chunks_count": 19,
+    "chunks_list": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2",
+      "chunk-e71208a45a410602fc7b303bcf0cabb7",
+      "chunk-46aa8564addc5cc8a0213d1d6d0375d6",
+      "chunk-b6e525e356aea10fca400d9b914666bd",
+      "chunk-db934a77d2eb0e79a6257fa12bdab0d2",
+      "chunk-ce938ff4ae326ee1416f5381bc88f2b2",
+      "chunk-3463eeed802952eeb1e0fdcd4d155093",
+      "chunk-93dd90c68f5338af0ea9041642bc9c0f",
+      "chunk-4bef8e260b3bbfafdb2e796efeb1b3a8",
+      "chunk-c3c2942d52e168a2fcbec9d540e2c898",
+      "chunk-7b30085b9c0271a72c69ecd58d336309",
+      "chunk-080a5d6e0afea9ec8ef89626da4756a0",
+      "chunk-d5cef5b6f637c85cea3f573736318020",
+      "chunk-1d395f1303c2b9f40431f22a49980978",
+      "chunk-d2faa9ff6a646d00fa6066f8f3c9cbbf",
+      "chunk-87486faa26eff582e1fe0ab4fc12719f",
+      "chunk-dc5706e81ee732347b26d9e8c73b54e3",
+      "chunk-380e7e81f889e3677251efb161d70421",
+      "chunk-fcccdbcbf4fd950e90aefd0de336073a"
+    ],
+    "content_summary": "CS791- Comprehensive viva \n\nMulti-Agent System for Intelligent Query Processing \n\nPresented by, \n\nMihir Modi- 202462001, \n\nMTech (3rd Semester) in DS \n\nInternal Guide, Guided by, Dr. Ravi Nahta Mukesh Siroya \n\nOverview \n\nIntroduction   \nProblem Defin...",
+    "content_length": 8318,
+    "created_at": "2025-12-26T12:07:17.544021+00:00",
+    "updated_at": "2025-12-26T17:39:11+00:00",
+    "file_path": "viva.pptx",
+    "track_id": "insert_20251226_173717_317e7209",
+    "metadata": {
+      "processing_start_time": 1766750837,
+      "processing_end_time": 1766750868
+    },
+    "multimodal_processed": true
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "doc-48b588f8b87c65b154952a3c0f6dae48": {
+    "entity_names": [
+      "Italy",
+      "Image",
+      "Entity Information",
+      "Venice Canal Scene",
+      "Venice Canal",
+      "Venice",
+      "Cityscape"
+    ],
+    "count": 7,
+    "update_time": 1766734134,
+    "_id": "doc-48b588f8b87c65b154952a3c0f6dae48"
+  },
+  "doc-7b98cd9ab8145c6a55ae930130f876c7": {
+    "entity_names": [
+      "Beauty",
+      "Italy",
+      "Romance",
+      "Advertisement",
+      "Image",
+      "Activity",
+      "Composition",
+      "Tranquility",
+      "Charm",
+      "Harmony",
+      "Mihir Modi",
+      "Venice",
+      "Image Content Analysis",
+      "Gondola",
+      "Canal",
+      "Balance"
+    ],
+    "count": 16,
+    "update_time": 1766734150,
+    "_id": "doc-7b98cd9ab8145c6a55ae930130f876c7"
+  },
+  "doc-5326e089025f95ebfc052d4bf9bfc763": {
+    "entity_names": [
+      "Warm Glow",
+      "Ornate Facades",
+      "Image",
+      "Sky",
+      "Red-Tiled Roofs",
+      "Gondolas",
+      "Buildings",
+      "Peaceful Atmosphere",
+      "Activity",
+      "Traditional Transportation",
+      "Venice",
+      "Boats",
+      "Historic Buildings",
+      "Canal",
+      "Sun"
+    ],
+    "count": 15,
+    "update_time": 1766734137,
+    "_id": "doc-5326e089025f95ebfc052d4bf9bfc763"
+  },
+  "doc-abe2d3443bbe69a42e93e1cd23334265": {
+    "entity_names": [
+      "Visual Analysis",
+      "Visual Elements",
+      "Gondolas",
+      "Historic Buildings",
+      "Venice Canal Scene",
+      "Venice",
+      "Objects",
+      "Composition",
+      "Relationships",
+      "Text",
+      "Church",
+      "Layout",
+      "Motorboats",
+      "Colors",
+      "Footnotes",
+      "Captions",
+      "Canal",
+      "Image Path",
+      "Visual Style",
+      "Sailboats",
+      "Italy",
+      "People",
+      "Image Content Analysis",
+      "Lighting"
+    ],
+    "count": 24,
+    "update_time": 1766734160,
+    "_id": "doc-abe2d3443bbe69a42e93e1cd23334265"
+  }
+}

@@ -1,0 +1,16 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [],
+            "page_idx": 0,
+            "page_size": [
+                595,
+                841
+            ],
+            "discarded_blocks": [],
+            "para_blocks": []
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.2.2"
+}

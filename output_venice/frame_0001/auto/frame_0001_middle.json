@@ -1,0 +1,174 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        0,
+                        0,
+                        1916,
+                        1080
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                0,
+                                0,
+                                1916,
+                                1080
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        0,
+                                        1916,
+                                        1080
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                0,
+                                                0,
+                                                1916,
+                                                1080
+                                            ],
+                                            "score": 0.578,
+                                            "type": "image",
+                                            "image_path": "86d3358f013bd272734d8c0e2acd0e6cb34f1795a68e7888336a437c3eda70ae.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        0,
+                                        1916,
+                                        360.0
+                                    ],
+                                    "spans": [],
+                                    "index": 0
+                                },
+                                {
+                                    "bbox": [
+                                        0,
+                                        360.0,
+                                        1916,
+                                        720.0
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        0,
+                                        720.0,
+                                        1916,
+                                        1080.0
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                1920,
+                1080
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        0,
+                        0,
+                        1916,
+                        1080
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                0,
+                                0,
+                                1916,
+                                1080
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        0,
+                                        1916,
+                                        1080
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                0,
+                                                0,
+                                                1916,
+                                                1080
+                                            ],
+                                            "score": 0.578,
+                                            "type": "image",
+                                            "image_path": "86d3358f013bd272734d8c0e2acd0e6cb34f1795a68e7888336a437c3eda70ae.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        0,
+                                        0,
+                                        1916,
+                                        360.0
+                                    ],
+                                    "spans": [],
+                                    "index": 0
+                                },
+                                {
+                                    "bbox": [
+                                        0,
+                                        360.0,
+                                        1916,
+                                        720.0
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        0,
+                                        720.0,
+                                        1916,
+                                        1080.0
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.2.2"
+}

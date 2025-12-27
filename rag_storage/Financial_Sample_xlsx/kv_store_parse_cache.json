@@ -1,0 +1,42 @@
+{
+  "4458747e4e07351fbf731ae2fa92e187": {
+    "content_list": [
+      {
+        "type": "text",
+        "text": "Segment Country Product Discount Band Units Sold Government Canada Carretera None $\\$ 1$ 1,618.50 Government Germany Carretera None $\\$ 1$ 1,321.00 ",
+        "bbox": [
+          78,
+          68,
+          888,
+          125
+        ],
+        "page_idx": 0
+      },
+      {
+        "type": "table",
+        "img_path": "/Users/mihirmodi/RAG-Anything/rag_storage/Financial_Sample_xlsx/output/Financial Sample/auto/images/19c1901edb9c5b6e35fae09051f3346d1db32149287ae81a25cbd28057792b51.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "<table><tr><td>Manufacturing PI Sale Price</td><td></td><td>Column1</td><td>Column2</td><td>Column3</td><td>Column4</td></tr><tr><td>$ 3.00$</td><td>20.00</td><td></td><td></td><td></td><td></td></tr><tr><td>$ 3.00</td><td>$ 20.00</td><td></td><td></td><td></td><td></td></tr></table>",
+        "bbox": [
+          83,
+          68,
+          807,
+          125
+        ],
+        "page_idx": 1
+      }
+    ],
+    "doc_id": "doc-e30efba1eafa9a913d1c0eb8635a7c72",
+    "mtime": 1766835071.7406478,
+    "parse_config": {
+      "parser": "mineru",
+      "parse_method": "auto"
+    },
+    "cached_at": 1766835142.846795,
+    "cache_version": "1.0",
+    "create_time": 1766835142,
+    "update_time": 1766835142,
+    "_id": "4458747e4e07351fbf731ae2fa92e187"
+  }
+}

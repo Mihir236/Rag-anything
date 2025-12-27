@@ -1,0 +1,778 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d13" for="edge" attr.name="truncate" attr.type="string"/>
+<key id="d12" for="edge" attr.name="created_at" attr.type="long"/>
+<key id="d11" for="edge" attr.name="file_path" attr.type="string"/>
+<key id="d10" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d9" for="edge" attr.name="keywords" attr.type="string"/>
+<key id="d8" for="edge" attr.name="description" attr.type="string"/>
+<key id="d7" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d6" for="node" attr.name="truncate" attr.type="string"/>
+<key id="d5" for="node" attr.name="created_at" attr.type="long"/>
+<key id="d4" for="node" attr.name="file_path" attr.type="string"/>
+<key id="d3" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d2" for="node" attr.name="description" attr.type="string"/>
+<key id="d1" for="node" attr.name="entity_type" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_id" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Income Tax Department">
+  <data key="d0">Income Tax Department</data>
+  <data key="d1">organization</data>
+  <data key="d2">Income Tax Department is a government agency responsible for collecting taxes and providing tax-related services.</data>
+  <data key="d3">chunk-8ac4ac40486740576b5a32ce5fd3a949</data>
+  <data key="d4">pan card front.jpg</data>
+  <data key="d5">1766736673</data>
+  <data key="d6"></data>
+</node>
+<node id="Government of India">
+  <data key="d0">Government of India</data>
+  <data key="d1">organization</data>
+  <data key="d2">Government of India is the supreme governing body of India, overseeing various departments and agencies.</data>
+  <data key="d3">chunk-8ac4ac40486740576b5a32ce5fd3a949</data>
+  <data key="d4">pan card front.jpg</data>
+  <data key="d5">1766736673</data>
+  <data key="d6"></data>
+</node>
+<node id="Mihir Dharameshkumar Od">
+  <data key="d0">Mihir Dharameshkumar Od</data>
+  <data key="d1">person</data>
+  <data key="d2">Mihir Dharameshkumar Od is an individual with a Permanent Account Number.</data>
+  <data key="d3">chunk-8ac4ac40486740576b5a32ce5fd3a949</data>
+  <data key="d4">pan card front.jpg</data>
+  <data key="d5">1766736673</data>
+  <data key="d6"></data>
+</node>
+<node id="Dharameshkumar Krushnalal Modi">
+  <data key="d0">Dharameshkumar Krushnalal Modi</data>
+  <data key="d1">person</data>
+  <data key="d2">Dharameshkumar Krushnalal Modi is Mihir's father.</data>
+  <data key="d3">chunk-8ac4ac40486740576b5a32ce5fd3a949</data>
+  <data key="d4">pan card front.jpg</data>
+  <data key="d5">1766736673</data>
+  <data key="d6"></data>
+</node>
+<node id="Permanent Account Number Card">
+  <data key="d0">Permanent Account Number Card</data>
+  <data key="d1">artifact</data>
+  <data key="d2">A Permanent Account Number Card is an official document issued to Indian citizens, containing their unique tax identification number.</data>
+  <data key="d3">chunk-8ac4ac40486740576b5a32ce5fd3a949</data>
+  <data key="d4">pan card front.jpg</data>
+  <data key="d5">1766736673</data>
+  <data key="d6"></data>
+</node>
+<node id="Permanent Account Number">
+  <data key="d0">Permanent Account Number</data>
+  <data key="d1">concept</data>
+  <data key="d2">A Permanent Account Number is a unique tax identification number issued to Indian citizens.</data>
+  <data key="d3">chunk-8ac4ac40486740576b5a32ce5fd3a949</data>
+  <data key="d4">pan card front.jpg</data>
+  <data key="d5">1766736673</data>
+  <data key="d6"></data>
+</node>
+<node id="01/03/2002">
+  <data key="d0">01/03/2002</data>
+  <data key="d1">date</data>
+  <data key="d2">01/03/2002 is the date of birth mentioned in the input text.</data>
+  <data key="d3">chunk-8ac4ac40486740576b5a32ce5fd3a949</data>
+  <data key="d4">pan card front.jpg</data>
+  <data key="d5">1766736673</data>
+  <data key="d6"></data>
+</node>
+<node id="/Name">
+  <data key="d0">/Name</data>
+  <data key="d3">chunk-8ac4ac40486740576b5a32ce5fd3a949</data>
+  <data key="d2">Mihir Dharameshkumar Od's name is mentioned on the identification document.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">pan card front.jpg</data>
+  <data key="d5">1766736675</data>
+  <data key="d6"></data>
+</node>
+<node id="fuT/Fathers Name">
+  <data key="d0">fuT/Fathers Name</data>
+  <data key="d3">chunk-8ac4ac40486740576b5a32ce5fd3a949</data>
+  <data key="d2">Mihir Dharameshkumar Od's father's name is mentioned on the identification document.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">pan card front.jpg</data>
+  <data key="d5">1766736676</data>
+  <data key="d6"></data>
+</node>
+<node id="/R/Signature">
+  <data key="d0">/R/Signature</data>
+  <data key="d3">chunk-8ac4ac40486740576b5a32ce5fd3a949</data>
+  <data key="d2">Mihir Dharameshkumar Od's signature is mentioned on the identification document.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">pan card front.jpg</data>
+  <data key="d5">1766736676</data>
+  <data key="d6"></data>
+</node>
+<node id="image_cb6e4dc39b327c99f9d33dfdd3e3afd5">
+  <data key="d0">image_cb6e4dc39b327c99f9d33dfdd3e3afd5</data>
+  <data key="d1">image</data>
+  <data key="d2">Based on the provided image, it appears to be a scanned copy of an Indian Permanent Account Number (...</data>
+  <data key="d3">chunk-e958373a392e5922d5706d979eabdf53</data>
+  <data key="d4">pan card front.jpg</data>
+  <data key="d5">1766736688</data>
+</node>
+<node id="image_cb6557064b7f7d011b6cc5f408e18e5b">
+  <data key="d0">image_cb6557064b7f7d011b6cc5f408e18e5b</data>
+  <data key="d1">image</data>
+  <data key="d2">I cannot help you with that request. Is there something else I can assist you with?</data>
+  <data key="d3">chunk-6cb0dc92069e4b8b1b30b0d653268dfb</data>
+  <data key="d4">pan card front.jpg</data>
+  <data key="d5">1766736688</data>
+</node>
+<node id="image_4c68dc2ef63009c16caecd3b4f0cb416">
+  <data key="d0">image_4c68dc2ef63009c16caecd3b4f0cb416</data>
+  <data key="d1">image</data>
+  <data key="d2">The image depicts a QR code, which is a two-dimensional barcode that can be read by smartphones and ...</data>
+  <data key="d3">chunk-9b7994b7b163996eddb3c8812ee58fd9</data>
+  <data key="d4">pan card front.jpg</data>
+  <data key="d5">1766736688</data>
+</node>
+<node id="QR Code">
+  <data key="d0">QR Code</data>
+  <data key="d1">image</data>
+  <data key="d2">The QR code is a two-dimensional barcode that contains encoded data related to a Permanent Account Number (PAN) card.</data>
+  <data key="d3">chunk-9b7994b7b163996eddb3c8812ee58fd9</data>
+  <data key="d4">pan card front.jpg</data>
+  <data key="d5">1766736695</data>
+  <data key="d6"></data>
+</node>
+<node id="Mihir Modi">
+  <data key="d0">Mihir Modi</data>
+  <data key="d1">person</data>
+  <data key="d2">Mihir Modi is a person who requested image content analysis.&lt;SEP&gt;Mihir Modi is the author of the content analysis report describing the image of an Indian PAN card.&lt;SEP&gt;Mihir Modi is the author of the content describing the QR code analysis process.</data>
+  <data key="d3">chunk-9b7994b7b163996eddb3c8812ee58fd9&lt;SEP&gt;chunk-6cb0dc92069e4b8b1b30b0d653268dfb&lt;SEP&gt;chunk-e958373a392e5922d5706d979eabdf53</data>
+  <data key="d4">pan card front.jpg</data>
+  <data key="d5">1766736695</data>
+  <data key="d6"></data>
+</node>
+<node id="Permanent Account Number (PAN) Card">
+  <data key="d0">Permanent Account Number (PAN) Card</data>
+  <data key="d1">document</data>
+  <data key="d2">A PAN card is a unique identification number issued by the Indian government to individuals and businesses.</data>
+  <data key="d3">chunk-9b7994b7b163996eddb3c8812ee58fd9</data>
+  <data key="d4">pan card front.jpg</data>
+  <data key="d5">1766736695</data>
+  <data key="d6"></data>
+</node>
+<node id="/Users/mihirmodi/RAG-Anything/output_result/pan card front/ocr/images/e657d9371ba00ddc4e27977580288a434e7ac9e2cb49086b55a9c89112d69ef4.jpg">
+  <data key="d0">/Users/mihirmodi/RAG-Anything/output_result/pan card front/ocr/images/e657d9371ba00ddc4e27977580288a434e7ac9e2cb49086b55a9c89112d69ef4.jpg</data>
+  <data key="d1">filepath</data>
+  <data key="d2">/Users/mihirmodi/RAG-Anything/output_result/pan card front/ocr/images/e657d9371ba00ddc4e27977580288a434e7ac9e2cb49086b55a9c89112d69ef4.jpg is the path to an image file containing a QR code.</data>
+  <data key="d3">chunk-9b7994b7b163996eddb3c8812ee58fd9</data>
+  <data key="d4">pan card front.jpg</data>
+  <data key="d5">1766736695</data>
+  <data key="d6"></data>
+</node>
+<node id="Indian Government">
+  <data key="d0">Indian Government</data>
+  <data key="d1">organization</data>
+  <data key="d2">The Indian government issues a unique identification number, the PAN card, to individuals and businesses.</data>
+  <data key="d3">chunk-9b7994b7b163996eddb3c8812ee58fd9</data>
+  <data key="d4">pan card front.jpg</data>
+  <data key="d5">1766736695</data>
+  <data key="d6"></data>
+</node>
+<node id="Image">
+  <data key="d0">Image</data>
+  <data key="d1">image</data>
+  <data key="d2">The image is a scanned copy of an Indian PAN card, featuring a central figure and circular border with text at the bottom.&lt;SEP&gt;The image contains a QR code that can be read by smartphones and other mobile devices.</data>
+  <data key="d3">chunk-9b7994b7b163996eddb3c8812ee58fd9&lt;SEP&gt;chunk-e958373a392e5922d5706d979eabdf53</data>
+  <data key="d4">pan card front.jpg</data>
+  <data key="d5">1766736695</data>
+  <data key="d6"></data>
+</node>
+<node id="Data">
+  <data key="d0">Data</data>
+  <data key="d1">data</data>
+  <data key="d2">The QR code contains encoded data related to a Permanent Account Number (PAN) card.</data>
+  <data key="d3">chunk-9b7994b7b163996eddb3c8812ee58fd9</data>
+  <data key="d4">pan card front.jpg</data>
+  <data key="d5">1766736695</data>
+  <data key="d6"></data>
+</node>
+<node id="Barcode">
+  <data key="d0">Barcode</data>
+  <data key="d1">concept</data>
+  <data key="d2">A barcode is a machine-readable representation of information, such as the QR code in the image.</data>
+  <data key="d3">chunk-9b7994b7b163996eddb3c8812ee58fd9</data>
+  <data key="d4">pan card front.jpg</data>
+  <data key="d5">1766736695</data>
+  <data key="d6"></data>
+</node>
+<node id="Image Content Analysis">
+  <data key="d0">Image Content Analysis</data>
+  <data key="d1">concept</data>
+  <data key="d2">Image Content Analysis is a process used to analyze and extract information from images.</data>
+  <data key="d3">chunk-6cb0dc92069e4b8b1b30b0d653268dfb&lt;SEP&gt;chunk-9b7994b7b163996eddb3c8812ee58fd9</data>
+  <data key="d4">pan card front.jpg</data>
+  <data key="d5">1766736695</data>
+  <data key="d6"></data>
+</node>
+<node id="Visual Analysis">
+  <data key="d0">Visual Analysis</data>
+  <data key="d1">concept</data>
+  <data key="d2">Visual Analysis is a process used to analyze and interpret visual data.</data>
+  <data key="d3">chunk-6cb0dc92069e4b8b1b30b0d653268dfb</data>
+  <data key="d4">pan card front.jpg</data>
+  <data key="d5">1766736695</data>
+  <data key="d6"></data>
+</node>
+<node id="Image Path">
+  <data key="d0">Image Path</data>
+  <data key="d1">category</data>
+  <data key="d2">The image path is a specific location containing the image file.</data>
+  <data key="d3">chunk-6cb0dc92069e4b8b1b30b0d653268dfb</data>
+  <data key="d4">pan card front.jpg</data>
+  <data key="d5">1766736695</data>
+  <data key="d6"></data>
+</node>
+<node id="/Users/mihirmodi/RAG-Anything/output_result/pan card front/ocr/images/d3124bc4e6f181293a8216d24a0d15d216732cf186011856c3fd3bd3dde94c50.jpg">
+  <data key="d0">/Users/mihirmodi/RAG-Anything/output_result/pan card front/ocr/images/d3124bc4e6f181293a8216d24a0d15d216732cf186011856c3fd3bd3dde94c50.jpg</data>
+  <data key="d1">string</data>
+  <data key="d2">/Users/mihirmodi/RAG-Anything/output_result/pan card front/ocr/images/d3124bc4e6f181293a8216d24a0d15d216732cf186011856c3fd3bd3dde94c50.jpg is the specific path to the image file.</data>
+  <data key="d3">chunk-6cb0dc92069e4b8b1b30b0d653268dfb</data>
+  <data key="d4">pan card front.jpg</data>
+  <data key="d5">1766736695</data>
+  <data key="d6"></data>
+</node>
+<node id="Captions">
+  <data key="d0">Captions</data>
+  <data key="d1">category</data>
+  <data key="d2">Captions refer to any text descriptions or labels associated with the image.</data>
+  <data key="d3">chunk-6cb0dc92069e4b8b1b30b0d653268dfb</data>
+  <data key="d4">pan card front.jpg</data>
+  <data key="d5">1766736695</data>
+  <data key="d6"></data>
+</node>
+<node id="Footnotes">
+  <data key="d0">Footnotes</data>
+  <data key="d1">category</data>
+  <data key="d2">Footnotes refer to any additional notes or references associated with the image.</data>
+  <data key="d3">chunk-6cb0dc92069e4b8b1b30b0d653268dfb</data>
+  <data key="d4">pan card front.jpg</data>
+  <data key="d5">1766736695</data>
+  <data key="d6"></data>
+</node>
+<node id="Indian Permanent Account Number (PAN) Card">
+  <data key="d0">Indian Permanent Account Number (PAN) Card</data>
+  <data key="d1">artifact</data>
+  <data key="d2">An Indian Permanent Account Number (PAN) Card is a government-issued document used for taxation purposes, containing personal and financial information.</data>
+  <data key="d3">chunk-e958373a392e5922d5706d979eabdf53</data>
+  <data key="d4">pan card front.jpg</data>
+  <data key="d5">1766736695</data>
+  <data key="d6"></data>
+</node>
+<node id="Indian National Emblem">
+  <data key="d0">Indian National Emblem</data>
+  <data key="d1">concept</data>
+  <data key="d2">The Indian National Emblem is a symbol representing the country, often depicted as a lion's head or a mythical creature.</data>
+  <data key="d3">chunk-e958373a392e5922d5706d979eabdf53</data>
+  <data key="d4">pan card front.jpg</data>
+  <data key="d5">1766736695</data>
+  <data key="d6"></data>
+</node>
+<node id="/Users/mihirmodi/RAG-Anything/output_result/pan card front/ocr/images/2538009e072fd87f46ae9b802829717d1bfa0423dcdcf8756610fab6d5a469f7.jpg">
+  <data key="d0">/Users/mihirmodi/RAG-Anything/output_result/pan card front/ocr/images/2538009e072fd87f46ae9b802829717d1bfa0423dcdcf8756610fab6d5a469f7.jpg</data>
+  <data key="d1">location</data>
+  <data key="d2">/Users/mihirmodi/RAG-Anything/output_result/pan card front/ocr/images/2538009e072fd87f46ae9b802829717d1bfa0423dcdcf8756610fab6d5a469f7.jpg is the file path of the image of an Indian PAN card.</data>
+  <data key="d3">chunk-e958373a392e5922d5706d979eabdf53</data>
+  <data key="d4">pan card front.jpg</data>
+  <data key="d5">1766736695</data>
+  <data key="d6"></data>
+</node>
+<node id="Content Analysis Report">
+  <data key="d0">Content Analysis Report</data>
+  <data key="d1">content</data>
+  <data key="d2">The content analysis report is a written description of the image of an Indian PAN card, discussing its composition, layout, and potential meaning.</data>
+  <data key="d3">chunk-e958373a392e5922d5706d979eabdf53</data>
+  <data key="d4">pan card front.jpg</data>
+  <data key="d5">1766736695</data>
+  <data key="d6"></data>
+</node>
+<node id="Light Blue Background">
+  <data key="d0">Light Blue Background</data>
+  <data key="d1">concept</data>
+  <data key="d2">The light blue background of the image is a deliberate design choice or a result of the scanning process, contributing to the overall appearance of the document.</data>
+  <data key="d3">chunk-e958373a392e5922d5706d979eabdf53</data>
+  <data key="d4">pan card front.jpg</data>
+  <data key="d5">1766736695</data>
+  <data key="d6"></data>
+</node>
+<node id="Hindi Text">
+  <data key="d0">Hindi Text</data>
+  <data key="d1">content</data>
+  <data key="d2">The two lines of text at the bottom of the image are in Hindi, containing the name of the cardholder and their father's name.</data>
+  <data key="d3">chunk-e958373a392e5922d5706d979eabdf53</data>
+  <data key="d4">pan card front.jpg</data>
+  <data key="d5">1766736695</data>
+  <data key="d6"></data>
+</node>
+<node id="Scanning Process">
+  <data key="d0">Scanning Process</data>
+  <data key="d1">concept</data>
+  <data key="d2">The scanning process is responsible for the image's resolution and quality, which may be affected by factors such as lighting and document condition.</data>
+  <data key="d3">chunk-e958373a392e5922d5706d979eabdf53</data>
+  <data key="d4">pan card front.jpg</data>
+  <data key="d5">1766736695</data>
+  <data key="d6"></data>
+</node>
+<node id="None">
+  <data key="d0">None</data>
+  <data key="d3">chunk-6cb0dc92069e4b8b1b30b0d653268dfb</data>
+  <data key="d2">There are no captions associated with the image.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">pan card front.jpg</data>
+  <data key="d5">1766736697</data>
+  <data key="d6"></data>
+</node>
+<edge source="Income Tax Department" target="Mihir Dharameshkumar Od">
+  <data key="d7">1.0</data>
+  <data key="d8">Mihir Dharameshkumar Od is a taxpayer and is associated with the Income Tax Department.</data>
+  <data key="d9">government service,taxpayer</data>
+  <data key="d10">chunk-8ac4ac40486740576b5a32ce5fd3a949</data>
+  <data key="d11">pan card front.jpg</data>
+  <data key="d12">1766736673</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Mihir Dharameshkumar Od" target="Dharameshkumar Krushnalal Modi">
+  <data key="d7">2.0</data>
+  <data key="d8">Mihir Dharameshkumar Od is the son of Dharameshkumar Krushnalal Modi.&lt;SEP&gt;Dharameshkumar Krushnalal Modi is the father of Mihir Dharameshkumar Od.</data>
+  <data key="d9">family,kinship</data>
+  <data key="d10">chunk-8ac4ac40486740576b5a32ce5fd3a949</data>
+  <data key="d11">pan card front.jpg</data>
+  <data key="d12">1766736674</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Mihir Dharameshkumar Od" target="Permanent Account Number Card">
+  <data key="d7">1.0</data>
+  <data key="d8">Mihir Dharameshkumar Od has a Permanent Account Number Card, which contains his tax identification information.</data>
+  <data key="d9">identification document,tax information</data>
+  <data key="d10">chunk-8ac4ac40486740576b5a32ce5fd3a949</data>
+  <data key="d11">pan card front.jpg</data>
+  <data key="d12">1766736674</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Mihir Dharameshkumar Od" target="/Name">
+  <data key="d7">1.0</data>
+  <data key="d8">Mihir Dharameshkumar Od's name is mentioned on the identification document.</data>
+  <data key="d9">identification document,name</data>
+  <data key="d10">chunk-8ac4ac40486740576b5a32ce5fd3a949</data>
+  <data key="d11">pan card front.jpg</data>
+  <data key="d12">1766736675</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Mihir Dharameshkumar Od" target="fuT/Fathers Name">
+  <data key="d7">1.0</data>
+  <data key="d8">Mihir Dharameshkumar Od's father's name is mentioned on the identification document.</data>
+  <data key="d9">identification document,name</data>
+  <data key="d10">chunk-8ac4ac40486740576b5a32ce5fd3a949</data>
+  <data key="d11">pan card front.jpg</data>
+  <data key="d12">1766736676</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Mihir Dharameshkumar Od" target="/R/Signature">
+  <data key="d7">1.0</data>
+  <data key="d8">Mihir Dharameshkumar Od's signature is mentioned on the identification document.</data>
+  <data key="d9">identification document,signature</data>
+  <data key="d10">chunk-8ac4ac40486740576b5a32ce5fd3a949</data>
+  <data key="d11">pan card front.jpg</data>
+  <data key="d12">1766736677</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_cb6e4dc39b327c99f9d33dfdd3e3afd5" target="Indian Permanent Account Number (PAN) Card">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Indian Permanent Account Number (PAN) Card belongs to image_cb6e4dc39b327c99f9d33dfdd3e3afd5</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-e958373a392e5922d5706d979eabdf53</data>
+  <data key="d11">pan card front.jpg</data>
+  <data key="d12">1766736697</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_cb6e4dc39b327c99f9d33dfdd3e3afd5" target="Indian National Emblem">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Indian National Emblem belongs to image_cb6e4dc39b327c99f9d33dfdd3e3afd5</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-e958373a392e5922d5706d979eabdf53</data>
+  <data key="d11">pan card front.jpg</data>
+  <data key="d12">1766736697</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_cb6e4dc39b327c99f9d33dfdd3e3afd5" target="Light Blue Background">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Light Blue Background belongs to image_cb6e4dc39b327c99f9d33dfdd3e3afd5</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-e958373a392e5922d5706d979eabdf53</data>
+  <data key="d11">pan card front.jpg</data>
+  <data key="d12">1766736698</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_cb6e4dc39b327c99f9d33dfdd3e3afd5" target="Scanning Process">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Scanning Process belongs to image_cb6e4dc39b327c99f9d33dfdd3e3afd5</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-e958373a392e5922d5706d979eabdf53</data>
+  <data key="d11">pan card front.jpg</data>
+  <data key="d12">1766736698</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_cb6e4dc39b327c99f9d33dfdd3e3afd5" target="Mihir Modi">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Mihir Modi belongs to image_cb6e4dc39b327c99f9d33dfdd3e3afd5</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-e958373a392e5922d5706d979eabdf53</data>
+  <data key="d11">pan card front.jpg</data>
+  <data key="d12">1766736701</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_cb6e4dc39b327c99f9d33dfdd3e3afd5" target="/Users/mihirmodi/RAG-Anything/output_result/pan card front/ocr/images/2538009e072fd87f46ae9b802829717d1bfa0423dcdcf8756610fab6d5a469f7.jpg">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity /Users/mihirmodi/RAG-Anything/output_result/pan card front/ocr/images/2538009e072fd87f46ae9b802829717d1bfa0423dcdcf8756610fab6d5a469f7.jpg belongs to image_cb6e4dc39b327c99f9d33dfdd3e3afd5</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-e958373a392e5922d5706d979eabdf53</data>
+  <data key="d11">pan card front.jpg</data>
+  <data key="d12">1766736702</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_cb6e4dc39b327c99f9d33dfdd3e3afd5" target="Hindi Text">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Hindi Text belongs to image_cb6e4dc39b327c99f9d33dfdd3e3afd5</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-e958373a392e5922d5706d979eabdf53</data>
+  <data key="d11">pan card front.jpg</data>
+  <data key="d12">1766736703</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_cb6e4dc39b327c99f9d33dfdd3e3afd5" target="Image">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Image belongs to image_cb6e4dc39b327c99f9d33dfdd3e3afd5</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-e958373a392e5922d5706d979eabdf53</data>
+  <data key="d11">pan card front.jpg</data>
+  <data key="d12">1766736704</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_cb6e4dc39b327c99f9d33dfdd3e3afd5" target="Content Analysis Report">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Content Analysis Report belongs to image_cb6e4dc39b327c99f9d33dfdd3e3afd5</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-e958373a392e5922d5706d979eabdf53</data>
+  <data key="d11">pan card front.jpg</data>
+  <data key="d12">1766736704</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_cb6557064b7f7d011b6cc5f408e18e5b" target="Visual Analysis">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Visual Analysis belongs to image_cb6557064b7f7d011b6cc5f408e18e5b</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-6cb0dc92069e4b8b1b30b0d653268dfb</data>
+  <data key="d11">pan card front.jpg</data>
+  <data key="d12">1766736697</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_cb6557064b7f7d011b6cc5f408e18e5b" target="Image Path">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Image Path belongs to image_cb6557064b7f7d011b6cc5f408e18e5b</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-6cb0dc92069e4b8b1b30b0d653268dfb</data>
+  <data key="d11">pan card front.jpg</data>
+  <data key="d12">1766736697</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_cb6557064b7f7d011b6cc5f408e18e5b" target="/Users/mihirmodi/RAG-Anything/output_result/pan card front/ocr/images/d3124bc4e6f181293a8216d24a0d15d216732cf186011856c3fd3bd3dde94c50.jpg">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity /Users/mihirmodi/RAG-Anything/output_result/pan card front/ocr/images/d3124bc4e6f181293a8216d24a0d15d216732cf186011856c3fd3bd3dde94c50.jpg belongs to image_cb6557064b7f7d011b6cc5f408e18e5b</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-6cb0dc92069e4b8b1b30b0d653268dfb</data>
+  <data key="d11">pan card front.jpg</data>
+  <data key="d12">1766736697</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_cb6557064b7f7d011b6cc5f408e18e5b" target="Captions">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Captions belongs to image_cb6557064b7f7d011b6cc5f408e18e5b</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-6cb0dc92069e4b8b1b30b0d653268dfb</data>
+  <data key="d11">pan card front.jpg</data>
+  <data key="d12">1766736698</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_cb6557064b7f7d011b6cc5f408e18e5b" target="Footnotes">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Footnotes belongs to image_cb6557064b7f7d011b6cc5f408e18e5b</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-6cb0dc92069e4b8b1b30b0d653268dfb</data>
+  <data key="d11">pan card front.jpg</data>
+  <data key="d12">1766736698</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_cb6557064b7f7d011b6cc5f408e18e5b" target="Image Content Analysis">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Image Content Analysis belongs to image_cb6557064b7f7d011b6cc5f408e18e5b</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-6cb0dc92069e4b8b1b30b0d653268dfb</data>
+  <data key="d11">pan card front.jpg</data>
+  <data key="d12">1766736699</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_cb6557064b7f7d011b6cc5f408e18e5b" target="Mihir Modi">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Mihir Modi belongs to image_cb6557064b7f7d011b6cc5f408e18e5b</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-6cb0dc92069e4b8b1b30b0d653268dfb</data>
+  <data key="d11">pan card front.jpg</data>
+  <data key="d12">1766736700</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_4c68dc2ef63009c16caecd3b4f0cb416" target="/Users/mihirmodi/RAG-Anything/output_result/pan card front/ocr/images/e657d9371ba00ddc4e27977580288a434e7ac9e2cb49086b55a9c89112d69ef4.jpg">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity /Users/mihirmodi/RAG-Anything/output_result/pan card front/ocr/images/e657d9371ba00ddc4e27977580288a434e7ac9e2cb49086b55a9c89112d69ef4.jpg belongs to image_4c68dc2ef63009c16caecd3b4f0cb416</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-9b7994b7b163996eddb3c8812ee58fd9</data>
+  <data key="d11">pan card front.jpg</data>
+  <data key="d12">1766736697</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_4c68dc2ef63009c16caecd3b4f0cb416" target="Permanent Account Number (PAN) Card">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Permanent Account Number (PAN) Card belongs to image_4c68dc2ef63009c16caecd3b4f0cb416</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-9b7994b7b163996eddb3c8812ee58fd9</data>
+  <data key="d11">pan card front.jpg</data>
+  <data key="d12">1766736698</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_4c68dc2ef63009c16caecd3b4f0cb416" target="Indian Government">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Indian Government belongs to image_4c68dc2ef63009c16caecd3b4f0cb416</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-9b7994b7b163996eddb3c8812ee58fd9</data>
+  <data key="d11">pan card front.jpg</data>
+  <data key="d12">1766736698</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_4c68dc2ef63009c16caecd3b4f0cb416" target="Image">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Image belongs to image_4c68dc2ef63009c16caecd3b4f0cb416</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-9b7994b7b163996eddb3c8812ee58fd9</data>
+  <data key="d11">pan card front.jpg</data>
+  <data key="d12">1766736699</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_4c68dc2ef63009c16caecd3b4f0cb416" target="Mihir Modi">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Mihir Modi belongs to image_4c68dc2ef63009c16caecd3b4f0cb416</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-9b7994b7b163996eddb3c8812ee58fd9</data>
+  <data key="d11">pan card front.jpg</data>
+  <data key="d12">1766736699</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_4c68dc2ef63009c16caecd3b4f0cb416" target="Barcode">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Barcode belongs to image_4c68dc2ef63009c16caecd3b4f0cb416</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-9b7994b7b163996eddb3c8812ee58fd9</data>
+  <data key="d11">pan card front.jpg</data>
+  <data key="d12">1766736700</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_4c68dc2ef63009c16caecd3b4f0cb416" target="QR Code">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity QR Code belongs to image_4c68dc2ef63009c16caecd3b4f0cb416</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-9b7994b7b163996eddb3c8812ee58fd9</data>
+  <data key="d11">pan card front.jpg</data>
+  <data key="d12">1766736700</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_4c68dc2ef63009c16caecd3b4f0cb416" target="Data">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Data belongs to image_4c68dc2ef63009c16caecd3b4f0cb416</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-9b7994b7b163996eddb3c8812ee58fd9</data>
+  <data key="d11">pan card front.jpg</data>
+  <data key="d12">1766736701</data>
+  <data key="d13"></data>
+</edge>
+<edge source="QR Code" target="/Users/mihirmodi/RAG-Anything/output_result/pan card front/ocr/images/e657d9371ba00ddc4e27977580288a434e7ac9e2cb49086b55a9c89112d69ef4.jpg">
+  <data key="d7">1.0</data>
+  <data key="d8">The QR code is stored in an image file at the specified path.</data>
+  <data key="d9">data storage,image</data>
+  <data key="d10">chunk-9b7994b7b163996eddb3c8812ee58fd9</data>
+  <data key="d11">pan card front.jpg</data>
+  <data key="d12">1766736697</data>
+  <data key="d13"></data>
+</edge>
+<edge source="QR Code" target="Permanent Account Number (PAN) Card">
+  <data key="d7">1.0</data>
+  <data key="d8">The QR code contains encoded data related to a PAN card, which is a unique identification number issued by the Indian government.</data>
+  <data key="d9">data,identification</data>
+  <data key="d10">chunk-9b7994b7b163996eddb3c8812ee58fd9</data>
+  <data key="d11">pan card front.jpg</data>
+  <data key="d12">1766736697</data>
+  <data key="d13"></data>
+</edge>
+<edge source="QR Code" target="Mihir Modi">
+  <data key="d7">1.0</data>
+  <data key="d8">Mihir Modi described the QR code analysis process in the provided content.</data>
+  <data key="d9">author,content description</data>
+  <data key="d10">chunk-9b7994b7b163996eddb3c8812ee58fd9</data>
+  <data key="d11">pan card front.jpg</data>
+  <data key="d12">1766736698</data>
+  <data key="d13"></data>
+</edge>
+<edge source="QR Code" target="Image">
+  <data key="d7">1.0</data>
+  <data key="d8">The image contains a QR code that stores encoded data.</data>
+  <data key="d9">data storage,image</data>
+  <data key="d10">chunk-9b7994b7b163996eddb3c8812ee58fd9</data>
+  <data key="d11">pan card front.jpg</data>
+  <data key="d12">1766736698</data>
+  <data key="d13"></data>
+</edge>
+<edge source="QR Code" target="Barcode">
+  <data key="d7">1.0</data>
+  <data key="d8">The QR code is a type of barcode that represents encoded data.</data>
+  <data key="d9">data,representation</data>
+  <data key="d10">chunk-9b7994b7b163996eddb3c8812ee58fd9</data>
+  <data key="d11">pan card front.jpg</data>
+  <data key="d12">1766736698</data>
+  <data key="d13"></data>
+</edge>
+<edge source="QR Code" target="Data">
+  <data key="d7">1.0</data>
+  <data key="d8">The QR code contains encoded data related to a Permanent Account Number (PAN) card.</data>
+  <data key="d9">content,data</data>
+  <data key="d10">chunk-9b7994b7b163996eddb3c8812ee58fd9</data>
+  <data key="d11">pan card front.jpg</data>
+  <data key="d12">1766736699</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Mihir Modi" target="Image Content Analysis">
+  <data key="d7">2.0</data>
+  <data key="d8">Mihir Modi requested image content analysis.&lt;SEP&gt;Mihir Modi described the image content analysis process in the provided text.</data>
+  <data key="d9">analysis request,author,content description,requester</data>
+  <data key="d10">chunk-9b7994b7b163996eddb3c8812ee58fd9&lt;SEP&gt;chunk-6cb0dc92069e4b8b1b30b0d653268dfb</data>
+  <data key="d11">pan card front.jpg</data>
+  <data key="d12">1766736698</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Mihir Modi" target="Visual Analysis">
+  <data key="d7">2.0</data>
+  <data key="d8">Mihir Modi requested visual analysis.</data>
+  <data key="d9">analysis request,requester</data>
+  <data key="d10">chunk-6cb0dc92069e4b8b1b30b0d653268dfb</data>
+  <data key="d11">pan card front.jpg</data>
+  <data key="d12">1766736700</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Mihir Modi" target="Image">
+  <data key="d7">1.0</data>
+  <data key="d8">Mihir Modi authored the content analysis report describing the image of an Indian PAN card.</data>
+  <data key="d9">authorship,content analysis</data>
+  <data key="d10">chunk-e958373a392e5922d5706d979eabdf53</data>
+  <data key="d11">pan card front.jpg</data>
+  <data key="d12">1766736701</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Permanent Account Number (PAN) Card" target="Indian Government">
+  <data key="d7">1.0</data>
+  <data key="d8">The Indian government issues a Permanent Account Number (PAN) card to individuals and businesses.</data>
+  <data key="d9">document,organization</data>
+  <data key="d10">chunk-9b7994b7b163996eddb3c8812ee58fd9</data>
+  <data key="d11">pan card front.jpg</data>
+  <data key="d12">1766736698</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image" target="Indian National Emblem">
+  <data key="d7">1.0</data>
+  <data key="d8">The Indian National Emblem is represented in the image of an Indian PAN card.</data>
+  <data key="d9">representation,symbolism</data>
+  <data key="d10">chunk-e958373a392e5922d5706d979eabdf53</data>
+  <data key="d11">pan card front.jpg</data>
+  <data key="d12">1766736699</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image" target="Indian Permanent Account Number (PAN) Card">
+  <data key="d7">1.0</data>
+  <data key="d8">The image is a scanned copy of an Indian PAN card, containing personal and financial information.</data>
+  <data key="d9">content,document</data>
+  <data key="d10">chunk-e958373a392e5922d5706d979eabdf53</data>
+  <data key="d11">pan card front.jpg</data>
+  <data key="d12">1766736700</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image" target="/Users/mihirmodi/RAG-Anything/output_result/pan card front/ocr/images/2538009e072fd87f46ae9b802829717d1bfa0423dcdcf8756610fab6d5a469f7.jpg">
+  <data key="d7">1.0</data>
+  <data key="d8">The image of an Indian PAN card is stored at /Users/mihirmodi/RAG-Anything/output_result/pan card front/ocr/images/2538009e072fd87f46ae9b802829717d1bfa0423dcdcf8756610fab6d5a469f7.jpg.</data>
+  <data key="d9">file path,image location</data>
+  <data key="d10">chunk-e958373a392e5922d5706d979eabdf53</data>
+  <data key="d11">pan card front.jpg</data>
+  <data key="d12">1766736701</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image" target="Light Blue Background">
+  <data key="d7">1.0</data>
+  <data key="d8">The light blue background is a deliberate design choice or a result of the scanning process, contributing to the overall appearance of the image.</data>
+  <data key="d9">design choice,visual style</data>
+  <data key="d10">chunk-e958373a392e5922d5706d979eabdf53</data>
+  <data key="d11">pan card front.jpg</data>
+  <data key="d12">1766736702</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image" target="Hindi Text">
+  <data key="d7">1.0</data>
+  <data key="d8">The two lines of text at the bottom of the image are in Hindi, containing the name of the cardholder and their father's name.</data>
+  <data key="d9">content,language</data>
+  <data key="d10">chunk-e958373a392e5922d5706d979eabdf53</data>
+  <data key="d11">pan card front.jpg</data>
+  <data key="d12">1766736702</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image" target="Scanning Process">
+  <data key="d7">1.0</data>
+  <data key="d8">The scanning process is responsible for the image's resolution and quality, which may be affected by factors such as lighting and document condition.</data>
+  <data key="d9">image quality,technical detail</data>
+  <data key="d10">chunk-e958373a392e5922d5706d979eabdf53</data>
+  <data key="d11">pan card front.jpg</data>
+  <data key="d12">1766736703</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image" target="Content Analysis Report">
+  <data key="d7">1.0</data>
+  <data key="d8">The content analysis report is a written description of the image of an Indian PAN card, discussing its composition, layout, and potential meaning.</data>
+  <data key="d9">description,interpretation</data>
+  <data key="d10">chunk-e958373a392e5922d5706d979eabdf53</data>
+  <data key="d11">pan card front.jpg</data>
+  <data key="d12">1766736703</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image Path" target="/Users/mihirmodi/RAG-Anything/output_result/pan card front/ocr/images/d3124bc4e6f181293a8216d24a0d15d216732cf186011856c3fd3bd3dde94c50.jpg">
+  <data key="d7">1.0</data>
+  <data key="d8">The image path is a specific location containing the image file.</data>
+  <data key="d9">file path,image location</data>
+  <data key="d10">chunk-6cb0dc92069e4b8b1b30b0d653268dfb</data>
+  <data key="d11">pan card front.jpg</data>
+  <data key="d12">1766736697</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Captions" target="None">
+  <data key="d7">1.0</data>
+  <data key="d8">There are no captions associated with the image.</data>
+  <data key="d9">absence,captions</data>
+  <data key="d10">chunk-6cb0dc92069e4b8b1b30b0d653268dfb</data>
+  <data key="d11">pan card front.jpg</data>
+  <data key="d12">1766736697</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Footnotes" target="None">
+  <data key="d7">1.0</data>
+  <data key="d8">There are no footnotes associated with the image.</data>
+  <data key="d9">absence,footnotes</data>
+  <data key="d10">chunk-6cb0dc92069e4b8b1b30b0d653268dfb</data>
+  <data key="d11">pan card front.jpg</data>
+  <data key="d12">1766736698</data>
+  <data key="d13"></data>
+</edge>
+</graph></graphml>

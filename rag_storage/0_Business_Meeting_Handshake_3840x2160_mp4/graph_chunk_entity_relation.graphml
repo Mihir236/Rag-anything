@@ -1,0 +1,1024 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d13" for="edge" attr.name="truncate" attr.type="string"/>
+<key id="d12" for="edge" attr.name="created_at" attr.type="long"/>
+<key id="d11" for="edge" attr.name="file_path" attr.type="string"/>
+<key id="d10" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d9" for="edge" attr.name="keywords" attr.type="string"/>
+<key id="d8" for="edge" attr.name="description" attr.type="string"/>
+<key id="d7" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d6" for="node" attr.name="truncate" attr.type="string"/>
+<key id="d5" for="node" attr.name="created_at" attr.type="long"/>
+<key id="d4" for="node" attr.name="file_path" attr.type="string"/>
+<key id="d3" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d2" for="node" attr.name="description" attr.type="string"/>
+<key id="d1" for="node" attr.name="entity_type" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_id" attr.type="string"/>
+<graph edgedefault="undirected"><node id="image_ed45c71a0ad0b55fe61acf97c2104589">
+  <data key="d0">image_ed45c71a0ad0b55fe61acf97c2104589</data>
+  <data key="d1">image</data>
+  <data key="d2">The image depicts a professional handshake between two individuals, set against a backdrop of a whit...</data>
+  <data key="d3">chunk-e97f4f6dceb204dc8d85fe8bf6c6023e</data>
+  <data key="d4">frame_0002.jpg</data>
+  <data key="d5">1766735983</data>
+</node>
+<node id="image_21c8e6eca7b1d2b383dbeb684e136b67">
+  <data key="d0">image_21c8e6eca7b1d2b383dbeb684e136b67</data>
+  <data key="d1">image</data>
+  <data key="d2">The image depicts a scene of two individuals in business attire, shaking hands in front of a whitebo...</data>
+  <data key="d3">chunk-823f6c99469cb20498847e7522714bb9</data>
+  <data key="d4">frame_0001.jpg</data>
+  <data key="d5">1766735983</data>
+</node>
+<node id="Business Meeting or Presentation">
+  <data key="d0">Business Meeting or Presentation</data>
+  <data key="d1">event</data>
+  <data key="d2">The image depicts a professional handshake between two individuals, set against a backdrop of a whiteboard with various words and symbols written on it.</data>
+  <data key="d3">chunk-e97f4f6dceb204dc8d85fe8bf6c6023e</data>
+  <data key="d4">frame_0002.jpg</data>
+  <data key="d5">1766735988</data>
+  <data key="d6"></data>
+</node>
+<node id="Whiteboard">
+  <data key="d0">Whiteboard</data>
+  <data key="d1">object</data>
+  <data key="d2">The whiteboard features various words and symbols, including "Goal," "Market," "Success," and "Balance," which provide context for the scene.&lt;SEP&gt;Whiteboard is a visual aid commonly used in business meetings, featuring a flowchart with words and symbols.&lt;SEP&gt;The whiteboard is the central element in the background, featuring a flowchart with various words and symbols, divided into sections like "MARKET," "Goal," "Balance," and "Success."&lt;SEP&gt;A whiteboard with various words and symbols written on it, including "Goal," "Market," "Balance," and "Success."</data>
+  <data key="d3">chunk-e97f4f6dceb204dc8d85fe8bf6c6023e&lt;SEP&gt;chunk-823f6c99469cb20498847e7522714bb9&lt;SEP&gt;chunk-53c02c0ac0ff40e36d2dc68f1fe606ef&lt;SEP&gt;chunk-ddd61ad88005e991aa0af35b4f015ef0</data>
+  <data key="d4">frame_0002.jpg&lt;SEP&gt;frame_0001.jpg&lt;SEP&gt;frame_0003.jpg&lt;SEP&gt;frame_0000.jpg</data>
+  <data key="d5">1766736000</data>
+  <data key="d6"></data>
+</node>
+<node id="Handshake">
+  <data key="d0">Handshake</data>
+  <data key="d1">action</data>
+  <data key="d2">The handshake between the two individuals suggests a sense of agreement, partnership, or collaboration.</data>
+  <data key="d3">chunk-e97f4f6dceb204dc8d85fe8bf6c6023e</data>
+  <data key="d4">frame_0002.jpg</data>
+  <data key="d5">1766735988</data>
+  <data key="d6"></data>
+</node>
+<node id="Individuals">
+  <data key="d0">Individuals</data>
+  <data key="d1">person</data>
+  <data key="d2">Two people are shaking hands, both dressed in formal attire (black suits and white shirts).</data>
+  <data key="d3">chunk-e97f4f6dceb204dc8d85fe8bf6c6023e</data>
+  <data key="d4">frame_0002.jpg</data>
+  <data key="d5">1766735988</data>
+  <data key="d6"></data>
+</node>
+<node id="Image">
+  <data key="d0">Image</data>
+  <data key="d1">content</data>
+  <data key="d2">The image is a photograph, likely taken with a digital camera or smartphone.&lt;SEP&gt;Image is a visual representation of a business meeting, featuring two individuals in business attire.</data>
+  <data key="d3">chunk-e97f4f6dceb204dc8d85fe8bf6c6023e&lt;SEP&gt;chunk-823f6c99469cb20498847e7522714bb9</data>
+  <data key="d4">frame_0002.jpg&lt;SEP&gt;frame_0001.jpg</data>
+  <data key="d5">1766735990</data>
+  <data key="d6"></data>
+</node>
+<node id="Photograph">
+  <data key="d0">Photograph</data>
+  <data key="d1">content</data>
+  <data key="d2">The image is a photograph, likely taken with a digital camera or smartphone.</data>
+  <data key="d3">chunk-e97f4f6dceb204dc8d85fe8bf6c6023e</data>
+  <data key="d4">frame_0002.jpg</data>
+  <data key="d5">1766735988</data>
+  <data key="d6"></data>
+</node>
+<node id="Camera or Smartphone">
+  <data key="d0">Camera or Smartphone</data>
+  <data key="d1">equipment</data>
+  <data key="d2">The image was likely taken with a digital camera or smartphone.</data>
+  <data key="d3">chunk-e97f4f6dceb204dc8d85fe8bf6c6023e</data>
+  <data key="d4">frame_0002.jpg</data>
+  <data key="d5">1766735988</data>
+  <data key="d6"></data>
+</node>
+<node id="Words and Symbols">
+  <data key="d0">Words and Symbols</data>
+  <data key="d3">chunk-e97f4f6dceb204dc8d85fe8bf6c6023e</data>
+  <data key="d2">The whiteboard features various words and symbols, including "Goal," "Market," "Success," and "Balance."&lt;SEP&gt;The words and symbols are displayed on the whiteboard.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">frame_0002.jpg</data>
+  <data key="d5">1766735989</data>
+  <data key="d6"></data>
+</node>
+<node id="Business Meeting">
+  <data key="d0">Business Meeting</data>
+  <data key="d1">event</data>
+  <data key="d2">Business Meeting is a gathering of individuals to discuss or plan a project, possibly related to business or marketing.</data>
+  <data key="d3">chunk-823f6c99469cb20498847e7522714bb9</data>
+  <data key="d4">frame_0001.jpg</data>
+  <data key="d5">1766735990</data>
+  <data key="d6"></data>
+</node>
+<node id="Flowchart">
+  <data key="d0">Flowchart</data>
+  <data key="d1">concept</data>
+  <data key="d2">Flowchart is a diagrammatic representation of a process or system, used to illustrate the relationships between different components.&lt;SEP&gt;The flowchart on the whiteboard is divided into sections, including "MARKET," "Goal," "Balance," and "Success," with arrows connecting these sections to indicate a flow or progression.</data>
+  <data key="d3">chunk-823f6c99469cb20498847e7522714bb9&lt;SEP&gt;chunk-53c02c0ac0ff40e36d2dc68f1fe606ef</data>
+  <data key="d4">frame_0001.jpg&lt;SEP&gt;frame_0003.jpg</data>
+  <data key="d5">1766735995</data>
+  <data key="d6"></data>
+</node>
+<node id="Goal">
+  <data key="d0">Goal</data>
+  <data key="d1">text</data>
+  <data key="d2">Goal is an objective or target that is being pursued by an individual or organization.&lt;SEP&gt;The word "Goal" is written on the whiteboard.</data>
+  <data key="d3">chunk-823f6c99469cb20498847e7522714bb9&lt;SEP&gt;chunk-ddd61ad88005e991aa0af35b4f015ef0</data>
+  <data key="d4">frame_0001.jpg&lt;SEP&gt;frame_0000.jpg</data>
+  <data key="d5">1766736000</data>
+  <data key="d6"></data>
+</node>
+<node id="Market">
+  <data key="d0">Market</data>
+  <data key="d1">text</data>
+  <data key="d2">Market refers to the environment in which goods and services are exchanged, including consumers, producers, and other stakeholders.&lt;SEP&gt;The word "Market" is written on the whiteboard.</data>
+  <data key="d3">chunk-823f6c99469cb20498847e7522714bb9&lt;SEP&gt;chunk-ddd61ad88005e991aa0af35b4f015ef0</data>
+  <data key="d4">frame_0001.jpg&lt;SEP&gt;frame_0000.jpg</data>
+  <data key="d5">1766736000</data>
+  <data key="d6"></data>
+</node>
+<node id="Team">
+  <data key="d0">Team</data>
+  <data key="d1">concept</data>
+  <data key="d2">Team refers to a group of individuals working together to achieve a common goal or objective.</data>
+  <data key="d3">chunk-823f6c99469cb20498847e7522714bb9</data>
+  <data key="d4">frame_0001.jpg</data>
+  <data key="d5">1766735990</data>
+  <data key="d6"></data>
+</node>
+<node id="Communication">
+  <data key="d0">Communication</data>
+  <data key="d1">concept</data>
+  <data key="d2">Communication refers to the exchange of information between individuals or groups, including verbal and non-verbal cues.</data>
+  <data key="d3">chunk-823f6c99469cb20498847e7522714bb9</data>
+  <data key="d4">frame_0001.jpg</data>
+  <data key="d5">1766735990</data>
+  <data key="d6"></data>
+</node>
+<node id="Work">
+  <data key="d0">Work</data>
+  <data key="d1">concept</data>
+  <data key="d2">Work refers to the activities or tasks that an individual or organization performs to achieve a goal or objective.</data>
+  <data key="d3">chunk-823f6c99469cb20498847e7522714bb9</data>
+  <data key="d4">frame_0001.jpg</data>
+  <data key="d5">1766735990</data>
+  <data key="d6"></data>
+</node>
+<node id="Mihir Modi">
+  <data key="d0">Mihir Modi</data>
+  <data key="d1">person</data>
+  <data key="d2">Mihir Modi is the individual who is analyzing the image content.</data>
+  <data key="d3">chunk-823f6c99469cb20498847e7522714bb9</data>
+  <data key="d4">frame_0001.jpg</data>
+  <data key="d5">1766735990</data>
+  <data key="d6"></data>
+</node>
+<node id="Image Path">
+  <data key="d0">Image Path</data>
+  <data key="d1">data</data>
+  <data key="d2">Image Path refers to the location where the image is stored, which is /Users/mihirmodi/RAG-Anything/output_business/frame_0001/ocr/images/1c817217ce4886f1a43afba5a4b4418ada184529e400a13f1721fc657fb5a049.jpg.</data>
+  <data key="d3">chunk-823f6c99469cb20498847e7522714bb9</data>
+  <data key="d4">frame_0001.jpg</data>
+  <data key="d5">1766735990</data>
+  <data key="d6"></data>
+</node>
+<node id="Captions">
+  <data key="d0">Captions</data>
+  <data key="d1">content</data>
+  <data key="d2">Captions refer to the text that is associated with the image, which is None in this case.</data>
+  <data key="d3">chunk-823f6c99469cb20498847e7522714bb9</data>
+  <data key="d4">frame_0001.jpg</data>
+  <data key="d5">1766735990</data>
+  <data key="d6"></data>
+</node>
+<node id="Footnotes">
+  <data key="d0">Footnotes</data>
+  <data key="d1">content</data>
+  <data key="d2">Footnotes refer to the additional text that is associated with the image, which is None in this case.</data>
+  <data key="d3">chunk-823f6c99469cb20498847e7522714bb9</data>
+  <data key="d4">frame_0001.jpg</data>
+  <data key="d5">1766735990</data>
+  <data key="d6"></data>
+</node>
+<node id="Office Setting">
+  <data key="d0">Office Setting</data>
+  <data key="d1">location</data>
+  <data key="d2">Office Setting refers to the environment where the image is taking place, which appears to be an office with a window and curtains.</data>
+  <data key="d3">chunk-823f6c99469cb20498847e7522714bb9</data>
+  <data key="d4">frame_0001.jpg</data>
+  <data key="d5">1766735990</data>
+  <data key="d6"></data>
+</node>
+<node id="image_2e82de059373de6513e6dcdfb6720acc">
+  <data key="d0">image_2e82de059373de6513e6dcdfb6720acc</data>
+  <data key="d1">image</data>
+  <data key="d2">**Detailed Description**
+
+The image depicts a professional handshake between a man and a woman in bu...</data>
+  <data key="d3">chunk-53c02c0ac0ff40e36d2dc68f1fe606ef</data>
+  <data key="d4">frame_0003.jpg</data>
+  <data key="d5">1766735991</data>
+</node>
+<node id="image_e820b5d4c74a86602668f3e4582589b4">
+  <data key="d0">image_e820b5d4c74a86602668f3e4582589b4</data>
+  <data key="d1">image</data>
+  <data key="d2">**Detailed Description:**
+
+The image depicts a close-up scene of two individuals in business attire ...</data>
+  <data key="d3">chunk-ddd61ad88005e991aa0af35b4f015ef0</data>
+  <data key="d4">frame_0000.jpg</data>
+  <data key="d5">1766735994</data>
+</node>
+<node id="Man">
+  <data key="d0">Man</data>
+  <data key="d1">person</data>
+  <data key="d2">The man is visible from the waist up, wearing a black suit jacket over a light blue collared shirt, with his face blurred and facing the woman.</data>
+  <data key="d3">chunk-53c02c0ac0ff40e36d2dc68f1fe606ef</data>
+  <data key="d4">frame_0003.jpg</data>
+  <data key="d5">1766735995</data>
+  <data key="d6"></data>
+</node>
+<node id="Woman">
+  <data key="d0">Woman</data>
+  <data key="d1">person</data>
+  <data key="d2">The woman is also visible from the waist up, dressed in a black suit jacket over a white collared shirt with thin gray stripes, with her face blurred and facing the man.</data>
+  <data key="d3">chunk-53c02c0ac0ff40e36d2dc68f1fe606ef</data>
+  <data key="d4">frame_0003.jpg</data>
+  <data key="d5">1766735995</data>
+  <data key="d6"></data>
+</node>
+<node id="Window">
+  <data key="d0">Window</data>
+  <data key="d1">object</data>
+  <data key="d2">A large window with sheer curtains allows natural light to enter the room, casting a warm glow on the scene.&lt;SEP&gt;A window with white curtains and a green plant in the bottom-right corner.</data>
+  <data key="d3">chunk-53c02c0ac0ff40e36d2dc68f1fe606ef&lt;SEP&gt;chunk-ddd61ad88005e991aa0af35b4f015ef0</data>
+  <data key="d4">frame_0003.jpg&lt;SEP&gt;frame_0000.jpg</data>
+  <data key="d5">1766736000</data>
+  <data key="d6"></data>
+</node>
+<node id="Business Handshake">
+  <data key="d0">Business Handshake</data>
+  <data key="d1">event</data>
+  <data key="d2">A professional handshake between a man and a woman in business attire, set against the backdrop of a whiteboard displaying a flowchart.</data>
+  <data key="d3">chunk-53c02c0ac0ff40e36d2dc68f1fe606ef</data>
+  <data key="d4">frame_0003.jpg</data>
+  <data key="d5">1766735995</data>
+  <data key="d6"></data>
+</node>
+<node id="Business Handshake in a Professional Setting">
+  <data key="d0">Business Handshake in a Professional Setting</data>
+  <data key="d1">image</data>
+  <data key="d2">The image depicts a close-up scene of two individuals in business attire shaking hands in a professional setting, likely a conference room or office.</data>
+  <data key="d3">chunk-ddd61ad88005e991aa0af35b4f015ef0</data>
+  <data key="d4">frame_0000.jpg</data>
+  <data key="d5">1766736000</data>
+  <data key="d6"></data>
+</node>
+<node id="/Users/mihirmodi/RAG-Anything/output_business/frame_0000/ocr/images/244a00173e38eb8777fee90d1036125881a79caa9c6012d60bcead6e86929450.jpg">
+  <data key="d0">/Users/mihirmodi/RAG-Anything/output_business/frame_0000/ocr/images/244a00173e38eb8777fee90d1036125881a79caa9c6012d60bcead6e86929450.jpg</data>
+  <data key="d1">location</data>
+  <data key="d2">The image is located at the specified path.</data>
+  <data key="d3">chunk-ddd61ad88005e991aa0af35b4f015ef0</data>
+  <data key="d4">frame_0000.jpg</data>
+  <data key="d5">1766736000</data>
+  <data key="d6"></data>
+</node>
+<node id="Two Individuals in Business Attire">
+  <data key="d0">Two Individuals in Business Attire</data>
+  <data key="d1">people</data>
+  <data key="d2">Two individuals in business attire shake hands in front of a whiteboard and a window, conveying a sense of professionalism and agreement.</data>
+  <data key="d3">chunk-ddd61ad88005e991aa0af35b4f015ef0</data>
+  <data key="d4">frame_0000.jpg</data>
+  <data key="d5">1766736000</data>
+  <data key="d6"></data>
+</node>
+<node id="Black Suit Jacket">
+  <data key="d0">Black Suit Jacket</data>
+  <data key="d1">object</data>
+  <data key="d2">One individual is wearing a black suit jacket and white shirt.</data>
+  <data key="d3">chunk-ddd61ad88005e991aa0af35b4f015ef0</data>
+  <data key="d4">frame_0000.jpg</data>
+  <data key="d5">1766736000</data>
+  <data key="d6"></data>
+</node>
+<node id="Striped Shirt">
+  <data key="d0">Striped Shirt</data>
+  <data key="d1">object</data>
+  <data key="d2">The other individual is wearing a black suit jacket and striped shirt.</data>
+  <data key="d3">chunk-ddd61ad88005e991aa0af35b4f015ef0</data>
+  <data key="d4">frame_0000.jpg</data>
+  <data key="d5">1766736000</data>
+  <data key="d6"></data>
+</node>
+<node id="Balance">
+  <data key="d0">Balance</data>
+  <data key="d1">text</data>
+  <data key="d2">The word "Balance" is written on the whiteboard.</data>
+  <data key="d3">chunk-ddd61ad88005e991aa0af35b4f015ef0</data>
+  <data key="d4">frame_0000.jpg</data>
+  <data key="d5">1766736000</data>
+  <data key="d6"></data>
+</node>
+<node id="Success">
+  <data key="d0">Success</data>
+  <data key="d1">text</data>
+  <data key="d2">The word "Success" is written on the whiteboard.</data>
+  <data key="d3">chunk-ddd61ad88005e991aa0af35b4f015ef0</data>
+  <data key="d4">frame_0000.jpg</data>
+  <data key="d5">1766736000</data>
+  <data key="d6"></data>
+</node>
+<node id="Green Plant">
+  <data key="d0">Green Plant</data>
+  <data key="d1">object</data>
+  <data key="d2">A green plant is visible in the bottom-right corner of the window.</data>
+  <data key="d3">chunk-ddd61ad88005e991aa0af35b4f015ef0</data>
+  <data key="d4">frame_0000.jpg</data>
+  <data key="d5">1766736000</data>
+  <data key="d6"></data>
+</node>
+<node id="Watch">
+  <data key="d0">Watch</data>
+  <data key="d1">object</data>
+  <data key="d2">One individual is wearing a watch on their left wrist.</data>
+  <data key="d3">chunk-ddd61ad88005e991aa0af35b4f015ef0</data>
+  <data key="d4">frame_0000.jpg</data>
+  <data key="d5">1766736000</data>
+  <data key="d6"></data>
+</node>
+<edge source="image_ed45c71a0ad0b55fe61acf97c2104589" target="Image">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Image belongs to image_ed45c71a0ad0b55fe61acf97c2104589</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-e97f4f6dceb204dc8d85fe8bf6c6023e</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766735988</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_ed45c71a0ad0b55fe61acf97c2104589" target="Photograph">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Photograph belongs to image_ed45c71a0ad0b55fe61acf97c2104589</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-e97f4f6dceb204dc8d85fe8bf6c6023e</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766735989</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_ed45c71a0ad0b55fe61acf97c2104589" target="Camera or Smartphone">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Camera or Smartphone belongs to image_ed45c71a0ad0b55fe61acf97c2104589</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-e97f4f6dceb204dc8d85fe8bf6c6023e</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766735989</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_ed45c71a0ad0b55fe61acf97c2104589" target="Individuals">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Individuals belongs to image_ed45c71a0ad0b55fe61acf97c2104589</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-e97f4f6dceb204dc8d85fe8bf6c6023e</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766735990</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_ed45c71a0ad0b55fe61acf97c2104589" target="Handshake">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Handshake belongs to image_ed45c71a0ad0b55fe61acf97c2104589</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-e97f4f6dceb204dc8d85fe8bf6c6023e</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766735990</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_ed45c71a0ad0b55fe61acf97c2104589" target="Whiteboard">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Whiteboard belongs to image_ed45c71a0ad0b55fe61acf97c2104589</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-e97f4f6dceb204dc8d85fe8bf6c6023e</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766735991</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_ed45c71a0ad0b55fe61acf97c2104589" target="Business Meeting or Presentation">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Business Meeting or Presentation belongs to image_ed45c71a0ad0b55fe61acf97c2104589</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-e97f4f6dceb204dc8d85fe8bf6c6023e</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766735991</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_21c8e6eca7b1d2b383dbeb684e136b67" target="Flowchart">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Flowchart belongs to image_21c8e6eca7b1d2b383dbeb684e136b67</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-823f6c99469cb20498847e7522714bb9</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766735991</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_21c8e6eca7b1d2b383dbeb684e136b67" target="Goal">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Goal belongs to image_21c8e6eca7b1d2b383dbeb684e136b67</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-823f6c99469cb20498847e7522714bb9</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766735992</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_21c8e6eca7b1d2b383dbeb684e136b67" target="Market">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Market belongs to image_21c8e6eca7b1d2b383dbeb684e136b67</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-823f6c99469cb20498847e7522714bb9</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766735992</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_21c8e6eca7b1d2b383dbeb684e136b67" target="Team">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Team belongs to image_21c8e6eca7b1d2b383dbeb684e136b67</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-823f6c99469cb20498847e7522714bb9</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766735993</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_21c8e6eca7b1d2b383dbeb684e136b67" target="Communication">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Communication belongs to image_21c8e6eca7b1d2b383dbeb684e136b67</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-823f6c99469cb20498847e7522714bb9</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766735993</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_21c8e6eca7b1d2b383dbeb684e136b67" target="Work">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Work belongs to image_21c8e6eca7b1d2b383dbeb684e136b67</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-823f6c99469cb20498847e7522714bb9</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766735994</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_21c8e6eca7b1d2b383dbeb684e136b67" target="Image Path">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Image Path belongs to image_21c8e6eca7b1d2b383dbeb684e136b67</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-823f6c99469cb20498847e7522714bb9</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766735994</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_21c8e6eca7b1d2b383dbeb684e136b67" target="Office Setting">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Office Setting belongs to image_21c8e6eca7b1d2b383dbeb684e136b67</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-823f6c99469cb20498847e7522714bb9</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766735994</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_21c8e6eca7b1d2b383dbeb684e136b67" target="Mihir Modi">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Mihir Modi belongs to image_21c8e6eca7b1d2b383dbeb684e136b67</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-823f6c99469cb20498847e7522714bb9</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766735995</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_21c8e6eca7b1d2b383dbeb684e136b67" target="Whiteboard">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Whiteboard belongs to image_21c8e6eca7b1d2b383dbeb684e136b67</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-823f6c99469cb20498847e7522714bb9</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766735995</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_21c8e6eca7b1d2b383dbeb684e136b67" target="Business Meeting">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Business Meeting belongs to image_21c8e6eca7b1d2b383dbeb684e136b67</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-823f6c99469cb20498847e7522714bb9</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766735996</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_21c8e6eca7b1d2b383dbeb684e136b67" target="Captions">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Captions belongs to image_21c8e6eca7b1d2b383dbeb684e136b67</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-823f6c99469cb20498847e7522714bb9</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766735996</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_21c8e6eca7b1d2b383dbeb684e136b67" target="Footnotes">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Footnotes belongs to image_21c8e6eca7b1d2b383dbeb684e136b67</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-823f6c99469cb20498847e7522714bb9</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766735997</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_21c8e6eca7b1d2b383dbeb684e136b67" target="Image">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Image belongs to image_21c8e6eca7b1d2b383dbeb684e136b67</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-823f6c99469cb20498847e7522714bb9</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766735997</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Business Meeting or Presentation" target="Whiteboard">
+  <data key="d7">1.0</data>
+  <data key="d8">The whiteboard provides context for the business meeting or presentation, featuring words and symbols related to business goals and success metrics.</data>
+  <data key="d9">event context,visual elements</data>
+  <data key="d10">chunk-e97f4f6dceb204dc8d85fe8bf6c6023e</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766735988</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Business Meeting or Presentation" target="Handshake">
+  <data key="d7">1.0</data>
+  <data key="d8">The handshake suggests a sense of agreement, partnership, or collaboration during the business meeting or presentation.</data>
+  <data key="d9">event action,partnership</data>
+  <data key="d10">chunk-e97f4f6dceb204dc8d85fe8bf6c6023e</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766735991</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Whiteboard" target="Individuals">
+  <data key="d7">1.0</data>
+  <data key="d8">The whiteboard is visible in the background, with the individuals participating in the business meeting or presentation.</data>
+  <data key="d9">participants,visual elements</data>
+  <data key="d10">chunk-e97f4f6dceb204dc8d85fe8bf6c6023e</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766735989</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Whiteboard" target="Words and Symbols">
+  <data key="d7">2.0</data>
+  <data key="d8">The whiteboard features various words and symbols, including "Goal," "Market," "Success," and "Balance."&lt;SEP&gt;The words and symbols are displayed on the whiteboard.</data>
+  <data key="d9">content,visual elements</data>
+  <data key="d10">chunk-e97f4f6dceb204dc8d85fe8bf6c6023e</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766735990</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Whiteboard" target="Business Meeting">
+  <data key="d7">1.0</data>
+  <data key="d8">The business meeting is taking place in front of a whiteboard, which is being used as a visual aid to illustrate the discussion.</data>
+  <data key="d9">meeting tool,visual aid</data>
+  <data key="d10">chunk-823f6c99469cb20498847e7522714bb9</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766735991</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Whiteboard" target="Woman">
+  <data key="d7">1.0</data>
+  <data key="d8">The presence of the whiteboard implies that the handshake is part of a business or professional discussion.</data>
+  <data key="d9">business discussion,collaboration</data>
+  <data key="d10">chunk-53c02c0ac0ff40e36d2dc68f1fe606ef</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766735996</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Whiteboard" target="image_2e82de059373de6513e6dcdfb6720acc">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Whiteboard belongs to image_2e82de059373de6513e6dcdfb6720acc</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-53c02c0ac0ff40e36d2dc68f1fe606ef</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766735997</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Whiteboard" target="Man">
+  <data key="d7">1.0</data>
+  <data key="d8">The presence of the whiteboard implies that the handshake is part of a business or professional discussion.</data>
+  <data key="d9">business discussion,collaboration</data>
+  <data key="d10">chunk-53c02c0ac0ff40e36d2dc68f1fe606ef</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766735997</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Whiteboard" target="Black Suit Jacket">
+  <data key="d7">1.0</data>
+  <data key="d8">The black suit jacket is a central element in the scene, with the whiteboard in the background.</data>
+  <data key="d9">object,scene context</data>
+  <data key="d10">chunk-ddd61ad88005e991aa0af35b4f015ef0</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766736000</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Whiteboard" target="Striped Shirt">
+  <data key="d7">1.0</data>
+  <data key="d8">The striped shirt is a central element in the scene, with the whiteboard in the foreground.</data>
+  <data key="d9">object,scene context</data>
+  <data key="d10">chunk-ddd61ad88005e991aa0af35b4f015ef0</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766736001</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Whiteboard" target="image_e820b5d4c74a86602668f3e4582589b4">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Whiteboard belongs to image_e820b5d4c74a86602668f3e4582589b4</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-ddd61ad88005e991aa0af35b4f015ef0</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766736004</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Whiteboard" target="Two Individuals in Business Attire">
+  <data key="d7">1.0</data>
+  <data key="d8">The two individuals are standing in front of a whiteboard with various words and symbols written on it, indicating a brainstorming or planning session.</data>
+  <data key="d9">brainstorming,people interaction</data>
+  <data key="d10">chunk-ddd61ad88005e991aa0af35b4f015ef0</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766736005</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Whiteboard" target="Business Handshake in a Professional Setting">
+  <data key="d7">1.0</data>
+  <data key="d8">The whiteboard is a central element in the scene, with various words and symbols written on it.</data>
+  <data key="d9">object,scene context</data>
+  <data key="d10">chunk-ddd61ad88005e991aa0af35b4f015ef0</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766736005</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Handshake" target="Individuals">
+  <data key="d7">1.0</data>
+  <data key="d8">The individuals are shaking hands, suggesting a sense of agreement, partnership, or collaboration.</data>
+  <data key="d9">action,partnership</data>
+  <data key="d10">chunk-e97f4f6dceb204dc8d85fe8bf6c6023e</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766735989</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image" target="Mihir Modi">
+  <data key="d7">1.0</data>
+  <data key="d8">Mihir Modi is analyzing the image content.</data>
+  <data key="d9">analyst,image content</data>
+  <data key="d10">chunk-823f6c99469cb20498847e7522714bb9</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766735991</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image" target="Image Path">
+  <data key="d7">1.0</data>
+  <data key="d8">The image is stored at the location specified by the Image Path.</data>
+  <data key="d9">image location,storage</data>
+  <data key="d10">chunk-823f6c99469cb20498847e7522714bb9</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766735994</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image" target="Captions">
+  <data key="d7">1.0</data>
+  <data key="d8">The image does not have any captions.</data>
+  <data key="d9">image content,text</data>
+  <data key="d10">chunk-823f6c99469cb20498847e7522714bb9</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766735995</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image" target="Footnotes">
+  <data key="d7">1.0</data>
+  <data key="d8">The image does not have any footnotes.</data>
+  <data key="d9">additional text,image content</data>
+  <data key="d10">chunk-823f6c99469cb20498847e7522714bb9</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766735995</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Image" target="Office Setting">
+  <data key="d7">1.0</data>
+  <data key="d8">The image is taking place in an office setting.</data>
+  <data key="d9">environment,image location</data>
+  <data key="d10">chunk-823f6c99469cb20498847e7522714bb9</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766735996</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Photograph" target="Camera or Smartphone">
+  <data key="d7">1.0</data>
+  <data key="d8">The image was created using a digital camera or smartphone.</data>
+  <data key="d9">content creation,equipment</data>
+  <data key="d10">chunk-e97f4f6dceb204dc8d85fe8bf6c6023e</data>
+  <data key="d11">frame_0002.jpg</data>
+  <data key="d12">1766735988</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Business Meeting" target="Flowchart">
+  <data key="d7">1.0</data>
+  <data key="d8">The business meeting is centered around a flowchart on the whiteboard, which implies that the individuals are discussing or planning a project.</data>
+  <data key="d9">meeting content,planning</data>
+  <data key="d10">chunk-823f6c99469cb20498847e7522714bb9</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766735992</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Business Meeting" target="Goal">
+  <data key="d7">1.0</data>
+  <data key="d8">The business meeting is focused on achieving a goal, which is being discussed and planned by the individuals.</data>
+  <data key="d9">meeting objective,planning</data>
+  <data key="d10">chunk-823f6c99469cb20498847e7522714bb9</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766735992</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Business Meeting" target="Market">
+  <data key="d7">1.0</data>
+  <data key="d8">The business meeting is taking place in a market context, with the individuals discussing or planning a project related to business or marketing.</data>
+  <data key="d9">business,meeting context</data>
+  <data key="d10">chunk-823f6c99469cb20498847e7522714bb9</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766735993</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Business Meeting" target="Team">
+  <data key="d7">1.0</data>
+  <data key="d8">The business meeting involves a team of individuals working together to achieve a common goal or objective.</data>
+  <data key="d9">collaboration,meeting participants</data>
+  <data key="d10">chunk-823f6c99469cb20498847e7522714bb9</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766735993</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Business Meeting" target="Communication">
+  <data key="d7">1.0</data>
+  <data key="d8">The business meeting involves communication between the individuals, including verbal and non-verbal cues.</data>
+  <data key="d9">exchange,meeting process</data>
+  <data key="d10">chunk-823f6c99469cb20498847e7522714bb9</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766735994</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Business Meeting" target="Work">
+  <data key="d7">1.0</data>
+  <data key="d8">The business meeting is focused on work and productivity, with the individuals discussing or planning a project to achieve a goal or objective.</data>
+  <data key="d9">meeting purpose,productivity</data>
+  <data key="d10">chunk-823f6c99469cb20498847e7522714bb9</data>
+  <data key="d11">frame_0001.jpg</data>
+  <data key="d12">1766735994</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Flowchart" target="Business Handshake">
+  <data key="d7">1.0</data>
+  <data key="d8">The handshake is part of a business or professional discussion related to the flowchart.</data>
+  <data key="d9">business discussion,collaboration</data>
+  <data key="d10">chunk-53c02c0ac0ff40e36d2dc68f1fe606ef</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766735996</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Flowchart" target="image_2e82de059373de6513e6dcdfb6720acc">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Flowchart belongs to image_2e82de059373de6513e6dcdfb6720acc</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-53c02c0ac0ff40e36d2dc68f1fe606ef</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766735996</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Goal" target="image_e820b5d4c74a86602668f3e4582589b4">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Goal belongs to image_e820b5d4c74a86602668f3e4582589b4</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-ddd61ad88005e991aa0af35b4f015ef0</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766736001</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Market" target="image_e820b5d4c74a86602668f3e4582589b4">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Market belongs to image_e820b5d4c74a86602668f3e4582589b4</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-ddd61ad88005e991aa0af35b4f015ef0</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766736001</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_2e82de059373de6513e6dcdfb6720acc" target="Woman">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Woman belongs to image_2e82de059373de6513e6dcdfb6720acc</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-53c02c0ac0ff40e36d2dc68f1fe606ef</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766735997</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_2e82de059373de6513e6dcdfb6720acc" target="Window">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Window belongs to image_2e82de059373de6513e6dcdfb6720acc</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-53c02c0ac0ff40e36d2dc68f1fe606ef</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766735998</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_2e82de059373de6513e6dcdfb6720acc" target="Business Handshake">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Business Handshake belongs to image_2e82de059373de6513e6dcdfb6720acc</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-53c02c0ac0ff40e36d2dc68f1fe606ef</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766735999</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_2e82de059373de6513e6dcdfb6720acc" target="Man">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Man belongs to image_2e82de059373de6513e6dcdfb6720acc</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-53c02c0ac0ff40e36d2dc68f1fe606ef</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766735999</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_e820b5d4c74a86602668f3e4582589b4" target="/Users/mihirmodi/RAG-Anything/output_business/frame_0000/ocr/images/244a00173e38eb8777fee90d1036125881a79caa9c6012d60bcead6e86929450.jpg">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity /Users/mihirmodi/RAG-Anything/output_business/frame_0000/ocr/images/244a00173e38eb8777fee90d1036125881a79caa9c6012d60bcead6e86929450.jpg belongs to image_e820b5d4c74a86602668f3e4582589b4</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-ddd61ad88005e991aa0af35b4f015ef0</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766736000</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_e820b5d4c74a86602668f3e4582589b4" target="Balance">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Balance belongs to image_e820b5d4c74a86602668f3e4582589b4</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-ddd61ad88005e991aa0af35b4f015ef0</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766736002</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_e820b5d4c74a86602668f3e4582589b4" target="Success">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Success belongs to image_e820b5d4c74a86602668f3e4582589b4</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-ddd61ad88005e991aa0af35b4f015ef0</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766736002</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_e820b5d4c74a86602668f3e4582589b4" target="Watch">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Watch belongs to image_e820b5d4c74a86602668f3e4582589b4</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-ddd61ad88005e991aa0af35b4f015ef0</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766736003</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_e820b5d4c74a86602668f3e4582589b4" target="Black Suit Jacket">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Black Suit Jacket belongs to image_e820b5d4c74a86602668f3e4582589b4</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-ddd61ad88005e991aa0af35b4f015ef0</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766736003</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_e820b5d4c74a86602668f3e4582589b4" target="Window">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Window belongs to image_e820b5d4c74a86602668f3e4582589b4</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-ddd61ad88005e991aa0af35b4f015ef0</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766736004</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_e820b5d4c74a86602668f3e4582589b4" target="Green Plant">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Green Plant belongs to image_e820b5d4c74a86602668f3e4582589b4</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-ddd61ad88005e991aa0af35b4f015ef0</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766736004</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_e820b5d4c74a86602668f3e4582589b4" target="Striped Shirt">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Striped Shirt belongs to image_e820b5d4c74a86602668f3e4582589b4</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-ddd61ad88005e991aa0af35b4f015ef0</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766736005</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_e820b5d4c74a86602668f3e4582589b4" target="Two Individuals in Business Attire">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Two Individuals in Business Attire belongs to image_e820b5d4c74a86602668f3e4582589b4</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-ddd61ad88005e991aa0af35b4f015ef0</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766736006</data>
+  <data key="d13"></data>
+</edge>
+<edge source="image_e820b5d4c74a86602668f3e4582589b4" target="Business Handshake in a Professional Setting">
+  <data key="d7">10.0</data>
+  <data key="d8">Entity Business Handshake in a Professional Setting belongs to image_e820b5d4c74a86602668f3e4582589b4</data>
+  <data key="d9">belongs_to,contained_in,part_of</data>
+  <data key="d10">chunk-ddd61ad88005e991aa0af35b4f015ef0</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766736007</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Man" target="Woman">
+  <data key="d7">1.0</data>
+  <data key="d8">The handshake between the man and woman suggests a meeting or negotiation, possibly related to the flowchart on the whiteboard.</data>
+  <data key="d9">handshake,negotiation</data>
+  <data key="d10">chunk-53c02c0ac0ff40e36d2dc68f1fe606ef</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766735996</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Man" target="Window">
+  <data key="d7">1.0</data>
+  <data key="d8">The window provides a soft, diffused glow, contributing to the warm ambiance of the scene.</data>
+  <data key="d9">ambiance,lighting</data>
+  <data key="d10">chunk-53c02c0ac0ff40e36d2dc68f1fe606ef</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766735999</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Woman" target="Window">
+  <data key="d7">1.0</data>
+  <data key="d8">The window provides a soft, diffused glow, contributing to the warm ambiance of the scene.</data>
+  <data key="d9">ambiance,lighting</data>
+  <data key="d10">chunk-53c02c0ac0ff40e36d2dc68f1fe606ef</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766735997</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Window" target="Business Handshake">
+  <data key="d7">1.0</data>
+  <data key="d8">The handshake takes place in a room with natural light pouring in through a window, contributing to the warm ambiance of the scene.</data>
+  <data key="d9">ambiance,lighting</data>
+  <data key="d10">chunk-53c02c0ac0ff40e36d2dc68f1fe606ef</data>
+  <data key="d11">frame_0003.jpg</data>
+  <data key="d12">1766735998</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Window" target="Green Plant">
+  <data key="d7">1.0</data>
+  <data key="d8">The green plant is a background element in the scene, visible in the bottom-right corner of the window.</data>
+  <data key="d9">object,scene context</data>
+  <data key="d10">chunk-ddd61ad88005e991aa0af35b4f015ef0</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766736000</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Window" target="Two Individuals in Business Attire">
+  <data key="d7">1.0</data>
+  <data key="d8">The two individuals are standing near a window with white curtains and a green plant, which adds a sense of natural light and serenity to the scene.</data>
+  <data key="d9">natural light,people interaction</data>
+  <data key="d10">chunk-ddd61ad88005e991aa0af35b4f015ef0</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766736005</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Window" target="Business Handshake in a Professional Setting">
+  <data key="d7">1.0</data>
+  <data key="d8">The window is a background element in the scene, adding a sense of natural light and serenity.</data>
+  <data key="d9">object,scene context</data>
+  <data key="d10">chunk-ddd61ad88005e991aa0af35b4f015ef0</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766736006</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Business Handshake in a Professional Setting" target="Two Individuals in Business Attire">
+  <data key="d7">1.0</data>
+  <data key="d8">The two individuals in business attire shake hands in front of a whiteboard and a window.</data>
+  <data key="d9">handshake,people interaction</data>
+  <data key="d10">chunk-ddd61ad88005e991aa0af35b4f015ef0</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766736000</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Business Handshake in a Professional Setting" target="Watch">
+  <data key="d7">1.0</data>
+  <data key="d8">The watch is a peripheral element in the scene, visible on the individual's wrist.</data>
+  <data key="d9">object,scene context</data>
+  <data key="d10">chunk-ddd61ad88005e991aa0af35b4f015ef0</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766736006</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Two Individuals in Business Attire" target="Watch">
+  <data key="d7">1.0</data>
+  <data key="d8">One individual is wearing a watch on their left wrist.</data>
+  <data key="d9">accessory,people interaction</data>
+  <data key="d10">chunk-ddd61ad88005e991aa0af35b4f015ef0</data>
+  <data key="d11">frame_0000.jpg</data>
+  <data key="d12">1766736006</data>
+  <data key="d13"></data>
+</edge>
+</graph></graphml>

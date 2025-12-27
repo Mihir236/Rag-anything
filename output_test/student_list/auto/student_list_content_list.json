@@ -1,0 +1,25 @@
+[
+    {
+        "type": "text",
+        "text": "Student List Data ",
+        "text_level": 1,
+        "bbox": [
+            129,
+            93,
+            300,
+            112
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "| ID | Name | Grade | | -- | -- | -- | | 001 | Alice Smith | A | | 002 | Bob Jones | B+ | | 003 | Charlie Brown | A- | ",
+        "bbox": [
+            129,
+            141,
+            309,
+            241
+        ],
+        "page_idx": 0
+    }
+]

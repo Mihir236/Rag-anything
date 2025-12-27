@@ -1,0 +1,56 @@
+{
+  "Canada": {
+    "chunk_ids": [
+      "chunk-9a4c2db8a601b65fa13c38c3010140c8"
+    ],
+    "count": 1,
+    "create_time": 1766835148,
+    "update_time": 1766835148,
+    "_id": "Canada"
+  },
+  "Germany": {
+    "chunk_ids": [
+      "chunk-9a4c2db8a601b65fa13c38c3010140c8"
+    ],
+    "count": 1,
+    "create_time": 1766835148,
+    "update_time": 1766835148,
+    "_id": "Germany"
+  },
+  "Government": {
+    "chunk_ids": [
+      "chunk-9a4c2db8a601b65fa13c38c3010140c8"
+    ],
+    "count": 1,
+    "create_time": 1766835148,
+    "update_time": 1766835148,
+    "_id": "Government"
+  },
+  "Carretera": {
+    "chunk_ids": [
+      "chunk-9a4c2db8a601b65fa13c38c3010140c8"
+    ],
+    "count": 1,
+    "create_time": 1766835148,
+    "update_time": 1766835148,
+    "_id": "Carretera"
+  },
+  "Product": {
+    "chunk_ids": [
+      "chunk-9a4c2db8a601b65fa13c38c3010140c8"
+    ],
+    "count": 1,
+    "create_time": 1766835148,
+    "update_time": 1766835148,
+    "_id": "Product"
+  },
+  "Discount Band": {
+    "chunk_ids": [
+      "chunk-9a4c2db8a601b65fa13c38c3010140c8"
+    ],
+    "count": 1,
+    "create_time": 1766835148,
+    "update_time": 1766835148,
+    "_id": "Discount Band"
+  }
+}

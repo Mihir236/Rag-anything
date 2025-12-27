@@ -1,0 +1,334 @@
+{
+  "doc-afcf7a4546a393d51cb6947694e401c2": {
+    "relation_pairs": [
+      [
+        "Individuals",
+        "Whiteboard"
+      ],
+      [
+        "Business Meeting or Presentation",
+        "Whiteboard"
+      ],
+      [
+        "Camera or Smartphone",
+        "image_ed45c71a0ad0b55fe61acf97c2104589"
+      ],
+      [
+        "Camera or Smartphone",
+        "Photograph"
+      ],
+      [
+        "Image",
+        "image_ed45c71a0ad0b55fe61acf97c2104589"
+      ],
+      [
+        "Business Meeting or Presentation",
+        "Handshake"
+      ],
+      [
+        "Whiteboard",
+        "image_ed45c71a0ad0b55fe61acf97c2104589"
+      ],
+      [
+        "Photograph",
+        "image_ed45c71a0ad0b55fe61acf97c2104589"
+      ],
+      [
+        "Whiteboard",
+        "Words and Symbols"
+      ],
+      [
+        "Business Meeting or Presentation",
+        "image_ed45c71a0ad0b55fe61acf97c2104589"
+      ],
+      [
+        "Handshake",
+        "image_ed45c71a0ad0b55fe61acf97c2104589"
+      ],
+      [
+        "Individuals",
+        "image_ed45c71a0ad0b55fe61acf97c2104589"
+      ],
+      [
+        "Handshake",
+        "Individuals"
+      ]
+    ],
+    "count": 13,
+    "create_time": 1766735991,
+    "update_time": 1766735991,
+    "_id": "doc-afcf7a4546a393d51cb6947694e401c2"
+  },
+  "doc-dfa2471ea39fa9ab83aa6eb1b25abff4": {
+    "relation_pairs": [
+      [
+        "Office Setting",
+        "image_21c8e6eca7b1d2b383dbeb684e136b67"
+      ],
+      [
+        "Footnotes",
+        "Image"
+      ],
+      [
+        "Business Meeting",
+        "Communication"
+      ],
+      [
+        "Footnotes",
+        "image_21c8e6eca7b1d2b383dbeb684e136b67"
+      ],
+      [
+        "Team",
+        "image_21c8e6eca7b1d2b383dbeb684e136b67"
+      ],
+      [
+        "Business Meeting",
+        "Whiteboard"
+      ],
+      [
+        "Market",
+        "image_21c8e6eca7b1d2b383dbeb684e136b67"
+      ],
+      [
+        "Business Meeting",
+        "image_21c8e6eca7b1d2b383dbeb684e136b67"
+      ],
+      [
+        "Mihir Modi",
+        "image_21c8e6eca7b1d2b383dbeb684e136b67"
+      ],
+      [
+        "Image Path",
+        "image_21c8e6eca7b1d2b383dbeb684e136b67"
+      ],
+      [
+        "Whiteboard",
+        "image_21c8e6eca7b1d2b383dbeb684e136b67"
+      ],
+      [
+        "Business Meeting",
+        "Work"
+      ],
+      [
+        "Work",
+        "image_21c8e6eca7b1d2b383dbeb684e136b67"
+      ],
+      [
+        "Flowchart",
+        "image_21c8e6eca7b1d2b383dbeb684e136b67"
+      ],
+      [
+        "Business Meeting",
+        "Flowchart"
+      ],
+      [
+        "Image",
+        "image_21c8e6eca7b1d2b383dbeb684e136b67"
+      ],
+      [
+        "Image",
+        "Mihir Modi"
+      ],
+      [
+        "Business Meeting",
+        "Team"
+      ],
+      [
+        "Business Meeting",
+        "Market"
+      ],
+      [
+        "Image",
+        "Image Path"
+      ],
+      [
+        "Image",
+        "Office Setting"
+      ],
+      [
+        "Captions",
+        "Image"
+      ],
+      [
+        "Captions",
+        "image_21c8e6eca7b1d2b383dbeb684e136b67"
+      ],
+      [
+        "Goal",
+        "image_21c8e6eca7b1d2b383dbeb684e136b67"
+      ],
+      [
+        "Business Meeting",
+        "Goal"
+      ],
+      [
+        "Communication",
+        "image_21c8e6eca7b1d2b383dbeb684e136b67"
+      ]
+    ],
+    "count": 26,
+    "create_time": 1766735997,
+    "update_time": 1766735997,
+    "_id": "doc-dfa2471ea39fa9ab83aa6eb1b25abff4"
+  },
+  "doc-406611efaa93d9c9c40ff9a20d9c4152": {
+    "relation_pairs": [
+      [
+        "Whiteboard",
+        "image_2e82de059373de6513e6dcdfb6720acc"
+      ],
+      [
+        "Business Handshake",
+        "image_2e82de059373de6513e6dcdfb6720acc"
+      ],
+      [
+        "Man",
+        "Window"
+      ],
+      [
+        "Man",
+        "image_2e82de059373de6513e6dcdfb6720acc"
+      ],
+      [
+        "Man",
+        "Whiteboard"
+      ],
+      [
+        "Business Handshake",
+        "Flowchart"
+      ],
+      [
+        "Business Handshake",
+        "Window"
+      ],
+      [
+        "Woman",
+        "image_2e82de059373de6513e6dcdfb6720acc"
+      ],
+      [
+        "Window",
+        "Woman"
+      ],
+      [
+        "Flowchart",
+        "image_2e82de059373de6513e6dcdfb6720acc"
+      ],
+      [
+        "Whiteboard",
+        "Woman"
+      ],
+      [
+        "Window",
+        "image_2e82de059373de6513e6dcdfb6720acc"
+      ],
+      [
+        "Man",
+        "Woman"
+      ]
+    ],
+    "count": 13,
+    "create_time": 1766735999,
+    "update_time": 1766735999,
+    "_id": "doc-406611efaa93d9c9c40ff9a20d9c4152"
+  },
+  "doc-aea7342127a5743a14200d8d8cd08070": {
+    "relation_pairs": [
+      [
+        "Success",
+        "image_e820b5d4c74a86602668f3e4582589b4"
+      ],
+      [
+        "Two Individuals in Business Attire",
+        "Watch"
+      ],
+      [
+        "Window",
+        "image_e820b5d4c74a86602668f3e4582589b4"
+      ],
+      [
+        "Black Suit Jacket",
+        "Whiteboard"
+      ],
+      [
+        "Watch",
+        "image_e820b5d4c74a86602668f3e4582589b4"
+      ],
+      [
+        "Striped Shirt",
+        "Whiteboard"
+      ],
+      [
+        "Goal",
+        "image_e820b5d4c74a86602668f3e4582589b4"
+      ],
+      [
+        "Balance",
+        "image_e820b5d4c74a86602668f3e4582589b4"
+      ],
+      [
+        "Business Handshake in a Professional Setting",
+        "image_e820b5d4c74a86602668f3e4582589b4"
+      ],
+      [
+        "Business Handshake in a Professional Setting",
+        "Window"
+      ],
+      [
+        "Two Individuals in Business Attire",
+        "image_e820b5d4c74a86602668f3e4582589b4"
+      ],
+      [
+        "Two Individuals in Business Attire",
+        "Window"
+      ],
+      [
+        "Business Handshake in a Professional Setting",
+        "Whiteboard"
+      ],
+      [
+        "Business Handshake in a Professional Setting",
+        "Two Individuals in Business Attire"
+      ],
+      [
+        "/Users/mihirmodi/RAG-Anything/output_business/frame_0000/ocr/images/244a00173e38eb8777fee90d1036125881a79caa9c6012d60bcead6e86929450.jpg",
+        "image_e820b5d4c74a86602668f3e4582589b4"
+      ],
+      [
+        "Market",
+        "image_e820b5d4c74a86602668f3e4582589b4"
+      ],
+      [
+        "Black Suit Jacket",
+        "image_e820b5d4c74a86602668f3e4582589b4"
+      ],
+      [
+        "Green Plant",
+        "image_e820b5d4c74a86602668f3e4582589b4"
+      ],
+      [
+        "Business Handshake in a Professional Setting",
+        "Watch"
+      ],
+      [
+        "Striped Shirt",
+        "image_e820b5d4c74a86602668f3e4582589b4"
+      ],
+      [
+        "Whiteboard",
+        "image_e820b5d4c74a86602668f3e4582589b4"
+      ],
+      [
+        "Green Plant",
+        "Window"
+      ],
+      [
+        "Two Individuals in Business Attire",
+        "Whiteboard"
+      ]
+    ],
+    "count": 23,
+    "create_time": 1766736007,
+    "update_time": 1766736007,
+    "_id": "doc-aea7342127a5743a14200d8d8cd08070"
+  }
+}

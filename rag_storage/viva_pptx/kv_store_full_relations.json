@@ -1,0 +1,1133 @@
+{
+  "doc-4bc246de7250bdedc12647a6b8803374": {
+    "relation_pairs": [
+      [
+        "Entity Information",
+        "Indian Institute of Information Technology Vadodara (IIITV)"
+      ],
+      [
+        "/Users/mihirmodi/RAG-Anything/output_viva/viva/auto/images/d82657a7f95ebac089a1b9a343ff5296df8745c29a0b19fcdf526abe590b76e2.jpg",
+        "image_b6f2e96827253daea5a19a44cf805fbe"
+      ],
+      [
+        "PDF Input",
+        "image_be0de235814a5de9ba91e0ec8b20d040"
+      ],
+      [
+        "FAISS vector database",
+        "Retrieval-Augmented Generation"
+      ],
+      [
+        "Indian Institute of Information Technology Vadodara",
+        "Logo"
+      ],
+      [
+        "Captions",
+        "Image Path"
+      ],
+      [
+        "Agent Processing",
+        "Response Generation"
+      ],
+      [
+        "Text in English",
+        "image_6ee1eb92074d5847a5dbf16a1ab53fe9"
+      ],
+      [
+        "API Comparison Table (table)",
+        "Mihir Modi"
+      ],
+      [
+        "IIITV Logo",
+        "Mihir Modi"
+      ],
+      [
+        "Image",
+        "Logo"
+      ],
+      [
+        "Light Gray Background",
+        "Logo Design"
+      ],
+      [
+        "Detailed Description",
+        "image_5023b34b5836d86989cd93aabb38484d"
+      ],
+      [
+        "RecursiveCharacterTextSplitter",
+        "image_be0de235814a5de9ba91e0ec8b20d040"
+      ],
+      [
+        "Dark Gray Border",
+        "image_5023b34b5836d86989cd93aabb38484d"
+      ],
+      [
+        "Image Content Analysis",
+        "image_493db2601d71d0988c30afd9c5e82f96"
+      ],
+      [
+        "Circular Design",
+        "image_b6f2e96827253daea5a19a44cf805fbe"
+      ],
+      [
+        "Indian Institute of Information Technology Vadodara",
+        "image_e7db6ecab56170aaf2a5fda91264fd6c"
+      ],
+      [
+        "Indian Institute of Information Technology Vadodara",
+        "image_7fc00ac2b36dde8404059c602bf3a073"
+      ],
+      [
+        "Circular Design",
+        "Image Content Analysis"
+      ],
+      [
+        "Indian Institute of Information Technology Vadodara",
+        "image_b164822a97a40378049f1284cf15e3dc"
+      ],
+      [
+        "Context Summarization",
+        "Retrieval-Augmented Generation"
+      ],
+      [
+        "Hindi",
+        "image_def47ad978a5fa50572cd3dd15b24280"
+      ],
+      [
+        "Image Content Analysis",
+        "image_be0de235814a5de9ba91e0ec8b20d040"
+      ],
+      [
+        "Black Text and Graphics",
+        "image_7fc00ac2b36dde8404059c602bf3a073"
+      ],
+      [
+        "FAISS vector database",
+        "image_be0de235814a5de9ba91e0ec8b20d040"
+      ],
+      [
+        "Weather Agent",
+        "Weather Information"
+      ],
+      [
+        "Logo",
+        "Visual Analysis"
+      ],
+      [
+        "Black Text and Graphics",
+        "Circular Design"
+      ],
+      [
+        "Logo",
+        "image_6ee1eb92074d5847a5dbf16a1ab53fe9"
+      ],
+      [
+        "PDF Agent",
+        "PDF Generation"
+      ],
+      [
+        "Devanagari Script",
+        "Logo Design"
+      ],
+      [
+        "Indian Institute of Information Technology Vadodara",
+        "image_5023b34b5836d86989cd93aabb38484d"
+      ],
+      [
+        "Two Small Stars",
+        "image_5023b34b5836d86989cd93aabb38484d"
+      ],
+      [
+        "Hindi",
+        "image_b6f2e96827253daea5a19a44cf805fbe"
+      ],
+      [
+        "Model Prompting",
+        "Retrieval-Augmented Generation"
+      ],
+      [
+        "Context Summarization",
+        "image_be0de235814a5de9ba91e0ec8b20d040"
+      ],
+      [
+        "Photoshop",
+        "image_6dc4cbbd71cd5df6ca23fa20f00342d1"
+      ],
+      [
+        "Visual Analysis",
+        "image_b164822a97a40378049f1284cf15e3dc"
+      ],
+      [
+        "Stylized Graphic",
+        "image_6dc4cbbd71cd5df6ca23fa20f00342d1"
+      ],
+      [
+        "Logo",
+        "Mihir Modi"
+      ],
+      [
+        "/Users/mihirmodi/RAG-Anything/output_viva/viva/auto/images/245731d4d2fedea83f805d2f4e8e551837a327aa025c5d3207839f96dfc353cc.jpg",
+        "image_6ee1eb92074d5847a5dbf16a1ab53fe9"
+      ],
+      [
+        "RAG-Anything",
+        "image_be0de235814a5de9ba91e0ec8b20d040"
+      ],
+      [
+        "Clockwise Text Arrangement",
+        "image_5023b34b5836d86989cd93aabb38484d"
+      ],
+      [
+        "Logo",
+        "image_def47ad978a5fa50572cd3dd15b24280"
+      ],
+      [
+        "API",
+        "API Comparison Table (table)"
+      ],
+      [
+        "Table Analysis",
+        "Typo Handling"
+      ],
+      [
+        "Ocean",
+        "image_493db2601d71d0988c30afd9c5e82f96"
+      ],
+      [
+        "PyPDF2",
+        "Retrieval-Augmented Generation"
+      ],
+      [
+        "Boat 2",
+        "image_493db2601d71d0988c30afd9c5e82f96"
+      ],
+      [
+        "LLaMA-3.1-8B",
+        "Retrieval-Augmented Generation"
+      ],
+      [
+        "Logo",
+        "image_98dfbd93012a001c8352d61323287409"
+      ],
+      [
+        "Logo Design",
+        "Two Small Stars"
+      ],
+      [
+        "Logo",
+        "Thin Black Border"
+      ],
+      [
+        "API Comparison Table (table)",
+        "Google Gemini API"
+      ],
+      [
+        "Model Prompting",
+        "image_be0de235814a5de9ba91e0ec8b20d040"
+      ],
+      [
+        "PDF Agent",
+        "image_625f82dc61816fca15974ac5abf8e12d"
+      ],
+      [
+        "Structure",
+        "Table Analysis"
+      ],
+      [
+        "English",
+        "image_6dc4cbbd71cd5df6ca23fa20f00342d1"
+      ],
+      [
+        "Image Agent",
+        "Image Generation"
+      ],
+      [
+        "Footnotes",
+        "IIITV Logo"
+      ],
+      [
+        "Logo",
+        "image_b6f2e96827253daea5a19a44cf805fbe"
+      ],
+      [
+        "Captions",
+        "None"
+      ],
+      [
+        "Branch",
+        "Grayscale Graphic"
+      ],
+      [
+        "Mihir Modi",
+        "Workflow Diagram"
+      ],
+      [
+        "Final Response",
+        "Response Generator"
+      ],
+      [
+        "Indian Institute of Information Technology, Vadodara",
+        "image_a544ca50a719dd74a5b27f4b85de4cfa"
+      ],
+      [
+        "Two Small Stars",
+        "image_6dc4cbbd71cd5df6ca23fa20f00342d1"
+      ],
+      [
+        "PyPDF2",
+        "image_be0de235814a5de9ba91e0ec8b20d040"
+      ],
+      [
+        "Indian Institute of Information Technology Vadodara",
+        "image_6dc4cbbd71cd5df6ca23fa20f00342d1"
+      ],
+      [
+        "Entity Information",
+        "image_e92ab67a9b8a515436f9db9e3280c000"
+      ],
+      [
+        "LLaMA-3.1-8B",
+        "image_be0de235814a5de9ba91e0ec8b20d040"
+      ],
+      [
+        "Sky",
+        "image_493db2601d71d0988c30afd9c5e82f96"
+      ],
+      [
+        "Weather Agent",
+        "image_625f82dc61816fca15974ac5abf8e12d"
+      ],
+      [
+        "Image",
+        "image_6dc4cbbd71cd5df6ca23fa20f00342d1"
+      ],
+      [
+        "Footnotes",
+        "Image Path"
+      ],
+      [
+        "/Users/mihirmodi/RAG-Anything/output_viva/viva/auto/images/245731d4d2fedea83f805d2f4e8e551837a327aa025c5d3207839f96dfc353cc.jpg",
+        "Logo"
+      ],
+      [
+        "Image",
+        "Image Path"
+      ],
+      [
+        "Beach",
+        "Boat 2"
+      ],
+      [
+        "/Users/mihirmodi/RAG-Anything/output_viva/viva/auto/images/f8a50710cca5d9886aea7c34793c26baa302d63482312981448261473ba8b788.jpg",
+        "image_be0de235814a5de9ba91e0ec8b20d040"
+      ],
+      [
+        "Logo",
+        "Photoshop"
+      ],
+      [
+        "Central Emblem",
+        "image_def47ad978a5fa50572cd3dd15b24280"
+      ],
+      [
+        "Thin Black Border",
+        "image_6dc4cbbd71cd5df6ca23fa20f00342d1"
+      ],
+      [
+        "Captions",
+        "Image Content Analysis"
+      ],
+      [
+        "Mihir Modi",
+        "image_b6f2e96827253daea5a19a44cf805fbe"
+      ],
+      [
+        "Boat 2",
+        "Ocean"
+      ],
+      [
+        "Retrieval-Augmented Generation",
+        "image_be0de235814a5de9ba91e0ec8b20d040"
+      ],
+      [
+        "Circular Design",
+        "image_98dfbd93012a001c8352d61323287409"
+      ],
+      [
+        "Logo",
+        "image_e92ab67a9b8a515436f9db9e3280c000"
+      ],
+      [
+        "Logo",
+        "image_5023b34b5836d86989cd93aabb38484d"
+      ],
+      [
+        "Image Path",
+        "Table Analysis"
+      ],
+      [
+        "Circle",
+        "image_6ee1eb92074d5847a5dbf16a1ab53fe9"
+      ],
+      [
+        "Grayscale Leaf Graphic (image)",
+        "Leaves"
+      ],
+      [
+        "Central Graphic",
+        "Circle"
+      ],
+      [
+        "Indian Institute of Information Technology, Vadodara",
+        "Logo"
+      ],
+      [
+        "API Comparison Table (table)",
+        "Colab"
+      ],
+      [
+        "Logo",
+        "SVG"
+      ],
+      [
+        "Captions",
+        "Footnotes"
+      ],
+      [
+        "Logo Design",
+        "Technical Details"
+      ],
+      [
+        "Captions",
+        "image_625f82dc61816fca15974ac5abf8e12d"
+      ],
+      [
+        "Circular Design",
+        "Logo"
+      ],
+      [
+        "Dark Gray Border",
+        "Logo Design"
+      ],
+      [
+        "Logo",
+        "image_a544ca50a719dd74a5b27f4b85de4cfa"
+      ],
+      [
+        "Adobe Illustrator",
+        "Logo"
+      ],
+      [
+        "Flowchart",
+        "Retrieval-Augmented Generation"
+      ],
+      [
+        "Boat 1",
+        "Sky"
+      ],
+      [
+        "Hindi",
+        "image_98dfbd93012a001c8352d61323287409"
+      ],
+      [
+        "API",
+        "GitHub API"
+      ],
+      [
+        "GitHub Agent",
+        "image_625f82dc61816fca15974ac5abf8e12d"
+      ],
+      [
+        "Table",
+        "Table Analysis"
+      ],
+      [
+        "Mihir Modi",
+        "image_625f82dc61816fca15974ac5abf8e12d"
+      ],
+      [
+        "Grayscale Leaf Graphic (image)",
+        "Light Gray Color"
+      ],
+      [
+        "Stylized Monogram",
+        "image_5023b34b5836d86989cd93aabb38484d"
+      ],
+      [
+        "API",
+        "NVIDIA API"
+      ],
+      [
+        "API",
+        "Table Analysis"
+      ],
+      [
+        "Mixtral-8x22B",
+        "Retrieval-Augmented Generation"
+      ],
+      [
+        "Circular Design",
+        "image_7fc00ac2b36dde8404059c602bf3a073"
+      ],
+      [
+        "Circular Design",
+        "image_b164822a97a40378049f1284cf15e3dc"
+      ],
+      [
+        "API Rate Limits",
+        "Table Analysis"
+      ],
+      [
+        "Hindi",
+        "Logo"
+      ],
+      [
+        "Flowchart",
+        "image_be0de235814a5de9ba91e0ec8b20d040"
+      ],
+      [
+        "/Users/mihirmodi/RAG-Anything/output_viva/viva/auto/images/cd93fdabcc0dac3bfa00478f4397b91483f5d079300375384e30a5a498faae87.jpg",
+        "Grayscale Leaf Graphic (image)"
+      ],
+      [
+        "Hindi Text",
+        "Logo"
+      ],
+      [
+        "Grayscale Graphic",
+        "Grayscale Leaf Graphic (image)"
+      ],
+      [
+        "IIITV Logo",
+        "image_e7db6ecab56170aaf2a5fda91264fd6c"
+      ],
+      [
+        "/Users/mihirmodi/RAG-Anything/output_viva/viva/auto/images/e62ec214f6ba82807262cb22bfeffde22ee1ff526f9a66e0c2fa7882a95aecf2.jpg",
+        "image_7fc00ac2b36dde8404059c602bf3a073"
+      ],
+      [
+        "IIITV Logo",
+        "image_7fc00ac2b36dde8404059c602bf3a073"
+      ],
+      [
+        "Mixtral-8x22B",
+        "image_be0de235814a5de9ba91e0ec8b20d040"
+      ],
+      [
+        "API Comparison Table (table)",
+        "Table"
+      ],
+      [
+        "Boat 1",
+        "Boat 2"
+      ],
+      [
+        "API Comparison Table (table)",
+        "Structure"
+      ],
+      [
+        "Central Graphic",
+        "image_6ee1eb92074d5847a5dbf16a1ab53fe9"
+      ],
+      [
+        "GitHub Agent",
+        "GitHub Repositories"
+      ],
+      [
+        "Captions",
+        "image_493db2601d71d0988c30afd9c5e82f96"
+      ],
+      [
+        "Clockwise Text Arrangement",
+        "Logo Design"
+      ],
+      [
+        "Scalable Vector Graphics",
+        "image_5023b34b5836d86989cd93aabb38484d"
+      ],
+      [
+        "Query Classifier",
+        "image_625f82dc61816fca15974ac5abf8e12d"
+      ],
+      [
+        "Image Content Analysis",
+        "Symbol"
+      ],
+      [
+        "Captions",
+        "image_be0de235814a5de9ba91e0ec8b20d040"
+      ],
+      [
+        "Mihir Modi",
+        "image_6ee1eb92074d5847a5dbf16a1ab53fe9"
+      ],
+      [
+        "IIITV Logo",
+        "Indian Institute of Information Technology Vadodara"
+      ],
+      [
+        "EPS",
+        "Logo"
+      ],
+      [
+        "Image Agent",
+        "image_625f82dc61816fca15974ac5abf8e12d"
+      ],
+      [
+        "Footnotes",
+        "Image Content Analysis"
+      ],
+      [
+        "Mihir Modi",
+        "image_be0de235814a5de9ba91e0ec8b20d040"
+      ],
+      [
+        "API Comparison Table (table)",
+        "Caption"
+      ],
+      [
+        "Agent Selection",
+        "image_625f82dc61816fca15974ac5abf8e12d"
+      ],
+      [
+        "Background",
+        "Logo"
+      ],
+      [
+        "Color Scheme",
+        "image_e92ab67a9b8a515436f9db9e3280c000"
+      ],
+      [
+        "Image Path",
+        "Mihir Modi"
+      ],
+      [
+        "Logo",
+        "image_b164822a97a40378049f1284cf15e3dc"
+      ],
+      [
+        "Visual Analysis",
+        "White Background"
+      ],
+      [
+        "Adobe Illustrator",
+        "image_6dc4cbbd71cd5df6ca23fa20f00342d1"
+      ],
+      [
+        "/Users/mihirmodi/RAG-Anything/output_viva/viva/auto/images/eebf18975083f24d569bb17227961667b94e626f433a4fdf009116f9b3184d90.jpg",
+        "Image Path"
+      ],
+      [
+        "API Comparison Table (table)",
+        "GitHub API"
+      ],
+      [
+        "Response Output",
+        "image_625f82dc61816fca15974ac5abf8e12d"
+      ],
+      [
+        "SVG",
+        "image_6dc4cbbd71cd5df6ca23fa20f00342d1"
+      ],
+      [
+        "Footnotes",
+        "image_625f82dc61816fca15974ac5abf8e12d"
+      ],
+      [
+        "Grayscale Leaf Graphic (image)",
+        "Visual Analysis"
+      ],
+      [
+        "API Comparison Table (table)",
+        "Table Analysis"
+      ],
+      [
+        "Indian Institute of Information Technology Vadodara (IIITV)",
+        "Logo"
+      ],
+      [
+        "API Comparison Table (table)",
+        "NVIDIA API"
+      ],
+      [
+        "White Background",
+        "image_7fc00ac2b36dde8404059c602bf3a073"
+      ],
+      [
+        "Beach",
+        "image_493db2601d71d0988c30afd9c5e82f96"
+      ],
+      [
+        "Flowchart",
+        "RAG-Anything"
+      ],
+      [
+        "Caption",
+        "Table Analysis"
+      ],
+      [
+        "QA Agent",
+        "image_625f82dc61816fca15974ac5abf8e12d"
+      ],
+      [
+        "Grayscale Graphic",
+        "Light Gray Color"
+      ],
+      [
+        "Post-Processing",
+        "Response Output"
+      ],
+      [
+        "Captions",
+        "image_e7db6ecab56170aaf2a5fda91264fd6c"
+      ],
+      [
+        "API Comparison Table (table)",
+        "Image Path"
+      ],
+      [
+        "Logo",
+        "Scalable Vector Graphics"
+      ],
+      [
+        "Central Emblem",
+        "Logo"
+      ],
+      [
+        "Central Graphic",
+        "Stylized Letter \"I\""
+      ],
+      [
+        "User Input",
+        "image_625f82dc61816fca15974ac5abf8e12d"
+      ],
+      [
+        "Text",
+        "image_e92ab67a9b8a515436f9db9e3280c000"
+      ],
+      [
+        "Mihir Modi",
+        "image_7fc00ac2b36dde8404059c602bf3a073"
+      ],
+      [
+        "Star Symbol",
+        "image_b164822a97a40378049f1284cf15e3dc"
+      ],
+      [
+        "Central Graphic",
+        "image_e92ab67a9b8a515436f9db9e3280c000"
+      ],
+      [
+        "Indian Institute of Information Technology Vadodara (IIITV)",
+        "image_e92ab67a9b8a515436f9db9e3280c000"
+      ],
+      [
+        "Black Text and Graphics",
+        "Visual Analysis"
+      ],
+      [
+        "Grayscale Leaf Graphic (image)",
+        "Image Content Analysis"
+      ],
+      [
+        "Image Path",
+        "image_625f82dc61816fca15974ac5abf8e12d"
+      ],
+      [
+        "Image",
+        "Visual Analysis"
+      ],
+      [
+        "English",
+        "image_def47ad978a5fa50572cd3dd15b24280"
+      ],
+      [
+        "Footnotes",
+        "image_493db2601d71d0988c30afd9c5e82f96"
+      ],
+      [
+        "Logo",
+        "image_6dc4cbbd71cd5df6ca23fa20f00342d1"
+      ],
+      [
+        "High-Quality Education",
+        "Indian Institute of Information Technology Vadodara (IIITV)"
+      ],
+      [
+        "Footnotes",
+        "None"
+      ],
+      [
+        "Mihir Modi",
+        "image_5023b34b5836d86989cd93aabb38484d"
+      ],
+      [
+        "Response Generation",
+        "image_625f82dc61816fca15974ac5abf8e12d"
+      ],
+      [
+        "Footnotes",
+        "image_be0de235814a5de9ba91e0ec8b20d040"
+      ],
+      [
+        "English",
+        "image_98dfbd93012a001c8352d61323287409"
+      ],
+      [
+        "Color Scheme",
+        "Logo"
+      ],
+      [
+        "Query Classifier",
+        "User Input"
+      ],
+      [
+        "Retrieval-Augmented Generation",
+        "Top-k Retrieval"
+      ],
+      [
+        "Indian Institute of Information Technology Vadodara",
+        "image_def47ad978a5fa50572cd3dd15b24280"
+      ],
+      [
+        "NVIDIA nv-embedqa-e5-v5",
+        "Retrieval-Augmented Generation"
+      ],
+      [
+        "English",
+        "image_b6f2e96827253daea5a19a44cf805fbe"
+      ],
+      [
+        "Image",
+        "image_def47ad978a5fa50572cd3dd15b24280"
+      ],
+      [
+        "Indian Institute of Information Technology Vadodara",
+        "image_98dfbd93012a001c8352d61323287409"
+      ],
+      [
+        "Captions",
+        "IIITV Logo"
+      ],
+      [
+        "Colab",
+        "Table Analysis"
+      ],
+      [
+        "Image",
+        "Indian Institute of Information Technology, Vadodara"
+      ],
+      [
+        "Workflow Diagram",
+        "image_625f82dc61816fca15974ac5abf8e12d"
+      ],
+      [
+        "Hindi Text",
+        "image_b164822a97a40378049f1284cf15e3dc"
+      ],
+      [
+        "Educational Institution",
+        "image_e92ab67a9b8a515436f9db9e3280c000"
+      ],
+      [
+        "Stylized Letter \"I\"",
+        "image_b164822a97a40378049f1284cf15e3dc"
+      ],
+      [
+        "Indian Institute of Information Technology Vadodara",
+        "image_b6f2e96827253daea5a19a44cf805fbe"
+      ],
+      [
+        "Image",
+        "image_98dfbd93012a001c8352d61323287409"
+      ],
+      [
+        "Light Gray Background",
+        "image_5023b34b5836d86989cd93aabb38484d"
+      ],
+      [
+        "Ocean",
+        "Sky"
+      ],
+      [
+        "Boat 1",
+        "image_493db2601d71d0988c30afd9c5e82f96"
+      ],
+      [
+        "Boat 2",
+        "Sky"
+      ],
+      [
+        "Circle",
+        "Text in English"
+      ],
+      [
+        "NVIDIA nv-embedqa-e5-v5",
+        "image_be0de235814a5de9ba91e0ec8b20d040"
+      ],
+      [
+        "Symbol",
+        "image_b6f2e96827253daea5a19a44cf805fbe"
+      ],
+      [
+        "API",
+        "WeatherAPI"
+      ],
+      [
+        "Grayscale Leaf Graphic (image)",
+        "Image"
+      ],
+      [
+        "Response Generator",
+        "image_625f82dc61816fca15974ac5abf8e12d"
+      ],
+      [
+        "QA Agent",
+        "Query Answers"
+      ],
+      [
+        "Image Content Analysis",
+        "Visual Analysis"
+      ],
+      [
+        "Logo",
+        "Symbol"
+      ],
+      [
+        "Image Path",
+        "image_be0de235814a5de9ba91e0ec8b20d040"
+      ],
+      [
+        "Educational Institution",
+        "Indian Institute of Information Technology Vadodara (IIITV)"
+      ],
+      [
+        "Circular Design",
+        "White Background"
+      ],
+      [
+        "Footnotes",
+        "image_e7db6ecab56170aaf2a5fda91264fd6c"
+      ],
+      [
+        "Grayscale Graphic",
+        "Leaves"
+      ],
+      [
+        "/Users/mihirmodi/RAG-Anything/output_viva/viva/auto/images/e62ec214f6ba82807262cb22bfeffde22ee1ff526f9a66e0c2fa7882a95aecf2.jpg",
+        "IIITV Logo"
+      ],
+      [
+        "Image Content Analysis",
+        "Mihir Modi"
+      ],
+      [
+        "Image Path",
+        "image_def47ad978a5fa50572cd3dd15b24280"
+      ],
+      [
+        "Devanagari Script",
+        "image_5023b34b5836d86989cd93aabb38484d"
+      ],
+      [
+        "Logo",
+        "Text"
+      ],
+      [
+        "Background",
+        "image_b164822a97a40378049f1284cf15e3dc"
+      ],
+      [
+        "Agent Processing",
+        "image_625f82dc61816fca15974ac5abf8e12d"
+      ],
+      [
+        "Central Graphic",
+        "Logo"
+      ],
+      [
+        "Text",
+        "image_b164822a97a40378049f1284cf15e3dc"
+      ],
+      [
+        "Top-k Retrieval",
+        "image_be0de235814a5de9ba91e0ec8b20d040"
+      ],
+      [
+        "Hindi",
+        "image_6dc4cbbd71cd5df6ca23fa20f00342d1"
+      ],
+      [
+        "Visual Analysis",
+        "image_7fc00ac2b36dde8404059c602bf3a073"
+      ],
+      [
+        "IIITV Logo",
+        "Image Path"
+      ],
+      [
+        "Central Graphic",
+        "image_b164822a97a40378049f1284cf15e3dc"
+      ],
+      [
+        "Image Path",
+        "Logo"
+      ],
+      [
+        "Image Content Analysis",
+        "image_b6f2e96827253daea5a19a44cf805fbe"
+      ],
+      [
+        "High-Quality Education",
+        "image_e92ab67a9b8a515436f9db9e3280c000"
+      ],
+      [
+        "Post-Processing",
+        "Response Generation"
+      ],
+      [
+        "Logo",
+        "Stylized Graphic"
+      ],
+      [
+        "Technical Details",
+        "image_5023b34b5836d86989cd93aabb38484d"
+      ],
+      [
+        "Agent Selection",
+        "Query Classifier"
+      ],
+      [
+        "/Users/mihirmodi/RAG-Anything/output_viva/viva/auto/images/f06e30c31afc60d3c149f495a2739945256356a0e0b3a42cf97794760bc8a32b.jpg",
+        "image_493db2601d71d0988c30afd9c5e82f96"
+      ],
+      [
+        "Agent Processing",
+        "Agent Selection"
+      ],
+      [
+        "Boat 1",
+        "Ocean"
+      ],
+      [
+        "English Text",
+        "Logo"
+      ],
+      [
+        "API Comparison Table (table)",
+        "Footnotes"
+      ],
+      [
+        "Image Path",
+        "image_e7db6ecab56170aaf2a5fda91264fd6c"
+      ],
+      [
+        "Image",
+        "image_a544ca50a719dd74a5b27f4b85de4cfa"
+      ],
+      [
+        "Branch",
+        "Grayscale Leaf Graphic (image)"
+      ],
+      [
+        "Logo",
+        "White Background"
+      ],
+      [
+        "Circle",
+        "Text in Hindi"
+      ],
+      [
+        "Hindi Text",
+        "Star Symbol"
+      ],
+      [
+        "Async Complexity",
+        "Table Analysis"
+      ],
+      [
+        "Post-Processing",
+        "image_625f82dc61816fca15974ac5abf8e12d"
+      ],
+      [
+        "Text in Hindi",
+        "image_6ee1eb92074d5847a5dbf16a1ab53fe9"
+      ],
+      [
+        "EPS",
+        "image_6dc4cbbd71cd5df6ca23fa20f00342d1"
+      ],
+      [
+        "API Comparison Table (table)",
+        "WeatherAPI"
+      ],
+      [
+        "Beach",
+        "Boat 1"
+      ],
+      [
+        "Image Content Analysis",
+        "image_625f82dc61816fca15974ac5abf8e12d"
+      ],
+      [
+        "/Users/mihirmodi/RAG-Anything/output_viva/viva/auto/images/d82657a7f95ebac089a1b9a343ff5296df8745c29a0b19fcdf526abe590b76e2.jpg",
+        "Mihir Modi"
+      ],
+      [
+        "Image Content Analysis Report",
+        "image_5023b34b5836d86989cd93aabb38484d"
+      ],
+      [
+        "English Text",
+        "image_b164822a97a40378049f1284cf15e3dc"
+      ],
+      [
+        "Indian Institute of Information Technology, Vadodara",
+        "image_6ee1eb92074d5847a5dbf16a1ab53fe9"
+      ],
+      [
+        "PDF Input",
+        "Retrieval-Augmented Generation"
+      ],
+      [
+        "Circular Design",
+        "Visual Analysis"
+      ],
+      [
+        "Image Path",
+        "image_5023b34b5836d86989cd93aabb38484d"
+      ],
+      [
+        "White Background",
+        "image_6dc4cbbd71cd5df6ca23fa20f00342d1"
+      ],
+      [
+        "Logo Design",
+        "Stylized Monogram"
+      ],
+      [
+        "English",
+        "Logo"
+      ],
+      [
+        "RecursiveCharacterTextSplitter",
+        "Retrieval-Augmented Generation"
+      ],
+      [
+        "Logo",
+        "Two Small Stars"
+      ],
+      [
+        "API",
+        "Google Gemini API"
+      ],
+      [
+        "Circular Border",
+        "Logo"
+      ]
+    ],
+    "count": 281,
+    "update_time": 1766750950,
+    "_id": "doc-4bc246de7250bdedc12647a6b8803374"
+  }
+}

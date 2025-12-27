@@ -1,0 +1,185 @@
+{
+  "doc-75aecf522009bbf8331af56be724a70f": {
+    "relation_pairs": [
+      [
+        "/Users/mihirmodi/RAG-Anything/output_result/pan card front/ocr/images/2538009e072fd87f46ae9b802829717d1bfa0423dcdcf8756610fab6d5a469f7.jpg",
+        "Image"
+      ],
+      [
+        "Indian Permanent Account Number (PAN) Card",
+        "image_cb6e4dc39b327c99f9d33dfdd3e3afd5"
+      ],
+      [
+        "Visual Analysis",
+        "image_cb6557064b7f7d011b6cc5f408e18e5b"
+      ],
+      [
+        "Permanent Account Number (PAN) Card",
+        "image_4c68dc2ef63009c16caecd3b4f0cb416"
+      ],
+      [
+        "QR Code",
+        "image_4c68dc2ef63009c16caecd3b4f0cb416"
+      ],
+      [
+        "Image",
+        "Mihir Modi"
+      ],
+      [
+        "Mihir Modi",
+        "image_cb6e4dc39b327c99f9d33dfdd3e3afd5"
+      ],
+      [
+        "Barcode",
+        "QR Code"
+      ],
+      [
+        "Scanning Process",
+        "image_cb6e4dc39b327c99f9d33dfdd3e3afd5"
+      ],
+      [
+        "Image",
+        "Indian Permanent Account Number (PAN) Card"
+      ],
+      [
+        "Image",
+        "QR Code"
+      ],
+      [
+        "Mihir Modi",
+        "image_cb6557064b7f7d011b6cc5f408e18e5b"
+      ],
+      [
+        "Mihir Modi",
+        "image_4c68dc2ef63009c16caecd3b4f0cb416"
+      ],
+      [
+        "Image Path",
+        "image_cb6557064b7f7d011b6cc5f408e18e5b"
+      ],
+      [
+        "Indian National Emblem",
+        "image_cb6e4dc39b327c99f9d33dfdd3e3afd5"
+      ],
+      [
+        "Captions",
+        "None"
+      ],
+      [
+        "Image Content Analysis",
+        "Mihir Modi"
+      ],
+      [
+        "Data",
+        "QR Code"
+      ],
+      [
+        "Image",
+        "Scanning Process"
+      ],
+      [
+        "Image",
+        "Indian National Emblem"
+      ],
+      [
+        "Footnotes",
+        "None"
+      ],
+      [
+        "/Users/mihirmodi/RAG-Anything/output_result/pan card front/ocr/images/e657d9371ba00ddc4e27977580288a434e7ac9e2cb49086b55a9c89112d69ef4.jpg",
+        "QR Code"
+      ],
+      [
+        "Image",
+        "image_cb6e4dc39b327c99f9d33dfdd3e3afd5"
+      ],
+      [
+        "Image",
+        "image_4c68dc2ef63009c16caecd3b4f0cb416"
+      ],
+      [
+        "Barcode",
+        "image_4c68dc2ef63009c16caecd3b4f0cb416"
+      ],
+      [
+        "Light Blue Background",
+        "image_cb6e4dc39b327c99f9d33dfdd3e3afd5"
+      ],
+      [
+        "Hindi Text",
+        "image_cb6e4dc39b327c99f9d33dfdd3e3afd5"
+      ],
+      [
+        "Image Content Analysis",
+        "image_cb6557064b7f7d011b6cc5f408e18e5b"
+      ],
+      [
+        "Indian Government",
+        "image_4c68dc2ef63009c16caecd3b4f0cb416"
+      ],
+      [
+        "Content Analysis Report",
+        "image_cb6e4dc39b327c99f9d33dfdd3e3afd5"
+      ],
+      [
+        "Data",
+        "image_4c68dc2ef63009c16caecd3b4f0cb416"
+      ],
+      [
+        "Permanent Account Number (PAN) Card",
+        "QR Code"
+      ],
+      [
+        "Hindi Text",
+        "Image"
+      ],
+      [
+        "Mihir Modi",
+        "QR Code"
+      ],
+      [
+        "Captions",
+        "image_cb6557064b7f7d011b6cc5f408e18e5b"
+      ],
+      [
+        "Content Analysis Report",
+        "Image"
+      ],
+      [
+        "/Users/mihirmodi/RAG-Anything/output_result/pan card front/ocr/images/d3124bc4e6f181293a8216d24a0d15d216732cf186011856c3fd3bd3dde94c50.jpg",
+        "image_cb6557064b7f7d011b6cc5f408e18e5b"
+      ],
+      [
+        "/Users/mihirmodi/RAG-Anything/output_result/pan card front/ocr/images/e657d9371ba00ddc4e27977580288a434e7ac9e2cb49086b55a9c89112d69ef4.jpg",
+        "image_4c68dc2ef63009c16caecd3b4f0cb416"
+      ],
+      [
+        "Indian Government",
+        "Permanent Account Number (PAN) Card"
+      ],
+      [
+        "Footnotes",
+        "image_cb6557064b7f7d011b6cc5f408e18e5b"
+      ],
+      [
+        "/Users/mihirmodi/RAG-Anything/output_result/pan card front/ocr/images/2538009e072fd87f46ae9b802829717d1bfa0423dcdcf8756610fab6d5a469f7.jpg",
+        "image_cb6e4dc39b327c99f9d33dfdd3e3afd5"
+      ],
+      [
+        "Mihir Modi",
+        "Visual Analysis"
+      ],
+      [
+        "/Users/mihirmodi/RAG-Anything/output_result/pan card front/ocr/images/d3124bc4e6f181293a8216d24a0d15d216732cf186011856c3fd3bd3dde94c50.jpg",
+        "Image Path"
+      ],
+      [
+        "Image",
+        "Light Blue Background"
+      ]
+    ],
+    "count": 44,
+    "update_time": 1766736705,
+    "_id": "doc-75aecf522009bbf8331af56be724a70f"
+  }
+}

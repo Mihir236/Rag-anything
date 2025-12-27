@@ -1,0 +1,606 @@
+2025-12-26 19:40:26,010 - nano-vectordb - INFO - Load (35, 4096) data
+2025-12-26 19:40:26,010 - nano-vectordb - INFO - Init {'embedding_dim': 4096, 'metric': 'cosine', 'storage_file': './rag_storage/pan_card_front_jpg/vdb_entities.json'} 35 data
+2025-12-26 19:40:26,015 - nano-vectordb - INFO - Load (50, 4096) data
+2025-12-26 19:40:26,015 - nano-vectordb - INFO - Init {'embedding_dim': 4096, 'metric': 'cosine', 'storage_file': './rag_storage/pan_card_front_jpg/vdb_relationships.json'} 50 data
+2025-12-26 19:40:26,016 - nano-vectordb - INFO - Load (4, 4096) data
+2025-12-26 19:40:26,016 - nano-vectordb - INFO - Init {'embedding_dim': 4096, 'metric': 'cosine', 'storage_file': './rag_storage/pan_card_front_jpg/vdb_chunks.json'} 4 data
+2025-12-26 19:42:54,706 - nano-vectordb - INFO - Load (35, 4096) data
+2025-12-26 19:42:54,707 - nano-vectordb - INFO - Init {'embedding_dim': 4096, 'metric': 'cosine', 'storage_file': './rag_storage/pan_card_front_jpg/vdb_entities.json'} 35 data
+2025-12-26 19:42:54,712 - nano-vectordb - INFO - Load (50, 4096) data
+2025-12-26 19:42:54,712 - nano-vectordb - INFO - Init {'embedding_dim': 4096, 'metric': 'cosine', 'storage_file': './rag_storage/pan_card_front_jpg/vdb_relationships.json'} 50 data
+2025-12-26 19:42:54,713 - nano-vectordb - INFO - Load (4, 4096) data
+2025-12-26 19:42:54,713 - nano-vectordb - INFO - Init {'embedding_dim': 4096, 'metric': 'cosine', 'storage_file': './rag_storage/pan_card_front_jpg/vdb_chunks.json'} 4 data
+2025-12-26 19:47:04,596 - nano-vectordb - INFO - Load (35, 4096) data
+2025-12-26 19:47:04,597 - nano-vectordb - INFO - Init {'embedding_dim': 4096, 'metric': 'cosine', 'storage_file': './rag_storage/pan_card_front_jpg/vdb_entities.json'} 35 data
+2025-12-26 19:47:04,602 - nano-vectordb - INFO - Load (50, 4096) data
+2025-12-26 19:47:04,602 - nano-vectordb - INFO - Init {'embedding_dim': 4096, 'metric': 'cosine', 'storage_file': './rag_storage/pan_card_front_jpg/vdb_relationships.json'} 50 data
+2025-12-26 19:47:04,603 - nano-vectordb - INFO - Load (4, 4096) data
+2025-12-26 19:47:04,603 - nano-vectordb - INFO - Init {'embedding_dim': 4096, 'metric': 'cosine', 'storage_file': './rag_storage/pan_card_front_jpg/vdb_chunks.json'} 4 data
+2025-12-26 19:47:43,997 - nano-vectordb - INFO - Load (35, 4096) data
+2025-12-26 19:47:43,997 - nano-vectordb - INFO - Init {'embedding_dim': 4096, 'metric': 'cosine', 'storage_file': './rag_storage/pan_card_front_jpg/vdb_entities.json'} 35 data
+2025-12-26 19:47:44,003 - nano-vectordb - INFO - Load (50, 4096) data
+2025-12-26 19:47:44,003 - nano-vectordb - INFO - Init {'embedding_dim': 4096, 'metric': 'cosine', 'storage_file': './rag_storage/pan_card_front_jpg/vdb_relationships.json'} 50 data
+2025-12-26 19:47:44,004 - nano-vectordb - INFO - Load (4, 4096) data
+2025-12-26 19:47:44,004 - nano-vectordb - INFO - Init {'embedding_dim': 4096, 'metric': 'cosine', 'storage_file': './rag_storage/pan_card_front_jpg/vdb_chunks.json'} 4 data
+2025-12-26 19:48:09,702 - nano-vectordb - INFO - Load (35, 4096) data
+2025-12-26 19:48:09,703 - nano-vectordb - INFO - Init {'embedding_dim': 4096, 'metric': 'cosine', 'storage_file': './rag_storage/pan_card_front_jpg/vdb_entities.json'} 35 data
+2025-12-26 19:48:09,708 - nano-vectordb - INFO - Load (50, 4096) data
+2025-12-26 19:48:09,708 - nano-vectordb - INFO - Init {'embedding_dim': 4096, 'metric': 'cosine', 'storage_file': './rag_storage/pan_card_front_jpg/vdb_relationships.json'} 50 data
+2025-12-26 19:48:09,709 - nano-vectordb - INFO - Load (4, 4096) data
+2025-12-26 19:48:09,709 - nano-vectordb - INFO - Init {'embedding_dim': 4096, 'metric': 'cosine', 'storage_file': './rag_storage/pan_card_front_jpg/vdb_chunks.json'} 4 data
+2025-12-26 19:48:45,410 - nano-vectordb - INFO - Load (35, 4096) data
+2025-12-26 19:48:45,410 - nano-vectordb - INFO - Init {'embedding_dim': 4096, 'metric': 'cosine', 'storage_file': './rag_storage/pan_card_front_jpg/vdb_entities.json'} 35 data
+2025-12-26 19:48:45,414 - nano-vectordb - INFO - Load (50, 4096) data
+2025-12-26 19:48:45,414 - nano-vectordb - INFO - Init {'embedding_dim': 4096, 'metric': 'cosine', 'storage_file': './rag_storage/pan_card_front_jpg/vdb_relationships.json'} 50 data
+2025-12-26 19:48:45,415 - nano-vectordb - INFO - Load (4, 4096) data
+2025-12-26 19:48:45,415 - nano-vectordb - INFO - Init {'embedding_dim': 4096, 'metric': 'cosine', 'storage_file': './rag_storage/pan_card_front_jpg/vdb_chunks.json'} 4 data
+2025-12-26 19:53:16,744 - nano-vectordb - INFO - Load (35, 4096) data
+2025-12-26 19:53:16,745 - nano-vectordb - INFO - Init {'embedding_dim': 4096, 'metric': 'cosine', 'storage_file': './rag_storage/pan_card_front_jpg/vdb_entities.json'} 35 data
+2025-12-26 19:53:16,750 - nano-vectordb - INFO - Load (50, 4096) data
+2025-12-26 19:53:16,750 - nano-vectordb - INFO - Init {'embedding_dim': 4096, 'metric': 'cosine', 'storage_file': './rag_storage/pan_card_front_jpg/vdb_relationships.json'} 50 data
+2025-12-26 19:53:16,751 - nano-vectordb - INFO - Load (4, 4096) data
+2025-12-26 19:53:16,751 - nano-vectordb - INFO - Init {'embedding_dim': 4096, 'metric': 'cosine', 'storage_file': './rag_storage/pan_card_front_jpg/vdb_chunks.json'} 4 data
+2025-12-26 19:55:15,597 - nano-vectordb - INFO - Load (35, 4096) data
+2025-12-26 19:55:15,597 - nano-vectordb - INFO - Init {'embedding_dim': 4096, 'metric': 'cosine', 'storage_file': './rag_storage/pan_card_front_jpg/vdb_entities.json'} 35 data
+2025-12-26 19:55:15,602 - nano-vectordb - INFO - Load (50, 4096) data
+2025-12-26 19:55:15,603 - nano-vectordb - INFO - Init {'embedding_dim': 4096, 'metric': 'cosine', 'storage_file': './rag_storage/pan_card_front_jpg/vdb_relationships.json'} 50 data
+2025-12-26 19:55:15,603 - nano-vectordb - INFO - Load (4, 4096) data
+2025-12-26 19:55:15,603 - nano-vectordb - INFO - Init {'embedding_dim': 4096, 'metric': 'cosine', 'storage_file': './rag_storage/pan_card_front_jpg/vdb_chunks.json'} 4 data
+2025-12-27 06:36:09,110 - nano-vectordb - INFO - Load (35, 4096) data
+2025-12-27 06:36:09,110 - nano-vectordb - INFO - Init {'embedding_dim': 4096, 'metric': 'cosine', 'storage_file': './rag_storage/pan_card_front_jpg/vdb_entities.json'} 35 data
+2025-12-27 06:36:09,116 - nano-vectordb - INFO - Load (50, 4096) data
+2025-12-27 06:36:09,116 - nano-vectordb - INFO - Init {'embedding_dim': 4096, 'metric': 'cosine', 'storage_file': './rag_storage/pan_card_front_jpg/vdb_relationships.json'} 50 data
+2025-12-27 06:36:09,117 - nano-vectordb - INFO - Load (4, 4096) data
+2025-12-27 06:36:09,117 - nano-vectordb - INFO - Init {'embedding_dim': 4096, 'metric': 'cosine', 'storage_file': './rag_storage/pan_card_front_jpg/vdb_chunks.json'} 4 data
+2025-12-27 06:38:06,709 - nano-vectordb - INFO - Init {'embedding_dim': 4096, 'metric': 'cosine', 'storage_file': './rag_storage/140912_776415326_small_mp4/vdb_entities.json'} 0 data
+2025-12-27 06:38:06,709 - nano-vectordb - INFO - Init {'embedding_dim': 4096, 'metric': 'cosine', 'storage_file': './rag_storage/140912_776415326_small_mp4/vdb_relationships.json'} 0 data
+2025-12-27 06:38:06,709 - nano-vectordb - INFO - Init {'embedding_dim': 4096, 'metric': 'cosine', 'storage_file': './rag_storage/140912_776415326_small_mp4/vdb_chunks.json'} 0 data
+2025-12-27 06:38:06,711 - raganything.parser - WARNING - Warning: Unsupported file extension '.mp4', attempting to parse as PDF
+2025-12-27 06:38:06,711 - raganything.parser - INFO - Executing mineru command: mineru -p /Users/mihirmodi/Downloads/140912-776415326_small.mp4 -o rag_storage/140912_776415326_small_mp4/output -m auto
+2025-12-27 06:38:08,796 - raganything.parser - WARNING - [MinerU] 2025-12-27 06:38:08.755 | WARNING  | mineru.backend.vlm.predictor:<module>:35 - sglang is not installed. If you are not using sglang, you can ignore this warning.
+2025-12-27 06:38:08,901 - raganything.parser - ERROR - [MinerU] 2025-12-27 06:38:08.882 | ERROR    | mineru.cli.client:parse_doc:200 - Unknown file suffix: .mp4
+2025-12-27 06:38:08,901 - raganything.parser - INFO - [MinerU] Traceback (most recent call last):
+2025-12-27 06:38:08,901 - raganything.parser - INFO - [MinerU] File "/Library/Frameworks/Python.framework/Versions/3.13/bin/mineru", line 8, in <module>
+2025-12-27 06:38:08,901 - raganything.parser - INFO - [MinerU] sys.exit(client.main())
+2025-12-27 06:38:08,901 - raganything.parser - INFO - [MinerU] │   │    │      └ <Command main>
+2025-12-27 06:38:08,901 - raganything.parser - INFO - [MinerU] │   │    └ <module 'mineru.cli.client' from '/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/mineru/cli/...
+2025-12-27 06:38:08,901 - raganything.parser - INFO - [MinerU] │   └ <built-in function exit>
+2025-12-27 06:38:08,901 - raganything.parser - INFO - [MinerU] └ <module 'sys' (built-in)>
+2025-12-27 06:38:08,901 - raganything.parser - INFO - [MinerU] File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/click/core.py", line 1161, in __call__
+2025-12-27 06:38:08,901 - raganything.parser - INFO - [MinerU] return self.main(*args, **kwargs)
+2025-12-27 06:38:08,901 - raganything.parser - INFO - [MinerU] │    │     │       └ {}
+2025-12-27 06:38:08,901 - raganything.parser - INFO - [MinerU] │    │     └ ()
+2025-12-27 06:38:08,901 - raganything.parser - INFO - [MinerU] │    └ <function BaseCommand.main at 0x105c05080>
+2025-12-27 06:38:08,901 - raganything.parser - INFO - [MinerU] └ <Command main>
+2025-12-27 06:38:08,901 - raganything.parser - INFO - [MinerU] File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/click/core.py", line 1082, in main
+2025-12-27 06:38:08,901 - raganything.parser - INFO - [MinerU] rv = self.invoke(ctx)
+2025-12-27 06:38:08,901 - raganything.parser - INFO - [MinerU] │    │      └ <click.core.Context object at 0x12b9c2900>
+2025-12-27 06:38:08,901 - raganything.parser - INFO - [MinerU] │    └ <function Command.invoke at 0x105c05c60>
+2025-12-27 06:38:08,901 - raganything.parser - INFO - [MinerU] └ <Command main>
+2025-12-27 06:38:08,901 - raganything.parser - INFO - [MinerU] File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/click/core.py", line 1443, in invoke
+2025-12-27 06:38:08,901 - raganything.parser - INFO - [MinerU] return ctx.invoke(self.callback, **ctx.params)
+2025-12-27 06:38:08,901 - raganything.parser - INFO - [MinerU] │   │      │    │           │   └ {'input_path': '/Users/mihirmodi/Downloads/140912-776415326_small.mp4', 'output_dir': 'rag_storage/140912_776415326_small_mp4...
+2025-12-27 06:38:08,901 - raganything.parser - INFO - [MinerU] │   │      │    │           └ <click.core.Context object at 0x12b9c2900>
+2025-12-27 06:38:08,901 - raganything.parser - INFO - [MinerU] │   │      │    └ <function main at 0x12ba737e0>
+2025-12-27 06:38:08,901 - raganything.parser - INFO - [MinerU] │   │      └ <Command main>
+2025-12-27 06:38:08,901 - raganything.parser - INFO - [MinerU] │   └ <function Context.invoke at 0x105c045e0>
+2025-12-27 06:38:08,901 - raganything.parser - INFO - [MinerU] └ <click.core.Context object at 0x12b9c2900>
+2025-12-27 06:38:08,901 - raganything.parser - INFO - [MinerU] File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/click/core.py", line 788, in invoke
+2025-12-27 06:38:08,901 - raganything.parser - INFO - [MinerU] return __callback(*args, **kwargs)
+2025-12-27 06:38:08,902 - raganything.parser - INFO - [MinerU] │       └ {'input_path': '/Users/mihirmodi/Downloads/140912-776415326_small.mp4', 'output_dir': 'rag_storage/140912_776415326_small_mp4...
+2025-12-27 06:38:08,902 - raganything.parser - INFO - [MinerU] └ ()
+2025-12-27 06:38:08,902 - raganything.parser - INFO - [MinerU] File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/click/decorators.py", line 33, in new_func
+2025-12-27 06:38:08,902 - raganything.parser - INFO - [MinerU] return f(get_current_context(), *args, **kwargs)
+2025-12-27 06:38:08,902 - raganything.parser - INFO - [MinerU] │ │                       │       └ {'input_path': '/Users/mihirmodi/Downloads/140912-776415326_small.mp4', 'output_dir': 'rag_storage/140912_776415326_small_mp4...
+2025-12-27 06:38:08,902 - raganything.parser - INFO - [MinerU] │ │                       └ ()
+2025-12-27 06:38:08,902 - raganything.parser - INFO - [MinerU] │ └ <function get_current_context at 0x105bcf880>
+2025-12-27 06:38:08,902 - raganything.parser - INFO - [MinerU] └ <function main at 0x12ba780e0>
+2025-12-27 06:38:08,902 - raganything.parser - INFO - [MinerU] File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/mineru/cli/client.py", line 209, in main
+2025-12-27 06:38:08,902 - raganything.parser - INFO - [MinerU] parse_doc([Path(input_path)])
+2025-12-27 06:38:08,902 - raganything.parser - INFO - [MinerU] │          │    └ '/Users/mihirmodi/Downloads/140912-776415326_small.mp4'
+2025-12-27 06:38:08,902 - raganything.parser - INFO - [MinerU] │          └ <class 'pathlib._local.Path'>
+2025-12-27 06:38:08,902 - raganything.parser - INFO - [MinerU] └ <function main.<locals>.parse_doc at 0x105065c60>
+2025-12-27 06:38:08,902 - raganything.parser - INFO - [MinerU] > File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/mineru/cli/client.py", line 181, in parse_doc
+2025-12-27 06:38:08,902 - raganything.parser - INFO - [MinerU] pdf_bytes = read_fn(path)
+2025-12-27 06:38:08,902 - raganything.parser - INFO - [MinerU] │       └ PosixPath('/Users/mihirmodi/Downloads/140912-776415326_small.mp4')
+2025-12-27 06:38:08,902 - raganything.parser - INFO - [MinerU] └ <function read_fn at 0x10f84dee0>
+2025-12-27 06:38:08,902 - raganything.parser - INFO - [MinerU] File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/site-packages/mineru/cli/common.py", line 33, in read_fn
+2025-12-27 06:38:08,902 - raganything.parser - INFO - [MinerU] raise Exception(f"Unknown file suffix: {path.suffix}")
+2025-12-27 06:38:08,902 - raganything.parser - INFO - [MinerU] │    └ <property object at 0x10500ede0>
+2025-12-27 06:38:08,902 - raganything.parser - INFO - [MinerU] └ PosixPath('/Users/mihirmodi/Downloads/140912-776415326_small.mp4')
+2025-12-27 06:38:08,902 - raganything.parser - INFO - [MinerU] Exception: Unknown file suffix: .mp4
+2025-12-27 06:38:09,322 - raganything.parser - INFO - [MinerU] Command executed failed
+2025-12-27 06:39:55,654 - nano-vectordb - INFO - Init {'embedding_dim': 4096, 'metric': 'cosine', 'storage_file': './rag_storage/140912_776415326_small_mp4/vdb_entities.json'} 0 data
+2025-12-27 06:39:55,654 - nano-vectordb - INFO - Init {'embedding_dim': 4096, 'metric': 'cosine', 'storage_file': './rag_storage/140912_776415326_small_mp4/vdb_relationships.json'} 0 data
+2025-12-27 06:39:55,654 - nano-vectordb - INFO - Init {'embedding_dim': 4096, 'metric': 'cosine', 'storage_file': './rag_storage/140912_776415326_small_mp4/vdb_chunks.json'} 0 data
+2025-12-27 06:39:55,657 - raganything.parser - INFO - Executing mineru command: mineru -p /Users/mihirmodi/Downloads/140912-776415326_small.mp4_frames/frame_0000.jpg -o rag_storage/140912_776415326_small_mp4/output -m ocr
+2025-12-27 06:39:55,664 - raganything.parser - INFO - Executing mineru command: mineru -p /Users/mihirmodi/Downloads/140912-776415326_small.mp4_frames/frame_0001.jpg -o rag_storage/140912_776415326_small_mp4/output -m ocr
+2025-12-27 06:39:55,668 - raganything.parser - INFO - Executing mineru command: mineru -p /Users/mihirmodi/Downloads/140912-776415326_small.mp4_frames/frame_0003.jpg -o rag_storage/140912_776415326_small_mp4/output -m ocr
+2025-12-27 06:39:55,675 - raganything.parser - INFO - Executing mineru command: mineru -p /Users/mihirmodi/Downloads/140912-776415326_small.mp4_frames/frame_0002.jpg -o rag_storage/140912_776415326_small_mp4/output -m ocr
+2025-12-27 06:39:58,682 - raganything.parser - WARNING - [MinerU] 2025-12-27 06:39:58.679 | WARNING  | mineru.backend.vlm.predictor:<module>:35 - sglang is not installed. If you are not using sglang, you can ignore this warning.
+2025-12-27 06:39:58,776 - raganything.parser - WARNING - [MinerU] 2025-12-27 06:39:58.679 | WARNING  | mineru.backend.vlm.predictor:<module>:35 - sglang is not installed. If you are not using sglang, you can ignore this warning.
+2025-12-27 06:39:58,778 - raganything.parser - WARNING - [MinerU] 2025-12-27 06:39:58.679 | WARNING  | mineru.backend.vlm.predictor:<module>:35 - sglang is not installed. If you are not using sglang, you can ignore this warning.
+2025-12-27 06:39:58,781 - raganything.parser - WARNING - [MinerU] 2025-12-27 06:39:58.680 | WARNING  | mineru.backend.vlm.predictor:<module>:35 - sglang is not installed. If you are not using sglang, you can ignore this warning.
+2025-12-27 06:40:01,786 - raganything.parser - INFO - [MinerU] 2025-12-27 06:40:01.782 | INFO     | mineru.backend.pipeline.pipeline_analyze:doc_analyze:125 - Batch 1/1: 1 pages/1 pages
+2025-12-27 06:40:01,786 - raganything.parser - INFO - [MinerU] 2025-12-27 06:40:01.783 | INFO     | mineru.backend.pipeline.model_init:__init__:192 - DocAnalysis init, this may take some times......
+2025-12-27 06:40:01,807 - raganything.parser - INFO - [MinerU] 2025-12-27 06:40:01.797 | INFO     | mineru.backend.pipeline.pipeline_analyze:doc_analyze:125 - Batch 1/1: 1 pages/1 pages
+2025-12-27 06:40:01,807 - raganything.parser - INFO - [MinerU] 2025-12-27 06:40:01.798 | INFO     | mineru.backend.pipeline.model_init:__init__:192 - DocAnalysis init, this may take some times......
+2025-12-27 06:40:01,879 - raganything.parser - INFO - [MinerU] 2025-12-27 06:40:01.783 | INFO     | mineru.backend.pipeline.pipeline_analyze:doc_analyze:125 - Batch 1/1: 1 pages/1 pages
+2025-12-27 06:40:01,879 - raganything.parser - INFO - [MinerU] 2025-12-27 06:40:01.784 | INFO     | mineru.backend.pipeline.model_init:__init__:192 - DocAnalysis init, this may take some times......
+2025-12-27 06:40:01,898 - raganything.parser - INFO - [MinerU] 2025-12-27 06:40:01.798 | INFO     | mineru.backend.pipeline.pipeline_analyze:doc_analyze:125 - Batch 1/1: 1 pages/1 pages
+2025-12-27 06:40:01,898 - raganything.parser - INFO - [MinerU] 2025-12-27 06:40:01.799 | INFO     | mineru.backend.pipeline.model_init:__init__:192 - DocAnalysis init, this may take some times......
+2025-12-27 06:40:02,603 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:40:02,603 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 10305.42it/s]
+2025-12-27 06:40:02,618 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:40:02,618 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 5461.33it/s]
+2025-12-27 06:40:02,621 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:40:02,621 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 2841.67it/s]
+2025-12-27 06:40:02,642 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:40:02,642 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 8256.50it/s]
+2025-12-27 06:40:03,719 - raganything.parser - INFO - [MinerU] Fetching 7 files:   0%|          | 0/7 [00:00<?, ?it/s]
+2025-12-27 06:40:03,720 - raganything.parser - INFO - [MinerU] Fetching 7 files: 100%|██████████| 7/7 [00:00<00:00, 19239.93it/s]
+2025-12-27 06:40:03,741 - raganything.parser - INFO - [MinerU] Fetching 7 files:   0%|          | 0/7 [00:00<?, ?it/s]
+2025-12-27 06:40:03,741 - raganything.parser - INFO - [MinerU] Fetching 7 files:   0%|          | 0/7 [00:00<?, ?it/s]
+2025-12-27 06:40:03,741 - raganything.parser - INFO - [MinerU] Fetching 7 files: 100%|██████████| 7/7 [00:00<00:00, 5267.34it/s]
+2025-12-27 06:40:03,741 - raganything.parser - INFO - [MinerU] Fetching 7 files: 100%|██████████| 7/7 [00:00<00:00, 17079.77it/s]
+2025-12-27 06:40:03,778 - raganything.parser - INFO - [MinerU] Fetching 7 files:   0%|          | 0/7 [00:00<?, ?it/s]
+2025-12-27 06:40:03,779 - raganything.parser - INFO - [MinerU] Fetching 7 files: 100%|██████████| 7/7 [00:00<00:00, 18570.61it/s]
+2025-12-27 06:40:19,851 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:40:19,855 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:40:19,855 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:40:19,855 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:40:19,856 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 966.21it/s]
+2025-12-27 06:40:19,856 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 3521.67it/s]
+2025-12-27 06:40:19,856 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 1165.41it/s]
+2025-12-27 06:40:19,856 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 3715.06it/s]
+2025-12-27 06:40:20,676 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:40:20,676 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:40:20,676 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 14926.35it/s]
+2025-12-27 06:40:20,676 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:40:20,676 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 9078.58it/s]
+2025-12-27 06:40:20,676 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 2777.68it/s]
+2025-12-27 06:40:20,678 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:40:20,678 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 41527.76it/s]
+2025-12-27 06:40:20,880 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:40:20,880 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 16384.00it/s]
+2025-12-27 06:40:20,885 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:40:20,885 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 14873.42it/s]
+2025-12-27 06:40:20,886 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:40:20,886 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 5745.62it/s]
+2025-12-27 06:40:20,985 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:40:20,985 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 18236.10it/s]
+2025-12-27 06:40:22,963 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:40:22,964 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 20763.88it/s]
+2025-12-27 06:40:23,056 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:40:23,056 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 19239.93it/s]
+2025-12-27 06:40:23,061 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:40:23,061 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 6141.00it/s]
+2025-12-27 06:40:23,468 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:40:23,469 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 13148.29it/s]
+2025-12-27 06:40:23,477 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:40:23,477 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 15141.89it/s]
+2025-12-27 06:40:23,481 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:40:23,481 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 12826.62it/s]
+2025-12-27 06:40:23,485 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:40:23,485 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 13486.51it/s]
+2025-12-27 06:40:24,001 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:40:24,001 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 13148.29it/s]
+2025-12-27 06:40:24,923 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:40:24,923 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 10205.12it/s]
+2025-12-27 06:40:24,942 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:40:24,942 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 26886.56it/s]
+2025-12-27 06:40:25,125 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:40:25,125 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 30174.85it/s]
+2025-12-27 06:40:25,257 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:40:25,257 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 4766.25it/s]
+2025-12-27 06:40:25,437 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:40:25,437 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 4650.00it/s]
+2025-12-27 06:40:25,552 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:40:25,552 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 14217.98it/s]
+2025-12-27 06:40:25,744 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:40:25,745 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 3269.14it/s]
+2025-12-27 06:40:25,765 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:40:25,765 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 5849.80it/s]
+2025-12-27 06:40:25,867 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:40:25,867 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 3116.12it/s]
+2025-12-27 06:40:25,879 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:40:25,879 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 5077.85it/s]
+2025-12-27 06:40:25,955 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:40:25,955 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 10180.35it/s]
+2025-12-27 06:40:26,180 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:40:26,180 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 8612.53it/s]
+2025-12-27 06:40:26,388 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:40:26,389 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 19691.57it/s]
+2025-12-27 06:40:26,405 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:40:26,405 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 13148.29it/s]
+2025-12-27 06:40:26,495 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:40:26,495 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 6462.72it/s]
+2025-12-27 06:40:26,593 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:40:26,593 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 8701.88it/s]
+2025-12-27 06:40:26,612 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:40:26,612 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 11096.04it/s]
+2025-12-27 06:40:26,689 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:40:26,689 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 33554.43it/s]
+2025-12-27 06:40:26,810 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:40:26,810 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 17476.27it/s]
+2025-12-27 06:40:27,017 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:40:27,017 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 45590.26it/s]
+2025-12-27 06:40:28,130 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:40:28,133 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 17476.27it/s]
+2025-12-27 06:40:28,133 - raganything.parser - INFO - [MinerU] 2025-12-27 06:40:28.092 | INFO     | mineru.backend.pipeline.model_init:__init__:248 - DocAnalysis init done!
+2025-12-27 06:40:28,133 - raganything.parser - INFO - [MinerU] 2025-12-27 06:40:28.093 | INFO     | mineru.backend.pipeline.pipeline_analyze:custom_model_init:65 - model init cost: 26.294585943222046
+2025-12-27 06:40:28,351 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:40:28,351 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 22192.08it/s]
+2025-12-27 06:40:28,351 - raganything.parser - INFO - [MinerU] 2025-12-27 06:40:28.330 | INFO     | mineru.backend.pipeline.model_init:__init__:248 - DocAnalysis init done!
+2025-12-27 06:40:28,351 - raganything.parser - INFO - [MinerU] 2025-12-27 06:40:28.330 | INFO     | mineru.backend.pipeline.pipeline_analyze:custom_model_init:65 - model init cost: 26.546486139297485
+2025-12-27 06:40:28,471 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:40:28,471 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 9078.58it/s]
+2025-12-27 06:40:28,578 - raganything.parser - INFO - [MinerU] 2025-12-27 06:40:28.524 | INFO     | mineru.backend.pipeline.model_init:__init__:248 - DocAnalysis init done!
+2025-12-27 06:40:28,578 - raganything.parser - INFO - [MinerU] 2025-12-27 06:40:28.530 | INFO     | mineru.backend.pipeline.pipeline_analyze:custom_model_init:65 - model init cost: 26.747534036636353
+2025-12-27 06:40:28,879 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:40:28,879 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 12633.45it/s]
+2025-12-27 06:40:28,879 - raganything.parser - INFO - [MinerU] 2025-12-27 06:40:28.818 | INFO     | mineru.backend.pipeline.model_init:__init__:248 - DocAnalysis init done!
+2025-12-27 06:40:28,879 - raganything.parser - INFO - [MinerU] 2025-12-27 06:40:28.818 | INFO     | mineru.backend.pipeline.pipeline_analyze:custom_model_init:65 - model init cost: 27.019296884536743
+2025-12-27 06:40:40,166 - raganything.parser - INFO - [MinerU] Layout Predict:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:40:40,168 - raganything.parser - INFO - [MinerU] Layout Predict: 100%|██████████| 1/1 [00:11<00:00, 11.74s/it]
+2025-12-27 06:40:40,168 - raganything.parser - INFO - [MinerU] Layout Predict: 100%|██████████| 1/1 [00:11<00:00, 11.75s/it]
+2025-12-27 06:40:40,168 - raganything.parser - INFO - [MinerU] Layout Predict:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:40:40,168 - raganything.parser - INFO - [MinerU] Layout Predict:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:40:40,168 - raganything.parser - INFO - [MinerU] Layout Predict: 100%|██████████| 1/1 [00:12<00:00, 12.00s/it]
+2025-12-27 06:40:40,168 - raganything.parser - INFO - [MinerU] Layout Predict: 100%|██████████| 1/1 [00:11<00:00, 11.25s/it]
+2025-12-27 06:40:40,168 - raganything.parser - INFO - [MinerU] Layout Predict: 100%|██████████| 1/1 [00:12<00:00, 12.00s/it]
+2025-12-27 06:40:40,169 - raganything.parser - INFO - [MinerU] Layout Predict: 100%|██████████| 1/1 [00:11<00:00, 11.25s/it]
+2025-12-27 06:40:40,191 - raganything.parser - INFO - [MinerU] Layout Predict:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:40:40,191 - raganything.parser - INFO - [MinerU] Layout Predict: 100%|██████████| 1/1 [00:11<00:00, 11.54s/it]
+2025-12-27 06:40:40,191 - raganything.parser - INFO - [MinerU] Layout Predict: 100%|██████████| 1/1 [00:11<00:00, 11.54s/it]
+2025-12-27 06:41:07,575 - raganything.parser - INFO - [MinerU] MFD Predict:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:41:07,610 - raganything.parser - INFO - [MinerU] MFD Predict: 100%|██████████| 1/1 [00:27<00:00, 27.39s/it]
+2025-12-27 06:41:07,614 - raganything.parser - INFO - [MinerU] MFD Predict: 100%|██████████| 1/1 [00:27<00:00, 27.40s/it]
+2025-12-27 06:41:07,824 - raganything.parser - INFO - [MinerU] MFR Predict: 0it [00:00, ?it/s]
+2025-12-27 06:41:07,824 - raganything.parser - INFO - [MinerU] MFR Predict: 0it [00:00, ?it/s]
+2025-12-27 06:41:07,924 - raganything.parser - INFO - [MinerU] Table-ocr det: 0it [00:00, ?it/s]
+2025-12-27 06:41:07,924 - raganything.parser - INFO - [MinerU] Table-ocr det: 0it [00:00, ?it/s]
+2025-12-27 06:41:07,924 - raganything.parser - INFO - [MinerU] Table-wireless Predict: 0it [00:00, ?it/s]
+2025-12-27 06:41:07,925 - raganything.parser - INFO - [MinerU] Table-wireless Predict: 0it [00:00, ?it/s]
+2025-12-27 06:41:08,342 - raganything.parser - INFO - [MinerU] OCR-det Predict:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:41:08,342 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s][A
+2025-12-27 06:41:08,342 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 198.90it/s]
+2025-12-27 06:41:08,654 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s][A
+2025-12-27 06:41:08,656 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 12671.61it/s]
+2025-12-27 06:41:10,137 - raganything.parser - INFO - [MinerU] MFD Predict:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:41:10,139 - raganything.parser - INFO - [MinerU] MFD Predict: 100%|██████████| 1/1 [00:29<00:00, 30.00s/it]
+2025-12-27 06:41:10,139 - raganything.parser - INFO - [MinerU] MFD Predict: 100%|██████████| 1/1 [00:30<00:00, 30.00s/it]
+2025-12-27 06:41:15,362 - raganything.parser - INFO - [MinerU] OCR-det Predict: 100%|██████████| 1/1 [00:07<00:00,  7.51s/it]
+2025-12-27 06:41:15,364 - raganything.parser - INFO - [MinerU] OCR-det Predict: 100%|██████████| 1/1 [00:07<00:00,  7.52s/it]
+2025-12-27 06:41:15,990 - raganything.parser - INFO - [MinerU] OCR-rec Predict:   0%|          | 0/2 [00:00<?, ?it/s]
+2025-12-27 06:41:15,990 - raganything.parser - INFO - [MinerU] OCR-rec Predict: 100%|██████████| 2/2 [00:00<00:00,  3.58it/s]
+2025-12-27 06:41:15,990 - raganything.parser - INFO - [MinerU] OCR-rec Predict: 100%|██████████| 2/2 [00:00<00:00,  3.57it/s]
+2025-12-27 06:41:19,513 - raganything.parser - INFO - [MinerU] Processing pages:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:41:19,514 - raganything.parser - INFO - [MinerU] Fetching 2 files:   0%|          | 0/2 [00:00<?, ?it/s][A
+2025-12-27 06:41:19,514 - raganything.parser - INFO - [MinerU] Fetching 2 files: 100%|██████████| 2/2 [00:00<00:00, 1092.27it/s]
+2025-12-27 06:41:20,163 - raganything.parser - INFO - [MinerU] MFD Predict:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:41:20,163 - raganything.parser - INFO - [MinerU] MFD Predict: 100%|██████████| 1/1 [00:40<00:00, 40.05s/it]
+2025-12-27 06:41:20,163 - raganything.parser - INFO - [MinerU] MFD Predict: 100%|██████████| 1/1 [00:40<00:00, 40.06s/it]
+2025-12-27 06:41:20,469 - raganything.parser - INFO - [MinerU] MFR Predict: 0it [00:00, ?it/s]
+2025-12-27 06:41:20,470 - raganything.parser - INFO - [MinerU] MFR Predict: 0it [00:00, ?it/s]
+2025-12-27 06:41:20,570 - raganything.parser - INFO - [MinerU] Table-ocr det: 0it [00:00, ?it/s]
+2025-12-27 06:41:20,570 - raganything.parser - INFO - [MinerU] Table-ocr det: 0it [00:00, ?it/s]
+2025-12-27 06:41:20,570 - raganything.parser - INFO - [MinerU] Table-wireless Predict: 0it [00:00, ?it/s]
+2025-12-27 06:41:20,570 - raganything.parser - INFO - [MinerU] Table-wireless Predict: 0it [00:00, ?it/s]
+2025-12-27 06:41:21,400 - raganything.parser - INFO - [MinerU] OCR-det Predict:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:41:21,400 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s][A
+2025-12-27 06:41:21,400 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 56.87it/s]
+2025-12-27 06:41:21,811 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s][A
+2025-12-27 06:41:21,811 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 4739.33it/s]
+2025-12-27 06:41:27,511 - raganything.parser - INFO - [MinerU] MFR Predict:   0%|          | 0/3 [00:00<?, ?it/s]
+2025-12-27 06:41:37,160 - raganything.parser - INFO - [MinerU] OCR-det Predict: 100%|██████████| 1/1 [00:16<00:00, 16.56s/it]
+2025-12-27 06:41:37,182 - raganything.parser - INFO - [MinerU] OCR-det Predict: 100%|██████████| 1/1 [00:16<00:00, 16.58s/it]
+2025-12-27 06:41:37,864 - raganything.parser - INFO - [MinerU] Processing pages: 100%|██████████| 1/1 [00:18<00:00, 18.78s/it]
+2025-12-27 06:41:37,865 - raganything.parser - INFO - [MinerU] Processing pages: 100%|██████████| 1/1 [00:18<00:00, 18.78s/it]
+2025-12-27 06:41:38,001 - raganything.parser - INFO - [MinerU] OCR-rec Predict:   0%|          | 0/2 [00:00<?, ?it/s]
+2025-12-27 06:41:38,001 - raganything.parser - INFO - [MinerU] OCR-rec Predict: 100%|██████████| 2/2 [00:00<00:00,  2.31it/s]
+2025-12-27 06:41:38,002 - raganything.parser - INFO - [MinerU] OCR-rec Predict: 100%|██████████| 2/2 [00:00<00:00,  2.31it/s]
+2025-12-27 06:41:38,589 - raganything.parser - INFO - [MinerU] 2025-12-27 06:41:38.531 | INFO     | mineru.cli.common:_process_output:160 - local output dir is rag_storage/140912_776415326_small_mp4/output/frame_0000/ocr
+2025-12-27 06:41:38,829 - raganything.parser - INFO - [MinerU] MFD Predict:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:41:38,829 - raganything.parser - INFO - [MinerU] MFD Predict: 100%|██████████| 1/1 [00:58<00:00, 58.65s/it]
+2025-12-27 06:41:38,829 - raganything.parser - INFO - [MinerU] MFD Predict: 100%|██████████| 1/1 [00:58<00:00, 58.72s/it]
+2025-12-27 06:41:44,118 - raganything.parser - INFO - [MinerU] MFR Predict:  67%|██████▋   | 2/3 [00:17<00:08,  8.61s/it]
+2025-12-27 06:41:44,119 - raganything.parser - INFO - [MinerU] MFR Predict: 100%|██████████| 3/3 [00:33<00:00, 11.97s/it]
+2025-12-27 06:41:44,119 - raganything.parser - INFO - [MinerU] MFR Predict: 100%|██████████| 3/3 [00:33<00:00, 11.31s/it]
+2025-12-27 06:41:44,224 - raganything.parser - INFO - [MinerU] Table-ocr det: 0it [00:00, ?it/s]
+2025-12-27 06:41:44,224 - raganything.parser - INFO - [MinerU] Table-ocr det: 0it [00:00, ?it/s]
+2025-12-27 06:41:44,326 - raganything.parser - INFO - [MinerU] Table-wireless Predict: 0it [00:00, ?it/s]
+2025-12-27 06:41:44,326 - raganything.parser - INFO - [MinerU] Table-wireless Predict: 0it [00:00, ?it/s]
+2025-12-27 06:41:44,667 - raganything.parser - INFO - [MinerU] Processing pages:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:41:44,667 - raganything.parser - INFO - [MinerU] Fetching 2 files:   0%|          | 0/2 [00:00<?, ?it/s][A
+2025-12-27 06:41:44,667 - raganything.parser - INFO - [MinerU] Fetching 2 files: 100%|██████████| 2/2 [00:00<00:00, 68759.08it/s]
+2025-12-27 06:41:44,952 - raganything.parser - INFO - [MinerU] OCR-det Predict:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:41:45,057 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s][A
+2025-12-27 06:41:45,057 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 82.67it/s]
+2025-12-27 06:41:45,368 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s][A
+2025-12-27 06:41:45,368 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 13357.66it/s]
+2025-12-27 06:41:49,060 - raganything.parser - INFO - [MinerU] Command executed successfully
+2025-12-27 06:41:49,244 - raganything.parser - INFO - Fixing image paths in rag_storage/140912_776415326_small_mp4/output/frame_0000/ocr/frame_0000_content_list.json with base directory: rag_storage/140912_776415326_small_mp4/output/frame_0000/ocr
+2025-12-27 06:41:49,668 - raganything.parser - INFO - [MinerU] Processing pages: 100%|██████████| 1/1 [00:05<00:00,  5.85s/it]
+2025-12-27 06:41:49,669 - raganything.parser - INFO - [MinerU] Processing pages: 100%|██████████| 1/1 [00:05<00:00,  5.85s/it]
+2025-12-27 06:41:49,669 - raganything.parser - INFO - [MinerU] 2025-12-27 06:41:49.622 | INFO     | mineru.cli.common:_process_output:160 - local output dir is rag_storage/140912_776415326_small_mp4/output/frame_0002/ocr
+2025-12-27 06:41:51,870 - raganything.parser - INFO - [MinerU] Command executed successfully
+2025-12-27 06:41:51,872 - raganything.parser - INFO - Fixing image paths in rag_storage/140912_776415326_small_mp4/output/frame_0002/ocr/frame_0002_content_list.json with base directory: rag_storage/140912_776415326_small_mp4/output/frame_0002/ocr
+2025-12-27 06:41:52,650 - raganything.parser - INFO - [MinerU] MFR Predict:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:41:52,650 - raganything.parser - INFO - [MinerU] MFR Predict: 100%|██████████| 1/1 [00:13<00:00, 13.53s/it]
+2025-12-27 06:41:52,650 - raganything.parser - INFO - [MinerU] MFR Predict: 100%|██████████| 1/1 [00:13<00:00, 13.53s/it]
+2025-12-27 06:41:52,650 - raganything.parser - INFO - [MinerU] Table-ocr det: 0it [00:00, ?it/s]
+2025-12-27 06:41:52,650 - raganything.parser - INFO - [MinerU] Table-ocr det: 0it [00:00, ?it/s]
+2025-12-27 06:41:52,650 - raganything.parser - INFO - [MinerU] Table-wireless Predict: 0it [00:00, ?it/s]
+2025-12-27 06:41:52,650 - raganything.parser - INFO - [MinerU] Table-wireless Predict: 0it [00:00, ?it/s]
+2025-12-27 06:41:53,162 - raganything.parser - INFO - [MinerU] OCR-det Predict:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:41:53,162 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s][A
+2025-12-27 06:41:53,162 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 20971.52it/s]
+2025-12-27 06:41:53,473 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s][A
+2025-12-27 06:41:53,473 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 19972.88it/s]
+2025-12-27 06:41:57,650 - raganything.parser - INFO - [MinerU] OCR-det Predict: 100%|██████████| 1/1 [00:04<00:00,  4.96s/it]
+2025-12-27 06:41:57,650 - raganything.parser - INFO - [MinerU] OCR-det Predict: 100%|██████████| 1/1 [00:04<00:00,  4.96s/it]
+2025-12-27 06:41:59,519 - raganything.parser - INFO - [MinerU] Processing pages:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:41:59,519 - raganything.parser - INFO - [MinerU] Fetching 2 files:   0%|          | 0/2 [00:00<?, ?it/s][A
+2025-12-27 06:41:59,519 - raganything.parser - INFO - [MinerU] Fetching 2 files: 100%|██████████| 2/2 [00:00<00:00, 79891.50it/s]
+2025-12-27 06:42:00,353 - raganything.parser - INFO - [MinerU] Processing pages: 100%|██████████| 1/1 [00:01<00:00,  1.17s/it]
+2025-12-27 06:42:00,353 - raganything.parser - INFO - [MinerU] Processing pages: 100%|██████████| 1/1 [00:01<00:00,  1.17s/it]
+2025-12-27 06:42:00,353 - raganything.parser - INFO - [MinerU] 2025-12-27 06:42:00.332 | INFO     | mineru.cli.common:_process_output:160 - local output dir is rag_storage/140912_776415326_small_mp4/output/frame_0003/ocr
+2025-12-27 06:42:02,120 - raganything.parser - INFO - [MinerU] Command executed successfully
+2025-12-27 06:42:02,121 - raganything.parser - INFO - Fixing image paths in rag_storage/140912_776415326_small_mp4/output/frame_0003/ocr/frame_0003_content_list.json with base directory: rag_storage/140912_776415326_small_mp4/output/frame_0003/ocr
+2025-12-27 06:42:04,577 - raganything.parser - INFO - [MinerU] OCR-det Predict: 100%|██████████| 1/1 [00:20<00:00, 20.28s/it]
+2025-12-27 06:42:04,577 - raganything.parser - INFO - [MinerU] OCR-det Predict: 100%|██████████| 1/1 [00:20<00:00, 20.28s/it]
+2025-12-27 06:42:05,823 - raganything.parser - INFO - [MinerU] Processing pages:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:42:05,823 - raganything.parser - INFO - [MinerU] Fetching 2 files:   0%|          | 0/2 [00:00<?, ?it/s][A
+2025-12-27 06:42:05,823 - raganything.parser - INFO - [MinerU] Fetching 2 files: 100%|██████████| 2/2 [00:00<00:00, 27685.17it/s]
+2025-12-27 06:42:06,549 - raganything.parser - INFO - [MinerU] Processing pages: 100%|██████████| 1/1 [00:01<00:00,  1.17s/it]
+2025-12-27 06:42:06,558 - raganything.parser - INFO - [MinerU] Processing pages: 100%|██████████| 1/1 [00:01<00:00,  1.17s/it]
+2025-12-27 06:42:06,574 - raganything.parser - INFO - [MinerU] 2025-12-27 06:42:06.538 | INFO     | mineru.cli.common:_process_output:160 - local output dir is rag_storage/140912_776415326_small_mp4/output/frame_0001/ocr
+2025-12-27 06:42:07,356 - raganything.parser - INFO - Executing mineru command: mineru -p /Users/mihirmodi/Downloads/140912-776415326_small.mp4_frames/frame_0005.jpg -o rag_storage/140912_776415326_small_mp4/output -m ocr
+2025-12-27 06:42:08,138 - raganything.parser - INFO - [MinerU] Command executed successfully
+2025-12-27 06:42:08,138 - raganything.parser - INFO - Fixing image paths in rag_storage/140912_776415326_small_mp4/output/frame_0001/ocr/frame_0001_content_list.json with base directory: rag_storage/140912_776415326_small_mp4/output/frame_0001/ocr
+2025-12-27 06:42:10,907 - raganything.parser - WARNING - [MinerU] 2025-12-27 06:42:10.883 | WARNING  | mineru.backend.vlm.predictor:<module>:35 - sglang is not installed. If you are not using sglang, you can ignore this warning.
+2025-12-27 06:42:12,450 - raganything.parser - INFO - [MinerU] 2025-12-27 06:42:12.393 | INFO     | mineru.backend.pipeline.pipeline_analyze:doc_analyze:125 - Batch 1/1: 1 pages/1 pages
+2025-12-27 06:42:12,450 - raganything.parser - INFO - [MinerU] 2025-12-27 06:42:12.393 | INFO     | mineru.backend.pipeline.model_init:__init__:192 - DocAnalysis init, this may take some times......
+2025-12-27 06:42:12,968 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:42:12,968 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 5691.05it/s]
+2025-12-27 06:42:13,599 - raganything.parser - INFO - [MinerU] Fetching 7 files:   0%|          | 0/7 [00:00<?, ?it/s]
+2025-12-27 06:42:13,599 - raganything.parser - INFO - [MinerU] Fetching 7 files: 100%|██████████| 7/7 [00:00<00:00, 61941.20it/s]
+2025-12-27 06:42:15,257 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:42:15,257 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 2216.86it/s]
+2025-12-27 06:42:15,663 - raganything.parser - INFO - Executing mineru command: mineru -p /Users/mihirmodi/Downloads/140912-776415326_small.mp4_frames/frame_0004.jpg -o rag_storage/140912_776415326_small_mp4/output -m ocr
+2025-12-27 06:42:15,776 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:42:15,776 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 21732.15it/s]
+2025-12-27 06:42:15,985 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:42:15,985 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 6990.51it/s]
+2025-12-27 06:42:17,238 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:42:17,238 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 7358.43it/s]
+2025-12-27 06:42:17,554 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:42:17,554 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 7294.44it/s]
+2025-12-27 06:42:17,848 - raganything.parser - WARNING - [MinerU] 2025-12-27 06:42:17.838 | WARNING  | mineru.backend.vlm.predictor:<module>:35 - sglang is not installed. If you are not using sglang, you can ignore this warning.
+2025-12-27 06:42:18,695 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:42:18,695 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 6288.31it/s]
+2025-12-27 06:42:18,995 - raganything.parser - INFO - [MinerU] 2025-12-27 06:42:18.893 | INFO     | mineru.backend.pipeline.pipeline_analyze:doc_analyze:125 - Batch 1/1: 1 pages/1 pages
+2025-12-27 06:42:18,995 - raganything.parser - INFO - [MinerU] 2025-12-27 06:42:18.894 | INFO     | mineru.backend.pipeline.model_init:__init__:192 - DocAnalysis init, this may take some times......
+2025-12-27 06:42:19,011 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:42:19,011 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 18893.26it/s]
+2025-12-27 06:42:19,306 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:42:19,306 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 4048.56it/s]
+2025-12-27 06:42:19,325 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:42:19,325 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 11881.88it/s]
+2025-12-27 06:42:19,636 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:42:19,636 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 19972.88it/s]
+2025-12-27 06:42:19,827 - raganything.parser - INFO - [MinerU] Fetching 7 files:   0%|          | 0/7 [00:00<?, ?it/s]
+2025-12-27 06:42:19,827 - raganything.parser - INFO - [MinerU] Fetching 7 files: 100%|██████████| 7/7 [00:00<00:00, 14614.30it/s]
+2025-12-27 06:42:19,846 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:42:19,846 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 14926.35it/s]
+2025-12-27 06:42:20,762 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:42:20,762 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 18808.54it/s]
+2025-12-27 06:42:20,995 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:42:20,995 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 17331.83it/s]
+2025-12-27 06:42:20,996 - raganything.parser - INFO - [MinerU] 2025-12-27 06:42:20.911 | INFO     | mineru.backend.pipeline.model_init:__init__:248 - DocAnalysis init done!
+2025-12-27 06:42:20,996 - raganything.parser - INFO - [MinerU] 2025-12-27 06:42:20.911 | INFO     | mineru.backend.pipeline.pipeline_analyze:custom_model_init:65 - model init cost: 8.517699956893921
+2025-12-27 06:42:21,272 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:42:21,272 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 22671.91it/s]
+2025-12-27 06:42:21,587 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:42:21,587 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 6797.90it/s]
+2025-12-27 06:42:22,024 - raganything.parser - INFO - [MinerU] Layout Predict:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:42:22,024 - raganything.parser - INFO - [MinerU] Layout Predict: 100%|██████████| 1/1 [00:01<00:00,  1.06s/it]
+2025-12-27 06:42:22,024 - raganything.parser - INFO - [MinerU] Layout Predict: 100%|██████████| 1/1 [00:01<00:00,  1.06s/it]
+2025-12-27 06:42:22,928 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:42:22,929 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 15363.75it/s]
+2025-12-27 06:42:23,243 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:42:23,243 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 18477.11it/s]
+2025-12-27 06:42:23,574 - raganything.parser - INFO - [MinerU] MFD Predict:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:42:23,574 - raganything.parser - INFO - [MinerU] MFD Predict: 100%|██████████| 1/1 [00:01<00:00,  1.51s/it]
+2025-12-27 06:42:23,574 - raganything.parser - INFO - [MinerU] MFD Predict: 100%|██████████| 1/1 [00:01<00:00,  1.51s/it]
+2025-12-27 06:42:23,574 - raganything.parser - INFO - [MinerU] MFR Predict: 0it [00:00, ?it/s]
+2025-12-27 06:42:23,574 - raganything.parser - INFO - [MinerU] MFR Predict: 0it [00:00, ?it/s]
+2025-12-27 06:42:23,574 - raganything.parser - INFO - [MinerU] Table-ocr det: 0it [00:00, ?it/s]
+2025-12-27 06:42:23,574 - raganything.parser - INFO - [MinerU] Table-ocr det: 0it [00:00, ?it/s]
+2025-12-27 06:42:23,574 - raganything.parser - INFO - [MinerU] Table-wireless Predict: 0it [00:00, ?it/s]
+2025-12-27 06:42:23,574 - raganything.parser - INFO - [MinerU] Table-wireless Predict: 0it [00:00, ?it/s]
+2025-12-27 06:42:23,780 - raganything.parser - INFO - [MinerU] OCR-det Predict:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:42:23,780 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s][A
+2025-12-27 06:42:23,780 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 7049.25it/s]
+2025-12-27 06:42:24,092 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s][A
+2025-12-27 06:42:24,092 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 6710.89it/s]
+2025-12-27 06:42:24,394 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:42:24,394 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 7256.58it/s]
+2025-12-27 06:42:24,704 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:42:24,705 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 34663.67it/s]
+2025-12-27 06:42:25,012 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:42:25,012 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 45590.26it/s]
+2025-12-27 06:42:25,212 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:42:25,212 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 22429.43it/s]
+2025-12-27 06:42:25,520 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:42:25,520 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 20460.02it/s]
+2025-12-27 06:42:25,644 - raganything.parser - INFO - [MinerU] OCR-det Predict: 100%|██████████| 1/1 [00:02<00:00,  2.11s/it]
+2025-12-27 06:42:25,644 - raganything.parser - INFO - [MinerU] OCR-det Predict: 100%|██████████| 1/1 [00:02<00:00,  2.11s/it]
+2025-12-27 06:42:26,061 - raganything.parser - INFO - [MinerU] OCR-rec Predict:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:42:26,062 - raganything.parser - INFO - [MinerU] OCR-rec Predict: 100%|██████████| 1/1 [00:00<00:00,  2.79it/s]
+2025-12-27 06:42:26,062 - raganything.parser - INFO - [MinerU] OCR-rec Predict: 100%|██████████| 1/1 [00:00<00:00,  2.79it/s]
+2025-12-27 06:42:26,465 - raganything.parser - INFO - [MinerU] Processing pages:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:42:26,465 - raganything.parser - INFO - [MinerU] Fetching 2 files:   0%|          | 0/2 [00:00<?, ?it/s][A
+2025-12-27 06:42:26,465 - raganything.parser - INFO - [MinerU] Fetching 2 files: 100%|██████████| 2/2 [00:00<00:00, 14820.86it/s]
+2025-12-27 06:42:26,555 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:42:26,556 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 18236.10it/s]
+2025-12-27 06:42:26,556 - raganything.parser - INFO - [MinerU] 2025-12-27 06:42:26.545 | INFO     | mineru.backend.pipeline.model_init:__init__:248 - DocAnalysis init done!
+2025-12-27 06:42:26,556 - raganything.parser - INFO - [MinerU] 2025-12-27 06:42:26.545 | INFO     | mineru.backend.pipeline.pipeline_analyze:custom_model_init:65 - model init cost: 7.651350021362305
+2025-12-27 06:42:28,669 - raganything.parser - INFO - [MinerU] Layout Predict:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:42:28,669 - raganything.parser - INFO - [MinerU] Layout Predict: 100%|██████████| 1/1 [00:02<00:00,  2.05s/it]
+2025-12-27 06:42:28,669 - raganything.parser - INFO - [MinerU] Layout Predict: 100%|██████████| 1/1 [00:02<00:00,  2.05s/it]
+2025-12-27 06:42:29,190 - raganything.parser - INFO - [MinerU] Processing pages: 100%|██████████| 1/1 [00:03<00:00,  3.06s/it]
+2025-12-27 06:42:29,190 - raganything.parser - INFO - [MinerU] Processing pages: 100%|██████████| 1/1 [00:03<00:00,  3.06s/it]
+2025-12-27 06:42:29,293 - raganything.parser - INFO - [MinerU] 2025-12-27 06:42:29.213 | INFO     | mineru.cli.common:_process_output:160 - local output dir is rag_storage/140912_776415326_small_mp4/output/frame_0005/ocr
+2025-12-27 06:42:30,328 - raganything.parser - INFO - [MinerU] MFD Predict:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:42:30,328 - raganything.parser - INFO - [MinerU] MFD Predict: 100%|██████████| 1/1 [00:01<00:00,  1.64s/it]
+2025-12-27 06:42:30,328 - raganything.parser - INFO - [MinerU] MFD Predict: 100%|██████████| 1/1 [00:01<00:00,  1.64s/it]
+2025-12-27 06:42:30,328 - raganything.parser - INFO - [MinerU] MFR Predict: 0it [00:00, ?it/s]
+2025-12-27 06:42:30,328 - raganything.parser - INFO - [MinerU] MFR Predict: 0it [00:00, ?it/s]
+2025-12-27 06:42:30,328 - raganything.parser - INFO - [MinerU] Table-ocr det: 0it [00:00, ?it/s]
+2025-12-27 06:42:30,328 - raganything.parser - INFO - [MinerU] Table-ocr det: 0it [00:00, ?it/s]
+2025-12-27 06:42:30,328 - raganything.parser - INFO - [MinerU] Table-wireless Predict: 0it [00:00, ?it/s]
+2025-12-27 06:42:30,328 - raganything.parser - INFO - [MinerU] Table-wireless Predict: 0it [00:00, ?it/s]
+2025-12-27 06:42:30,534 - raganything.parser - INFO - [MinerU] Command executed successfully
+2025-12-27 06:42:30,534 - raganything.parser - INFO - Fixing image paths in rag_storage/140912_776415326_small_mp4/output/frame_0005/ocr/frame_0005_content_list.json with base directory: rag_storage/140912_776415326_small_mp4/output/frame_0005/ocr
+2025-12-27 06:42:30,638 - raganything.parser - INFO - [MinerU] OCR-det Predict:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:42:30,639 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s][A
+2025-12-27 06:42:30,639 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 5683.34it/s]
+2025-12-27 06:42:30,845 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s][A
+2025-12-27 06:42:30,845 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 10538.45it/s]
+2025-12-27 06:42:32,406 - raganything.parser - INFO - [MinerU] OCR-det Predict: 100%|██████████| 1/1 [00:02<00:00,  2.11s/it]
+2025-12-27 06:42:32,407 - raganything.parser - INFO - [MinerU] OCR-det Predict: 100%|██████████| 1/1 [00:02<00:00,  2.11s/it]
+2025-12-27 06:42:33,023 - raganything.parser - INFO - [MinerU] OCR-rec Predict:   0%|          | 0/2 [00:00<?, ?it/s]
+2025-12-27 06:42:33,023 - raganything.parser - INFO - [MinerU] OCR-rec Predict: 100%|██████████| 2/2 [00:00<00:00,  3.09it/s]
+2025-12-27 06:42:33,023 - raganything.parser - INFO - [MinerU] OCR-rec Predict: 100%|██████████| 2/2 [00:00<00:00,  3.09it/s]
+2025-12-27 06:42:33,650 - raganything.parser - INFO - [MinerU] Processing pages:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 06:42:33,650 - raganything.parser - INFO - [MinerU] Fetching 2 files:   0%|          | 0/2 [00:00<?, ?it/s][A
+2025-12-27 06:42:33,650 - raganything.parser - INFO - [MinerU] Fetching 2 files: 100%|██████████| 2/2 [00:00<00:00, 15887.52it/s]
+2025-12-27 06:42:34,786 - raganything.parser - INFO - [MinerU] Processing pages: 100%|██████████| 1/1 [00:01<00:00,  1.56s/it]
+2025-12-27 06:42:34,786 - raganything.parser - INFO - [MinerU] Processing pages: 100%|██████████| 1/1 [00:01<00:00,  1.56s/it]
+2025-12-27 06:42:34,786 - raganything.parser - INFO - [MinerU] 2025-12-27 06:42:34.783 | INFO     | mineru.cli.common:_process_output:160 - local output dir is rag_storage/140912_776415326_small_mp4/output/frame_0004/ocr
+2025-12-27 06:42:35,623 - raganything.parser - INFO - [MinerU] Command executed successfully
+2025-12-27 06:42:35,623 - raganything.parser - INFO - Fixing image paths in rag_storage/140912_776415326_small_mp4/output/frame_0004/ocr/frame_0004_content_list.json with base directory: rag_storage/140912_776415326_small_mp4/output/frame_0004/ocr
+2025-12-27 06:43:31,380 - nano-vectordb - INFO - Load (46, 4096) data
+2025-12-27 06:43:31,381 - nano-vectordb - INFO - Init {'embedding_dim': 4096, 'metric': 'cosine', 'storage_file': './rag_storage/140912_776415326_small_mp4/vdb_entities.json'} 46 data
+2025-12-27 06:43:31,389 - nano-vectordb - INFO - Load (94, 4096) data
+2025-12-27 06:43:31,389 - nano-vectordb - INFO - Init {'embedding_dim': 4096, 'metric': 'cosine', 'storage_file': './rag_storage/140912_776415326_small_mp4/vdb_relationships.json'} 94 data
+2025-12-27 06:43:31,390 - nano-vectordb - INFO - Load (6, 4096) data
+2025-12-27 06:43:31,390 - nano-vectordb - INFO - Init {'embedding_dim': 4096, 'metric': 'cosine', 'storage_file': './rag_storage/140912_776415326_small_mp4/vdb_chunks.json'} 6 data
+2025-12-27 13:47:29,181 - nano-vectordb - INFO - Load (41, 4096) data
+2025-12-27 13:47:29,182 - nano-vectordb - INFO - Init {'embedding_dim': 4096, 'metric': 'cosine', 'storage_file': './rag_storage/file_example_XLS_10_xls/vdb_entities.json'} 41 data
+2025-12-27 13:47:29,188 - nano-vectordb - INFO - Load (60, 4096) data
+2025-12-27 13:47:29,188 - nano-vectordb - INFO - Init {'embedding_dim': 4096, 'metric': 'cosine', 'storage_file': './rag_storage/file_example_XLS_10_xls/vdb_relationships.json'} 60 data
+2025-12-27 13:47:29,189 - nano-vectordb - INFO - Load (2, 4096) data
+2025-12-27 13:47:29,189 - nano-vectordb - INFO - Init {'embedding_dim': 4096, 'metric': 'cosine', 'storage_file': './rag_storage/file_example_XLS_10_xls/vdb_chunks.json'} 2 data
+2025-12-27 15:19:29,109 - nano-vectordb - INFO - Load (46, 4096) data
+2025-12-27 15:19:29,110 - nano-vectordb - INFO - Init {'embedding_dim': 4096, 'metric': 'cosine', 'storage_file': './rag_storage/140912_776415326_small_mp4/vdb_entities.json'} 46 data
+2025-12-27 15:19:29,119 - nano-vectordb - INFO - Load (94, 4096) data
+2025-12-27 15:19:29,120 - nano-vectordb - INFO - Init {'embedding_dim': 4096, 'metric': 'cosine', 'storage_file': './rag_storage/140912_776415326_small_mp4/vdb_relationships.json'} 94 data
+2025-12-27 15:19:29,121 - nano-vectordb - INFO - Load (6, 4096) data
+2025-12-27 15:19:29,121 - nano-vectordb - INFO - Init {'embedding_dim': 4096, 'metric': 'cosine', 'storage_file': './rag_storage/140912_776415326_small_mp4/vdb_chunks.json'} 6 data
+2025-12-27 16:53:53,353 - nano-vectordb - INFO - Load (78, 4096) data
+2025-12-27 16:53:53,353 - nano-vectordb - INFO - Init {'embedding_dim': 4096, 'metric': 'cosine', 'storage_file': './rag_storage/Venice_10_mp4/vdb_entities.json'} 78 data
+2025-12-27 16:53:53,372 - nano-vectordb - INFO - Load (188, 4096) data
+2025-12-27 16:53:53,372 - nano-vectordb - INFO - Init {'embedding_dim': 4096, 'metric': 'cosine', 'storage_file': './rag_storage/Venice_10_mp4/vdb_relationships.json'} 188 data
+2025-12-27 16:53:53,374 - nano-vectordb - INFO - Load (8, 4096) data
+2025-12-27 16:53:53,374 - nano-vectordb - INFO - Init {'embedding_dim': 4096, 'metric': 'cosine', 'storage_file': './rag_storage/Venice_10_mp4/vdb_chunks.json'} 8 data
+2025-12-27 16:54:24,131 - nano-vectordb - INFO - Load (78, 4096) data
+2025-12-27 16:54:24,131 - nano-vectordb - INFO - Init {'embedding_dim': 4096, 'metric': 'cosine', 'storage_file': './rag_storage/Venice_10_mp4/vdb_entities.json'} 78 data
+2025-12-27 16:54:24,148 - nano-vectordb - INFO - Load (188, 4096) data
+2025-12-27 16:54:24,148 - nano-vectordb - INFO - Init {'embedding_dim': 4096, 'metric': 'cosine', 'storage_file': './rag_storage/Venice_10_mp4/vdb_relationships.json'} 188 data
+2025-12-27 16:54:24,149 - nano-vectordb - INFO - Load (8, 4096) data
+2025-12-27 16:54:24,150 - nano-vectordb - INFO - Init {'embedding_dim': 4096, 'metric': 'cosine', 'storage_file': './rag_storage/Venice_10_mp4/vdb_chunks.json'} 8 data
+2025-12-27 17:01:48,422 - nano-vectordb - INFO - Init {'embedding_dim': 4096, 'metric': 'cosine', 'storage_file': './rag_storage/Financial_Sample_xlsx/vdb_entities.json'} 0 data
+2025-12-27 17:01:48,422 - nano-vectordb - INFO - Init {'embedding_dim': 4096, 'metric': 'cosine', 'storage_file': './rag_storage/Financial_Sample_xlsx/vdb_relationships.json'} 0 data
+2025-12-27 17:01:48,422 - nano-vectordb - INFO - Init {'embedding_dim': 4096, 'metric': 'cosine', 'storage_file': './rag_storage/Financial_Sample_xlsx/vdb_chunks.json'} 0 data
+2025-12-27 17:01:48,424 - raganything.parser - INFO - Converting Financial Sample.xlsx to PDF using LibreOffice...
+2025-12-27 17:01:48,431 - raganything.parser - WARNING - LibreOffice command 'libreoffice' not found
+2025-12-27 17:01:51,100 - raganything.parser - INFO - Successfully converted Financial Sample.xlsx to PDF using soffice
+2025-12-27 17:01:51,101 - raganything.parser - INFO - Generated PDF: Financial Sample.pdf (25538 bytes)
+2025-12-27 17:01:51,101 - raganything.parser - INFO - Executing mineru command: mineru -p rag_storage/Financial_Sample_xlsx/output/Financial Sample.pdf -o rag_storage/Financial_Sample_xlsx/output -m auto
+2025-12-27 17:01:53,711 - raganything.parser - WARNING - [MinerU] 2025-12-27 17:01:53.645 | WARNING  | mineru.backend.vlm.predictor:<module>:35 - sglang is not installed. If you are not using sglang, you can ignore this warning.
+2025-12-27 17:01:56,213 - raganything.parser - INFO - [MinerU] 2025-12-27 17:01:56.173 | INFO     | mineru.backend.pipeline.pipeline_analyze:doc_analyze:125 - Batch 1/1: 3 pages/3 pages
+2025-12-27 17:01:56,213 - raganything.parser - INFO - [MinerU] 2025-12-27 17:01:56.173 | INFO     | mineru.backend.pipeline.model_init:__init__:192 - DocAnalysis init, this may take some times......
+2025-12-27 17:01:56,629 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 17:01:56,629 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 6250.83it/s]
+2025-12-27 17:01:57,258 - raganything.parser - INFO - [MinerU] Fetching 7 files:   0%|          | 0/7 [00:00<?, ?it/s]
+2025-12-27 17:01:57,258 - raganything.parser - INFO - [MinerU] Fetching 7 files: 100%|██████████| 7/7 [00:00<00:00, 54270.11it/s]
+2025-12-27 17:01:59,435 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 17:01:59,437 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 2020.38it/s]
+2025-12-27 17:02:00,168 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 17:02:00,168 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 2499.59it/s]
+2025-12-27 17:02:00,371 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 17:02:00,371 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 5047.30it/s]
+2025-12-27 17:02:02,028 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 17:02:02,028 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 10512.04it/s]
+2025-12-27 17:02:02,336 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 17:02:02,337 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 3194.44it/s]
+2025-12-27 17:02:03,799 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 17:02:03,800 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 5184.55it/s]
+2025-12-27 17:02:04,316 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 17:02:04,316 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 1623.81it/s]
+2025-12-27 17:02:04,728 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 17:02:04,728 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 5096.36it/s]
+2025-12-27 17:02:05,039 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 17:02:05,039 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 1634.57it/s]
+2025-12-27 17:02:05,348 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 17:02:05,348 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 6355.01it/s]
+2025-12-27 17:02:06,488 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 17:02:06,488 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 4922.89it/s]
+2025-12-27 17:02:06,488 - raganything.parser - INFO - [MinerU] 2025-12-27 17:02:06.438 | INFO     | mineru.backend.pipeline.model_init:__init__:248 - DocAnalysis init done!
+2025-12-27 17:02:06,488 - raganything.parser - INFO - [MinerU] 2025-12-27 17:02:06.438 | INFO     | mineru.backend.pipeline.pipeline_analyze:custom_model_init:65 - model init cost: 10.264577865600586
+2025-12-27 17:02:07,839 - raganything.parser - INFO - [MinerU] Layout Predict:   0%|          | 0/3 [00:00<?, ?it/s]
+2025-12-27 17:02:08,154 - raganything.parser - INFO - [MinerU] Layout Predict:  33%|███▎      | 1/3 [00:01<00:02,  1.28s/it]
+2025-12-27 17:02:08,466 - raganything.parser - INFO - [MinerU] Layout Predict:  67%|██████▋   | 2/3 [00:01<00:00,  1.38it/s]
+2025-12-27 17:02:08,466 - raganything.parser - INFO - [MinerU] Layout Predict: 100%|██████████| 3/3 [00:01<00:00,  1.85it/s]
+2025-12-27 17:02:08,466 - raganything.parser - INFO - [MinerU] Layout Predict: 100%|██████████| 3/3 [00:01<00:00,  1.55it/s]
+2025-12-27 17:02:10,133 - raganything.parser - INFO - [MinerU] MFD Predict:   0%|          | 0/3 [00:00<?, ?it/s]
+2025-12-27 17:02:10,658 - raganything.parser - INFO - [MinerU] MFD Predict:  33%|███▎      | 1/3 [00:01<00:03,  1.66s/it]
+2025-12-27 17:02:11,179 - raganything.parser - INFO - [MinerU] MFD Predict:  67%|██████▋   | 2/3 [00:02<00:01,  1.01s/it]
+2025-12-27 17:02:11,179 - raganything.parser - INFO - [MinerU] MFD Predict: 100%|██████████| 3/3 [00:02<00:00,  1.25it/s]
+2025-12-27 17:02:11,179 - raganything.parser - INFO - [MinerU] MFD Predict: 100%|██████████| 3/3 [00:02<00:00,  1.09it/s]
+2025-12-27 17:02:11,807 - raganything.parser - INFO - [MinerU] MFR Predict:   0%|          | 0/4 [00:00<?, ?it/s]
+2025-12-27 17:02:11,807 - raganything.parser - INFO - [MinerU] MFR Predict: 100%|██████████| 4/4 [00:00<00:00,  6.72it/s]
+2025-12-27 17:02:11,807 - raganything.parser - INFO - [MinerU] MFR Predict: 100%|██████████| 4/4 [00:00<00:00,  6.72it/s]
+2025-12-27 17:02:12,326 - raganything.parser - INFO - [MinerU] Table-ocr det:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 17:02:12,326 - raganything.parser - INFO - [MinerU] Table-ocr det: 100%|██████████| 1/1 [00:00<00:00,  2.14it/s]
+2025-12-27 17:02:12,326 - raganything.parser - INFO - [MinerU] Table-ocr det: 100%|██████████| 1/1 [00:00<00:00,  2.14it/s]
+2025-12-27 17:02:12,641 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 17:02:12,641 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 3819.95it/s]
+2025-12-27 17:02:12,953 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 17:02:12,953 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 6909.89it/s]
+2025-12-27 17:02:14,306 - raganything.parser - INFO - [MinerU] Table-ocr rec ch:   0%|          | 0/12 [00:00<?, ?it/s]
+2025-12-27 17:02:14,931 - raganything.parser - INFO - [MinerU] Table-ocr rec ch:  67%|██████▋   | 8/12 [00:00<00:00, 28.15it/s]
+2025-12-27 17:02:14,931 - raganything.parser - INFO - [MinerU] Table-ocr rec ch: 100%|██████████| 12/12 [00:00<00:00, 11.66it/s]
+2025-12-27 17:02:14,931 - raganything.parser - INFO - [MinerU] Table-ocr rec ch: 100%|██████████| 12/12 [00:00<00:00, 13.21it/s]
+2025-12-27 17:02:14,931 - raganything.parser - INFO - [MinerU] Table-wireless Predict:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 17:02:14,931 - raganything.parser - INFO - [MinerU] Table-wireless Predict: 100%|██████████| 1/1 [00:00<00:00, 28.65it/s]
+2025-12-27 17:02:15,247 - raganything.parser - INFO - [MinerU] Table-wired Predict:   0%|          | 0/1 [00:00<?, ?it/s]
+2025-12-27 17:02:15,248 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s][A
+2025-12-27 17:02:15,248 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 8004.40it/s]
+2025-12-27 17:02:15,772 - raganything.parser - INFO - [MinerU] Table-wired Predict: 100%|██████████| 1/1 [00:00<00:00,  1.17it/s]
+2025-12-27 17:02:15,772 - raganything.parser - INFO - [MinerU] Table-wired Predict: 100%|██████████| 1/1 [00:00<00:00,  1.17it/s]
+2025-12-27 17:02:16,085 - raganything.parser - INFO - [MinerU] OCR-det Predict:   0%|          | 0/3 [00:00<?, ?it/s]
+2025-12-27 17:02:16,085 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s][A
+2025-12-27 17:02:16,085 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 9915.61it/s]
+2025-12-27 17:02:16,392 - raganything.parser - INFO - [MinerU] Fetching 1 files:   0%|          | 0/1 [00:00<?, ?it/s][A
+2025-12-27 17:02:16,393 - raganything.parser - INFO - [MinerU] Fetching 1 files: 100%|██████████| 1/1 [00:00<00:00, 12945.38it/s]
+2025-12-27 17:02:18,997 - raganything.parser - INFO - [MinerU] OCR-det Predict:  33%|███▎      | 1/3 [00:02<00:04,  2.05s/it]
+2025-12-27 17:02:18,998 - raganything.parser - INFO - [MinerU] OCR-det Predict: 100%|██████████| 3/3 [00:03<00:00,  1.06it/s]
+2025-12-27 17:02:18,998 - raganything.parser - INFO - [MinerU] OCR-det Predict: 100%|██████████| 3/3 [00:03<00:00,  1.06s/it]
+2025-12-27 17:02:19,505 - raganything.parser - INFO - [MinerU] Processing pages:   0%|          | 0/3 [00:00<?, ?it/s]
+2025-12-27 17:02:19,505 - raganything.parser - INFO - [MinerU] Fetching 2 files:   0%|          | 0/2 [00:00<?, ?it/s][A
+2025-12-27 17:02:19,505 - raganything.parser - INFO - [MinerU] Fetching 2 files: 100%|██████████| 2/2 [00:00<00:00, 29330.80it/s]
+2025-12-27 17:02:21,896 - raganything.parser - INFO - [MinerU] Processing pages:  33%|███▎      | 1/3 [00:02<00:05,  2.68s/it]
+2025-12-27 17:02:21,896 - raganything.parser - INFO - [MinerU] Processing pages: 100%|██████████| 3/3 [00:02<00:00,  1.08it/s]
+2025-12-27 17:02:21,896 - raganything.parser - INFO - [MinerU] 2025-12-27 17:02:21.859 | INFO     | mineru.cli.common:_process_output:160 - local output dir is rag_storage/Financial_Sample_xlsx/output/Financial Sample/auto
+2025-12-27 17:02:22,838 - raganything.parser - INFO - [MinerU] Command executed successfully
+2025-12-27 17:02:22,842 - raganything.parser - INFO - Fixing image paths in rag_storage/Financial_Sample_xlsx/output/Financial Sample/auto/Financial Sample_content_list.json with base directory: rag_storage/Financial_Sample_xlsx/output/Financial Sample/auto
+2025-12-27 17:03:15,568 - nano-vectordb - INFO - Load (15, 4096) data
+2025-12-27 17:03:15,568 - nano-vectordb - INFO - Init {'embedding_dim': 4096, 'metric': 'cosine', 'storage_file': './rag_storage/Financial_Sample_xlsx/vdb_entities.json'} 15 data
+2025-12-27 17:03:15,570 - nano-vectordb - INFO - Load (21, 4096) data
+2025-12-27 17:03:15,570 - nano-vectordb - INFO - Init {'embedding_dim': 4096, 'metric': 'cosine', 'storage_file': './rag_storage/Financial_Sample_xlsx/vdb_relationships.json'} 21 data
+2025-12-27 17:03:15,570 - nano-vectordb - INFO - Load (2, 4096) data
+2025-12-27 17:03:15,570 - nano-vectordb - INFO - Init {'embedding_dim': 4096, 'metric': 'cosine', 'storage_file': './rag_storage/Financial_Sample_xlsx/vdb_chunks.json'} 2 data

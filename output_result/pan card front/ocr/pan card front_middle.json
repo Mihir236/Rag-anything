@@ -1,0 +1,1192 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        198,
+                        269,
+                        532,
+                        363
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                203,
+                                321,
+                                532,
+                                364
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        203,
+                                        321,
+                                        532,
+                                        364
+                                    ],
+                                    "score": 0.97,
+                                    "content": "INC ME TAX DEPARTMENT",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        586,
+                        272,
+                        646,
+                        370
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                586,
+                                272,
+                                646,
+                                370
+                            ],
+                            "group_id": 3,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        586,
+                                        272,
+                                        646,
+                                        370
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                586,
+                                                272,
+                                                646,
+                                                370
+                                            ],
+                                            "score": 0.542,
+                                            "type": "image",
+                                            "image_path": "2538009e072fd87f46ae9b802829717d1bfa0423dcdcf8756610fab6d5a469f7.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        586,
+                                        272,
+                                        646,
+                                        370
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        695,
+                        279,
+                        950,
+                        360
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                680,
+                                261,
+                                968,
+                                378
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        680,
+                                        269,
+                                        821,
+                                        335
+                                    ],
+                                    "score": 0.562,
+                                    "content": "HRT",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        799,
+                                        261,
+                                        968,
+                                        378
+                                    ],
+                                    "score": 0.819,
+                                    "content": "OFINDIA",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                691,
+                                302,
+                                865,
+                                371
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        691,
+                                        302,
+                                        865,
+                                        371
+                                    ],
+                                    "score": 0.936,
+                                    "content": "GOVT.OFI",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 2.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        388,
+                        382,
+                        709,
+                        495
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                389,
+                                417,
+                                709,
+                                454
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        389,
+                                        417,
+                                        709,
+                                        454
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Permanent Account Number Card",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                446,
+                                460,
+                                656,
+                                492
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        446,
+                                        460,
+                                        656,
+                                        492
+                                    ],
+                                    "score": 0.997,
+                                    "content": "GKWPM2727N",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        }
+                    ],
+                    "index": 6.0
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        208,
+                        375,
+                        363,
+                        525
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                208,
+                                375,
+                                363,
+                                525
+                            ],
+                            "group_id": 2,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        208,
+                                        375,
+                                        363,
+                                        525
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                208,
+                                                375,
+                                                363,
+                                                525
+                                            ],
+                                            "score": 0.949,
+                                            "type": "image",
+                                            "image_path": "d3124bc4e6f181293a8216d24a0d15d216732cf186011856c3fd3bd3dde94c50.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6.0,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        208,
+                                        375,
+                                        363,
+                                        450.0
+                                    ],
+                                    "spans": [],
+                                    "index": 4
+                                },
+                                {
+                                    "bbox": [
+                                        208,
+                                        450.0,
+                                        363,
+                                        525.0
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6.0
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        208,
+                        530,
+                        530,
+                        578
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                205,
+                                529,
+                                318,
+                                555
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        205,
+                                        529,
+                                        318,
+                                        555
+                                    ],
+                                    "score": 0.96,
+                                    "content": "/Name",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                204,
+                                547,
+                                532,
+                                577
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        204,
+                                        547,
+                                        532,
+                                        577
+                                    ],
+                                    "score": 0.971,
+                                    "content": "MIHIR DHARMESHKUMAROD",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        }
+                    ],
+                    "index": 9.5
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        739,
+                        380,
+                        959,
+                        614
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                739,
+                                380,
+                                959,
+                                614
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        739,
+                                        380,
+                                        959,
+                                        614
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                739,
+                                                380,
+                                                959,
+                                                614
+                                            ],
+                                            "score": 0.895,
+                                            "type": "image",
+                                            "image_path": "e657d9371ba00ddc4e27977580288a434e7ac9e2cb49086b55a9c89112d69ef4.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9.0,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        739,
+                                        380,
+                                        959,
+                                        497.0
+                                    ],
+                                    "spans": [],
+                                    "index": 6
+                                },
+                                {
+                                    "bbox": [
+                                        739,
+                                        497.0,
+                                        959,
+                                        614.0
+                                    ],
+                                    "spans": [],
+                                    "index": 12
+                                }
+                            ]
+                        },
+                        {
+                            "type": "image_caption",
+                            "bbox": [
+                                884,
+                                637,
+                                961,
+                                661
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        881,
+                                        633,
+                                        964,
+                                        665
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                881,
+                                                633,
+                                                964,
+                                                665
+                                            ],
+                                            "score": 0.995,
+                                            "content": "11122020",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 14
+                                }
+                            ],
+                            "index": 14
+                        }
+                    ],
+                    "index": 11.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        211,
+                        598,
+                        615,
+                        648
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                210,
+                                597,
+                                464,
+                                625
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        210,
+                                        597,
+                                        464,
+                                        625
+                                    ],
+                                    "score": 0.777,
+                                    "content": "fuT/Fathers Name",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                205,
+                                614,
+                                618,
+                                648
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        205,
+                                        614,
+                                        618,
+                                        648
+                                    ],
+                                    "score": 0.975,
+                                    "content": "DHARMESHKUMAR KRUSHNALAL MODI",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        }
+                    ],
+                    "index": 12.0
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        210,
+                        669,
+                        359,
+                        746
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                208,
+                                718,
+                                325,
+                                747
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        208,
+                                        718,
+                                        325,
+                                        747
+                                    ],
+                                    "score": 0.993,
+                                    "content": "01/03/2002",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        }
+                    ],
+                    "index": 15
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        520,
+                        649,
+                        706,
+                        738
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                517,
+                                696,
+                                707,
+                                740
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        517,
+                                        696,
+                                        707,
+                                        740
+                                    ],
+                                    "score": 0.905,
+                                    "content": "&R/Signature",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        }
+                    ],
+                    "index": 16
+                }
+            ],
+            "page_idx": 0,
+            "page_size": [
+                1280,
+                960
+            ],
+            "discarded_blocks": [],
+            "para_blocks": [
+                {
+                    "type": "text",
+                    "bbox": [
+                        198,
+                        269,
+                        532,
+                        363
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                203,
+                                321,
+                                532,
+                                364
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        203,
+                                        321,
+                                        532,
+                                        364
+                                    ],
+                                    "score": 0.97,
+                                    "content": "INC ME TAX DEPARTMENT",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0,
+                    "bbox_fs": [
+                        203,
+                        321,
+                        532,
+                        364
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        586,
+                        272,
+                        646,
+                        370
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                586,
+                                272,
+                                646,
+                                370
+                            ],
+                            "group_id": 3,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        586,
+                                        272,
+                                        646,
+                                        370
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                586,
+                                                272,
+                                                646,
+                                                370
+                                            ],
+                                            "score": 0.542,
+                                            "type": "image",
+                                            "image_path": "2538009e072fd87f46ae9b802829717d1bfa0423dcdcf8756610fab6d5a469f7.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        586,
+                                        272,
+                                        646,
+                                        370
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        695,
+                        279,
+                        950,
+                        360
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                680,
+                                261,
+                                968,
+                                378
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        680,
+                                        269,
+                                        821,
+                                        335
+                                    ],
+                                    "score": 0.562,
+                                    "content": "HRT",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        799,
+                                        261,
+                                        968,
+                                        378
+                                    ],
+                                    "score": 0.819,
+                                    "content": "OFINDIA",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                691,
+                                302,
+                                865,
+                                371
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        691,
+                                        302,
+                                        865,
+                                        371
+                                    ],
+                                    "score": 0.936,
+                                    "content": "GOVT.OFI",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 2.5,
+                    "bbox_fs": [
+                        680,
+                        261,
+                        968,
+                        378
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        388,
+                        382,
+                        709,
+                        495
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                389,
+                                417,
+                                709,
+                                454
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        389,
+                                        417,
+                                        709,
+                                        454
+                                    ],
+                                    "score": 0.98,
+                                    "content": "Permanent Account Number Card",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                446,
+                                460,
+                                656,
+                                492
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        446,
+                                        460,
+                                        656,
+                                        492
+                                    ],
+                                    "score": 0.997,
+                                    "content": "GKWPM2727N",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        }
+                    ],
+                    "index": 6.0,
+                    "bbox_fs": [
+                        389,
+                        417,
+                        709,
+                        492
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        208,
+                        375,
+                        363,
+                        525
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                208,
+                                375,
+                                363,
+                                525
+                            ],
+                            "group_id": 2,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        208,
+                                        375,
+                                        363,
+                                        525
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                208,
+                                                375,
+                                                363,
+                                                525
+                                            ],
+                                            "score": 0.949,
+                                            "type": "image",
+                                            "image_path": "d3124bc4e6f181293a8216d24a0d15d216732cf186011856c3fd3bd3dde94c50.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6.0,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        208,
+                                        375,
+                                        363,
+                                        450.0
+                                    ],
+                                    "spans": [],
+                                    "index": 4
+                                },
+                                {
+                                    "bbox": [
+                                        208,
+                                        450.0,
+                                        363,
+                                        525.0
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6.0
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        208,
+                        530,
+                        530,
+                        578
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                205,
+                                529,
+                                318,
+                                555
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        205,
+                                        529,
+                                        318,
+                                        555
+                                    ],
+                                    "score": 0.96,
+                                    "content": "/Name",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                204,
+                                547,
+                                532,
+                                577
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        204,
+                                        547,
+                                        532,
+                                        577
+                                    ],
+                                    "score": 0.971,
+                                    "content": "MIHIR DHARMESHKUMAROD",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        }
+                    ],
+                    "index": 9.5,
+                    "bbox_fs": [
+                        204,
+                        529,
+                        532,
+                        577
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        739,
+                        380,
+                        959,
+                        614
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                739,
+                                380,
+                                959,
+                                614
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        739,
+                                        380,
+                                        959,
+                                        614
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                739,
+                                                380,
+                                                959,
+                                                614
+                                            ],
+                                            "score": 0.895,
+                                            "type": "image",
+                                            "image_path": "e657d9371ba00ddc4e27977580288a434e7ac9e2cb49086b55a9c89112d69ef4.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9.0,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        739,
+                                        380,
+                                        959,
+                                        497.0
+                                    ],
+                                    "spans": [],
+                                    "index": 6
+                                },
+                                {
+                                    "bbox": [
+                                        739,
+                                        497.0,
+                                        959,
+                                        614.0
+                                    ],
+                                    "spans": [],
+                                    "index": 12
+                                }
+                            ]
+                        },
+                        {
+                            "type": "image_caption",
+                            "bbox": [
+                                884,
+                                637,
+                                961,
+                                661
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        881,
+                                        633,
+                                        964,
+                                        665
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                881,
+                                                633,
+                                                964,
+                                                665
+                                            ],
+                                            "score": 0.995,
+                                            "content": "11122020",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 14
+                                }
+                            ],
+                            "index": 14
+                        }
+                    ],
+                    "index": 11.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        211,
+                        598,
+                        615,
+                        648
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                210,
+                                597,
+                                464,
+                                625
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        210,
+                                        597,
+                                        464,
+                                        625
+                                    ],
+                                    "score": 0.777,
+                                    "content": "fuT/Fathers Name",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                205,
+                                614,
+                                618,
+                                648
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        205,
+                                        614,
+                                        618,
+                                        648
+                                    ],
+                                    "score": 0.975,
+                                    "content": "DHARMESHKUMAR KRUSHNALAL MODI",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        }
+                    ],
+                    "index": 12.0,
+                    "bbox_fs": [
+                        205,
+                        597,
+                        618,
+                        648
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        210,
+                        669,
+                        359,
+                        746
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                208,
+                                718,
+                                325,
+                                747
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        208,
+                                        718,
+                                        325,
+                                        747
+                                    ],
+                                    "score": 0.993,
+                                    "content": "01/03/2002",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        }
+                    ],
+                    "index": 15,
+                    "bbox_fs": [
+                        208,
+                        718,
+                        325,
+                        747
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        520,
+                        649,
+                        706,
+                        738
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                517,
+                                696,
+                                707,
+                                740
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        517,
+                                        696,
+                                        707,
+                                        740
+                                    ],
+                                    "score": 0.905,
+                                    "content": "&R/Signature",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        }
+                    ],
+                    "index": 16,
+                    "bbox_fs": [
+                        517,
+                        696,
+                        707,
+                        740
+                    ]
+                }
+            ]
+        }
+    ],
+    "_backend": "pipeline",
+    "_version_name": "2.2.2"
+}

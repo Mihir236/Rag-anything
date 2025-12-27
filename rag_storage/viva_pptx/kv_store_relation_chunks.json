@@ -1,0 +1,488 @@
+{
+  "Gemini 2.5 Flash<SEP>Gemini API": {
+    "chunk_ids": [
+      "chunk-e71208a45a410602fc7b303bcf0cabb7"
+    ],
+    "count": 1,
+    "create_time": 1766750858,
+    "update_time": 1766750858,
+    "_id": "Gemini 2.5 Flash<SEP>Gemini API"
+  },
+  "PyPDF2<SEP>RAG": {
+    "chunk_ids": [
+      "chunk-e71208a45a410602fc7b303bcf0cabb7"
+    ],
+    "count": 1,
+    "create_time": 1766750858,
+    "update_time": 1766750858,
+    "_id": "PyPDF2<SEP>RAG"
+  },
+  "Stock market data retrieval<SEP>Weather Agent": {
+    "chunk_ids": [
+      "chunk-e71208a45a410602fc7b303bcf0cabb7"
+    ],
+    "count": 1,
+    "create_time": 1766750858,
+    "update_time": 1766750858,
+    "_id": "Stock market data retrieval<SEP>Weather Agent"
+  },
+  "ByteByteGo<SEP>LangChain Academy": {
+    "chunk_ids": [
+      "chunk-e71208a45a410602fc7b303bcf0cabb7"
+    ],
+    "count": 1,
+    "create_time": 1766750858,
+    "update_time": 1766750858,
+    "_id": "ByteByteGo<SEP>LangChain Academy"
+  },
+  "Andrej Karpathy<SEP>YouTube Video": {
+    "chunk_ids": [
+      "chunk-e71208a45a410602fc7b303bcf0cabb7"
+    ],
+    "count": 1,
+    "create_time": 1766750858,
+    "update_time": 1766750858,
+    "_id": "Andrej Karpathy<SEP>YouTube Video"
+  },
+  "Fan, Y., Ma, X., Wu, R., Du, Y., Li, J., Gao, Z., & Li, Q.<SEP>Llama Team": {
+    "chunk_ids": [
+      "chunk-e71208a45a410602fc7b303bcf0cabb7"
+    ],
+    "count": 1,
+    "create_time": 1766750858,
+    "update_time": 1766750858,
+    "_id": "Fan, Y., Ma, X., Wu, R., Du, Y., Li, J., Gao, Z., & Li, Q.<SEP>Llama Team"
+  },
+  "Agent for Video Understanding<SEP>Llama 3 Herd of Models (Version 3)": {
+    "chunk_ids": [
+      "chunk-46aa8564addc5cc8a0213d1d6d0375d6"
+    ],
+    "count": 1,
+    "create_time": 1766750858,
+    "update_time": 1766750858,
+    "_id": "Agent for Video Understanding<SEP>Llama 3 Herd of Models (Version 3)"
+  },
+  "CS791- Comprehensive viva<SEP>Mihir Modi": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750858,
+    "update_time": 1766750858,
+    "_id": "CS791- Comprehensive viva<SEP>Mihir Modi"
+  },
+  "Intelligent Query Processing<SEP>Multi-Agent System": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750858,
+    "update_time": 1766750858,
+    "_id": "Intelligent Query Processing<SEP>Multi-Agent System"
+  },
+  "LLaMA-3<SEP>NVIDIA": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750858,
+    "update_time": 1766750858,
+    "_id": "LLaMA-3<SEP>NVIDIA"
+  },
+  "OpenAI<SEP>OpenAI SDK": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750858,
+    "update_time": 1766750858,
+    "_id": "OpenAI<SEP>OpenAI SDK"
+  },
+  "RAG<SEP>RecursiveCharacterTextSplitter": {
+    "chunk_ids": [
+      "chunk-e71208a45a410602fc7b303bcf0cabb7"
+    ],
+    "count": 1,
+    "create_time": 1766750859,
+    "update_time": 1766750859,
+    "_id": "RAG<SEP>RecursiveCharacterTextSplitter"
+  },
+  "Gemini API<SEP>Gemini Vision Analyzer": {
+    "chunk_ids": [
+      "chunk-e71208a45a410602fc7b303bcf0cabb7"
+    ],
+    "count": 1,
+    "create_time": 1766750859,
+    "update_time": 1766750859,
+    "_id": "Gemini API<SEP>Gemini Vision Analyzer"
+  },
+  "News summary agent<SEP>Weather Agent": {
+    "chunk_ids": [
+      "chunk-e71208a45a410602fc7b303bcf0cabb7"
+    ],
+    "count": 1,
+    "create_time": 1766750859,
+    "update_time": 1766750859,
+    "_id": "News summary agent<SEP>Weather Agent"
+  },
+  "Llama 3<SEP>Llama Team": {
+    "chunk_ids": [
+      "chunk-e71208a45a410602fc7b303bcf0cabb7"
+    ],
+    "count": 1,
+    "create_time": 1766750859,
+    "update_time": 1766750859,
+    "_id": "Llama 3<SEP>Llama Team"
+  },
+  "2400.00000<SEP>Agent for Video Understanding": {
+    "chunk_ids": [
+      "chunk-46aa8564addc5cc8a0213d1d6d0375d6"
+    ],
+    "count": 1,
+    "create_time": 1766750859,
+    "update_time": 1766750859,
+    "_id": "2400.00000<SEP>Agent for Video Understanding"
+  },
+  "M.Tech (3rd Semester) in DS<SEP>Mihir Modi": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750859,
+    "update_time": 1766750859,
+    "_id": "M.Tech (3rd Semester) in DS<SEP>Mihir Modi"
+  },
+  "Multi-Agent System<SEP>NVIDIA": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750859,
+    "update_time": 1766750859,
+    "_id": "Multi-Agent System<SEP>NVIDIA"
+  },
+  "NVIDIA nv-embedqa-e5-v5<SEP>RAG": {
+    "chunk_ids": [
+      "chunk-e71208a45a410602fc7b303bcf0cabb7"
+    ],
+    "count": 1,
+    "create_time": 1766750859,
+    "update_time": 1766750859,
+    "_id": "NVIDIA nv-embedqa-e5-v5<SEP>RAG"
+  },
+  "Weather Agent<SEP>Weather-based appointment booking": {
+    "chunk_ids": [
+      "chunk-e71208a45a410602fc7b303bcf0cabb7"
+    ],
+    "count": 1,
+    "create_time": 1766750860,
+    "update_time": 1766750860,
+    "_id": "Weather Agent<SEP>Weather-based appointment booking"
+  },
+  "FAISS<SEP>RAG": {
+    "chunk_ids": [
+      "chunk-e71208a45a410602fc7b303bcf0cabb7"
+    ],
+    "count": 1,
+    "create_time": 1766750860,
+    "update_time": 1766750860,
+    "_id": "FAISS<SEP>RAG"
+  },
+  "Llama Team<SEP>arXiv": {
+    "chunk_ids": [
+      "chunk-46aa8564addc5cc8a0213d1d6d0375d6"
+    ],
+    "count": 1,
+    "create_time": 1766750860,
+    "update_time": 1766750860,
+    "_id": "Llama Team<SEP>arXiv"
+  },
+  "LLaMA-3.1-8B<SEP>RAG": {
+    "chunk_ids": [
+      "chunk-e71208a45a410602fc7b303bcf0cabb7"
+    ],
+    "count": 1,
+    "create_time": 1766750860,
+    "update_time": 1766750860,
+    "_id": "LLaMA-3.1-8B<SEP>RAG"
+  },
+  "Dr. Ravi Nahta<SEP>Mihir Modi": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750861,
+    "update_time": 1766750861,
+    "_id": "Dr. Ravi Nahta<SEP>Mihir Modi"
+  },
+  "Llama 3 Herd of Models (Version 3)<SEP>Llama Team": {
+    "chunk_ids": [
+      "chunk-46aa8564addc5cc8a0213d1d6d0375d6"
+    ],
+    "count": 1,
+    "create_time": 1766750861,
+    "update_time": 1766750861,
+    "_id": "Llama 3 Herd of Models (Version 3)<SEP>Llama Team"
+  },
+  "Gemini<SEP>Multi-Agent System": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750861,
+    "update_time": 1766750861,
+    "_id": "Gemini<SEP>Multi-Agent System"
+  },
+  "Mixtral-8x22B<SEP>RAG": {
+    "chunk_ids": [
+      "chunk-e71208a45a410602fc7b303bcf0cabb7"
+    ],
+    "count": 1,
+    "create_time": 1766750861,
+    "update_time": 1766750861,
+    "_id": "Mixtral-8x22B<SEP>RAG"
+  },
+  "Mihir Modi<SEP>Mukesh Siroya": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750861,
+    "update_time": 1766750861,
+    "_id": "Mihir Modi<SEP>Mukesh Siroya"
+  },
+  "2407.21783<SEP>Llama 3 Herd of Models (Version 3)": {
+    "chunk_ids": [
+      "chunk-46aa8564addc5cc8a0213d1d6d0375d6"
+    ],
+    "count": 1,
+    "create_time": 1766750861,
+    "update_time": 1766750861,
+    "_id": "2407.21783<SEP>Llama 3 Herd of Models (Version 3)"
+  },
+  "Multi-Agent System<SEP>WeatherAPI": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750861,
+    "update_time": 1766750861,
+    "_id": "Multi-Agent System<SEP>WeatherAPI"
+  },
+  "LangGraph<SEP>RAG": {
+    "chunk_ids": [
+      "chunk-e71208a45a410602fc7b303bcf0cabb7"
+    ],
+    "count": 1,
+    "create_time": 1766750861,
+    "update_time": 1766750861,
+    "_id": "LangGraph<SEP>RAG"
+  },
+  "Mihir Modi<SEP>OpenAI SDK": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750862,
+    "update_time": 1766750862,
+    "_id": "Mihir Modi<SEP>OpenAI SDK"
+  },
+  "GitHub API<SEP>Multi-Agent System": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750862,
+    "update_time": 1766750862,
+    "_id": "GitHub API<SEP>Multi-Agent System"
+  },
+  "Mihir Modi<SEP>PyPDF2": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750862,
+    "update_time": 1766750862,
+    "_id": "Mihir Modi<SEP>PyPDF2"
+  },
+  "Google Colab<SEP>Multi-Agent System": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750862,
+    "update_time": 1766750862,
+    "_id": "Google Colab<SEP>Multi-Agent System"
+  },
+  "Mihir Modi<SEP>google-generativeai": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750862,
+    "update_time": 1766750862,
+    "_id": "Mihir Modi<SEP>google-generativeai"
+  },
+  "Multi-Agent System<SEP>langchain": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750862,
+    "update_time": 1766750862,
+    "_id": "Multi-Agent System<SEP>langchain"
+  },
+  "Mihir Modi<SEP>requests": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750863,
+    "update_time": 1766750863,
+    "_id": "Mihir Modi<SEP>requests"
+  },
+  "Multi-Agent System<SEP>langgraph": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750863,
+    "update_time": 1766750863,
+    "_id": "Multi-Agent System<SEP>langgraph"
+  },
+  "Mihir Modi<SEP>beautifulsoup4": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750863,
+    "update_time": 1766750863,
+    "_id": "Mihir Modi<SEP>beautifulsoup4"
+  },
+  "Multi-Agent System<SEP>faiss-cpu": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750863,
+    "update_time": 1766750863,
+    "_id": "Multi-Agent System<SEP>faiss-cpu"
+  },
+  "Mihir Modi<SEP>pillow": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750864,
+    "update_time": 1766750864,
+    "_id": "Mihir Modi<SEP>pillow"
+  },
+  "Multi-Agent System<SEP>ragas": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750864,
+    "update_time": 1766750864,
+    "_id": "Multi-Agent System<SEP>ragas"
+  },
+  "Mihir Modi<SEP>pydantic": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750864,
+    "update_time": 1766750864,
+    "_id": "Mihir Modi<SEP>pydantic"
+  },
+  "Multi-Agent System<SEP>PyPDF2": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750864,
+    "update_time": 1766750864,
+    "_id": "Multi-Agent System<SEP>PyPDF2"
+  },
+  "Mihir Modi<SEP>nest_asyncio": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750865,
+    "update_time": 1766750865,
+    "_id": "Mihir Modi<SEP>nest_asyncio"
+  },
+  "Multi-Agent System<SEP>google-generativeai": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750865,
+    "update_time": 1766750865,
+    "_id": "Multi-Agent System<SEP>google-generativeai"
+  },
+  "Mihir Modi<SEP>backoff": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750865,
+    "update_time": 1766750865,
+    "_id": "Mihir Modi<SEP>backoff"
+  },
+  "Multi-Agent System<SEP>requests": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750865,
+    "update_time": 1766750865,
+    "_id": "Multi-Agent System<SEP>requests"
+  },
+  "Multi-Agent System<SEP>beautifulsoup4": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750865,
+    "update_time": 1766750865,
+    "_id": "Multi-Agent System<SEP>beautifulsoup4"
+  },
+  "Multi-Agent System<SEP>pillow": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750866,
+    "update_time": 1766750866,
+    "_id": "Multi-Agent System<SEP>pillow"
+  },
+  "Multi-Agent System<SEP>pydantic": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750866,
+    "update_time": 1766750866,
+    "_id": "Multi-Agent System<SEP>pydantic"
+  },
+  "Multi-Agent System<SEP>nest_asyncio": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750867,
+    "update_time": 1766750867,
+    "_id": "Multi-Agent System<SEP>nest_asyncio"
+  },
+  "Multi-Agent System<SEP>backoff": {
+    "chunk_ids": [
+      "chunk-a46c2b7fbd214ebda3c4a9b0239d98e2"
+    ],
+    "count": 1,
+    "create_time": 1766750867,
+    "update_time": 1766750867,
+    "_id": "Multi-Agent System<SEP>backoff"
+  }
+}

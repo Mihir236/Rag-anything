@@ -1,0 +1,74 @@
+{
+  "chunk-823f6c99469cb20498847e7522714bb9": {
+    "content": "\nImage Content Analysis:\nImage Path: /Users/mihirmodi/RAG-Anything/output_business/frame_0001/ocr/images/1c817217ce4886f1a43afba5a4b4418ada184529e400a13f1721fc657fb5a049.jpg\nCaptions: None\nFootnotes: None\n\nVisual Analysis: The image depicts a scene of two individuals in business attire, shaking hands in front of a whiteboard. The person on the left is dressed in a black suit jacket with a white shirt, while the person on the right wears a dark gray suit jacket over a white shirt with blue pinstripes.\n\nThe whiteboard behind them features a flowchart with various words and symbols, including \"Goal,\" \"Market,\" \"Team,\" \"Communication,\" and \"Work.\" The background of the image is out of focus, but it appears to be an office setting with a window and curtains visible.\n\nIn terms of visual analysis, the image suggests a professional and collaborative atmosphere, with the handshake indicating a meeting or agreement between the two individuals. The flowchart on the whiteboard implies that they are discussing or planning a project, possibly related to business or marketing. The use of a whiteboard as a visual aid is a common practice in business meetings, and the presence of a window in the background adds a sense of natural light and openness to the scene.\n\nOverall, the image conveys a sense of professionalism, collaboration, and planning, making it a suitable representation for a business or corporate setting.\n\nDetailed Description:\n\n* The image shows two people in business attire shaking hands in front of a whiteboard.\n* The person on the left is wearing a black suit jacket with a white shirt, while the person on the right is wearing a dark gray suit jacket over a white shirt with blue pinstripes.\n* The whiteboard behind them features a flowchart with various words and symbols, including \"Goal,\" \"Market,\" \"Team,\" \"Communication,\" and \"Work.\"\n* The background of the image is out of focus, but it appears to be an office setting with a window and curtains visible.\n* The image suggests a professional and collaborative atmosphere, with the handshake indicating a meeting or agreement between the two individuals.\n* The flowchart on the whiteboard implies that they are discussing or planning a project, possibly related to business or marketing.\n* The use of a whiteboard as a visual aid is a common practice in business meetings, and the presence of a window in the background adds a sense of natural light and openness to the scene.\n\nEntity Information:\n\n* Entity Name: Business Meeting\n* Entity Type: Image\n* Summary: A professional and collaborative atmosphere is depicted in this image, with two individuals shaking hands in front of a whiteboard featuring a flowchart. The image suggests a meeting or agreement between the two individuals, possibly related to business or marketing.",
+    "tokens": 586,
+    "full_doc_id": "doc-dfa2471ea39fa9ab83aa6eb1b25abff4",
+    "chunk_order_index": 0,
+    "file_path": "frame_0001.jpg",
+    "llm_cache_list": [
+      "default:extract:5ff40679f6d316afdf9fac754dc807b9",
+      "default:extract:66cbdcf88b409edd6b4b359677ad2b44"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "image_21c8e6eca7b1d2b383dbeb684e136b67",
+    "original_type": "image",
+    "page_idx": 0,
+    "create_time": 1766735982,
+    "update_time": 1766735990,
+    "_id": "chunk-823f6c99469cb20498847e7522714bb9"
+  },
+  "chunk-e97f4f6dceb204dc8d85fe8bf6c6023e": {
+    "content": "\nImage Content Analysis:\nImage Path: /Users/mihirmodi/RAG-Anything/output_business/frame_0002/ocr/images/2b1f18171fcb507ec28c2267af33005b628e4ff1b92dd0e8df1673d65214b36f.jpg\nCaptions: None\nFootnotes: None\n\nVisual Analysis: The image depicts a professional handshake between two individuals, set against a backdrop of a whiteboard with various words and symbols written on it. The scene appears to be a business meeting or presentation.\n\n**Detailed Description:**\n\n*   **Composition and Layout:**\n    *   The image is divided into two main sections: the foreground, where the handshake takes place, and the background, which features the whiteboard.\n    *   The whiteboard is positioned behind the individuals, creating a sense of depth and context for the scene.\n*   **Objects, People, Text, and Visual Elements:**\n    *   Two people are shaking hands, both dressed in formal attire (black suits and white shirts).\n    *   A whiteboard with various words and symbols is visible in the background, including \"Goal,\" \"Market,\" \"Success,\" and \"Balance.\"\n    *   The whiteboard also features some hand-drawn diagrams and charts, which may be related to the discussion or presentation.\n*   **Relationships Between Elements:**\n    *   The handshake between the two individuals suggests a sense of agreement, partnership, or collaboration.\n    *   The whiteboard in the background provides context for the scene, implying that the discussion or presentation is focused on business goals, market analysis, and success metrics.\n*   **Colors, Lighting, and Visual Style:**\n    *   The dominant colors in the image are black, white, and gray, which convey a sense of professionalism and formality.\n    *   The lighting is bright and even, with no harsh shadows or highlights, which adds to the overall sense of calmness and focus.\n    *   The visual style is clean and minimalist, with a focus on simplicity and clarity.\n*   **Actions and Activities:**\n    *   The handshake between the two individuals is the central action in the image, conveying a sense of agreement or partnership.\n    *   The presence of the whiteboard and the words/symbols on it suggests that the individuals are engaged in a discussion or presentation, possibly related to business strategy or planning.\n*   **Technical Details:**\n    *   The image appears to be a photograph, likely taken with a digital camera or smartphone.\n    *   The resolution and quality of the image are high, allowing for clear details and textures to be visible.\n\n**Entity Information:**\n\n*   **Entity Name:** Business Meeting or Presentation\n*   **Entity Type:** Image\n*   **Summary:** The image depicts a professional handshake between two individuals, set against a backdrop of a whiteboard with various words and symbols written on it. The scene appears to be a business meeting or presentation, focused on discussing or presenting business goals, market analysis, and success metrics.",
+    "tokens": 629,
+    "full_doc_id": "doc-afcf7a4546a393d51cb6947694e401c2",
+    "chunk_order_index": 0,
+    "file_path": "frame_0002.jpg",
+    "llm_cache_list": [
+      "default:extract:cedc7e45d562ebcdd9d3dc247029ea2c",
+      "default:extract:f176183da4b2124b9f33acbd42cd0a43"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "image_ed45c71a0ad0b55fe61acf97c2104589",
+    "original_type": "image",
+    "page_idx": 0,
+    "create_time": 1766735982,
+    "update_time": 1766735988,
+    "_id": "chunk-e97f4f6dceb204dc8d85fe8bf6c6023e"
+  },
+  "chunk-53c02c0ac0ff40e36d2dc68f1fe606ef": {
+    "content": "\nImage Content Analysis:\nImage Path: /Users/mihirmodi/RAG-Anything/output_business/frame_0003/ocr/images/ffd328d304e8c53b8738ead2f086d51b80b5177179688223faac21eb33510a9c.jpg\nCaptions: None\nFootnotes: None\n\nVisual Analysis: **Detailed Description**\n\nThe image depicts a professional handshake between a man and a woman in business attire, set against the backdrop of a whiteboard displaying a flowchart. The scene is illuminated by natural light pouring in through a window adorned with sheer curtains.\n\n**Overall Composition and Layout**\n\nThe image is divided into two main sections: the foreground, where the handshake takes place, and the background, which features the whiteboard. The handshake is positioned centrally in the frame, drawing the viewer's attention. The whiteboard, situated behind the handshake, dominates the background and appears to be the focal point of the image.\n\n**Objects, People, Text, and Visual Elements**\n\n*   **Man**: Wearing a black suit jacket over a light blue collared shirt, the man is visible from the waist up. His face is blurred, and he is facing the woman.\n*   **Woman**: Dressed in a black suit jacket over a white collared shirt with thin gray stripes, the woman is also visible from the waist up. Her face is blurred, and she is facing the man.\n*   **Whiteboard**: The whiteboard is the central element in the background, featuring a flowchart with various words and symbols. The chart is divided into sections, including \"MARKET,\" \"Goal,\" \"Balance,\" and \"Success.\" Arrows connect these sections, indicating a flow or progression.\n*   **Window**: A large window with sheer curtains allows natural light to enter the room, casting a warm glow on the scene.\n\n**Relationships Between Elements**\n\nThe handshake between the man and woman suggests a meeting or negotiation, possibly related to the flowchart on the whiteboard. The presence of the whiteboard implies that the handshake is part of a business or professional discussion.\n\n**Colors, Lighting, and Visual Style**\n\nThe dominant colors in the image are black, white, and gray, with accents of light blue and gray. The lighting is natural, with the window providing a soft, diffused glow. The visual style is professional and formal, with a focus on conveying a sense of business and collaboration.\n\n**Actions or Activities**\n\nThe handshake is the primary action depicted in the image, suggesting a meeting or negotiation between the two individuals. The presence of the whiteboard implies that the handshake is part of a larger discussion or presentation.\n\n**Technical Details**\n\nThe image does not appear to contain any technical details, such as charts or diagrams, beyond the flowchart on the whiteboard.\n\n**Entity Information**\n\n*   **Entity Name**: Business Handshake\n*   **Entity Type**: Image\n*   **Summary**: A professional handshake between a man and a woman in business attire, set against the backdrop of a whiteboard displaying a flowchart. The image suggests a meeting or negotiation related to the flowchart, which appears to be a business or professional discussion.",
+    "tokens": 655,
+    "full_doc_id": "doc-406611efaa93d9c9c40ff9a20d9c4152",
+    "chunk_order_index": 0,
+    "file_path": "frame_0003.jpg",
+    "llm_cache_list": [
+      "default:extract:87183cdd81cbb613666ac470bb76a47d",
+      "default:extract:b99285ec03588b2152b0e4077b31acad"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "image_2e82de059373de6513e6dcdfb6720acc",
+    "original_type": "image",
+    "page_idx": 0,
+    "create_time": 1766735991,
+    "update_time": 1766735995,
+    "_id": "chunk-53c02c0ac0ff40e36d2dc68f1fe606ef"
+  },
+  "chunk-ddd61ad88005e991aa0af35b4f015ef0": {
+    "content": "\nImage Content Analysis:\nImage Path: /Users/mihirmodi/RAG-Anything/output_business/frame_0000/ocr/images/244a00173e38eb8777fee90d1036125881a79caa9c6012d60bcead6e86929450.jpg\nCaptions: None\nFootnotes: None\n\nVisual Analysis: **Detailed Description:**\n\nThe image depicts a close-up scene of two individuals in business attire shaking hands, with a whiteboard and a window visible in the background. The overall composition and layout suggest a professional setting, likely a conference room or office.\n\n**Entity Information:**\n\n* **Entity Name:** Business Handshake in a Professional Setting\n* **Entity Type:** Image\n* **Summary:** Two individuals in business attire shake hands in front of a whiteboard and a window, conveying a sense of professionalism and agreement.\n\n**Objects, People, Text, and Visual Elements:**\n\n* **People:**\n\t+ Two individuals in business attire, with one wearing a black suit jacket and white shirt, and the other wearing a black suit jacket and striped shirt.\n\t+ Both individuals have their right hands clasped together in a handshake.\n* **Text:**\n\t+ A whiteboard with various words and symbols written on it, including \"Goal,\" \"Market,\" \"Balance,\" and \"Success.\"\n\t+ The text is written in black marker and appears to be a brainstorming or planning session.\n* **Visual Elements:**\n\t+ A whiteboard with a white background and black text.\n\t+ A window with white curtains and a green plant in the bottom-right corner.\n\t+ A bright light source coming from the left side of the image, casting a shadow on the right side.\n\n**Relationships Between Elements:**\n\n* The handshake between the two individuals suggests a meeting or negotiation.\n* The whiteboard with the words and symbols indicates a brainstorming or planning session.\n* The window with the curtains and plant adds a sense of natural light and serenity to the scene.\n\n**Colors, Lighting, and Visual Style:**\n\n* The dominant colors are black, white, and gray, with a touch of green from the plant.\n* The lighting is bright, with a slight shadow on the right side of the image.\n* The visual style is professional and formal, with a focus on the handshake and the whiteboard.\n\n**Actions and Activities:**\n\n* The two individuals are shaking hands, indicating a meeting or negotiation.\n* The person on the left is wearing a watch on their left wrist.\n\n**Technical Details:**\n\n* The image is a photograph, likely taken with a digital camera.\n* The resolution is high enough to see the details of the handshake and the whiteboard.\n\n**Conclusion:**\n\nThe image presents a professional and formal scene, with a focus on the handshake and the whiteboard. The use of bright lighting and a clean background creates a sense of clarity and focus. The image suggests a meeting or negotiation between the two individuals, with the whiteboard indicating a brainstorming or planning session. Overall, the image conveys a sense of professionalism and agreement.",
+    "tokens": 627,
+    "full_doc_id": "doc-aea7342127a5743a14200d8d8cd08070",
+    "chunk_order_index": 0,
+    "file_path": "frame_0000.jpg",
+    "llm_cache_list": [
+      "default:extract:da31ad9903d1ff1969783137782feb71",
+      "default:extract:d6daee508e8dc511f8a4e16103e3ad0d"
+    ],
+    "is_multimodal": true,
+    "modal_entity_name": "image_e820b5d4c74a86602668f3e4582589b4",
+    "original_type": "image",
+    "page_idx": 0,
+    "create_time": 1766735993,
+    "update_time": 1766736000,
+    "_id": "chunk-ddd61ad88005e991aa0af35b4f015ef0"
+  }
+}

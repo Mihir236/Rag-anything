@@ -1,0 +1,80 @@
+{
+  "doc-afcf7a4546a393d51cb6947694e401c2": {
+    "entity_names": [
+      "Camera or Smartphone",
+      "Words and Symbols",
+      "Photograph",
+      "Image",
+      "Individuals",
+      "Handshake",
+      "Whiteboard",
+      "Business Meeting or Presentation"
+    ],
+    "count": 8,
+    "update_time": 1766735991,
+    "_id": "doc-afcf7a4546a393d51cb6947694e401c2"
+  },
+  "doc-dfa2471ea39fa9ab83aa6eb1b25abff4": {
+    "entity_names": [
+      "Market",
+      "Flowchart",
+      "Captions",
+      "Team",
+      "Mihir Modi",
+      "Footnotes",
+      "Image",
+      "Office Setting",
+      "Work",
+      "Image Path",
+      "Communication",
+      "Business Meeting",
+      "Goal",
+      "Whiteboard"
+    ],
+    "count": 14,
+    "update_time": 1766735997,
+    "_id": "doc-dfa2471ea39fa9ab83aa6eb1b25abff4"
+  },
+  "doc-406611efaa93d9c9c40ff9a20d9c4152": {
+    "entity_names": [
+      "Woman",
+      "Man",
+      "Flowchart",
+      "Business Handshake",
+      "Window",
+      "Whiteboard"
+    ],
+    "count": 6,
+    "update_time": 1766735999,
+    "_id": "doc-406611efaa93d9c9c40ff9a20d9c4152"
+  },
+  "doc-aea7342127a5743a14200d8d8cd08070": {
+    "entity_names": [
+      "Market",
+      "Business Handshake in a Professional Setting",
+      "Green Plant",
+      "Two Individuals in Business Attire",
+      "Success",
+      "Striped Shirt",
+      "Balance",
+      "Watch",
+      "Window",
+      "Goal",
+      "/Users/mihirmodi/RAG-Anything/output_business/frame_0000/ocr/images/244a00173e38eb8777fee90d1036125881a79caa9c6012d60bcead6e86929450.jpg",
+      "Whiteboard",
+      "Black Suit Jacket"
+    ],
+    "count": 13,
+    "update_time": 1766736007,
+    "_id": "doc-aea7342127a5743a14200d8d8cd08070"
+  },
+  "doc-afd5690fca36c4af383db89c8c9ec3d0": {
+    "entity_names": [
+      "image_0f1861bf09b15e5f4563d6191fe10b41"
+    ],
+    "count": 1,
+    "update_time": 1766736044,
+    "create_time": 1766736044,
+    "_id": "doc-afd5690fca36c4af383db89c8c9ec3d0"
+  }
+}
